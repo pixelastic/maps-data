@@ -3,7 +3,7 @@ const readJson = require('firost/readJson');
 const glob = require('firost/glob');
 const consoleError = require('firost/consoleError');
 const pMap = require('golgoth/pMap');
-const config = require('../src/_data/config.js');
+const config = require('../lib/config.js');
 
 (async function () {
   const credentials = {
