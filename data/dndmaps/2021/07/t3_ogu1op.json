@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1625788800,
+    "full": 1625831882,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAH/8QAHxAAAgIBBQEBAAAAAAAAAAAAAQIDBBEABSExURKB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAARAiIx/9oADAMBAAIRAxEAPwDNRRhineWN3isyhckkEBscAA9nRbftYh2opaidFLMJPrksMnBPmoX7BMT3asU6qwdDGQCGx0Qc84/dJc3eSwpatTKlBlmlcYIPoHeiuSQmun//2Q==",
+    "url": "https://preview.redd.it/xtd7cfpdf6a71.jpg?width=640&crop=smart&auto=webp&s=e5bb6f89a1b35636ad602b769ef8f5f52d70411b",
+    "width": 640
+  },
+  "id": "t3_ogu1op",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xtd7cfpdf6a71.jpg?auto=webp&s=d31f99b8284baa9b2e043f295b179bf751e87ee1",
+    "preview": "https://preview.redd.it/xtd7cfpdf6a71.jpg?width=640&crop=smart&auto=webp&s=e5bb6f89a1b35636ad602b769ef8f5f52d70411b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qccLCLLRQ2GdXwXo4AJjAD8CIfjJ6paQvR_3wpjd-Kg.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Steampunk Trench Warfare",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ogu1op/steampunk_trench_warfare/"
+}

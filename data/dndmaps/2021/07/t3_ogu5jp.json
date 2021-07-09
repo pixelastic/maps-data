@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1625788800,
+    "full": 1625832273,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "displayPicture": {
+    "height": 853,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBAUAETEGElFhITJx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAMXH/2gAMAwEAAhEDEQA/AMLwWBM+OisvAzpYYxo5QlS3ge/z51DzePbH5SxVdWR4j2sjA7qduDvpL0ZmYIKMlW9kHrxxyiWIdhcLv9mXw3Gi2VvS3slZtTSmSSVyxduW9nQpNQ1YNwe6nZZCKlenf//Z",
+    "url": "https://preview.redd.it/0clef5abg6a71.jpg?width=640&crop=smart&auto=webp&s=400ab96ccde47433cf6a7407b4432a77341adeb5",
+    "width": 640
+  },
+  "id": "t3_ogu5jp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0clef5abg6a71.jpg?auto=webp&s=af184bf7e36a77084b8ef4322c20217cdf06487a",
+    "preview": "https://preview.redd.it/0clef5abg6a71.jpg?width=640&crop=smart&auto=webp&s=400ab96ccde47433cf6a7407b4432a77341adeb5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/27HqyannXlcbb0wtgqSmItH_xj27PsE9-19c9V2BJLA.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Hell Skull Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ogu5jp/hell_skull_cave/"
+}

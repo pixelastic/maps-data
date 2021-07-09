@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_pv372",
+    "name": "naugrim04"
+  },
+  "date": {
+    "day": 1625788800,
+    "full": 1625838340,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQI/8QAHxAAAgIBBQEBAAAAAAAAAAAAAQIDEQAEEiExUQUU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADITH/2gAMAwEAAhEDEQA/AM8rC1KUC0OavvzGUCXTzoFQyRKW4TkD28o+X+YLHJI8bC2RoWO2+DtN99nCWFol1RjlSQsmxjG9k+gjFmsNm8lqhQs//9k=",
+    "url": "https://preview.redd.it/g7o2doy4y6a71.jpg?width=640&crop=smart&auto=webp&s=5a1cf2dc3fb9f76919b21e3b96f5156d39421383",
+    "width": 640
+  },
+  "id": "t3_ogvvic",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g7o2doy4y6a71.jpg?auto=webp&s=d1113de89497162ca2cc9ef7ce6949d31e72387f",
+    "preview": "https://preview.redd.it/g7o2doy4y6a71.jpg?width=640&crop=smart&auto=webp&s=5a1cf2dc3fb9f76919b21e3b96f5156d39421383",
+    "thumbnail": "https://b.thumbs.redditmedia.com/WPGfCZAXOFvmCsYS26NT_15tsECeyXtf8UsUgwS17RA.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Eldritch Manor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ogvvic/eldritch_manor_25x25/"
+}
