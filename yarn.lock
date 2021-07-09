@@ -3630,12 +3630,13 @@ ignore@^5.1.1, ignore@^5.1.4, ignore@^5.1.8:
   resolved "https://registry.npmjs.org/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
   integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
 
-imoen@0.4.1:
-  version "0.4.1"
-  resolved "https://registry.npmjs.org/imoen/-/imoen-0.4.1.tgz#b188a6b280457893eeb9c361696d1ca7d49b368f"
-  integrity sha512-3TXe5YmyzHQueawOJVhtxMc6tOX+fmO0YVGkMdWdibxU0ZQLz7IcO13sqDlCwMhqDVWqlUlxUt8GBE/Gy4FXKg==
+imoen@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/imoen/-/imoen-1.0.0.tgz#8283cc089cb08e6ef6a8a403d94ac02f9336497f"
+  integrity sha512-nhEnmlW8XlcjyfpLUEeci2EP/cr3erCRlXGTJoNh72QJVFJnQRw4hU447Mb/AnTllpFClRtZQw+ikGpWls0caw==
   dependencies:
     firost "2.14.1"
+    fs-extra "10.0.0"
     sharp "0.28.3"
 
 import-fresh@^3.0.0, import-fresh@^3.2.1:
