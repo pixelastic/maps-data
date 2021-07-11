@@ -3630,13 +3630,14 @@ ignore@^5.1.1, ignore@^5.1.4, ignore@^5.1.8:
   resolved "https://registry.npmjs.org/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
   integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
 
-imoen@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/imoen/-/imoen-1.0.0.tgz#8283cc089cb08e6ef6a8a403d94ac02f9336497f"
-  integrity sha512-nhEnmlW8XlcjyfpLUEeci2EP/cr3erCRlXGTJoNh72QJVFJnQRw4hU447Mb/AnTllpFClRtZQw+ikGpWls0caw==
+imoen@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/imoen/-/imoen-1.1.1.tgz#cb7b7913db3b25334db2430dc70b732b87d2dd27"
+  integrity sha512-V4SfRRCcA7HxikdK+yXL72ZNDDYjeW9q5AeBTCNNdNRdiXaUxYbONUWwLaGQn6bbyGAKBP+U+8I0yE94yPjGKw==
   dependencies:
-    firost "2.14.1"
+    firost "2.16.1"
     fs-extra "10.0.0"
+    rev-hash "3.0.0"
     sharp "0.28.3"
 
 import-fresh@^3.0.0, import-fresh@^3.2.1:
@@ -6442,6 +6443,11 @@ reusify@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npmjs.org/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
+
+rev-hash@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/rev-hash/-/rev-hash-3.0.0.tgz#951d73d02b9606ea4bbb7ee3d93c252cd8556ce5"
+  integrity sha512-s+87HfEKAu95TaTxnbCobn0/BkbzR23LHSwVdYvr8mn5+PPjzy+hTWyh92b5oaLgig9TKPe5d6ZcubsVBtUrZg==
 
 rimraf@^3.0.0, rimraf@^3.0.2:
   version "3.0.2"
