@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1626048000,
+    "full": 1626125687,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIBAAAwACAQQDAAAAAAAAAAAAAQIRAAMSBCEiURMxcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oADAMBAAIRAxEAPwDJdSovxDYsYmjj7uT3oTrvdo18RiTqFLKQTe0s8T6w72gIH3byAn7ko3H/2Q==",
+    "url": "https://preview.redd.it/ie40todzoua71.jpg?width=640&crop=smart&auto=webp&s=4db46f0544bdaf16a0bc3fec99a4a72433a00c5f",
+    "width": 640
+  },
+  "id": "t3_oj10p3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ie40todzoua71.jpg?auto=webp&s=35538ccca7e3abb5e4822721e0aa0e9e9c1d9694",
+    "preview": "https://preview.redd.it/ie40todzoua71.jpg?width=640&crop=smart&auto=webp&s=4db46f0544bdaf16a0bc3fec99a4a72433a00c5f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Rs-SNCzhcxHER6_9aRVpzGCK5e4E_wYNvaTZu4dLnqg.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Boggard Village  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oj10p3/boggard_village_50x50_oneiromancy_maps/"
+}
