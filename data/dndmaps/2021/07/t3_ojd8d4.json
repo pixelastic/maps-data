@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1626134400,
+    "full": 1626174043,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "displayPicture": {
+    "height": 853,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAgIBAQgDAAAAAAAAAAAAAQIDEQQABRITFDFBYYEhIqH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAQEBAQAAAAAAAAAAAAAAAAECADH/2gAMAwEAAhEDEQA/AMr2fAsjcbJgMyn6lbr3+akz8dYMuRYUcR3YDEmvAI7afx2ibYnNRkLPCKZeqse3rQvOuwG9wVq/hEodbPTyTqMoeZ0BIb//2Q==",
+    "url": "https://preview.redd.it/tqai0zctoya71.jpg?width=640&crop=smart&auto=webp&s=fbbfe0506ea181333dcd2bf816b619414519bef9",
+    "width": 640
+  },
+  "id": "t3_ojd8d4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/tqai0zctoya71.jpg?auto=webp&s=97e1d0095ec6e5f36e205bd0e9fa8e2542357c7b",
+    "preview": "https://preview.redd.it/tqai0zctoya71.jpg?width=640&crop=smart&auto=webp&s=fbbfe0506ea181333dcd2bf816b619414519bef9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/YjB8GESLZgNMyElnyhD4NbA5mE94EpM-Tq5a4Ek3sAg.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Visions of the Plane of Fire",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ojd8d4/visions_of_the_plane_of_fire_60x80/"
+}
