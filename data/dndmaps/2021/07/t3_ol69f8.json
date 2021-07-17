@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_12acfk",
+    "name": "Postbunnie"
+  },
+  "date": {
+    "day": 1626393600,
+    "full": 1626397584,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "displayPicture": {
+    "height": 960,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACIQAAIBAwQCAwAAAAAAAAAAAAECBAMFEQAGEiExUROBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAgMAAAAAAAAAAAAAAAAAAFECESL/2gAMAwEAAhEDEQA/ABLHm3G6TGpbjNJlqsVpvO+InB7ATj57GP3VXbZNwEKmI7SHojIVqyVOZAJ7bAIz96RRZV0su9JDXSdJW2SKxKENz4gsePWDx9etbFbp8VYdNUiuAMjsd+Tp9snuCP/Z",
+    "url": "https://preview.redd.it/ywvvx9hi5hb71.jpg?width=640&crop=smart&auto=webp&s=415d994a237d5c9ef93e620a1d9ed1e402f714ba",
+    "width": 640
+  },
+  "id": "t3_ol69f8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ywvvx9hi5hb71.jpg?auto=webp&s=d546c801a56b80febc5df1877839e6a022416e96",
+    "preview": "https://preview.redd.it/ywvvx9hi5hb71.jpg?width=640&crop=smart&auto=webp&s=415d994a237d5c9ef93e620a1d9ed1e402f714ba",
+    "thumbnail": "https://b.thumbs.redditmedia.com/unl4lJZfxzR6UrKCTcQOAhRY6gM8ijOQKce-FfCEykE.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "My first attempts at map creation for a future campaign.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ol69f8/my_first_attempts_at_map_creation_for_a_future/"
+}
