@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1626480000,
+    "full": 1626552531,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "displayPicture": {
+    "height": 880,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQAEEiExkRMigf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAxEx/9oADAMBAAIRAxEAPwAcWwYpkiKMrBCvJB9vN+sPtSawkHCL5FrplBrI7Ugmn1mNFHBj5q9AXY7v3eZM+rNFIUigdUHgKeq/DkRkWOxGZY9n/9k=",
+    "url": "https://preview.redd.it/hpta94uvxtb71.jpg?width=640&crop=smart&auto=webp&s=b084deb2e502d61d8d8ceb5aa9901da7c75faa94",
+    "width": 640
+  },
+  "id": "t3_ombpoz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/hpta94uvxtb71.jpg?auto=webp&s=b654b5b272e80848b7825703e3049c3632b73284",
+    "preview": "https://preview.redd.it/hpta94uvxtb71.jpg?width=640&crop=smart&auto=webp&s=b084deb2e502d61d8d8ceb5aa9901da7c75faa94",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rWODFI-2DJ3phKmgSaHBekSzhiqtMKpnCxgsVBD0FLk.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Castle barbican",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ombpoz/castle_barbican_32x44/"
+}

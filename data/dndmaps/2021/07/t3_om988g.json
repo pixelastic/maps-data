@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1626480000,
+    "full": 1626544681,
+    "month": 1625097600,
+    "week": 1625961600
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDEQQAEhMhBUExUYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIhEv/aAAwDAQACEQMRAD8AzDGmSRguRFx7Rd0RdWfXsDr80/PGINjTxxSRuI95auybP8I0cmfGd2ONDNEu9SOR7augb6+71flmHP8ADmWNHjyoE45UZiVKg0CL99fGpN3mwpkVXJ//2Q==",
+    "url": "https://preview.redd.it/htjx3yematb71.jpg?width=640&crop=smart&auto=webp&s=41ad72f17c297f69693cc459a5d5fb6d0c277bae",
+    "width": 640
+  },
+  "id": "t3_om988g",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/htjx3yematb71.jpg?auto=webp&s=7fe46503d3a6b2b229001acce18e5e766342b6e4",
+    "preview": "https://preview.redd.it/htjx3yematb71.jpg?width=640&crop=smart&auto=webp&s=41ad72f17c297f69693cc459a5d5fb6d0c277bae",
+    "thumbnail": "https://b.thumbs.redditmedia.com/sfWFSEQXtXCxZY2x-9op4HPEWphDWZoHwRpZnB2OFhw.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Wilderness Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/om988g/60x60_swamp_wilderness_map/"
+}
