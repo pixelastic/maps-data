@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_3c9z46g4",
+    "name": "GoAdventureMapsEx"
+  },
+  "date": {
+    "day": 1626566400,
+    "full": 1626595522,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "displayPicture": {
+    "height": 768,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQQhABIjQVFhof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AMGCJNDERj93bRAbahdEkewfzg5huRVxYA8SrQYizfsb+OPjzvjwdlhIJ8LOh1VXd/Y1XLJiCWKOTFbJRWu1YgVxtI6ij//Z",
+    "url": "https://preview.redd.it/mwd56vq4hxb71.jpg?width=640&crop=smart&auto=webp&s=d27e612e1b8260ac6df4a25e0c8313ccf40bf1c9",
+    "width": 640
+  },
+  "id": "t3_ommd0q",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mwd56vq4hxb71.jpg?auto=webp&s=600d9530323b49cf4d19b48e2ca0a30b2fac47aa",
+    "preview": "https://preview.redd.it/mwd56vq4hxb71.jpg?width=640&crop=smart&auto=webp&s=d27e612e1b8260ac6df4a25e0c8313ccf40bf1c9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/7NRKFdPjVsHkbG52QzP6Mq7huWAeNuwOoTmusR2TxUc.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Village of the Spirits",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ommd0q/the_village_of_the_spirits_25x30/"
+}
