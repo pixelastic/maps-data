@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_5nt4b",
+    "name": "braniac021"
+  },
+  "date": {
+    "day": 1626652800,
+    "full": 1626698622,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAkEAACAQQBAgcAAAAAAAAAAAABAgMABAURMRIhExQjYXGh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEU/9oADAMBAAIRAxEAPwCTk8oZI18i/pFeVHufyg43xJblUcyPFJ2kXq5U8g/VR7XJpBC0EiPKhOxo6K/FLOUsBEUUXUUh79SkEjXAqLltUYFhFq5k/9k=",
+    "url": "https://preview.redd.it/6j3jz1ttg4c71.jpg?width=640&crop=smart&auto=webp&s=b83c5da60ee09c6a01ecd3992983a1119877d05a",
+    "width": 640
+  },
+  "id": "t3_ondayf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6j3jz1ttg4c71.jpg?auto=webp&s=1ebcdba8ab15b2f2b516ed9cb680598691ed0ce7",
+    "preview": "https://preview.redd.it/6j3jz1ttg4c71.jpg?width=640&crop=smart&auto=webp&s=b83c5da60ee09c6a01ecd3992983a1119877d05a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/q8kx1v-zXgjcQi5hD3wUD6B2-CyCxSpo-ayWliZMiwk.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 131,
+    "value": 131
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The Citadel of Decatur",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ondayf/the_citadel_of_decatur/"
+}
