@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_ytmup",
+    "name": "Delduthling"
+  },
+  "date": {
+    "day": 1626739200,
+    "full": 1626812598,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "displayPicture": {
+    "height": 651,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQRBRIhMSJBEzKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANhLLIdSxErqpZQw2/Yj2SKV0qeaC7eO5zJCSfFkyOcEdjrPqirW4iMqBXcKpHJONoqhdN+a6D3Vywjkc7izY8c9/lB//9k=",
+    "url": "https://preview.redd.it/gofj82tgffc71.jpg?width=640&crop=smart&auto=webp&s=55253baab52be8470232a1fc6311b323af0f1ca8",
+    "width": 640
+  },
+  "id": "t3_ooaa3z",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gofj82tgffc71.jpg?auto=webp&s=c5e25983e2b6ea00fa7f24da4b61a23c231dcd2c",
+    "preview": "https://preview.redd.it/gofj82tgffc71.jpg?width=640&crop=smart&auto=webp&s=55253baab52be8470232a1fc6311b323af0f1ca8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/imopfM_fU16pJxBAVsu5tXBR6Of8JHyH9FGJz9TM6TU.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 215,
+    "value": 215
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The City of Gossamer",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ooaa3z/the_city_of_gossamer/"
+}
