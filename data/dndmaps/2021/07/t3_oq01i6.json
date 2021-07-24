@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1626998400,
+    "full": 1627038042,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQI/8QAIxAAAQQCAgAHAAAAAAAAAAAAAwECBAURIQASMUFRYXGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8Az9cz5UWwI0EgiK1dY14e3DrrCUe0Cx53dHPRMZynz+8ouK2TOsDGaN2tqib15cOvq5cOxCQgSZG9OzlbnHpr75NSD2n/2Q==",
+    "url": "https://preview.redd.it/y3w6otjx1yc71.jpg?width=640&crop=smart&auto=webp&s=18049feb41f0525255daf3d5b99f9f5c63f9dace",
+    "width": 640
+  },
+  "id": "t3_oq01i6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/y3w6otjx1yc71.jpg?auto=webp&s=7c00999a6d697c06f8326fb8beec13e8d5a8ed6d",
+    "preview": "https://preview.redd.it/y3w6otjx1yc71.jpg?width=640&crop=smart&auto=webp&s=18049feb41f0525255daf3d5b99f9f5c63f9dace",
+    "thumbnail": "https://b.thumbs.redditmedia.com/4UcUSymHKv2m4NlqLkBgZXe29zKnMkCmQxuPqwnC0ss.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.79,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Well of Souls",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oq01i6/well_of_souls_25x25/"
+}
