@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1627084800,
+    "full": 1627155175,
+    "month": 1625097600,
+    "week": 1626566400
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECB//EACIQAAEDAwQDAQAAAAAAAAAAAAECAxEAEkEEITFxEzKBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAEhMVFhsfD/2gAMAwEAAhEDEQA/AMf0+mBWmxIcexKeY6xUL8jq7lISXwkzeAIIx+dU2VwgWOXKRss389RjmguFtDjroIMXNiPYkTO3yhLstpU7ebn/2Q==",
+    "url": "https://preview.redd.it/9ywpn69tp7d71.jpg?width=640&crop=smart&auto=webp&s=f2507707b2a95f4766f8b50ea9418e3a145d9424",
+    "width": 640
+  },
+  "id": "t3_oqwl76",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9ywpn69tp7d71.jpg?auto=webp&s=17f7482af96ca3d974e9266df450ad106808a5ea",
+    "preview": "https://preview.redd.it/9ywpn69tp7d71.jpg?width=640&crop=smart&auto=webp&s=f2507707b2a95f4766f8b50ea9418e3a145d9424",
+    "thumbnail": "https://b.thumbs.redditmedia.com/vBLFA4WdsUE4THN9EvHG5JgwDf92xh51d9QJFan1Eco.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruby Geode  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oqwl76/ruby_geode_30x30_oneiromancy_maps/"
+}
