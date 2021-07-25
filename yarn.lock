@@ -2959,32 +2959,6 @@ firost@2.14.1:
     untildify "4.0.0"
     which "2.0.2"
 
-firost@2.15.0:
-  version "2.15.0"
-  resolved "https://registry.npmjs.org/firost/-/firost-2.15.0.tgz#f0439f7bb60a61762116f0857ee3cb8f0a45a203"
-  integrity sha512-+EqznGfNiB7S5ZgZKH0jvX8kuTAfMMsBdA9DQQCEJEeWJWmibXA2rXQBjRAKlDMjeQlC+GIK4gCSzbpBRhmsXg==
-  dependencies:
-    callsites "3.1.0"
-    chokidar "3.5.2"
-    clear-module "4.1.1"
-    eventemitter2 "6.4.4"
-    execa "5.1.1"
-    find-up "5.0.0"
-    fs-extra "10.0.0"
-    globby "11.0.4"
-    golgoth "2.0.0"
-    inquirer "8.1.1"
-    is-glob "4.0.1"
-    json-stable-stringify "1.0.1"
-    nanoid "3.1.23"
-    normalize-url "6.1.0"
-    ora "5.4.1"
-    std-mocks "1.0.1"
-    strip-ansi "6.0.0"
-    tempy "1.0.1"
-    untildify "4.0.0"
-    which "2.0.2"
-
 firost@2.16.1:
   version "2.16.1"
   resolved "https://registry.yarnpkg.com/firost/-/firost-2.16.1.tgz#f9e033eeba33e48b1c5097c1ff2e17ecbf7e8635"
@@ -6301,12 +6275,12 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-reddinx@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/reddinx/-/reddinx-1.0.0.tgz#ae70d27d7dd6fe9badf402e185cf7e92db41d7c8"
-  integrity sha512-8pApJOdIN3VYYY790lJenQ1l1VDyzssZjQ42bmvXc+1XNvu417UZ3+NMakRpzSqO2fEz3/Sf4OPOXNOetHJw4g==
+reddinx@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/reddinx/-/reddinx-1.0.1.tgz#c7c077e311247e01288565ecfd33fff63b331724"
+  integrity sha512-baTsqJlp3lz87Uq+VUbAHgu3YXDuJMy0zVipfjahRS6VHCiv8r9a/XHEuiQT8WZprT4QPnXuryn9NUBGv0Dw+A==
   dependencies:
-    firost "2.15.0"
+    firost "2.16.2"
     golgoth "2.0.0"
     he "1.2.0"
     minimist "1.2.5"
