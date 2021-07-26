@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1627171200,
+    "full": 1627233721,
+    "month": 1625097600,
+    "week": 1627171200
+  },
+  "displayPicture": {
+    "height": 960,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACQQAAICAQMCBwAAAAAAAAAAAAECAwQRAAVBEjEhIiMyUZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQFRYf/aAAwDAQACEQMRAD8Aw7aqDTyFakbP5FYFV6gB8nHYA4yeNDfpiK3KhojIPj6nP1pWz33ozExyOpVSGCH3A8asS7nO8haa5Okh7qEJx+asULROz//Z",
+    "url": "https://preview.redd.it/5lwytgjr7ed71.jpg?width=640&crop=smart&auto=webp&s=c3f26efe52336ccc8903c4512dc9ce9ffcebd634",
+    "width": 640
+  },
+  "id": "t3_orfpq9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5lwytgjr7ed71.jpg?auto=webp&s=fa9b46283858d81398343be0d6e59bd0d253dbfa",
+    "preview": "https://preview.redd.it/5lwytgjr7ed71.jpg?width=640&crop=smart&auto=webp&s=c3f26efe52336ccc8903c4512dc9ce9ffcebd634",
+    "thumbnail": "https://a.thumbs.redditmedia.com/eaT939uVfvMa5c5R8MMw6LJmdKQ71MQFtpPvfJLidW4.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Void Dragon Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/orfpq9/void_dragon_lair_36x54/"
+}
