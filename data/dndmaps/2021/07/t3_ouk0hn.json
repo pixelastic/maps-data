@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1627603200,
+    "full": 1627649554,
+    "month": 1625097600,
+    "week": 1627171200
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EAB8QAAIDAAICAwAAAAAAAAAAAAECAwQRACEFE0Fhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEUH/2gAMAwEAAhEDEQA/AM3gShJBUElSKPFDNKVB9hzosT8byb5c17EN+etWgEKq6wv6wCwA3c/c+uHgux168NatHXdiqtIS4HQA3Txqzcp+XjtBJa9dEiclUIkPYPQ5EVd2KvCf/9k=",
+    "url": "https://preview.redd.it/5s52ek54kce71.jpg?width=640&crop=smart&auto=webp&s=87e2e2ed30519694215bb3197d383f32f0233777",
+    "width": 640
+  },
+  "id": "t3_ouk0hn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5s52ek54kce71.jpg?auto=webp&s=c11e069ea5e75a703ad5aedfd07096c50c0af095",
+    "preview": "https://preview.redd.it/5s52ek54kce71.jpg?width=640&crop=smart&auto=webp&s=87e2e2ed30519694215bb3197d383f32f0233777",
+    "thumbnail": "https://b.thumbs.redditmedia.com/hcr__Fos7ejlOXswHr-R4aEdZmDxCYqatnc6I8MFwps.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 872,
+    "value": 872
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Arcane Component Farm",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ouk0hn/arcane_component_farm/"
+}

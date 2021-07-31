@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1627603200,
+    "full": 1627642842,
+    "month": 1625097600,
+    "week": 1627171200
+  },
+  "displayPicture": {
+    "height": 853,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAABBAICAQUAAAAAAAAAAAABAgMEEQAFEhQxBiFhceH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB0RAAIBBAMAAAAAAAAAAAAAAAEDEQACMWGRweH/2gAMAwEAAhEDEQA/AIJGl6caO5JjcxKCiy6qrWBQNC/bzhO51DsDYuRnUJjrRVtrVyIsX5H3l3vZXcTEhx2HSnVsKtSU2CmxZPwSDhu/ZHqrYHZRuLYKQ2pKzxII/CMmoeGGCIzPXIp7FXW417X/2Q==",
+    "url": "https://preview.redd.it/8hw2pf9b0ce71.jpg?width=640&crop=smart&auto=webp&s=a7614c7fd7a46427f80ec64e3bad05868914bbab",
+    "width": 640
+  },
+  "id": "t3_ouifj4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8hw2pf9b0ce71.jpg?auto=webp&s=4e23326dafab526df86636eb9c85f24280916d8a",
+    "preview": "https://preview.redd.it/8hw2pf9b0ce71.jpg?width=640&crop=smart&auto=webp&s=a7614c7fd7a46427f80ec64e3bad05868914bbab",
+    "thumbnail": "https://b.thumbs.redditmedia.com/4eCfubtWee0L9GgwR0vkUJDioOQ_SvqCantuK4WMRWs.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Ghostlord's Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ouifj4/the_ghostlords_lair_30x40/"
+}
