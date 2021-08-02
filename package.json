@@ -4,7 +4,7 @@
   "private": true,
   "description": "https://gamemaster.pixelastic.com/maps/ data in JSON format",
   "devDependencies": {
-    "aberlaas": "1.24.3",
+    "aberlaas": "1.24.6",
     "algolia-indexing": "1.3.0",
     "firost": "2.16.2",
     "golgoth": "2.0.0",
