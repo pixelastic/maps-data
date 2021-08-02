@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_3xqpsq4q",
+    "name": "pathspeculiar"
+  },
+  "date": {
+    "day": 1627776000,
+    "full": 1627827199,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "displayPicture": {
+    "height": 800,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAQQCAQIHAAAAAAAAAAAAAQIDBBEFIQASMRMiMkJRcaL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A35Dk/HyMocjJkGMp1S2FpA0mhrtr1fnjeFdTJgofbeecQ4NeLVitcPzkKVlC/FbWExjXUogKOvaB98uw7MhhgtrQ2htPSltNeagKJNa7/HA//9k=",
+    "url": "https://preview.redd.it/l70bwrwh8re71.jpg?width=640&crop=smart&auto=webp&s=a64cf5c3a16b3effc1c7af7b21370af4b87ccdb3",
+    "width": 640
+  },
+  "id": "t3_ovsufg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l70bwrwh8re71.jpg?auto=webp&s=0c9c344fcd168c7ee0087f6dc51244d99d71d755",
+    "preview": "https://preview.redd.it/l70bwrwh8re71.jpg?width=640&crop=smart&auto=webp&s=a64cf5c3a16b3effc1c7af7b21370af4b87ccdb3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/19NYzkZKYYxHXUPrmExtJes24NI_ZSKRS6W14JuTQzU.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Gate to Dol Sceptar - tower grave of the warrior caste death knights",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ovsufg/the_gate_to_dol_sceptar_tower_grave_of_the/"
+}
