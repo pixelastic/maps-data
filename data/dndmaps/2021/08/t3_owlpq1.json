@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_15qw5z",
+    "name": "schudm"
+  },
+  "date": {
+    "day": 1627862400,
+    "full": 1627932029,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIAESExEgMEEyJB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAECEQAh/9oADAMBAAIRAxEAPwDHe06HlY8WC0L9xuEwosABvJv7Jt0ALrRbC3qGWHKhmJAIa3mGSrLJ3f/Z",
+    "url": "https://preview.redd.it/l478bcm7wze71.jpg?width=640&crop=smart&auto=webp&s=bae5c067e0f80c6f16ecf573ed30874074a7141d",
+    "width": 640
+  },
+  "id": "t3_owlpq1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l478bcm7wze71.jpg?auto=webp&s=70215c241ca011318cd6a13b8497d003e55eca54",
+    "preview": "https://preview.redd.it/l478bcm7wze71.jpg?width=640&crop=smart&auto=webp&s=bae5c067e0f80c6f16ecf573ed30874074a7141d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/KtY6ByXbGDRiEJZKyWpWMJ5YkgtgVYDUDATIakR7IVY.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "10 x 10 Nighttime Campsite Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/owlpq1/10_x_10_nighttime_campsite_battlemap/"
+}

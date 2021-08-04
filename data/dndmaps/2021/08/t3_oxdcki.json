@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_14t2xoq6",
+    "name": "boarbar"
+  },
+  "date": {
+    "day": 1627948800,
+    "full": 1628025950,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACEQAAICAgIBBQAAAAAAAAAAAAECAxEAEhMxIQRRYbHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAgMBAAAAAAAAAAAAAAACABEBEiEi/9oADAMBAAIRAxEAPwDBdoYvRLrHyzuCQLqjZ7/Mk55HEatELLHZlFKoA7uvf6x3hVAqG3slgW7B+MNzsQKAPjwMHDS2vkmVHzU//9k=",
+    "url": "https://preview.redd.it/kiacvi4bn7f71.jpg?width=640&crop=smart&auto=webp&s=979c93283b7ae95548a50748d1fe89825ca0e7f4",
+    "width": 640
+  },
+  "id": "t3_oxdcki",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kiacvi4bn7f71.jpg?auto=webp&s=14e0d8fe35b91b5d04bbbfaaca20a9a13348a7e9",
+    "preview": "https://preview.redd.it/kiacvi4bn7f71.jpg?width=640&crop=smart&auto=webp&s=979c93283b7ae95548a50748d1fe89825ca0e7f4",
+    "thumbnail": "https://a.thumbs.redditmedia.com/hIDcTTXj8SDanCruY1r2iLFNe3WNg3USCuq2-iMKum4.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Maryland themed map that a friend designed and I updated",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oxdcki/maryland_themed_map_that_a_friend_designed_and_i/"
+}
