@@ -1,4 +1,4 @@
-const config = require('aberlaas/lib/configs/lintstaged.js');
+const config = require('aberlaas/configs/lintstaged.js');
 
 // Stop linting all the json files
 const jsonLintCommand = config['*.json'];
