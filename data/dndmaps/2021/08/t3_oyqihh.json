@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628193704,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oyqihh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 139898,
+    "fullUrl": "https://external-preview.redd.it/yEN_FZtI2nxn6urNvCx_jjAe_ssMr_fpcfuErbZtCew.jpg?auto=webp&s=c7b96c952a01d41a1e762cae6c35f23f2d2cde5f",
+    "hash": "c7f8dd8184",
+    "height": 764,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAiEAACAQMEAwEBAAAAAAAAAAABAgMEBREAEiExIkFhBlH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBv/EAB0RAAIBBAMAAAAAAAAAAAAAAAECABESIZEiMbH/2gAMAwEAAhEDEQA/AGo5I0tUtZbrfTUkZKyRyvFuyxXyGT74HA60HcasVNxqGWZo8EAly0YbjsY7Gc6ZobjVoTTwJDTUzoDvmkDK2QNoA+eWeM/dUrvy0F4qd9WWRYlCoQQS3ZJx6GTx/fmp25EPPfcVwzCiDOvZ/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/kLayEHkfYRGHxpQXXLZUg3IDZBj9G1Es5FCyhoAAwn0.jpg",
+    "url": "https://external-preview.redd.it/yEN_FZtI2nxn6urNvCx_jjAe_ssMr_fpcfuErbZtCew.jpg?width=640&crop=smart&auto=webp&s=ca6ba36c5d1b9500004d6e9306619190cfc9ecec",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Temple Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oyqihh/temple_ruins_36x43/"
+}

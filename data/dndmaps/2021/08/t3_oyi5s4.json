@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_7td0638n",
+    "name": "ZMMaps"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628172019,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oyi5s4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 79281,
+    "fullUrl": "https://preview.redd.it/su5b3y0spjf71.jpg?auto=webp&s=2e54c3d33573a1abea51b9261543bb28f2b60a16",
+    "hash": "c72ef0f3f7",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAgEEAgIDAAAAAAAAAAABAgMRBAASEyEFMQZRQWGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEBAQEBAAAAAAAAAAAAAAACAREAA//aAAwDAQACEQMRAD8Aho4IVwsyN0g2DGlypd0yji5ogAa2XtDA/m+xoh8nNj+PtAvlfGvBHhcHEEsbdtXV9NV9/ddaE8Q/Jh+ULpExOMqG419BLA9fYH80XjQxvhuzRpZtSQK6r9anHzDVKm5zVWZKFm9//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/a7OH9-JP5KhtrW31ReoM1wsI7gAXU5GLgogD4rJGsvU.jpg",
+    "url": "https://preview.redd.it/su5b3y0spjf71.jpg?width=640&crop=smart&auto=webp&s=3c86a38da98e834f4193d7e51ea15e487d68cede",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Mine Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oyi5s4/mine_lair_48x33/"
+}

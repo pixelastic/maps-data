@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_59u6onkl",
+    "name": "MiscellaneaMaps"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628181210,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oym4k6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 55363,
+    "fullUrl": "https://preview.redd.it/mccho2obgkf71.jpg?auto=webp&s=6f115403c4d8f857c9e48faeefed1105ffa4f638",
+    "hash": "c66997de68",
+    "height": 414,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAQABBAEEAwAAAAAAAAAAAAECAAMEEQUGIjFxEiHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQEAAgMAAAAAAAAAAAAAAAABAgMAERL/2gAMAwEAAhEDEQA/AIPVWRzN/mYWsInCMO2EjY68D9e/2tp0vHOt8Jas8ne+eU3F7nbEXxujnEMoAA3TsQJR0a1FT2FRrLu4RrANYqFXMmarvP/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xGZ2Sw76xUtvZLsfqpabpTkppdekdKNf6ftFK5mJbyI.jpg",
+    "url": "https://preview.redd.it/mccho2obgkf71.jpg?width=640&crop=smart&auto=webp&s=cf56d9e1fb6146fb4cb48ba3ef89f2c94b0be3da",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Twin Crater Oasis (34x22)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oym4k6/twin_crater_oasis_34x22/"
+}

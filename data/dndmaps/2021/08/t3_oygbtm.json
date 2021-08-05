@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_4yy8u",
+    "name": "SimpleRy"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628165869,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oygbtm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 77895,
+    "fullUrl": "https://preview.redd.it/2dii9y5m3jf71.jpg?auto=webp&s=44f1e0a4c079102af7f6f740fd6bc67f5cc4a427",
+    "hash": "593c3c689c",
+    "height": 445,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgT/xAAkEAACAgIBAQkAAAAAAAAAAAABAgMEABExBRITIUFRYYGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAESEUFCYeH/2gAMAwEAAhEDEQA/ABXlltVLEKzSd9twGYk9kkn19uMVxxXFeOES7Z1j2rkMdaPnz+4umjcV9ySWVn0SePHI7zGSOoznZaUE/BGvvIRc9DinenD/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/kEgOwSQOX80yD8qGPPA-60kUPIrGcjDhazMdxMD7lUY.jpg",
+    "url": "https://preview.redd.it/2dii9y5m3jf71.jpg?width=640&crop=smart&auto=webp&s=b06da161afc074b2af0dc701c80d92ec359ec54e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Traveler's Shrine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oygbtm/travelers_shrine/"
+}
