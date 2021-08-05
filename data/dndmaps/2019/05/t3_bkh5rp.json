@@ -9,20 +9,19 @@
     "month": 1556668800,
     "week": 1556409600
   },
-  "displayPicture": {
-    "height": 738,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUI/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQMCBBESAAUhMQYTQaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AM07dQoK0vqqqSDJuER6chGwBylyOOfzVDe9too1c2P3W02G4BpZgEW7B+/NNpWvwe2NRByF4qiYzAiIgck3Hdrdd6B5Y+blUXuYGNIlInIX7tyBx80Uv//Z",
-    "url": "https://preview.redd.it/hanrle1y84w21.jpg?width=640&crop=smart&auto=webp&s=b7ed9e673efe7d4013158a06ac68e0889c2049b9",
-    "width": 640
-  },
   "id": "t3_bkh5rp",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hanrle1y84w21.jpg?auto=webp&s=ece259cb5dafe65f79cdf24d4a1dff76dbaa8340",
-    "preview": "https://preview.redd.it/hanrle1y84w21.jpg?width=640&crop=smart&auto=webp&s=b7ed9e673efe7d4013158a06ac68e0889c2049b9",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ldlQfC3eyxKAZm-UdNjwUjtRwgSxGvONO77l_8PedXU.jpg"
+    "filesize": 70377,
+    "fullUrl": "https://preview.redd.it/hanrle1y84w21.jpg?auto=webp&s=ece259cb5dafe65f79cdf24d4a1dff76dbaa8340",
+    "hash": "c68b8cc41f",
+    "height": 738,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUI/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQMCBBESAAUhMQYTQaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AM07dQoK0vqqqSDJuER6chGwBylyOOfzVDe9too1c2P3W02G4BpZgEW7B+/NNpWvwe2NRByF4qiYzAiIgck3Hdrdd6B5Y+blUXuYGNIlInIX7tyBx80Uv//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/ldlQfC3eyxKAZm-UdNjwUjtRwgSxGvONO77l_8PedXU.jpg",
+    "url": "https://preview.redd.it/hanrle1y84w21.jpg?width=640&crop=smart&auto=webp&s=b7ed9e673efe7d4013158a06ac68e0889c2049b9",
+    "width": 640
   },
   "score": {
     "comments": 2,

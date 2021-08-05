@@ -9,20 +9,19 @@
     "month": 1609459200,
     "week": 1610236800
   },
-  "displayPicture": {
-    "height": 764,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAlEAABBAEDAgcAAAAAAAAAAAACAQMEEQUABiESEzEyQVFhcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECESES/9oADAMBAAIRAxEAPwC232ojWHC2WHnzQaQm0tB6fBeOU+vbR9z4uMAxnAAGRcU16O3VeX9TnQIM0DxoMxJDHcGkcJCpF49L0rKZNmTDhhJNpHWlMbG7VOKul+NBq+hGSzD/2Q==",
-    "url": "https://preview.redd.it/doghe70soia61.jpg?width=640&crop=smart&auto=webp&s=88833fcd6de9969493cb581d41315bed6ffa9b95",
-    "width": 640
-  },
   "id": "t3_kuflyz",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/doghe70soia61.jpg?auto=webp&s=cd5b9708a51fd113db348fe1996a141a739d91b4",
-    "preview": "https://preview.redd.it/doghe70soia61.jpg?width=640&crop=smart&auto=webp&s=88833fcd6de9969493cb581d41315bed6ffa9b95",
-    "thumbnail": "https://a.thumbs.redditmedia.com/KidBlvfMxuw8KuZqb4dL8ep8sC8P3Rr1mJcVQLQ3SV4.jpg"
+    "filesize": 160000,
+    "fullUrl": "https://preview.redd.it/doghe70soia61.jpg?auto=webp&s=cd5b9708a51fd113db348fe1996a141a739d91b4",
+    "hash": "ad037bca93",
+    "height": 764,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAlEAABBAEDAgcAAAAAAAAAAAACAQMEEQUABiESEzEyQVFhcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECESES/9oADAMBAAIRAxEAPwC232ojWHC2WHnzQaQm0tB6fBeOU+vbR9z4uMAxnAAGRcU16O3VeX9TnQIM0DxoMxJDHcGkcJCpF49L0rKZNmTDhhJNpHWlMbG7VOKul+NBq+hGSzD/2Q==",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/KidBlvfMxuw8KuZqb4dL8ep8sC8P3Rr1mJcVQLQ3SV4.jpg",
+    "url": "https://preview.redd.it/doghe70soia61.jpg?width=640&crop=smart&auto=webp&s=88833fcd6de9969493cb581d41315bed6ffa9b95",
+    "width": 640
   },
   "score": {
     "comments": 0,

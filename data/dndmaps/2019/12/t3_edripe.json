@@ -9,20 +9,19 @@
     "month": 1575158400,
     "week": 1576368000
   },
-  "displayPicture": {
-    "height": 640,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEEQUGITESE1GB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQESQf/aAAwDAQACEQMRAD8AxHblpHKSkqIZMhlLDPHdNuGwW3jKRRqXU5Zxxx31+iptIubKKUexSXYeOWJwD9FGsXNlJJiNCJFBUspOGP01TwFNmf/Z",
-    "url": "https://preview.redd.it/zchbkonne0641.jpg?width=640&crop=smart&auto=webp&s=4dce23306492d432daa26ef765a08a626a5b9626",
-    "width": 640
-  },
   "id": "t3_edripe",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/zchbkonne0641.jpg?auto=webp&s=020aedf22e9f743ae1b59e44876c7fc7e32468d3",
-    "preview": "https://preview.redd.it/zchbkonne0641.jpg?width=640&crop=smart&auto=webp&s=4dce23306492d432daa26ef765a08a626a5b9626",
-    "thumbnail": "https://a.thumbs.redditmedia.com/E6Zv6OshPhVSIOdYCvhs-TB-_kmYlS9vkDwcgFDAdu8.jpg"
+    "filesize": 50999,
+    "fullUrl": "https://preview.redd.it/zchbkonne0641.jpg?auto=webp&s=020aedf22e9f743ae1b59e44876c7fc7e32468d3",
+    "hash": "c6bdeffaca",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEEQUGITESE1GB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQESQf/aAAwDAQACEQMRAD8AxHblpHKSkqIZMhlLDPHdNuGwW3jKRRqXU5Zxxx31+iptIubKKUexSXYeOWJwD9FGsXNlJJiNCJFBUspOGP01TwFNmf/Z",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/E6Zv6OshPhVSIOdYCvhs-TB-_kmYlS9vkDwcgFDAdu8.jpg",
+    "url": "https://preview.redd.it/zchbkonne0641.jpg?width=640&crop=smart&auto=webp&s=4dce23306492d432daa26ef765a08a626a5b9626",
+    "width": 640
   },
   "score": {
     "comments": 1,

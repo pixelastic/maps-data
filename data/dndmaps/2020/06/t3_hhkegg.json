@@ -9,20 +9,19 @@
     "month": 1590969600,
     "week": 1593302400
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDBBESACEFEyIyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAcEQABBQADAAAAAAAAAAAAAAABAAIDERITQfD/2gAMAwEAAhEDEQA/ADkKx3IFkcTL8sBU6J/c82q3jZ61dwzRGmU9rbE7EH6qCeieG9TC8sscjjZGYrnrIGc8qrcsTwlZpnZUOqgnoAjJ4BjeZBTu/BHyMxWV/9k=",
-    "url": "https://preview.redd.it/niwtai56ap751.jpg?width=640&crop=smart&auto=webp&s=6fce3df9af4d592cb20afba302b35b625e5e3c7c",
-    "width": 640
-  },
   "id": "t3_hhkegg",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/niwtai56ap751.jpg?auto=webp&s=00511a917786c81f0e613df39354ba17a9105888",
-    "preview": "https://preview.redd.it/niwtai56ap751.jpg?width=640&crop=smart&auto=webp&s=6fce3df9af4d592cb20afba302b35b625e5e3c7c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/vK4iRHL4ErKEvGWpR0vlQEmooPz2MvB8GfH_9lsb_CQ.jpg"
+    "filesize": 76693,
+    "fullUrl": "https://preview.redd.it/niwtai56ap751.jpg?auto=webp&s=00511a917786c81f0e613df39354ba17a9105888",
+    "hash": "f3ec0a1432",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDBBESACEFEyIyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAcEQABBQADAAAAAAAAAAAAAAABAAIDERITQfD/2gAMAwEAAhEDEQA/ADkKx3IFkcTL8sBU6J/c82q3jZ61dwzRGmU9rbE7EH6qCeieG9TC8sscjjZGYrnrIGc8qrcsTwlZpnZUOqgnoAjJ4BjeZBTu/BHyMxWV/9k=",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/vK4iRHL4ErKEvGWpR0vlQEmooPz2MvB8GfH_9lsb_CQ.jpg",
+    "url": "https://preview.redd.it/niwtai56ap751.jpg?width=640&crop=smart&auto=webp&s=6fce3df9af4d592cb20afba302b35b625e5e3c7c",
+    "width": 640
   },
   "score": {
     "comments": 2,

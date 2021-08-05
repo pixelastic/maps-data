@@ -9,20 +9,19 @@
     "month": 1525132800,
     "week": 1526169600
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQREiExQQVREyJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAMREv/aAAwDAQACEQMRAD8AyFjYQL48OV1u2SWOT8fGMDvJou4oFhbKBmY7sQAAfQHQqfhr+YW7QfUxqNeCOeNj7H5Rf3szRXCkqVLAgaQNO3VGPeMkcahCf//Z",
-    "url": "https://preview.redd.it/jalp1p71any01.jpg?width=640&crop=smart&auto=webp&s=9ebf8863517d44bd5340ff11eb5ce36415ffcf24",
-    "width": 640
-  },
   "id": "t3_8keoz4",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/jalp1p71any01.jpg?auto=webp&s=1188c0ae37f99800eb37052c8e73de0c4672d359",
-    "preview": "https://preview.redd.it/jalp1p71any01.jpg?width=640&crop=smart&auto=webp&s=9ebf8863517d44bd5340ff11eb5ce36415ffcf24",
-    "thumbnail": "https://b.thumbs.redditmedia.com/vJPg59ypFCJF6NwMehvZ7wIg6HwbtaqR-hTuQMVoGuM.jpg"
+    "filesize": 78672,
+    "fullUrl": "https://preview.redd.it/jalp1p71any01.jpg?auto=webp&s=1188c0ae37f99800eb37052c8e73de0c4672d359",
+    "hash": "d87cddf27d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQREiExQQVREyJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAMREv/aAAwDAQACEQMRAD8AyFjYQL48OV1u2SWOT8fGMDvJou4oFhbKBmY7sQAAfQHQqfhr+YW7QfUxqNeCOeNj7H5Rf3szRXCkqVLAgaQNO3VGPeMkcahCf//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/vJPg59ypFCJF6NwMehvZ7wIg6HwbtaqR-hTuQMVoGuM.jpg",
+    "url": "https://preview.redd.it/jalp1p71any01.jpg?width=640&crop=smart&auto=webp&s=9ebf8863517d44bd5340ff11eb5ce36415ffcf24",
+    "width": 640
   },
   "score": {
     "comments": 7,

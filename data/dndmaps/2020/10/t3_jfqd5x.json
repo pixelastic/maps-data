@@ -9,20 +9,19 @@
     "month": 1601510400,
     "week": 1602979200
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBv/EACMQAAIBAgQHAAAAAAAAAAAAAAECAwARBBIhMQUiQlFhoeH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgQREhP/2gAMAwEAAhEDEQA/AMrJjWw+MlMplYbZARYeRSj4lLMWRECgdSnX3RyuXWRFco2UMd7XqJCx5gigajW57/akGQteY+dWw6n/2Q==",
-    "url": "https://preview.redd.it/4xurlh8pvju51.jpg?width=640&crop=smart&auto=webp&s=659cf2c4f772fa6d4f93259262ee1f4e9022385b",
-    "width": 640
-  },
   "id": "t3_jfqd5x",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/4xurlh8pvju51.jpg?auto=webp&s=cb25117b5155433f8393766b80758d4e0d5277ee",
-    "preview": "https://preview.redd.it/4xurlh8pvju51.jpg?width=640&crop=smart&auto=webp&s=659cf2c4f772fa6d4f93259262ee1f4e9022385b",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ms5yWl67voeJE-XNXqw7b0WICOyoclyX-5iQDL4Td-w.jpg"
+    "filesize": 84677,
+    "fullUrl": "https://preview.redd.it/4xurlh8pvju51.jpg?auto=webp&s=cb25117b5155433f8393766b80758d4e0d5277ee",
+    "hash": "4cc9a6c26d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBv/EACMQAAIBAgQHAAAAAAAAAAAAAAECAwARBBIhMQUiQlFhoeH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgQREhP/2gAMAwEAAhEDEQA/AMrJjWw+MlMplYbZARYeRSj4lLMWRECgdSnX3RyuXWRFco2UMd7XqJCx5gigajW57/akGQteY+dWw6n/2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/ms5yWl67voeJE-XNXqw7b0WICOyoclyX-5iQDL4Td-w.jpg",
+    "url": "https://preview.redd.it/4xurlh8pvju51.jpg?width=640&crop=smart&auto=webp&s=659cf2c4f772fa6d4f93259262ee1f4e9022385b",
+    "width": 640
   },
   "score": {
     "comments": 1,

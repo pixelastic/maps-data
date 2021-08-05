@@ -9,20 +9,19 @@
     "month": 1590969600,
     "week": 1590883200
   },
-  "displayPicture": {
-    "height": 731,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIBAAAgEEAwADAAAAAAAAAAAAAQIRAAMSIQQTYUFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEBAQEBAQAAAAAAAAAAAAAAAgERADH/2gAMAwEAAhEDEQA/AMa4uCetWDYyoiN5fvlJscthduIwzxCjS5Tr5999oSXnyzNzNiJbIzO9ir8Y9PNuXCzr2AmAfs1OKpun3loxzFNnf//Z",
-    "url": "https://preview.redd.it/nxbpfe4zq8351.jpg?width=640&crop=smart&auto=webp&s=b1dc0d2635b0b3bfaf38e3f4ea7045a79b80fd3f",
-    "width": 640
-  },
   "id": "t3_gxmeih",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/nxbpfe4zq8351.jpg?auto=webp&s=1c7934341f582271e8f578ad0fd1d424a62fe7c0",
-    "preview": "https://preview.redd.it/nxbpfe4zq8351.jpg?width=640&crop=smart&auto=webp&s=b1dc0d2635b0b3bfaf38e3f4ea7045a79b80fd3f",
-    "thumbnail": "https://b.thumbs.redditmedia.com/iq2WBx3yPTYEgDf7lAZa8-lC_OUA20kbunqiWvLIKII.jpg"
+    "filesize": 130883,
+    "fullUrl": "https://preview.redd.it/nxbpfe4zq8351.jpg?auto=webp&s=1c7934341f582271e8f578ad0fd1d424a62fe7c0",
+    "hash": "86e4a705e1",
+    "height": 731,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIBAAAgEEAwADAAAAAAAAAAAAAQIRAAMSIQQTYUFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEBAQEBAQAAAAAAAAAAAAAAAgERADH/2gAMAwEAAhEDEQA/AMa4uCetWDYyoiN5fvlJscthduIwzxCjS5Tr5999oSXnyzNzNiJbIzO9ir8Y9PNuXCzr2AmAfs1OKpun3loxzFNnf//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/iq2WBx3yPTYEgDf7lAZa8-lC_OUA20kbunqiWvLIKII.jpg",
+    "url": "https://preview.redd.it/nxbpfe4zq8351.jpg?width=640&crop=smart&auto=webp&s=b1dc0d2635b0b3bfaf38e3f4ea7045a79b80fd3f",
+    "width": 640
   },
   "score": {
     "comments": 2,

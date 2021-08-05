@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1626566400
   },
-  "displayPicture": {
-    "height": 640,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAICAgIBBQEAAAAAAAAAAAECAwQREgAxBRRBQmFx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhMf/aAAwDAQACEQMRAD8Azm9ajvJSC0KaRLXGzEAsTgfxPvxS94h61GWWQQhWjxhQo7TYdHhlj8c0tbMknpzTzuupbcAYH5jv75Rkekvi2wYlk0JGSB8euRGckt//2Q==",
-    "url": "https://preview.redd.it/lox2zapcksc71.jpg?width=640&crop=smart&auto=webp&s=47dd78cf8608f4646499942188d51c42cb39776a",
-    "width": 640
-  },
   "id": "t3_ophibs",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/lox2zapcksc71.jpg?auto=webp&s=03612d8d6adc345b58b96e988e380aa4a2c660aa",
-    "preview": "https://preview.redd.it/lox2zapcksc71.jpg?width=640&crop=smart&auto=webp&s=47dd78cf8608f4646499942188d51c42cb39776a",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ddkXD1aBq9CuFuC8wGuy2JFKzhrvqvuL2X-6EeYrrpc.jpg"
+    "filesize": 106911,
+    "fullUrl": "https://preview.redd.it/lox2zapcksc71.jpg?auto=webp&s=03612d8d6adc345b58b96e988e380aa4a2c660aa",
+    "hash": "9086fa9f84",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAICAgIBBQEAAAAAAAAAAAECAwQREgAxBRRBQmFx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhMf/aAAwDAQACEQMRAD8Azm9ajvJSC0KaRLXGzEAsTgfxPvxS94h61GWWQQhWjxhQo7TYdHhlj8c0tbMknpzTzuupbcAYH5jv75Rkekvi2wYlk0JGSB8euRGckt//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/ddkXD1aBq9CuFuC8wGuy2JFKzhrvqvuL2X-6EeYrrpc.jpg",
+    "url": "https://preview.redd.it/lox2zapcksc71.jpg?width=640&crop=smart&auto=webp&s=47dd78cf8608f4646499942188d51c42cb39776a",
+    "width": 640
   },
   "score": {
     "comments": 1,

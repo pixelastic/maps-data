@@ -9,20 +9,19 @@
     "month": 1619827200,
     "week": 1620518400
   },
-  "displayPicture": {
-    "height": 2809,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAwUREgQh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Axm/PZlOOfReFKg/LREmFQQvNFDDWtljEkH//2Q==",
-    "url": "https://preview.redd.it/ah279ai9jay61.jpg?width=640&crop=smart&auto=webp&s=4822f1e01c90702256654007d72f39fa2c9d9478",
-    "width": 640
-  },
   "id": "t3_n93t5g",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ah279ai9jay61.jpg?auto=webp&s=3861380c5bb13736318a978a819f548703d9676d",
-    "preview": "https://preview.redd.it/ah279ai9jay61.jpg?width=640&crop=smart&auto=webp&s=4822f1e01c90702256654007d72f39fa2c9d9478",
-    "thumbnail": "https://b.thumbs.redditmedia.com/nGBPqrP-iYradDPsds3hpsg_Us5_1jCBE6bmOBXgMNw.jpg"
+    "filesize": 275722,
+    "fullUrl": "https://preview.redd.it/ah279ai9jay61.jpg?auto=webp&s=3861380c5bb13736318a978a819f548703d9676d",
+    "hash": "9c5b7723a0",
+    "height": 2809,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAwUREgQh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Axm/PZlOOfReFKg/LREmFQQvNFDDWtljEkH//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/nGBPqrP-iYradDPsds3hpsg_Us5_1jCBE6bmOBXgMNw.jpg",
+    "url": "https://preview.redd.it/ah279ai9jay61.jpg?width=640&crop=smart&auto=webp&s=4822f1e01c90702256654007d72f39fa2c9d9478",
+    "width": 640
   },
   "score": {
     "comments": 7,

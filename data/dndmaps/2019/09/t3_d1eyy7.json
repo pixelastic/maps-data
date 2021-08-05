@@ -9,20 +9,19 @@
     "month": 1567296000,
     "week": 1567900800
   },
-  "displayPicture": {
-    "height": 295,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAIRAAAgIBAwUBAAAAAAAAAAAAAQIDBAARIVEFExQiUmH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAICAwEAAAAAAAAAAAAAAAECAyEABDEi/9oADAMBAAIRAxEAPwDROsWr1KSvFVeELI3bUupJZtAQPzjXK86emyT2ykkL+sjIu6H5HOm+MZD1oo5EhRlHqjV9I7iXYqWIPM//2Q==",
-    "url": "https://preview.redd.it/ac60u7e70fl31.jpg?width=640&crop=smart&auto=webp&s=199b671348340c6184fb753180715c15a6313d0d",
-    "width": 640
-  },
   "id": "t3_d1eyy7",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ac60u7e70fl31.jpg?auto=webp&s=f8ea31de0654d15117eb48a4df878f861995de51",
-    "preview": "https://preview.redd.it/ac60u7e70fl31.jpg?width=640&crop=smart&auto=webp&s=199b671348340c6184fb753180715c15a6313d0d",
-    "thumbnail": "https://a.thumbs.redditmedia.com/LngbH-bi_WL1v4f45jmGTM4qjP8bRfUl9ZYTW-9_H_8.jpg"
+    "filesize": 34241,
+    "fullUrl": "https://preview.redd.it/ac60u7e70fl31.jpg?auto=webp&s=f8ea31de0654d15117eb48a4df878f861995de51",
+    "hash": "104282b703",
+    "height": 295,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAIRAAAgIBAwUBAAAAAAAAAAAAAQIDBAARIVEFExQiUmH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAICAwEAAAAAAAAAAAAAAAECAyEABDEi/9oADAMBAAIRAxEAPwDROsWr1KSvFVeELI3bUupJZtAQPzjXK86emyT2ykkL+sjIu6H5HOm+MZD1oo5EhRlHqjV9I7iXYqWIPM//2Q==",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/LngbH-bi_WL1v4f45jmGTM4qjP8bRfUl9ZYTW-9_H_8.jpg",
+    "url": "https://preview.redd.it/ac60u7e70fl31.jpg?width=640&crop=smart&auto=webp&s=199b671348340c6184fb753180715c15a6313d0d",
+    "width": 640
   },
   "score": {
     "comments": 0,

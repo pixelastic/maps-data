@@ -9,20 +9,19 @@
     "month": 1585699200,
     "week": 1586044800
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACIQAAMAAQMDBQAAAAAAAAAAAAECAxEABCEFBjETIjJBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACA0H/2gAMAwEAAhEDEQA/AM33BbcJ1R5puLDMwsJyoUZWI+RA4OrZG49PbrdgaqAWdDnJAHJx9+dCbOT9Zlu3Bak45UHxkEgH909AGoKEe7GeONHHNL2V7I9dBrUDk//Z",
-    "url": "https://preview.redd.it/8ighnmlk8or41.jpg?width=640&crop=smart&auto=webp&s=c5370b2fcba59d46ff8146513cc767d5d7ef96f4",
-    "width": 640
-  },
   "id": "t3_fxghdb",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/8ighnmlk8or41.jpg?auto=webp&s=3fa3546649a52b0221e7ecd631e641643332bc2c",
-    "preview": "https://preview.redd.it/8ighnmlk8or41.jpg?width=640&crop=smart&auto=webp&s=c5370b2fcba59d46ff8146513cc767d5d7ef96f4",
-    "thumbnail": "https://b.thumbs.redditmedia.com/M4hmmkxyh3uFE5Wi-FBu95tj-Pv42cJ3y0Q_RGl9GcE.jpg"
+    "filesize": 77560,
+    "fullUrl": "https://preview.redd.it/8ighnmlk8or41.jpg?auto=webp&s=3fa3546649a52b0221e7ecd631e641643332bc2c",
+    "hash": "a0be1aa26b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACIQAAMAAQMDBQAAAAAAAAAAAAECAxEABCEFBjETIjJBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACA0H/2gAMAwEAAhEDEQA/AM33BbcJ1R5puLDMwsJyoUZWI+RA4OrZG49PbrdgaqAWdDnJAHJx9+dCbOT9Zlu3Bak45UHxkEgH909AGoKEe7GeONHHNL2V7I9dBrUDk//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/M4hmmkxyh3uFE5Wi-FBu95tj-Pv42cJ3y0Q_RGl9GcE.jpg",
+    "url": "https://preview.redd.it/8ighnmlk8or41.jpg?width=640&crop=smart&auto=webp&s=c5370b2fcba59d46ff8146513cc767d5d7ef96f4",
+    "width": 640
   },
   "score": {
     "comments": 4,

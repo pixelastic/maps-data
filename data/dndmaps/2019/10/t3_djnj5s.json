@@ -9,20 +9,19 @@
     "month": 1569888000,
     "week": 1570924800
   },
-  "displayPicture": {
-    "height": 826,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBBEhAAUSIjFBURMUkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A3aWsmFdXfTZah1YyRgTE3UZIA95P4PekGzzVUtEGnRRJfIWTkBgebaOihdJGendREjNOkrITJfPSRfHkE+R3Gq9noa2Sj5RbrIiFriPhf48Dpue51B//2Q==",
-    "url": "https://preview.redd.it/ca5nfdvzgat31.jpg?width=640&crop=smart&auto=webp&s=b39425d07ac73ca433ffbb1fdfead2a5eb504d2e",
-    "width": 640
-  },
   "id": "t3_djnj5s",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ca5nfdvzgat31.jpg?auto=webp&s=d9077dccc88cf47649a588283fd2fc2c05e0ebed",
-    "preview": "https://preview.redd.it/ca5nfdvzgat31.jpg?width=640&crop=smart&auto=webp&s=b39425d07ac73ca433ffbb1fdfead2a5eb504d2e",
-    "thumbnail": "https://b.thumbs.redditmedia.com/kIOKosZSY5y5lNriu2lFPTJyiY1M1rcHvL4yNgunOhI.jpg"
+    "filesize": 142094,
+    "fullUrl": "https://preview.redd.it/ca5nfdvzgat31.jpg?auto=webp&s=d9077dccc88cf47649a588283fd2fc2c05e0ebed",
+    "hash": "394bee37d4",
+    "height": 826,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBBEhAAUSIjFBURMUkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A3aWsmFdXfTZah1YyRgTE3UZIA95P4PekGzzVUtEGnRRJfIWTkBgebaOihdJGendREjNOkrITJfPSRfHkE+R3Gq9noa2Sj5RbrIiFriPhf48Dpue51B//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/kIOKosZSY5y5lNriu2lFPTJyiY1M1rcHvL4yNgunOhI.jpg",
+    "url": "https://preview.redd.it/ca5nfdvzgat31.jpg?width=640&crop=smart&auto=webp&s=b39425d07ac73ca433ffbb1fdfead2a5eb504d2e",
+    "width": 640
   },
   "score": {
     "comments": 15,

@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1625356800
   },
-  "displayPicture": {
-    "height": 486,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAEEAgICAwAAAAAAAAAAAAECAwQRAAUSIRNhIjFR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRBBNB/9oADAMBAAIRAxEAPwCa025lz0M+ZBF2S6CEC/wA9nHb82SzHcWzMQ1wN/IpXyFWR6zKdTsJAmeUrCl8eIsfQ9YeZDs11xUhZJKgOuqyfLEhVgNaXD//2Q==",
-    "url": "https://preview.redd.it/ydmk33ltsf971.jpg?width=640&crop=smart&auto=webp&s=8547ba56641d47bf1cc3ddac20a08ed315d089e8",
-    "width": 640
-  },
   "id": "t3_oed77w",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ydmk33ltsf971.jpg?auto=webp&s=d8c9da2174259a20fe96bc5ada4d3fe1ab7ce987",
-    "preview": "https://preview.redd.it/ydmk33ltsf971.jpg?width=640&crop=smart&auto=webp&s=8547ba56641d47bf1cc3ddac20a08ed315d089e8",
-    "thumbnail": "https://b.thumbs.redditmedia.com/GKPmHJ8hEJRD7CyeB1DdATAxxKqfrQtR1ezgD6TmjRM.jpg"
+    "filesize": 43910,
+    "fullUrl": "https://preview.redd.it/ydmk33ltsf971.jpg?auto=webp&s=d8c9da2174259a20fe96bc5ada4d3fe1ab7ce987",
+    "hash": "31447cf7dd",
+    "height": 486,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAEEAgICAwAAAAAAAAAAAAECAwQRAAUSIRNhIjFR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRBBNB/9oADAMBAAIRAxEAPwCa025lz0M+ZBF2S6CEC/wA9nHb82SzHcWzMQ1wN/IpXyFWR6zKdTsJAmeUrCl8eIsfQ9YeZDs11xUhZJKgOuqyfLEhVgNaXD//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/GKPmHJ8hEJRD7CyeB1DdATAxxKqfrQtR1ezgD6TmjRM.jpg",
+    "url": "https://preview.redd.it/ydmk33ltsf971.jpg?width=640&crop=smart&auto=webp&s=8547ba56641d47bf1cc3ddac20a08ed315d089e8",
+    "width": 640
   },
   "score": {
     "comments": 1,

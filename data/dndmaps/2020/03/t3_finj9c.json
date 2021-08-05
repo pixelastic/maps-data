@@ -9,20 +9,19 @@
     "month": 1583020800,
     "week": 1583625600
   },
-  "displayPicture": {
-    "height": 495,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAABAwQDAQEAAAAAAAAAAAACAQMEAAURIQYSMVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAlH/2gAMAwEAAhEDEQA/AI7xnjlkcik8ckJhddEo6Rd6Qfv7TcS02+MTrjQsRnRbREUW8KWUXKVPOOEUafIJsiyDPbGdLtPce+09xG6yprjrMgkIBE183mj0PZBL/9k=",
-    "url": "https://preview.redd.it/hu1gryzerom41.jpg?width=640&crop=smart&auto=webp&s=fd8681862759c1605502d8a044fc12b0bae382d7",
-    "width": 640
-  },
   "id": "t3_finj9c",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hu1gryzerom41.jpg?auto=webp&s=0424a449083b71f71cbfe07f5d9a3ce2016df331",
-    "preview": "https://preview.redd.it/hu1gryzerom41.jpg?width=640&crop=smart&auto=webp&s=fd8681862759c1605502d8a044fc12b0bae382d7",
-    "thumbnail": "https://b.thumbs.redditmedia.com/QDaQM1Chi5--rpx1jC2sICdIIrJYECXyF1ieu8OhgPw.jpg"
+    "filesize": 69173,
+    "fullUrl": "https://preview.redd.it/hu1gryzerom41.jpg?auto=webp&s=0424a449083b71f71cbfe07f5d9a3ce2016df331",
+    "hash": "f38661ee01",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAABAwQDAQEAAAAAAAAAAAACAQMEAAURIQYSMVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAlH/2gAMAwEAAhEDEQA/AI7xnjlkcik8ckJhddEo6Rd6Qfv7TcS02+MTrjQsRnRbREUW8KWUXKVPOOEUafIJsiyDPbGdLtPce+09xG6yprjrMgkIBE183mj0PZBL/9k=",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/QDaQM1Chi5--rpx1jC2sICdIIrJYECXyF1ieu8OhgPw.jpg",
+    "url": "https://preview.redd.it/hu1gryzerom41.jpg?width=640&crop=smart&auto=webp&s=fd8681862759c1605502d8a044fc12b0bae382d7",
+    "width": 640
   },
   "score": {
     "comments": 5,

@@ -9,20 +9,19 @@
     "month": 1593561600,
     "week": 1593907200
   },
-  "displayPicture": {
-    "height": 1048,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQMEAQQDAAAAAAAAAAAAAQIDEQAEEiFBBRMVMVFScf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIRAxEAPwDGbS7s0dO7L1o4q7AGOLSYMfJO+RU682svOHHGVExHrdPsuN+OaW42DigBKVFOkkRIV9pPMaEUPcNRcOhDbQTkYGc6n9ptFpo//9k=",
-    "url": "https://preview.redd.it/90gtkhraqm951.jpg?width=640&crop=smart&auto=webp&s=c38102b61c252be71a682aa8bc520fe83215e8f7",
-    "width": 640
-  },
   "id": "t3_hngeyu",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/90gtkhraqm951.jpg?auto=webp&s=eb38c04248a1c1910ee6816cebd2663995044a4f",
-    "preview": "https://preview.redd.it/90gtkhraqm951.jpg?width=640&crop=smart&auto=webp&s=c38102b61c252be71a682aa8bc520fe83215e8f7",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Ok-sYnlV8yhP7pNYA8HvunSh1flqmgkktUyk4DTaxKE.jpg"
+    "filesize": 94335,
+    "fullUrl": "https://preview.redd.it/90gtkhraqm951.jpg?auto=webp&s=eb38c04248a1c1910ee6816cebd2663995044a4f",
+    "hash": "76bc15ccdc",
+    "height": 1048,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQMEAQQDAAAAAAAAAAAAAQIDEQAEEiFBBRMVMVFScf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIRAxEAPwDGbS7s0dO7L1o4q7AGOLSYMfJO+RU682svOHHGVExHrdPsuN+OaW42DigBKVFOkkRIV9pPMaEUPcNRcOhDbQTkYGc6n9ptFpo//9k=",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/Ok-sYnlV8yhP7pNYA8HvunSh1flqmgkktUyk4DTaxKE.jpg",
+    "url": "https://preview.redd.it/90gtkhraqm951.jpg?width=640&crop=smart&auto=webp&s=c38102b61c252be71a682aa8bc520fe83215e8f7",
+    "width": 640
   },
   "score": {
     "comments": 23,

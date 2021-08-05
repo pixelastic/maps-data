@@ -9,20 +9,19 @@
     "month": 1590969600,
     "week": 1590883200
   },
-  "displayPicture": {
-    "height": 640,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACAQAAICAQQDAQAAAAAAAAAAAAECAxEEACEiYRIxUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAABEAARIh/9oADAMBAAIRAxEAPwDN8dS8jtDGqRknjfEX+9aYytjkE04vjvVfdASYj+UuHMIJLDGFralPqiPYHdHVGIkBR2nuSatw/BV6sGz9Gp9qvI+s5Ds//9k=",
-    "url": "https://preview.redd.it/pclv6v0wsk251.jpg?width=640&crop=smart&auto=webp&s=3c972a0ff96e74e96c2becdeb70cf1d9d4a46fab",
-    "width": 640
-  },
   "id": "t3_gvhrte",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/pclv6v0wsk251.jpg?auto=webp&s=01962ce5c62724748b5402b850ff737c3897eb2e",
-    "preview": "https://preview.redd.it/pclv6v0wsk251.jpg?width=640&crop=smart&auto=webp&s=3c972a0ff96e74e96c2becdeb70cf1d9d4a46fab",
-    "thumbnail": "https://a.thumbs.redditmedia.com/oYeplvvfnNxL2Xv8wX3d_Tz93sld7Jv_ERy7UoEckq8.jpg"
+    "filesize": 108049,
+    "fullUrl": "https://preview.redd.it/pclv6v0wsk251.jpg?auto=webp&s=01962ce5c62724748b5402b850ff737c3897eb2e",
+    "hash": "ecff1dbf0a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACAQAAICAQQDAQAAAAAAAAAAAAECAxEEACEiYRIxUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAABEAARIh/9oADAMBAAIRAxEAPwDN8dS8jtDGqRknjfEX+9aYytjkE04vjvVfdASYj+UuHMIJLDGFralPqiPYHdHVGIkBR2nuSatw/BV6sGz9Gp9qvI+s5Ds//9k=",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/oYeplvvfnNxL2Xv8wX3d_Tz93sld7Jv_ERy7UoEckq8.jpg",
+    "url": "https://preview.redd.it/pclv6v0wsk251.jpg?width=640&crop=smart&auto=webp&s=3c972a0ff96e74e96c2becdeb70cf1d9d4a46fab",
+    "width": 640
   },
   "score": {
     "comments": 7,

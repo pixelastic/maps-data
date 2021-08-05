@@ -9,20 +9,19 @@
     "month": 1585699200,
     "week": 1585440000
   },
-  "displayPicture": {
-    "height": 360,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACMQAAEDAgUFAAAAAAAAAAAAAAECAwQABgUREiFzMTI1gbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAARIUNh/9oADAMBAAIRAxEAPwDGLORERcOGSCA4BJbeKVHMLyUDufVDf0iHJuXFZTSEtIXKdd0p6AlROxqJa/dH5B9FMX75GTzqoLCtqcP/2Q==",
-    "url": "https://preview.redd.it/c3pl50otrkq41.jpg?width=640&crop=smart&auto=webp&s=c75781d8fe1b32b1f64bb3668011d3fba66807c5",
-    "width": 640
-  },
   "id": "t3_fu5l0t",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/c3pl50otrkq41.jpg?auto=webp&s=053faf8a1bfd70c9c7afb3c09c7457f91b21023a",
-    "preview": "https://preview.redd.it/c3pl50otrkq41.jpg?width=640&crop=smart&auto=webp&s=c75781d8fe1b32b1f64bb3668011d3fba66807c5",
-    "thumbnail": "https://b.thumbs.redditmedia.com/EItn-OIO44mXDqEvAioBGdXxThozD1EFYPgbLQZP1HE.jpg"
+    "filesize": 44241,
+    "fullUrl": "https://preview.redd.it/c3pl50otrkq41.jpg?auto=webp&s=053faf8a1bfd70c9c7afb3c09c7457f91b21023a",
+    "hash": "4888173ea2",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACMQAAEDAgUFAAAAAAAAAAAAAAECAwQABgUREiFzMTI1gbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAARIUNh/9oADAMBAAIRAxEAPwDGLORERcOGSCA4BJbeKVHMLyUDufVDf0iHJuXFZTSEtIXKdd0p6AlROxqJa/dH5B9FMX75GTzqoLCtqcP/2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/EItn-OIO44mXDqEvAioBGdXxThozD1EFYPgbLQZP1HE.jpg",
+    "url": "https://preview.redd.it/c3pl50otrkq41.jpg?width=640&crop=smart&auto=webp&s=c75781d8fe1b32b1f64bb3668011d3fba66807c5",
+    "width": 640
   },
   "score": {
     "comments": 2,

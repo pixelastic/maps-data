@@ -9,20 +9,19 @@
     "month": 1593561600,
     "week": 1595116800
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhEzFRYfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMNq7Xctbc+4T16tiquEL4OU9McfY0XeavDHYdaSOrAcHBACfIII7OrHuk6QCBQohbiWTLYJAHeM/s6J3CzKR4g3GMjtR6OppO6OxYf/2Q==",
-    "url": "https://preview.redd.it/gshumh1rmtb51.jpg?width=640&crop=smart&auto=webp&s=f260dc174d83589e835140b85b14a9d19cc915eb",
-    "width": 640
-  },
   "id": "t3_hu19ih",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gshumh1rmtb51.jpg?auto=webp&s=e5b6a17b70598250f700ff3a80c3ae3277d8c565",
-    "preview": "https://preview.redd.it/gshumh1rmtb51.jpg?width=640&crop=smart&auto=webp&s=f260dc174d83589e835140b85b14a9d19cc915eb",
-    "thumbnail": "https://a.thumbs.redditmedia.com/RNQuzvj6KSHxbsAY_833s2H9qOmaix5VFomBINPh360.jpg"
+    "filesize": 67193,
+    "fullUrl": "https://preview.redd.it/gshumh1rmtb51.jpg?auto=webp&s=e5b6a17b70598250f700ff3a80c3ae3277d8c565",
+    "hash": "dec550b603",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhEzFRYfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMNq7Xctbc+4T16tiquEL4OU9McfY0XeavDHYdaSOrAcHBACfIII7OrHuk6QCBQohbiWTLYJAHeM/s6J3CzKR4g3GMjtR6OppO6OxYf/2Q==",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/RNQuzvj6KSHxbsAY_833s2H9qOmaix5VFomBINPh360.jpg",
+    "url": "https://preview.redd.it/gshumh1rmtb51.jpg?width=640&crop=smart&auto=webp&s=f260dc174d83589e835140b85b14a9d19cc915eb",
+    "width": 640
   },
   "score": {
     "comments": 6,

@@ -9,20 +9,19 @@
     "month": 1598918400,
     "week": 1599350400
   },
-  "displayPicture": {
-    "height": 320,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEI/8QAHBABAQACAgMAAAAAAAAAAAAAAgEAAxESITEy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANP0NWgHoR88eJcp1UbWjIdj47OT3xjGB//Z",
-    "url": "https://preview.redd.it/gflol71o1sl51.jpg?width=640&crop=smart&auto=webp&s=2fce03e509597c886fe0b6d5c1ffc267c360d79c",
-    "width": 640
-  },
   "id": "t3_ioe7l6",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gflol71o1sl51.jpg?auto=webp&s=ad5592fac700af8e9f6f7671fd285b0c1173b168",
-    "preview": "https://preview.redd.it/gflol71o1sl51.jpg?width=640&crop=smart&auto=webp&s=2fce03e509597c886fe0b6d5c1ffc267c360d79c",
-    "thumbnail": "https://a.thumbs.redditmedia.com/8OorALjY-X6DhFaEm37LK9eqOFqSty2fKT8vhhLFfH0.jpg"
+    "filesize": 24355,
+    "fullUrl": "https://preview.redd.it/gflol71o1sl51.jpg?auto=webp&s=ad5592fac700af8e9f6f7671fd285b0c1173b168",
+    "hash": "bab52ad4b3",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEI/8QAHBABAQACAgMAAAAAAAAAAAAAAgEAAxESITEy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANP0NWgHoR88eJcp1UbWjIdj47OT3xjGB//Z",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/8OorALjY-X6DhFaEm37LK9eqOFqSty2fKT8vhhLFfH0.jpg",
+    "url": "https://preview.redd.it/gflol71o1sl51.jpg?width=640&crop=smart&auto=webp&s=2fce03e509597c886fe0b6d5c1ffc267c360d79c",
+    "width": 640
   },
   "score": {
     "comments": 1,

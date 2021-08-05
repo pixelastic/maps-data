@@ -9,20 +9,19 @@
     "month": 1551398400,
     "week": 1551571200
   },
-  "displayPicture": {
-    "height": 360,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIF/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDEQAEBQYSIRMzUVJxkbHC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AMtPYmzvW7R26uUIJeUHZcTKEJTJ3AmY4PP3W3qy20+LLJpxD2IZfS4FnqE7kp9DRkiZj58UcJ/dWjuH3FNoqW2TjnJ//2Q==",
-    "url": "https://preview.redd.it/dqvx09hungk21.jpg?width=640&crop=smart&auto=webp&s=191bad9d8b6947d14fda0d0b5d160c0044525205",
-    "width": 640
-  },
   "id": "t3_axwn7m",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/dqvx09hungk21.jpg?auto=webp&s=20d0a04d4745eeb746c27667c1fc3e38f1021adc",
-    "preview": "https://preview.redd.it/dqvx09hungk21.jpg?width=640&crop=smart&auto=webp&s=191bad9d8b6947d14fda0d0b5d160c0044525205",
-    "thumbnail": "https://b.thumbs.redditmedia.com/kzeDfcKjM7FBDJfZP9Q9yA0WeWeFrFMeR64TCxS3CoU.jpg"
+    "filesize": 65078,
+    "fullUrl": "https://preview.redd.it/dqvx09hungk21.jpg?auto=webp&s=20d0a04d4745eeb746c27667c1fc3e38f1021adc",
+    "hash": "44a0cc72d5",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIF/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDEQAEBQYSIRMzUVJxkbHC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AMtPYmzvW7R26uUIJeUHZcTKEJTJ3AmY4PP3W3qy20+LLJpxD2IZfS4FnqE7kp9DRkiZj58UcJ/dWjuH3FNoqW2TjnJ//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/kzeDfcKjM7FBDJfZP9Q9yA0WeWeFrFMeR64TCxS3CoU.jpg",
+    "url": "https://preview.redd.it/dqvx09hungk21.jpg?width=640&crop=smart&auto=webp&s=191bad9d8b6947d14fda0d0b5d160c0044525205",
+    "width": 640
   },
   "score": {
     "comments": 12,

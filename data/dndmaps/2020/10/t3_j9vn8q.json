@@ -9,20 +9,19 @@
     "month": 1601510400,
     "week": 1602374400
   },
-  "displayPicture": {
-    "height": 908,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAREgQFITEUIkGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEQMRAD8A2555UbHGVoWA5jiUiMZlfYHsdUJs8OoDSSIpcswJACg2JF7flIPH1MY1GUbyJfEZupILZW4NjUw3lIGkjLDh2PfwsTQrYZMiSh3/2Q==",
-    "url": "https://preview.redd.it/vlsis4c5bps51.jpg?width=640&crop=smart&auto=webp&s=20f6dba8757f77096a750e70d92dcb8309e1edfb",
-    "width": 640
-  },
   "id": "t3_j9vn8q",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/vlsis4c5bps51.jpg?auto=webp&s=636a8c84dfd6b815083d8fb8ef39084287fac74a",
-    "preview": "https://preview.redd.it/vlsis4c5bps51.jpg?width=640&crop=smart&auto=webp&s=20f6dba8757f77096a750e70d92dcb8309e1edfb",
-    "thumbnail": "https://b.thumbs.redditmedia.com/LIDTkB84r7W_2ZzSXvYv-KF17umAk1Sf_sk7NZU2ptM.jpg"
+    "filesize": 151604,
+    "fullUrl": "https://preview.redd.it/vlsis4c5bps51.jpg?auto=webp&s=636a8c84dfd6b815083d8fb8ef39084287fac74a",
+    "hash": "68c122faab",
+    "height": 908,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAREgQFITEUIkGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEQMRAD8A2555UbHGVoWA5jiUiMZlfYHsdUJs8OoDSSIpcswJACg2JF7flIPH1MY1GUbyJfEZupILZW4NjUw3lIGkjLDh2PfwsTQrYZMiSh3/2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/LIDTkB84r7W_2ZzSXvYv-KF17umAk1Sf_sk7NZU2ptM.jpg",
+    "url": "https://preview.redd.it/vlsis4c5bps51.jpg?width=640&crop=smart&auto=webp&s=20f6dba8757f77096a750e70d92dcb8309e1edfb",
+    "width": 640
   },
   "score": {
     "comments": 1,

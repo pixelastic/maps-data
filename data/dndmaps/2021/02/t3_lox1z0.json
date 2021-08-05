@@ -9,20 +9,19 @@
     "month": 1612137600,
     "week": 1613865600
   },
-  "displayPicture": {
-    "height": 1031,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACIQAAICAQMEAwAAAAAAAAAAAAECAwQRAAUhEhMUMUFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIEIQEDQf/aAAwDAQACEQMRAD8AykblYkpQxteCdMKJFDg5YFfzjjU7cAitzxnko7KTj3g6OLyTYhles/ajAAbHBAGAR86R3JnfcbTBSQ0rn19nVbSmemCxDTXadP/Z",
-    "url": "https://preview.redd.it/exj7006a0ui61.jpg?width=640&crop=smart&auto=webp&s=0f7684467cd7f05e0a0ac5a4f34bee4b1fbd1e5b",
-    "width": 640
-  },
   "id": "t3_lox1z0",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/exj7006a0ui61.jpg?auto=webp&s=e941d2eb8935673c7cdd5637a59b42235b8e6d9a",
-    "preview": "https://preview.redd.it/exj7006a0ui61.jpg?width=640&crop=smart&auto=webp&s=0f7684467cd7f05e0a0ac5a4f34bee4b1fbd1e5b",
-    "thumbnail": "https://b.thumbs.redditmedia.com/1aESPymML-j_RNSY4WWI64lUWpM8dh_MaUxEZHeCoYA.jpg"
+    "filesize": 110452,
+    "fullUrl": "https://preview.redd.it/exj7006a0ui61.jpg?auto=webp&s=e941d2eb8935673c7cdd5637a59b42235b8e6d9a",
+    "hash": "5e81225fbf",
+    "height": 1031,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACIQAAICAQMEAwAAAAAAAAAAAAECAwQRAAUhEhMUMUFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIEIQEDQf/aAAwDAQACEQMRAD8AykblYkpQxteCdMKJFDg5YFfzjjU7cAitzxnko7KTj3g6OLyTYhles/ajAAbHBAGAR86R3JnfcbTBSQ0rn19nVbSmemCxDTXadP/Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/1aESPymML-j_RNSY4WWI64lUWpM8dh_MaUxEZHeCoYA.jpg",
+    "url": "https://preview.redd.it/exj7006a0ui61.jpg?width=640&crop=smart&auto=webp&s=0f7684467cd7f05e0a0ac5a4f34bee4b1fbd1e5b",
+    "width": 640
   },
   "score": {
     "comments": 1,

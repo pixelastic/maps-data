@@ -9,20 +9,19 @@
     "month": 1619827200,
     "week": 1621123200
   },
-  "displayPicture": {
-    "height": 640,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIEAwURAAYSMVETMkGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHBEAAQMFAAAAAAAAAAAAAAAAAwABEQITUWKB/9oADAMBAAIRAxEAPwDGirIvd2r00k+mqLl39zlj0qjoDHzo98oydvzo+JZrA4JYrxKt4OO9EhTqm3rpJrPRaqHHEkHGCP3VLlIkbvuVClFjsgx5GWYDv61HQILibMdlNI7Wy//Z",
-    "url": "https://preview.redd.it/mkj2f0lakoz61.jpg?width=640&crop=smart&auto=webp&s=11da3a47563616d9131fe1eac236363ccd20a25b",
-    "width": 640
-  },
   "id": "t3_nefzf2",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mkj2f0lakoz61.jpg?auto=webp&s=2c47093d8cdc4c95be644b2af7df9319485d2611",
-    "preview": "https://preview.redd.it/mkj2f0lakoz61.jpg?width=640&crop=smart&auto=webp&s=11da3a47563616d9131fe1eac236363ccd20a25b",
-    "thumbnail": "https://b.thumbs.redditmedia.com/_Z40Krqv5R0BnTXZjibxnYmVaMB83rKVSXJdXEikcGQ.jpg"
+    "filesize": 86781,
+    "fullUrl": "https://preview.redd.it/mkj2f0lakoz61.jpg?auto=webp&s=2c47093d8cdc4c95be644b2af7df9319485d2611",
+    "hash": "282cfc127a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIEAwURAAYSMVETMkGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHBEAAQMFAAAAAAAAAAAAAAAAAwABEQITUWKB/9oADAMBAAIRAxEAPwDGirIvd2r00k+mqLl39zlj0qjoDHzo98oydvzo+JZrA4JYrxKt4OO9EhTqm3rpJrPRaqHHEkHGCP3VLlIkbvuVClFjsgx5GWYDv61HQILibMdlNI7Wy//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/_Z40Krqv5R0BnTXZjibxnYmVaMB83rKVSXJdXEikcGQ.jpg",
+    "url": "https://preview.redd.it/mkj2f0lakoz61.jpg?width=640&crop=smart&auto=webp&s=11da3a47563616d9131fe1eac236363ccd20a25b",
+    "width": 640
   },
   "score": {
     "comments": 9,

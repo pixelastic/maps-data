@@ -9,20 +9,19 @@
     "month": 1551398400,
     "week": 1553385600
   },
-  "displayPicture": {
-    "height": 640,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECB//EACMQAAIBAwQBBQAAAAAAAAAAAAECAwAEBRESITETFCJx0eH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABERIi/9oADAMBAAIRAxEAPwDFsNaW0lqJZTEXZQzFgCdfk9n7pZXEwLayyRQpv8ZIAXQdUYe6s/RhGZEXx9OwPu4/au4kaXHTpFKCjBguwg8kcVA7ah+cH//Z",
-    "url": "https://preview.redd.it/cgrm55436ho21.jpg?width=640&crop=smart&auto=webp&s=813d2b889f86816a42818871dcd7307ca251914c",
-    "width": 640
-  },
   "id": "t3_b5qhtr",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/cgrm55436ho21.jpg?auto=webp&s=76b9d5f7e4a8cfcb6ae30fc5e68b1cecee4bd063",
-    "preview": "https://preview.redd.it/cgrm55436ho21.jpg?width=640&crop=smart&auto=webp&s=813d2b889f86816a42818871dcd7307ca251914c",
-    "thumbnail": "https://a.thumbs.redditmedia.com/_7bbD_-YenGHzAfvLE3vla0FwHWJu4MPzniKFyT0B28.jpg"
+    "filesize": 87453,
+    "fullUrl": "https://preview.redd.it/cgrm55436ho21.jpg?auto=webp&s=76b9d5f7e4a8cfcb6ae30fc5e68b1cecee4bd063",
+    "hash": "702a0a3734",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECB//EACMQAAIBAwQBBQAAAAAAAAAAAAECAwAEBRESITETFCJx0eH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABERIi/9oADAMBAAIRAxEAPwDFsNaW0lqJZTEXZQzFgCdfk9n7pZXEwLayyRQpv8ZIAXQdUYe6s/RhGZEXx9OwPu4/au4kaXHTpFKCjBguwg8kcVA7ah+cH//Z",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/_7bbD_-YenGHzAfvLE3vla0FwHWJu4MPzniKFyT0B28.jpg",
+    "url": "https://preview.redd.it/cgrm55436ho21.jpg?width=640&crop=smart&auto=webp&s=813d2b889f86816a42818871dcd7307ca251914c",
+    "width": 640
   },
   "score": {
     "comments": 1,

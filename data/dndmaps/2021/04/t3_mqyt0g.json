@@ -9,20 +9,19 @@
     "month": 1617235200,
     "week": 1618099200
   },
-  "displayPicture": {
-    "height": 396,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQRBRIhQTFRInGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEBAAMAAAAAAAAAAAAAAAABABESMf/aAAwDAQACEQMRAD8AX1HVri01OSKMrhSQiYwIx1+1sg1C5SOEzGN1cgrt+LNk+u/HnAqq28Mt3OZYo3JGSWUHncOadnjRZEZUUNjbkDr19VECvZtsF//Z",
-    "url": "https://preview.redd.it/xyr408dw37t61.jpg?width=640&crop=smart&auto=webp&s=54623ad61bdfc380a56a6fac38ab150d5c7d0e10",
-    "width": 640
-  },
   "id": "t3_mqyt0g",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xyr408dw37t61.jpg?auto=webp&s=7af8e8f5745c0a744fdfc4944c909b974455b8f2",
-    "preview": "https://preview.redd.it/xyr408dw37t61.jpg?width=640&crop=smart&auto=webp&s=54623ad61bdfc380a56a6fac38ab150d5c7d0e10",
-    "thumbnail": "https://b.thumbs.redditmedia.com/A6EWnN5SRV1lnMXRB8seWMUgbuYg4Ol9Ad9h6DCr3Aw.jpg"
+    "filesize": 73831,
+    "fullUrl": "https://preview.redd.it/xyr408dw37t61.jpg?auto=webp&s=7af8e8f5745c0a744fdfc4944c909b974455b8f2",
+    "hash": "01fdb1b6b4",
+    "height": 396,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQRBRIhQTFRInGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEBAAMAAAAAAAAAAAAAAAABABESMf/aAAwDAQACEQMRAD8AX1HVri01OSKMrhSQiYwIx1+1sg1C5SOEzGN1cgrt+LNk+u/HnAqq28Mt3OZYo3JGSWUHncOadnjRZEZUUNjbkDr19VECvZtsF//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/A6EWnN5SRV1lnMXRB8seWMUgbuYg4Ol9Ad9h6DCr3Aw.jpg",
+    "url": "https://preview.redd.it/xyr408dw37t61.jpg?width=640&crop=smart&auto=webp&s=54623ad61bdfc380a56a6fac38ab150d5c7d0e10",
+    "width": 640
   },
   "score": {
     "comments": 1,

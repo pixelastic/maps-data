@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1626566400
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDEQAEEiETMRRRIkGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAABAhEA/9oADAMBAAIRAxEAPwDCWNh5XE+62izt0shOTbYHJimJG9k+/c0NZ4ypTQgLnBImTAgEffRq9w8pptDTYCUp1rU6PdHWTksyZkEb6+J6/aWuxpOniKsA3//Z",
-    "url": "https://preview.redd.it/gekqx861qwb71.jpg?width=640&crop=smart&auto=webp&s=e3f488823e4ea73c98fa9087c99eb2d8a1df9749",
-    "width": 640
-  },
   "id": "t3_omkf2s",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gekqx861qwb71.jpg?auto=webp&s=00b11c8c16b0428f2546ca3386eaf4234dbef4dc",
-    "preview": "https://preview.redd.it/gekqx861qwb71.jpg?width=640&crop=smart&auto=webp&s=e3f488823e4ea73c98fa9087c99eb2d8a1df9749",
-    "thumbnail": "https://b.thumbs.redditmedia.com/6TX465qs2-gm34t8XHWsWsI_27GMbuah2YIxJR39a8s.jpg"
+    "filesize": 102872,
+    "fullUrl": "https://preview.redd.it/gekqx861qwb71.jpg?auto=webp&s=00b11c8c16b0428f2546ca3386eaf4234dbef4dc",
+    "hash": "fc4d5352dc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDEQAEEiETMRRRIkGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAABAhEA/9oADAMBAAIRAxEAPwDCWNh5XE+62izt0shOTbYHJimJG9k+/c0NZ4ypTQgLnBImTAgEffRq9w8pptDTYCUp1rU6PdHWTksyZkEb6+J6/aWuxpOniKsA3//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/6TX465qs2-gm34t8XHWsWsI_27GMbuah2YIxJR39a8s.jpg",
+    "url": "https://preview.redd.it/gekqx861qwb71.jpg?width=640&crop=smart&auto=webp&s=e3f488823e4ea73c98fa9087c99eb2d8a1df9749",
+    "width": 640
   },
   "score": {
     "comments": 4,

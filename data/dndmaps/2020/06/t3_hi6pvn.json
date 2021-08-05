@@ -9,20 +9,19 @@
     "month": 1590969600,
     "week": 1593302400
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDBBESIQAFEzFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAiFB/9oADAMBAAIRAxEAPwDKdd1XX1kDSrUSvJ5WBZgNNfer8Oel66ngZHq3eZZkOWJBuNYglvpB5NBQQTyrKykEjMqPRNzv94lZRQl2mxs8Sh1tYC4Or8mXjYhZasP/2Q==",
-    "url": "https://preview.redd.it/2gpu863tgw751.jpg?width=640&crop=smart&auto=webp&s=63c11db3c09f7024b910a6034e7efab50bce8442",
-    "width": 640
-  },
   "id": "t3_hi6pvn",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/2gpu863tgw751.jpg?auto=webp&s=a8e4259ae9cd6e2cef65b75beffd111e64ffec85",
-    "preview": "https://preview.redd.it/2gpu863tgw751.jpg?width=640&crop=smart&auto=webp&s=63c11db3c09f7024b910a6034e7efab50bce8442",
-    "thumbnail": "https://a.thumbs.redditmedia.com/WwwvIg_SwbKf4IAL-FtpSTBaZtVzYkVh6VB9FwYfNa8.jpg"
+    "filesize": 81277,
+    "fullUrl": "https://preview.redd.it/2gpu863tgw751.jpg?auto=webp&s=a8e4259ae9cd6e2cef65b75beffd111e64ffec85",
+    "hash": "fcb5af6739",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDBBESIQAFEzFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAiFB/9oADAMBAAIRAxEAPwDKdd1XX1kDSrUSvJ5WBZgNNfer8Oel66ngZHq3eZZkOWJBuNYglvpB5NBQQTyrKykEjMqPRNzv94lZRQl2mxs8Sh1tYC4Or8mXjYhZasP/2Q==",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/WwwvIg_SwbKf4IAL-FtpSTBaZtVzYkVh6VB9FwYfNa8.jpg",
+    "url": "https://preview.redd.it/2gpu863tgw751.jpg?width=640&crop=smart&auto=webp&s=63c11db3c09f7024b910a6034e7efab50bce8442",
+    "width": 640
   },
   "score": {
     "comments": 0,

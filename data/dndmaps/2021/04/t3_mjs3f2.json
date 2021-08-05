@@ -9,20 +9,19 @@
     "month": 1617235200,
     "week": 1617494400
   },
-  "displayPicture": {
-    "height": 960,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAICAQMDBQAAAAAAAAAAAAECAxEEAAUSExQiIUFRgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABkRAQEAAwEAAAAAAAAAAAAAAAECAAMEEf/aAAwDAQACEQMRAD8Aw6OeWII3ZYPgpNdK+VCxdfF6d7bPiNgxMdu6pI9XRFAJv2H5ozDXCmV1LorcG4EkAeQqtTTT7hjO0MIQxqTRLfeotfROymQ8TGaHP//Z",
-    "url": "https://preview.redd.it/jaen1v4084r61.jpg?width=640&crop=smart&auto=webp&s=19a3958341a4f1820e294f7a1c4d2e2ca1c29d17",
-    "width": 640
-  },
   "id": "t3_mjs3f2",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/jaen1v4084r61.jpg?auto=webp&s=11c4c6414ce00e5dc2cc594cc10fa6cb18e952d2",
-    "preview": "https://preview.redd.it/jaen1v4084r61.jpg?width=640&crop=smart&auto=webp&s=19a3958341a4f1820e294f7a1c4d2e2ca1c29d17",
-    "thumbnail": "https://b.thumbs.redditmedia.com/KguzoTsAboM7q6ZvI3HRfHprMzLZHg9fBkocJud3zPQ.jpg"
+    "filesize": 128730,
+    "fullUrl": "https://preview.redd.it/jaen1v4084r61.jpg?auto=webp&s=11c4c6414ce00e5dc2cc594cc10fa6cb18e952d2",
+    "hash": "7847e4d5f5",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAICAQMDBQAAAAAAAAAAAAECAxEEAAUSExQiIUFRgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABkRAQEAAwEAAAAAAAAAAAAAAAECAAMEEf/aAAwDAQACEQMRAD8Aw6OeWII3ZYPgpNdK+VCxdfF6d7bPiNgxMdu6pI9XRFAJv2H5ozDXCmV1LorcG4EkAeQqtTTT7hjO0MIQxqTRLfeotfROymQ8TGaHP//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/KguzoTsAboM7q6ZvI3HRfHprMzLZHg9fBkocJud3zPQ.jpg",
+    "url": "https://preview.redd.it/jaen1v4084r61.jpg?width=640&crop=smart&auto=webp&s=19a3958341a4f1820e294f7a1c4d2e2ca1c29d17",
+    "width": 640
   },
   "score": {
     "comments": 1,

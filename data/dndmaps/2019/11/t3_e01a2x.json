@@ -9,20 +9,19 @@
     "month": 1572566400,
     "week": 1573948800
   },
-  "displayPicture": {
-    "height": 453,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRMQAEEgUhQQYTUWGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIh/9oADAMBAAIRAxEAPwC9F019sD70zSSvIzcw93mgtntX7qp6dnml26GW+ILKt0W4g+bxg/en7mGN+KugILKTfzedE2EaRwxoigKGZsebPfU+6Elg7f/Z",
-    "url": "https://preview.redd.it/rccq3prut8041.jpg?width=640&crop=smart&auto=webp&s=4d0307933ddda73b694747c9414fd72994d935fc",
-    "width": 640
-  },
   "id": "t3_e01a2x",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/rccq3prut8041.jpg?auto=webp&s=feb371673b99e674638773ebf2b6b7ea8234dfb4",
-    "preview": "https://preview.redd.it/rccq3prut8041.jpg?width=640&crop=smart&auto=webp&s=4d0307933ddda73b694747c9414fd72994d935fc",
-    "thumbnail": "https://b.thumbs.redditmedia.com/wyVK81s4MLWYNyxmtQu10yy5Kw28wjwOLNhUurizgZE.jpg"
+    "filesize": 126946,
+    "fullUrl": "https://preview.redd.it/rccq3prut8041.jpg?auto=webp&s=feb371673b99e674638773ebf2b6b7ea8234dfb4",
+    "hash": "36c4a5b4ff",
+    "height": 453,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRMQAEEgUhQQYTUWGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIh/9oADAMBAAIRAxEAPwC9F019sD70zSSvIzcw93mgtntX7qp6dnml26GW+ILKt0W4g+bxg/en7mGN+KugILKTfzedE2EaRwxoigKGZsebPfU+6Elg7f/Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/wyVK81s4MLWYNyxmtQu10yy5Kw28wjwOLNhUurizgZE.jpg",
+    "url": "https://preview.redd.it/rccq3prut8041.jpg?width=640&crop=smart&auto=webp&s=4d0307933ddda73b694747c9414fd72994d935fc",
+    "width": 640
   },
   "score": {
     "comments": 13,

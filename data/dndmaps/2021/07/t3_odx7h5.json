@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1625356800
   },
-  "displayPicture": {
-    "height": 495,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACAQAAICAgIDAQEAAAAAAAAAAAECAxEEIQAFEjFBE3H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2ftcjIOV+MJaNA3k7GQ3MpbVj1xnrIZ3kkaScjwEUird0rOCBo6Ot/3hPiLPmMzSOrKQlrXoNr5yplYUXX5UMWOWCyhEa6JpWFfOB//Z",
-    "url": "https://preview.redd.it/kcr80166ra971.jpg?width=640&crop=smart&auto=webp&s=388053a89d788c54c7390f4aa5a643d5a241c4d0",
-    "width": 640
-  },
   "id": "t3_odx7h5",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/kcr80166ra971.jpg?auto=webp&s=60d94bc38e6738f8dfe4ceae06390089ee9842d7",
-    "preview": "https://preview.redd.it/kcr80166ra971.jpg?width=640&crop=smart&auto=webp&s=388053a89d788c54c7390f4aa5a643d5a241c4d0",
-    "thumbnail": "https://b.thumbs.redditmedia.com/28GOVePUV1H0QPpOHyjZzkUOouC-9cU0VxAoGBfURlo.jpg"
+    "filesize": 93810,
+    "fullUrl": "https://preview.redd.it/kcr80166ra971.jpg?auto=webp&s=60d94bc38e6738f8dfe4ceae06390089ee9842d7",
+    "hash": "1dba9d7e0a",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACAQAAICAgIDAQEAAAAAAAAAAAECAxEEIQAFEjFBE3H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2ftcjIOV+MJaNA3k7GQ3MpbVj1xnrIZ3kkaScjwEUird0rOCBo6Ot/3hPiLPmMzSOrKQlrXoNr5yplYUXX5UMWOWCyhEa6JpWFfOB//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/28GOVePUV1H0QPpOHyjZzkUOouC-9cU0VxAoGBfURlo.jpg",
+    "url": "https://preview.redd.it/kcr80166ra971.jpg?width=640&crop=smart&auto=webp&s=388053a89d788c54c7390f4aa5a643d5a241c4d0",
+    "width": 640
   },
   "score": {
     "comments": 26,

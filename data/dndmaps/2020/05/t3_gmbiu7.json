@@ -9,20 +9,19 @@
     "month": 1588291200,
     "week": 1589673600
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJRAAAgIBAgQHAAAAAAAAAAAAAQIDBBEAIQUSMUEyQkNhgaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADEiH/2gAMAwEAAhEDEQA/AAE9hI3AqCMEeqybE9+XPbPzqlt2njCvI7BiMvnJx+DSbiHAqZZFRWjCDykb+5yOusS/Rjp8rxM5Yk+Ijb61JYmBC2Buif/Z",
-    "url": "https://preview.redd.it/taika5rkklz41.jpg?width=640&crop=smart&auto=webp&s=f20c0462410c849f0dc0b638f5fbe1b8ba3a07d3",
-    "width": 640
-  },
   "id": "t3_gmbiu7",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/taika5rkklz41.jpg?auto=webp&s=5369fcd023f57c5ee3ef4df71bb36db216e4d7ad",
-    "preview": "https://preview.redd.it/taika5rkklz41.jpg?width=640&crop=smart&auto=webp&s=f20c0462410c849f0dc0b638f5fbe1b8ba3a07d3",
-    "thumbnail": "https://a.thumbs.redditmedia.com/V0FZzDLRLPUL5ZNN2jEtbp5PV8pNcDIx1Qnwireu0G0.jpg"
+    "filesize": 92372,
+    "fullUrl": "https://preview.redd.it/taika5rkklz41.jpg?auto=webp&s=5369fcd023f57c5ee3ef4df71bb36db216e4d7ad",
+    "hash": "079efefb2e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJRAAAgIBAgQHAAAAAAAAAAAAAQIDBBEAIQUSMUEyQkNhgaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADEiH/2gAMAwEAAhEDEQA/AAE9hI3AqCMEeqybE9+XPbPzqlt2njCvI7BiMvnJx+DSbiHAqZZFRWjCDykb+5yOusS/Rjp8rxM5Yk+Ijb61JYmBC2Buif/Z",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/V0FZzDLRLPUL5ZNN2jEtbp5PV8pNcDIx1Qnwireu0G0.jpg",
+    "url": "https://preview.redd.it/taika5rkklz41.jpg?width=640&crop=smart&auto=webp&s=f20c0462410c849f0dc0b638f5fbe1b8ba3a07d3",
+    "width": 640
   },
   "score": {
     "comments": 9,

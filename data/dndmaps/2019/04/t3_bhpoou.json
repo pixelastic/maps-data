@@ -9,20 +9,19 @@
     "month": 1554076800,
     "week": 1555804800
   },
-  "displayPicture": {
-    "height": 495,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDABESBCEiQQUUMTJRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAERIhUf/aAAwDAQACEQMRAD8AxUrLHp1JWQFyVsWII/KrRR6mJ4xg7Ih+Z5lj1a3uO96LxfLQx5csBcX3+6cr6ds4SyurYA5HYHqpxqS08Mbpc0B2f//Z",
-    "url": "https://preview.redd.it/duzlydrtinu21.jpg?width=640&crop=smart&auto=webp&s=42884b7be12448228c81531020c2f8175557f77d",
-    "width": 640
-  },
   "id": "t3_bhpoou",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/duzlydrtinu21.jpg?auto=webp&s=bf56456bd75f7239c119e7cc0a5d01a2f2b80ab6",
-    "preview": "https://preview.redd.it/duzlydrtinu21.jpg?width=640&crop=smart&auto=webp&s=42884b7be12448228c81531020c2f8175557f77d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/DzsaHz4KqWwxbnJztvoBlAdcsF3sLSTZKxi3ZlQ5ZnI.jpg"
+    "filesize": 80267,
+    "fullUrl": "https://preview.redd.it/duzlydrtinu21.jpg?auto=webp&s=bf56456bd75f7239c119e7cc0a5d01a2f2b80ab6",
+    "hash": "73a56d3344",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDABESBCEiQQUUMTJRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAERIhUf/aAAwDAQACEQMRAD8AxUrLHp1JWQFyVsWII/KrRR6mJ4xg7Ih+Z5lj1a3uO96LxfLQx5csBcX3+6cr6ds4SyurYA5HYHqpxqS08Mbpc0B2f//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/DzsaHz4KqWwxbnJztvoBlAdcsF3sLSTZKxi3ZlQ5ZnI.jpg",
+    "url": "https://preview.redd.it/duzlydrtinu21.jpg?width=640&crop=smart&auto=webp&s=42884b7be12448228c81531020c2f8175557f77d",
+    "width": 640
   },
   "score": {
     "comments": 5,

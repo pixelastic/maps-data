@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1625961600
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRBAATITFBcQYUMlGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAREiH/2gAMAwEAAhEDEQA/AGrk5Ixfa4RETggsRwzDvbfmquNNk5OM8BLb8RQ7pJFrVUevPHTQcGNXieQ/JFoV386d6fxoZZnaSNWKMaJ+xVHyL1NXRbpiWoUUJ//Z",
-    "url": "https://preview.redd.it/dunprrhezab71.jpg?width=640&crop=smart&auto=webp&s=cc1439184234d93c632cf81c32cae085f9316a35",
-    "width": 640
-  },
   "id": "t3_okla77",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/dunprrhezab71.jpg?auto=webp&s=38cb49cbbed60b71d41a76886eb77feadfe9f702",
-    "preview": "https://preview.redd.it/dunprrhezab71.jpg?width=640&crop=smart&auto=webp&s=cc1439184234d93c632cf81c32cae085f9316a35",
-    "thumbnail": "https://b.thumbs.redditmedia.com/aIFILos-77yekhGDDQjHfY0E3d84Eraqp8U6b7QxDhg.jpg"
+    "filesize": 95630,
+    "fullUrl": "https://preview.redd.it/dunprrhezab71.jpg?auto=webp&s=38cb49cbbed60b71d41a76886eb77feadfe9f702",
+    "hash": "b44c7aee05",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRBAATITFBcQYUMlGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAREiH/2gAMAwEAAhEDEQA/AGrk5Ixfa4RETggsRwzDvbfmquNNk5OM8BLb8RQ7pJFrVUevPHTQcGNXieQ/JFoV386d6fxoZZnaSNWKMaJ+xVHyL1NXRbpiWoUUJ//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/aIFILos-77yekhGDDQjHfY0E3d84Eraqp8U6b7QxDhg.jpg",
+    "url": "https://preview.redd.it/dunprrhezab71.jpg?width=640&crop=smart&auto=webp&s=cc1439184234d93c632cf81c32cae085f9316a35",
+    "width": 640
   },
   "score": {
     "comments": 3,

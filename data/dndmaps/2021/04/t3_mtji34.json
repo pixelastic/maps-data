@@ -9,20 +9,19 @@
     "month": 1617235200,
     "week": 1618704000
   },
-  "displayPicture": {
-    "height": 828,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgIABgIDAAAAAAAAAAAAAQIDBAAFERIhYSJBMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAwDAQACEQMRAD8A2mV4oronom0k0rEncQCNx140++8MVcwFRGjmluyPuJ1kZQR1+YEWZ4wz36tmtEkxjBYa+AA59c8DFy5ZJYZ2eG4QrbUJJ5X18jvBK//Z",
-    "url": "https://preview.redd.it/2gl97853gzt61.jpg?width=640&crop=smart&auto=webp&s=f370610114dd3b27d1f1e1a8149008d88c271ec5",
-    "width": 640
-  },
   "id": "t3_mtji34",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/2gl97853gzt61.jpg?auto=webp&s=4aa2678c9bf3a494aa0ea2c5f69d97fdb406c2e1",
-    "preview": "https://preview.redd.it/2gl97853gzt61.jpg?width=640&crop=smart&auto=webp&s=f370610114dd3b27d1f1e1a8149008d88c271ec5",
-    "thumbnail": "https://b.thumbs.redditmedia.com/aRJ4JJLp3AIc1CnlGRSaLjLXlu-q-ZeXlgYc6-MWo3Y.jpg"
+    "filesize": 177594,
+    "fullUrl": "https://preview.redd.it/2gl97853gzt61.jpg?auto=webp&s=4aa2678c9bf3a494aa0ea2c5f69d97fdb406c2e1",
+    "hash": "e756118f7c",
+    "height": 828,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgIABgIDAAAAAAAAAAAAAQIDBAAFERIhYSJBMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAwDAQACEQMRAD8A2mV4oronom0k0rEncQCNx140++8MVcwFRGjmluyPuJ1kZQR1+YEWZ4wz36tmtEkxjBYa+AA59c8DFy5ZJYZ2eG4QrbUJJ5X18jvBK//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/aRJ4JJLp3AIc1CnlGRSaLjLXlu-q-ZeXlgYc6-MWo3Y.jpg",
+    "url": "https://preview.redd.it/2gl97853gzt61.jpg?width=640&crop=smart&auto=webp&s=f370610114dd3b27d1f1e1a8149008d88c271ec5",
+    "width": 640
   },
   "score": {
     "comments": 1,

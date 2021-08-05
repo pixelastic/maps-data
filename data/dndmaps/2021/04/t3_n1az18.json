@@ -9,20 +9,19 @@
     "month": 1617235200,
     "week": 1619308800
   },
-  "displayPicture": {
-    "height": 950,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDBAURIQASE0ExM2H/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEh/9oADAMBAAIRAxEAPwC9cWttroyPG5lRVQyABGkOcn8GMA7HBaquqqaoeAWwjxHp9edjXri1naWjtUsDzwTB1CJFKgYKzEZPU+sZ+OY7/YbhJd6l45J2RiCCowDobG+FpxiHi+3s5KE7P//Z",
-    "url": "https://preview.redd.it/itonwg2sp5w61.jpg?width=640&crop=smart&auto=webp&s=a832a26145d3d762091b0317db5800fe331fa93c",
-    "width": 640
-  },
   "id": "t3_n1az18",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/itonwg2sp5w61.jpg?auto=webp&s=bcc3f3da12fcb95cbe067d488796f4f2d58fdc75",
-    "preview": "https://preview.redd.it/itonwg2sp5w61.jpg?width=640&crop=smart&auto=webp&s=a832a26145d3d762091b0317db5800fe331fa93c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/jxlu4niIrV0HYgIgPxY_bkW7cl5WhBKD5t2YPddZdDc.jpg"
+    "filesize": 163603,
+    "fullUrl": "https://preview.redd.it/itonwg2sp5w61.jpg?auto=webp&s=bcc3f3da12fcb95cbe067d488796f4f2d58fdc75",
+    "hash": "ecdef51883",
+    "height": 950,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDBAURIQASE0ExM2H/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEh/9oADAMBAAIRAxEAPwC9cWttroyPG5lRVQyABGkOcn8GMA7HBaquqqaoeAWwjxHp9edjXri1naWjtUsDzwTB1CJFKgYKzEZPU+sZ+OY7/YbhJd6l45J2RiCCowDobG+FpxiHi+3s5KE7P//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/jxlu4niIrV0HYgIgPxY_bkW7cl5WhBKD5t2YPddZdDc.jpg",
+    "url": "https://preview.redd.it/itonwg2sp5w61.jpg?width=640&crop=smart&auto=webp&s=a832a26145d3d762091b0317db5800fe331fa93c",
+    "width": 640
   },
   "score": {
     "comments": 1,

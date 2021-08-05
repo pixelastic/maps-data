@@ -9,20 +9,19 @@
     "month": 1617235200,
     "week": 1618099200
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQQAEjFRBWETFIH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABERIiMf/aAAwDAQACEQMRAD8Ax0mYpifHjWb41YsihKYke6PPs6L7DSss0rnYrKQG5jHRIAs8arysKHL8auRMGMiqpFMQLvrRUMaRMaABIim81zfd/mp2acFcpn//2Q==",
-    "url": "https://preview.redd.it/dtletw6dhlt61.jpg?width=640&crop=smart&auto=webp&s=3b3b33d75e9b03b72978c8f4df5dd995821e0379",
-    "width": 640
-  },
   "id": "t3_msbpew",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/dtletw6dhlt61.jpg?auto=webp&s=48e2a9b0d1fcf0372dcbc9459940e04c1acf50c0",
-    "preview": "https://preview.redd.it/dtletw6dhlt61.jpg?width=640&crop=smart&auto=webp&s=3b3b33d75e9b03b72978c8f4df5dd995821e0379",
-    "thumbnail": "https://b.thumbs.redditmedia.com/zKeCyUmmrTV7weZZlwoI-es7sdfrkvBpwU_ABxx8h7A.jpg"
+    "filesize": 90204,
+    "fullUrl": "https://preview.redd.it/dtletw6dhlt61.jpg?auto=webp&s=48e2a9b0d1fcf0372dcbc9459940e04c1acf50c0",
+    "hash": "475f3360ca",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQQAEjFRBWETFIH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABERIiMf/aAAwDAQACEQMRAD8Ax0mYpifHjWb41YsihKYke6PPs6L7DSss0rnYrKQG5jHRIAs8arysKHL8auRMGMiqpFMQLvrRUMaRMaABIim81zfd/mp2acFcpn//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/zKeCyUmmrTV7weZZlwoI-es7sdfrkvBpwU_ABxx8h7A.jpg",
+    "url": "https://preview.redd.it/dtletw6dhlt61.jpg?width=640&crop=smart&auto=webp&s=3b3b33d75e9b03b72978c8f4df5dd995821e0379",
+    "width": 640
   },
   "score": {
     "comments": 0,

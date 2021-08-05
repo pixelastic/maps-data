@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1625961600
   },
-  "displayPicture": {
-    "height": 827,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAgEAACAQQCAwEAAAAAAAAAAAABAgMABBEhEjETUWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECAxL/2gAMAwEAAhEDEQA/ALptordJUWNVYsCHRQcADJ/T3QLmKG6lMnjiiPTKVHdKhkmfEaM6njgkaVsnZPymPdWdskSEcSyBiMb373UvY8sMowLn/9k=",
-    "url": "https://preview.redd.it/hcy0mikozla71.jpg?width=640&crop=smart&auto=webp&s=557e89f7c3d1845731f82c930b32768780fb2836",
-    "width": 640
-  },
   "id": "t3_oi7k2c",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hcy0mikozla71.jpg?auto=webp&s=c4306052d20007e31bc3a1f0093252ecc8d87424",
-    "preview": "https://preview.redd.it/hcy0mikozla71.jpg?width=640&crop=smart&auto=webp&s=557e89f7c3d1845731f82c930b32768780fb2836",
-    "thumbnail": "https://b.thumbs.redditmedia.com/pbqBOJ9jcjfmEPkzSCJuSrLT3AvpZFr-Q9zr_P6RTtk.jpg"
+    "filesize": 227570,
+    "fullUrl": "https://preview.redd.it/hcy0mikozla71.jpg?auto=webp&s=c4306052d20007e31bc3a1f0093252ecc8d87424",
+    "hash": "c6dd0a4120",
+    "height": 827,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAgEAACAQQCAwEAAAAAAAAAAAABAgMABBEhEjETUWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECAxL/2gAMAwEAAhEDEQA/ALptordJUWNVYsCHRQcADJ/T3QLmKG6lMnjiiPTKVHdKhkmfEaM6njgkaVsnZPymPdWdskSEcSyBiMb373UvY8sMowLn/9k=",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/pbqBOJ9jcjfmEPkzSCJuSrLT3AvpZFr-Q9zr_P6RTtk.jpg",
+    "url": "https://preview.redd.it/hcy0mikozla71.jpg?width=640&crop=smart&auto=webp&s=557e89f7c3d1845731f82c930b32768780fb2836",
+    "width": 640
   },
   "score": {
     "comments": 20,

@@ -9,20 +9,19 @@
     "month": 1598918400,
     "week": 1599350400
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAgEDAQkAAAAAAAAAAAABAgMRABIhMQQFBhMUMlGBkfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/AI/sqFPIRtORKkax+Ho2NkUFuuBkpMi6JPSDZO37fEek62eLu7O6SuHjZEU6yKBHHNe31hsbmSOUtVhiAfnB5CL2K2sIE//Z",
-    "url": "https://preview.redd.it/kuvast06uxl51.jpg?width=640&crop=smart&auto=webp&s=827a97a1efaebd15a40fc3ab22b11a7ecddb69ff",
-    "width": 640
-  },
   "id": "t3_iov1ya",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/kuvast06uxl51.jpg?auto=webp&s=bce7f6a7c587b9a9a2a566f4682eac6f9c1d3dac",
-    "preview": "https://preview.redd.it/kuvast06uxl51.jpg?width=640&crop=smart&auto=webp&s=827a97a1efaebd15a40fc3ab22b11a7ecddb69ff",
-    "thumbnail": "https://b.thumbs.redditmedia.com/WOUfYcUmGqHQ7htn3LUhmymtND6T3VISuu6xFu_LoAM.jpg"
+    "filesize": 86056,
+    "fullUrl": "https://preview.redd.it/kuvast06uxl51.jpg?auto=webp&s=bce7f6a7c587b9a9a2a566f4682eac6f9c1d3dac",
+    "hash": "8add91f93f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAgEDAQkAAAAAAAAAAAABAgMRABIhMQQFBhMUMlGBkfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/AI/sqFPIRtORKkax+Ho2NkUFuuBkpMi6JPSDZO37fEek62eLu7O6SuHjZEU6yKBHHNe31hsbmSOUtVhiAfnB5CL2K2sIE//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/WOUfYcUmGqHQ7htn3LUhmymtND6T3VISuu6xFu_LoAM.jpg",
+    "url": "https://preview.redd.it/kuvast06uxl51.jpg?width=640&crop=smart&auto=webp&s=827a97a1efaebd15a40fc3ab22b11a7ecddb69ff",
+    "width": 640
   },
   "score": {
     "comments": 1,

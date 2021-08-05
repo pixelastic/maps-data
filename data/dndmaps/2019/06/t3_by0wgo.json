@@ -9,20 +9,19 @@
     "month": 1559347200,
     "week": 1559433600
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAHxAAAgIBBQEBAAAAAAAAAAAAAQIDBCEABRESMSKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAIBBQAAAAAAAAAAAAAAAAABAgMREyEx/9oADAMBAAIRAxEAPwDBbUzVEqNUrRLakTJn+QDx6ScfuqZ6r7jXspuNSCF2wpiQALj0Z0dS1LaqfbdW6AllHBOdFdtT1qz9JWLMDluORn0aJqSqrYd1i4f/2Q==",
-    "url": "https://preview.redd.it/yarspg0ri0331.jpg?width=640&crop=smart&auto=webp&s=b1ab4a9a8d4a1d3e3b7713648595d503395d55bf",
-    "width": 640
-  },
   "id": "t3_by0wgo",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/yarspg0ri0331.jpg?auto=webp&s=4058c60da0b6b48f55ff1ed2ca1ec7501fdfc57a",
-    "preview": "https://preview.redd.it/yarspg0ri0331.jpg?width=640&crop=smart&auto=webp&s=b1ab4a9a8d4a1d3e3b7713648595d503395d55bf",
-    "thumbnail": "https://a.thumbs.redditmedia.com/dAcUYGd2GJSyV-SkMIRjTLVVGpp40w14Yb-ED93b_r0.jpg"
+    "filesize": 66083,
+    "fullUrl": "https://preview.redd.it/yarspg0ri0331.jpg?auto=webp&s=4058c60da0b6b48f55ff1ed2ca1ec7501fdfc57a",
+    "hash": "ce67081363",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAHxAAAgIBBQEBAAAAAAAAAAAAAQIDBCEABRESMSKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAIBBQAAAAAAAAAAAAAAAAABAgMREyEx/9oADAMBAAIRAxEAPwDBbUzVEqNUrRLakTJn+QDx6ScfuqZ6r7jXspuNSCF2wpiQALj0Z0dS1LaqfbdW6AllHBOdFdtT1qz9JWLMDluORn0aJqSqrYd1i4f/2Q==",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/dAcUYGd2GJSyV-SkMIRjTLVVGpp40w14Yb-ED93b_r0.jpg",
+    "url": "https://preview.redd.it/yarspg0ri0331.jpg?width=640&crop=smart&auto=webp&s=b1ab4a9a8d4a1d3e3b7713648595d503395d55bf",
+    "width": 640
   },
   "score": {
     "comments": 11,

@@ -9,20 +9,19 @@
     "month": 1622505600,
     "week": 1624147200
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQFEQYTEiGxMf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAgEAEf/aAAwDAQACEQMRAD8AW4nj9u9tEEijWIRg7Kg/aM80w9uLeVFjXevTdYUn1VWwzV2mHjIKb8db1+is357zPKdksKi3VSCCwQ7+1EFU+ZRkG//Z",
-    "url": "https://external-preview.redd.it/SWPKOlSsdvk323oWtOETMIgzkxATpx_7p_FJjg9R41k.jpg?width=640&crop=smart&auto=webp&s=2f2fde3abf46cd49b35affcdb5df0cfa757dfaf1",
-    "width": 640
-  },
   "id": "t3_o7kak4",
   "misc": {
     "postHint": "gallery"
   },
   "picture": {
-    "full": "https://external-preview.redd.it/SWPKOlSsdvk323oWtOETMIgzkxATpx_7p_FJjg9R41k.jpg?auto=webp&s=0057c0069ff787ad50f5281e5ae7a3661d46b69a",
-    "preview": "https://external-preview.redd.it/SWPKOlSsdvk323oWtOETMIgzkxATpx_7p_FJjg9R41k.jpg?width=640&crop=smart&auto=webp&s=2f2fde3abf46cd49b35affcdb5df0cfa757dfaf1",
-    "thumbnail": "https://b.thumbs.redditmedia.com/VDSNmI1CLnFpEtF-xJeLPzaDLQV3NEf9Q8nsG5NVpxc.jpg"
+    "filesize": 71159,
+    "fullUrl": "https://external-preview.redd.it/SWPKOlSsdvk323oWtOETMIgzkxATpx_7p_FJjg9R41k.jpg?auto=webp&s=0057c0069ff787ad50f5281e5ae7a3661d46b69a",
+    "hash": "6e0c1581bc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQFEQYTEiGxMf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAgEAEf/aAAwDAQACEQMRAD8AW4nj9u9tEEijWIRg7Kg/aM80w9uLeVFjXevTdYUn1VWwzV2mHjIKb8db1+is357zPKdksKi3VSCCwQ7+1EFU+ZRkG//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/VDSNmI1CLnFpEtF-xJeLPzaDLQV3NEf9Q8nsG5NVpxc.jpg",
+    "url": "https://external-preview.redd.it/SWPKOlSsdvk323oWtOETMIgzkxATpx_7p_FJjg9R41k.jpg?width=640&crop=smart&auto=webp&s=2f2fde3abf46cd49b35affcdb5df0cfa757dfaf1",
+    "width": 640
   },
   "score": {
     "comments": 8,

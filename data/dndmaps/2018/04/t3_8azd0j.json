@@ -9,20 +9,19 @@
     "month": 1522540800,
     "week": 1523145600
   },
-  "displayPicture": {
-    "height": 640,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBv/EACIQAAIDAAICAQUAAAAAAAAAAAEDAgQRAAUGQTESE1Fhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AwvX+PVm9dWmftlzUxnk4jRo+QOHY+O1l9daniw1SZTyEQScHscmpWqiKdeanxDFgH6zMZEYPj3v53iufXsVbLGPWwsEzKRmNJwZg9fz9cIX/2Q==",
-    "url": "https://preview.redd.it/r2mrdofnewq01.jpg?width=640&crop=smart&auto=webp&s=cccf0fc9de9cff4965f1c14a8df4cd97f1a18b73",
-    "width": 640
-  },
   "id": "t3_8azd0j",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/r2mrdofnewq01.jpg?auto=webp&s=12363bcc74c3f0d831ebd631f7ba8e2a0605d28c",
-    "preview": "https://preview.redd.it/r2mrdofnewq01.jpg?width=640&crop=smart&auto=webp&s=cccf0fc9de9cff4965f1c14a8df4cd97f1a18b73",
-    "thumbnail": "https://a.thumbs.redditmedia.com/fAn_UknoAWCLEqlgUI0BhQUfetGCNf6RxLl0_TBtRJ4.jpg"
+    "filesize": 108941,
+    "fullUrl": "https://preview.redd.it/r2mrdofnewq01.jpg?auto=webp&s=12363bcc74c3f0d831ebd631f7ba8e2a0605d28c",
+    "hash": "18876d00bc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBv/EACIQAAIDAAICAQUAAAAAAAAAAAEDAgQRAAUGQTESE1Fhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AwvX+PVm9dWmftlzUxnk4jRo+QOHY+O1l9daniw1SZTyEQScHscmpWqiKdeanxDFgH6zMZEYPj3v53iufXsVbLGPWwsEzKRmNJwZg9fz9cIX/2Q==",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/fAn_UknoAWCLEqlgUI0BhQUfetGCNf6RxLl0_TBtRJ4.jpg",
+    "url": "https://preview.redd.it/r2mrdofnewq01.jpg?width=640&crop=smart&auto=webp&s=cccf0fc9de9cff4965f1c14a8df4cd97f1a18b73",
+    "width": 640
   },
   "score": {
     "comments": 5,

@@ -9,20 +9,19 @@
     "month": 1622505600,
     "week": 1622937600
   },
-  "displayPicture": {
-    "height": 528,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEB//EACIQAAICAgEDBQAAAAAAAAAAAAEDAhEEBQASInExQUJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AME0+tXldMymTIE9xAoRHuT44bbXrxVtpdQBJXM/MeP3ixNi/CyFrWQVGQuFyAI+6PK81rM7GaxsqHVICIsgUT6WeBtM/9k=",
-    "url": "https://preview.redd.it/o7tqkjdbd1471.jpg?width=640&crop=smart&auto=webp&s=b9c650825d829042416edefa6efe594366950069",
-    "width": 640
-  },
   "id": "t3_nv30pl",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/o7tqkjdbd1471.jpg?auto=webp&s=af9155f55126c7dc073d88804050513fd65ff67e",
-    "preview": "https://preview.redd.it/o7tqkjdbd1471.jpg?width=640&crop=smart&auto=webp&s=b9c650825d829042416edefa6efe594366950069",
-    "thumbnail": "https://b.thumbs.redditmedia.com/I6pz7QXQ8roQ-8KwqYATL11gwKfhdDagsRTsvcJhoYQ.jpg"
+    "filesize": 77534,
+    "fullUrl": "https://preview.redd.it/o7tqkjdbd1471.jpg?auto=webp&s=af9155f55126c7dc073d88804050513fd65ff67e",
+    "hash": "a7c4168508",
+    "height": 528,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEB//EACIQAAICAgEDBQAAAAAAAAAAAAEDAhEEBQASInExQUJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AME0+tXldMymTIE9xAoRHuT44bbXrxVtpdQBJXM/MeP3ixNi/CyFrWQVGQuFyAI+6PK81rM7GaxsqHVICIsgUT6WeBtM/9k=",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/I6pz7QXQ8roQ-8KwqYATL11gwKfhdDagsRTsvcJhoYQ.jpg",
+    "url": "https://preview.redd.it/o7tqkjdbd1471.jpg?width=640&crop=smart&auto=webp&s=b9c650825d829042416edefa6efe594366950069",
+    "width": 640
   },
   "score": {
     "comments": 1,

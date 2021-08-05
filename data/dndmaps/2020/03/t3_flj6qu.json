@@ -9,20 +9,19 @@
     "month": 1583020800,
     "week": 1584230400
   },
-  "displayPicture": {
-    "height": 420,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACEQAAEEAQQDAQAAAAAAAAAAAAECAwQRBQASITEGQYET/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwAlqAoMOfquOlRLZSFL5pV+/ovTEB/x6NhXo+TguKyVOBDoQSLs7Tdix80RGzE+PjHoDUgpiuA7kbUm7q+asdD3o5SlKNqUVHrk3qD/2Q==",
-    "url": "https://preview.redd.it/mleasj87gpn41.jpg?width=640&crop=smart&auto=webp&s=d4579276738c05b049bccab51226cee2e2852327",
-    "width": 640
-  },
   "id": "t3_flj6qu",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mleasj87gpn41.jpg?auto=webp&s=1bcced967d0701cc65b9daadd5382059ef517224",
-    "preview": "https://preview.redd.it/mleasj87gpn41.jpg?width=640&crop=smart&auto=webp&s=d4579276738c05b049bccab51226cee2e2852327",
-    "thumbnail": "https://b.thumbs.redditmedia.com/IkmNZwUpd48Di471ZOTUytXDjsgynROv1kBP8AlCffE.jpg"
+    "filesize": 52986,
+    "fullUrl": "https://preview.redd.it/mleasj87gpn41.jpg?auto=webp&s=1bcced967d0701cc65b9daadd5382059ef517224",
+    "hash": "96162d02d5",
+    "height": 420,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACEQAAEEAQQDAQAAAAAAAAAAAAECAwQRBQASITEGQYET/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwAlqAoMOfquOlRLZSFL5pV+/ovTEB/x6NhXo+TguKyVOBDoQSLs7Tdix80RGzE+PjHoDUgpiuA7kbUm7q+asdD3o5SlKNqUVHrk3qD/2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/IkmNZwUpd48Di471ZOTUytXDjsgynROv1kBP8AlCffE.jpg",
+    "url": "https://preview.redd.it/mleasj87gpn41.jpg?width=640&crop=smart&auto=webp&s=d4579276738c05b049bccab51226cee2e2852327",
+    "width": 640
   },
   "score": {
     "comments": 3,

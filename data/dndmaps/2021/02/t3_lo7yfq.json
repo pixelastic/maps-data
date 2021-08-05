@@ -9,20 +9,19 @@
     "month": 1612137600,
     "week": 1613260800
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEQUhURITQRQiMWGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAMBAQEAAAAAAAAAAAAAAAECAwASIf/aAAwDAQACEQMRAD8AVBpdqk1osjErIhbHV5GDnbxvWVq1s8N1MfTiCEPhAGByOfn6/anW6mEiOHPWi9tWxuF4oTStMxkk3dz7m5xQpCiVDlsL1VxyB5v/2Q==",
-    "url": "https://preview.redd.it/cijezb545ni61.jpg?width=640&crop=smart&auto=webp&s=4a16b7064d8e6c8a985195ed98bde5f0ef75fc3a",
-    "width": 640
-  },
   "id": "t3_lo7yfq",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/cijezb545ni61.jpg?auto=webp&s=ee7439b8bde1c83bd66cea0fc360ade8cfb40d2a",
-    "preview": "https://preview.redd.it/cijezb545ni61.jpg?width=640&crop=smart&auto=webp&s=4a16b7064d8e6c8a985195ed98bde5f0ef75fc3a",
-    "thumbnail": "https://a.thumbs.redditmedia.com/jZPo3VRpG55SBzgplTf4FBESnn1jnpL9tRLqdSU30q0.jpg"
+    "filesize": 59426,
+    "fullUrl": "https://preview.redd.it/cijezb545ni61.jpg?auto=webp&s=ee7439b8bde1c83bd66cea0fc360ade8cfb40d2a",
+    "hash": "f1e2e5d06d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEQUhURITQRQiMWGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAMBAQEAAAAAAAAAAAAAAAECAwASIf/aAAwDAQACEQMRAD8AVBpdqk1osjErIhbHV5GDnbxvWVq1s8N1MfTiCEPhAGByOfn6/anW6mEiOHPWi9tWxuF4oTStMxkk3dz7m5xQpCiVDlsL1VxyB5v/2Q==",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/jZPo3VRpG55SBzgplTf4FBESnn1jnpL9tRLqdSU30q0.jpg",
+    "url": "https://preview.redd.it/cijezb545ni61.jpg?width=640&crop=smart&auto=webp&s=4a16b7064d8e6c8a985195ed98bde5f0ef75fc3a",
+    "width": 640
   },
   "score": {
     "comments": 5,

@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1627171200
   },
-  "displayPicture": {
-    "height": 853,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDBAURABIhQSIjMf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AxXLYx6jwBugLqm1U7APUcHm8FeNmJo4HdTECCNa/TypmGphq4hnkc6XsW9H3xVyxRQw/fbkJjB+EZIHk+N8c0gaz/9k=",
-    "url": "https://preview.redd.it/68qucrcudje71.jpg?width=640&crop=smart&auto=webp&s=3530f12b81118984fc37411b18b7a5709198be6f",
-    "width": 640
-  },
   "id": "t3_ov5sdp",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/68qucrcudje71.jpg?auto=webp&s=ea2374444f6f29c3802131f84459310787285028",
-    "preview": "https://preview.redd.it/68qucrcudje71.jpg?width=640&crop=smart&auto=webp&s=3530f12b81118984fc37411b18b7a5709198be6f",
-    "thumbnail": "https://b.thumbs.redditmedia.com/H2uOxSUpYudrJ-itD_L0C6rMqPq77XelWBSOk6T795U.jpg"
+    "filesize": 126294,
+    "fullUrl": "https://preview.redd.it/68qucrcudje71.jpg?auto=webp&s=ea2374444f6f29c3802131f84459310787285028",
+    "hash": "bd26c33900",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDBAURABIhQSIjMf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AxXLYx6jwBugLqm1U7APUcHm8FeNmJo4HdTECCNa/TypmGphq4hnkc6XsW9H3xVyxRQw/fbkJjB+EZIHk+N8c0gaz/9k=",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/H2uOxSUpYudrJ-itD_L0C6rMqPq77XelWBSOk6T795U.jpg",
+    "url": "https://preview.redd.it/68qucrcudje71.jpg?width=640&crop=smart&auto=webp&s=3530f12b81118984fc37411b18b7a5709198be6f",
+    "width": 640
   },
   "score": {
     "comments": 2,

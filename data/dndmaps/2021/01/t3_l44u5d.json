@@ -9,20 +9,19 @@
     "month": 1609459200,
     "week": 1611446400
   },
-  "displayPicture": {
-    "height": 452,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIECP/EACIQAQACAQQABwAAAAAAAAAAAAECEQMABBIhBRQxQVGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0Nij5mNwAkNrxpr3+tPgeXEsmMR4ZLptQO+zr91TsAyjlnbkjLqV09+uj41jjDa7jNETJA5Rben51B//2Q==",
-    "url": "https://preview.redd.it/avu9am50pbd61.jpg?width=640&crop=smart&auto=webp&s=3c03eecf304ca1a46e738aab003da036166030c0",
-    "width": 640
-  },
   "id": "t3_l44u5d",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/avu9am50pbd61.jpg?auto=webp&s=0fe19e435cc3d33052e03ecb03ea98c96ff8d0c4",
-    "preview": "https://preview.redd.it/avu9am50pbd61.jpg?width=640&crop=smart&auto=webp&s=3c03eecf304ca1a46e738aab003da036166030c0",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ROmhEVVBSCjx0FEMq4SVVS4GVr20j_-VRVApDNIbd5E.jpg"
+    "filesize": 97022,
+    "fullUrl": "https://preview.redd.it/avu9am50pbd61.jpg?auto=webp&s=0fe19e435cc3d33052e03ecb03ea98c96ff8d0c4",
+    "hash": "a02d5f4822",
+    "height": 452,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIECP/EACIQAQACAQQABwAAAAAAAAAAAAECEQMABBIhBRQxQVGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0Nij5mNwAkNrxpr3+tPgeXEsmMR4ZLptQO+zr91TsAyjlnbkjLqV09+uj41jjDa7jNETJA5Rben51B//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/ROmhEVVBSCjx0FEMq4SVVS4GVr20j_-VRVApDNIbd5E.jpg",
+    "url": "https://preview.redd.it/avu9am50pbd61.jpg?width=640&crop=smart&auto=webp&s=3c03eecf304ca1a46e738aab003da036166030c0",
+    "width": 640
   },
   "score": {
     "comments": 0,

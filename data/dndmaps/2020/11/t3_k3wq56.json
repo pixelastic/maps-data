@@ -9,20 +9,19 @@
     "month": 1604188800,
     "week": 1606608000
   },
-  "displayPicture": {
-    "height": 1392,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAeEAABBAEFAAAAAAAAAAAAAAAAAQIRIQMTIiMxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AJLifzPZFWoCMTV3Wvc+ApBf/9k=",
-    "url": "https://preview.redd.it/inh3mila0e261.jpg?width=640&crop=smart&auto=webp&s=fce375537d987fdf8eb2827c0f1828945ff0ba0c",
-    "width": 640
-  },
   "id": "t3_k3wq56",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/inh3mila0e261.jpg?auto=webp&s=708889a6950f361e23b04472df33a73fde7ed12a",
-    "preview": "https://preview.redd.it/inh3mila0e261.jpg?width=640&crop=smart&auto=webp&s=fce375537d987fdf8eb2827c0f1828945ff0ba0c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/7Wd2t_4__z0nljolBDjRqm6ZLUfi-TN3bIJf197DC_Q.jpg"
+    "filesize": 78618,
+    "fullUrl": "https://preview.redd.it/inh3mila0e261.jpg?auto=webp&s=708889a6950f361e23b04472df33a73fde7ed12a",
+    "hash": "233f3455f1",
+    "height": 1392,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAeEAABBAEFAAAAAAAAAAAAAAAAAQIRIQMTIiMxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AJLifzPZFWoCMTV3Wvc+ApBf/9k=",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/7Wd2t_4__z0nljolBDjRqm6ZLUfi-TN3bIJf197DC_Q.jpg",
+    "url": "https://preview.redd.it/inh3mila0e261.jpg?width=640&crop=smart&auto=webp&s=fce375537d987fdf8eb2827c0f1828945ff0ba0c",
+    "width": 640
   },
   "score": {
     "comments": 11,

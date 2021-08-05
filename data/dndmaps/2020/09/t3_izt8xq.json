@@ -9,20 +9,19 @@
     "month": 1598918400,
     "week": 1600560000
   },
-  "displayPicture": {
-    "height": 640,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDAAQxERIFBhMhUXEiMmH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDK+DCG6jmeVJYzHofuzajOD6pYltmnQOlx09jSLr3VAT3IHn8oPL05kS8Tbp8Ack+atWXTNrFCjubrarqgDMCcYwfWaldqoxzLdCf/2Q==",
-    "url": "https://preview.redd.it/bemucyr3zap51.jpg?width=640&crop=smart&auto=webp&s=3a2efb182fa703a27bd3efdf6c9b0a4a273322fd",
-    "width": 640
-  },
   "id": "t3_izt8xq",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/bemucyr3zap51.jpg?auto=webp&s=429568a6642b72e9034293ced53904aac2f1e53e",
-    "preview": "https://preview.redd.it/bemucyr3zap51.jpg?width=640&crop=smart&auto=webp&s=3a2efb182fa703a27bd3efdf6c9b0a4a273322fd",
-    "thumbnail": "https://b.thumbs.redditmedia.com/gxKBs8va0qkjMDKpVpgVXHpdYUBVJ0_arAGoWCcOkZg.jpg"
+    "filesize": 112789,
+    "fullUrl": "https://preview.redd.it/bemucyr3zap51.jpg?auto=webp&s=429568a6642b72e9034293ced53904aac2f1e53e",
+    "hash": "52f1424261",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDAAQxERIFBhMhUXEiMmH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDK+DCG6jmeVJYzHofuzajOD6pYltmnQOlx09jSLr3VAT3IHn8oPL05kS8Tbp8Ack+atWXTNrFCjubrarqgDMCcYwfWaldqoxzLdCf/2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/gxKBs8va0qkjMDKpVpgVXHpdYUBVJ0_arAGoWCcOkZg.jpg",
+    "url": "https://preview.redd.it/bemucyr3zap51.jpg?width=640&crop=smart&auto=webp&s=3a2efb182fa703a27bd3efdf6c9b0a4a273322fd",
+    "width": 640
   },
   "score": {
     "comments": 2,

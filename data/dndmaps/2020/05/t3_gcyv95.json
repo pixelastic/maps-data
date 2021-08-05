@@ -9,20 +9,19 @@
     "month": 1588291200,
     "week": 1588464000
   },
-  "displayPicture": {
-    "height": 833,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEhAAUSBiIxQTJhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDe+ondyizY8fbODSH8c75eSBagQaFn1qhhB8Q2RLLanwmlFBsH70TvMBT24ocZZceKkhS+6k4oUD6xeM/uloTYahsoCC3Sfio2RoP/2Q==",
-    "url": "https://preview.redd.it/knezi9kxdmw41.jpg?width=640&crop=smart&auto=webp&s=10a42e76312adb83c7ae04df39b8b2a8ea0e334e",
-    "width": 640
-  },
   "id": "t3_gcyv95",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/knezi9kxdmw41.jpg?auto=webp&s=dcc6357377462d25453e84933816fbea594c0c5d",
-    "preview": "https://preview.redd.it/knezi9kxdmw41.jpg?width=640&crop=smart&auto=webp&s=10a42e76312adb83c7ae04df39b8b2a8ea0e334e",
-    "thumbnail": "https://b.thumbs.redditmedia.com/dawuPJo4T55TK-SWdnVSVoh-UxeZkgY_Dt1EaP5B8dc.jpg"
+    "filesize": 100767,
+    "fullUrl": "https://preview.redd.it/knezi9kxdmw41.jpg?auto=webp&s=dcc6357377462d25453e84933816fbea594c0c5d",
+    "hash": "f3dad611bb",
+    "height": 833,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEhAAUSBiIxQTJhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDe+ondyizY8fbODSH8c75eSBagQaFn1qhhB8Q2RLLanwmlFBsH70TvMBT24ocZZceKkhS+6k4oUD6xeM/uloTYahsoCC3Sfio2RoP/2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/dawuPJo4T55TK-SWdnVSVoh-UxeZkgY_Dt1EaP5B8dc.jpg",
+    "url": "https://preview.redd.it/knezi9kxdmw41.jpg?width=640&crop=smart&auto=webp&s=10a42e76312adb83c7ae04df39b8b2a8ea0e334e",
+    "width": 640
   },
   "score": {
     "comments": 2,

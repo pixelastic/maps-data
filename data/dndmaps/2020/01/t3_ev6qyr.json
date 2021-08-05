@@ -9,20 +9,19 @@
     "month": 1577836800,
     "week": 1579996800
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIBAAAwABAwUBAAAAAAAAAAAAAQIDBAAREhMUIVFhIv/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxETIv/aAAwDAQACEQMRAD8APtn1wbp0Wm/V4ndlPFfoPvUt3d8618kRY0m0SAfyPQ8ax8O9LZmJAuVQnhuvg7aUzmhFV4KOLgjYfNRrqdUsMcekmj//2Q==",
-    "url": "https://preview.redd.it/fcs74imxbjd41.jpg?width=640&crop=smart&auto=webp&s=52b4848d2c9a590837430f0cae3c77c83830d559",
-    "width": 640
-  },
   "id": "t3_ev6qyr",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/fcs74imxbjd41.jpg?auto=webp&s=df8bca2b9fc41aa569a51304bbffea4ec8c0ffaa",
-    "preview": "https://preview.redd.it/fcs74imxbjd41.jpg?width=640&crop=smart&auto=webp&s=52b4848d2c9a590837430f0cae3c77c83830d559",
-    "thumbnail": "https://b.thumbs.redditmedia.com/evx9zA6IvfO_WJzrlHAyGcqHSV-3qCYVDh2P32hyPus.jpg"
+    "filesize": 93163,
+    "fullUrl": "https://preview.redd.it/fcs74imxbjd41.jpg?auto=webp&s=df8bca2b9fc41aa569a51304bbffea4ec8c0ffaa",
+    "hash": "5e7a2e088b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIBAAAwABAwUBAAAAAAAAAAAAAQIDBAAREhMUIVFhIv/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxETIv/aAAwDAQACEQMRAD8APtn1wbp0Wm/V4ndlPFfoPvUt3d8618kRY0m0SAfyPQ8ax8O9LZmJAuVQnhuvg7aUzmhFV4KOLgjYfNRrqdUsMcekmj//2Q==",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/evx9zA6IvfO_WJzrlHAyGcqHSV-3qCYVDh2P32hyPus.jpg",
+    "url": "https://preview.redd.it/fcs74imxbjd41.jpg?width=640&crop=smart&auto=webp&s=52b4848d2c9a590837430f0cae3c77c83830d559",
+    "width": 640
   },
   "score": {
     "comments": 6,

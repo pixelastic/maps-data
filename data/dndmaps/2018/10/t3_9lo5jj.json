@@ -9,20 +9,19 @@
     "month": 1538352000,
     "week": 1538265600
   },
-  "displayPicture": {
-    "height": 896,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYI/8QAIRAAAgICAwACAwAAAAAAAAAAAQIDEQQhABJBBSIxUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0Rl5bHKeKKNVSMsrN4frf5vRGv7xXHmLQI1SvYB7D3k/mRZhSVZcdpj3HWULoi78Hv73xr4yaRMGJHibstrdVdE73vgf/9k=",
-    "url": "https://preview.redd.it/nyl4e6clfeq11.jpg?width=640&crop=smart&auto=webp&s=b0df60546915789176cacef92923c7a1c59690be",
-    "width": 640
-  },
   "id": "t3_9lo5jj",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/nyl4e6clfeq11.jpg?auto=webp&s=735be69e19ccaf4170dcb42efd7326a52d71e230",
-    "preview": "https://preview.redd.it/nyl4e6clfeq11.jpg?width=640&crop=smart&auto=webp&s=b0df60546915789176cacef92923c7a1c59690be",
-    "thumbnail": "https://a.thumbs.redditmedia.com/x4kJCWV04l6QFaOPE1mfARucwEOfHl5nhFb8xLC6Hv8.jpg"
+    "filesize": 154894,
+    "fullUrl": "https://preview.redd.it/nyl4e6clfeq11.jpg?auto=webp&s=735be69e19ccaf4170dcb42efd7326a52d71e230",
+    "hash": "dfcca8ceb4",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYI/8QAIRAAAgICAwACAwAAAAAAAAAAAQIDEQQhABJBBSIxUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0Rl5bHKeKKNVSMsrN4frf5vRGv7xXHmLQI1SvYB7D3k/mRZhSVZcdpj3HWULoi78Hv73xr4yaRMGJHibstrdVdE73vgf/9k=",
+    "thumbnailurl": "https://a.thumbs.redditmedia.com/x4kJCWV04l6QFaOPE1mfARucwEOfHl5nhFb8xLC6Hv8.jpg",
+    "url": "https://preview.redd.it/nyl4e6clfeq11.jpg?width=640&crop=smart&auto=webp&s=b0df60546915789176cacef92923c7a1c59690be",
+    "width": 640
   },
   "score": {
     "comments": 0,

@@ -9,20 +9,19 @@
     "month": 1598918400,
     "week": 1599350400
   },
-  "displayPicture": {
-    "height": 480,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIDESEAEgQTFCJRMUFhseH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIx/9oADAMBAAIRAxEAPwDNY4Szy9Q7QBVIZ3QgX7Cjk+K1VRoeJIi5MsmGsWFJoZ+SB96KXZWY7iSVOWN1g+njTe2Pf2gnYoUkm1sKSR+6mTqQ9TU0z//Z",
-    "url": "https://preview.redd.it/vo560jtiarm51.jpg?width=640&crop=smart&auto=webp&s=069e52e083dff20edebf53b6cd0755f7df2edd80",
-    "width": 640
-  },
   "id": "t3_irhdit",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/vo560jtiarm51.jpg?auto=webp&s=07e4fd8e490cb11f778e8d6dc8838f85f3875b2c",
-    "preview": "https://preview.redd.it/vo560jtiarm51.jpg?width=640&crop=smart&auto=webp&s=069e52e083dff20edebf53b6cd0755f7df2edd80",
-    "thumbnail": "https://b.thumbs.redditmedia.com/rhmr7MY8o0o6oGMQhkefo0nDu7KJ2l1yq-ZH9ridlFg.jpg"
+    "filesize": 77853,
+    "fullUrl": "https://preview.redd.it/vo560jtiarm51.jpg?auto=webp&s=07e4fd8e490cb11f778e8d6dc8838f85f3875b2c",
+    "hash": "1bde45be84",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIDESEAEgQTFCJRMUFhseH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIx/9oADAMBAAIRAxEAPwDNY4Szy9Q7QBVIZ3QgX7Cjk+K1VRoeJIi5MsmGsWFJoZ+SB96KXZWY7iSVOWN1g+njTe2Pf2gnYoUkm1sKSR+6mTqQ9TU0z//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/rhmr7MY8o0o6oGMQhkefo0nDu7KJ2l1yq-ZH9ridlFg.jpg",
+    "url": "https://preview.redd.it/vo560jtiarm51.jpg?width=640&crop=smart&auto=webp&s=069e52e083dff20edebf53b6cd0755f7df2edd80",
+    "width": 640
   },
   "score": {
     "comments": 0,

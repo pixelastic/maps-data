@@ -9,20 +9,19 @@
     "month": 1622505600,
     "week": 1623542400
   },
-  "displayPicture": {
-    "height": 320,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAIBAAAQQBBAMAAAAAAAAAAAAAAQACAxESBBMhIjFBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAFxEBAAMAAAAAAAAAAAAAAAAAABESIf/aAAwDAQACEQMRAD8AwUQiDzvmzlbg7z9VztiEobp3ZUemPPu0RTI0bP/Z",
-    "url": "https://preview.redd.it/0hdzmas071671.jpg?width=640&crop=smart&auto=webp&s=ff4e25180f612045a0775e3cd88400761c0635d2",
-    "width": 640
-  },
   "id": "t3_o2pvss",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/0hdzmas071671.jpg?auto=webp&s=4d1ec7be451636a52512035088ff4e1a773216be",
-    "preview": "https://preview.redd.it/0hdzmas071671.jpg?width=640&crop=smart&auto=webp&s=ff4e25180f612045a0775e3cd88400761c0635d2",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Ey0c_sJekt8qAoZRweiAghTdTZl5c6LnZ5_AeEASods.jpg"
+    "filesize": 77510,
+    "fullUrl": "https://preview.redd.it/0hdzmas071671.jpg?auto=webp&s=4d1ec7be451636a52512035088ff4e1a773216be",
+    "hash": "cb06eb4bad",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAIBAAAQQBBAMAAAAAAAAAAAAAAQACAxESBBMhIjFBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAFxEBAAMAAAAAAAAAAAAAAAAAABESIf/aAAwDAQACEQMRAD8AwUQiDzvmzlbg7z9VztiEobp3ZUemPPu0RTI0bP/Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/Ey0c_sJekt8qAoZRweiAghTdTZl5c6LnZ5_AeEASods.jpg",
+    "url": "https://preview.redd.it/0hdzmas071671.jpg?width=640&crop=smart&auto=webp&s=ff4e25180f612045a0775e3cd88400761c0635d2",
+    "width": 640
   },
   "score": {
     "comments": 1,

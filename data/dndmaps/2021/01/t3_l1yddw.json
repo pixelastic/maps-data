@@ -9,20 +9,19 @@
     "month": 1609459200,
     "week": 1610841600
   },
-  "displayPicture": {
-    "height": 384,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABAgQFBQEAAAAAAAAAAAABAhEAAwQFBhQhMVESExUkM7H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAyL/2gAMAwEAAhEDEQA/AJXZlU9TXS5FWlCwogMQ5fRnPG0L8UZfxK85L7iQQkCWGUDyOYB0BOft2p+yP0Qxx8SmznpJHsI2hGTywl6Cz//Z",
-    "url": "https://preview.redd.it/87n4zvtosoc61.jpg?width=640&crop=smart&auto=webp&s=c92c199849ba6c2694a02c95c2f73f59191f67de",
-    "width": 640
-  },
   "id": "t3_l1yddw",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/87n4zvtosoc61.jpg?auto=webp&s=5cb55881d51e876ec428bb0deb498d180bc2792b",
-    "preview": "https://preview.redd.it/87n4zvtosoc61.jpg?width=640&crop=smart&auto=webp&s=c92c199849ba6c2694a02c95c2f73f59191f67de",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Pucx6B5OXPEkCTcvdnLn4FuhWElZeis3PGkA4S3GZII.jpg"
+    "filesize": 39561,
+    "fullUrl": "https://preview.redd.it/87n4zvtosoc61.jpg?auto=webp&s=5cb55881d51e876ec428bb0deb498d180bc2792b",
+    "hash": "7076f62ae5",
+    "height": 384,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABAgQFBQEAAAAAAAAAAAABAhEAAwQFBhQhMVESExUkM7H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAyL/2gAMAwEAAhEDEQA/AJXZlU9TXS5FWlCwogMQ5fRnPG0L8UZfxK85L7iQQkCWGUDyOYB0BOft2p+yP0Qxx8SmznpJHsI2hGTywl6Cz//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/Pucx6B5OXPEkCTcvdnLn4FuhWElZeis3PGkA4S3GZII.jpg",
+    "url": "https://preview.redd.it/87n4zvtosoc61.jpg?width=640&crop=smart&auto=webp&s=c92c199849ba6c2694a02c95c2f73f59191f67de",
+    "width": 640
   },
   "score": {
     "comments": 0,

@@ -9,20 +9,19 @@
     "month": 1625097600,
     "week": 1625356800
   },
-  "displayPicture": {
-    "height": 472,
-    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EAB4QAAIBBAMBAAAAAAAAAAAAAAECEQADBCEFEjFR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEQMRAD8A3vkMzokux2NQal8p7NxlcIAZGpP2iuXutbZgsRPhE0lzpEsrEeeUJZ+cl//Z",
-    "url": "https://preview.redd.it/o2wtf4htx6a71.jpg?width=640&crop=smart&auto=webp&s=4f13a57f241a5386b84d152d0d5ff8923c2015dc",
-    "width": 640
-  },
   "id": "t3_ogvslb",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/o2wtf4htx6a71.jpg?auto=webp&s=340109aef41fda37e2cab27707176c9e8c8117ab",
-    "preview": "https://preview.redd.it/o2wtf4htx6a71.jpg?width=640&crop=smart&auto=webp&s=4f13a57f241a5386b84d152d0d5ff8923c2015dc",
-    "thumbnail": "https://b.thumbs.redditmedia.com/7ShyHvVpk3YIGjblUs4MkcVJ9ceo6mnlNNeO-I0PJMg.jpg"
+    "filesize": 93019,
+    "fullUrl": "https://preview.redd.it/o2wtf4htx6a71.jpg?auto=webp&s=340109aef41fda37e2cab27707176c9e8c8117ab",
+    "hash": "78d741c945",
+    "height": 472,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EAB4QAAIBBAMBAAAAAAAAAAAAAAECEQADBCEFEjFR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEQMRAD8A3vkMzokux2NQal8p7NxlcIAZGpP2iuXutbZgsRPhE0lzpEsrEeeUJZ+cl//Z",
+    "thumbnailurl": "https://b.thumbs.redditmedia.com/7ShyHvVpk3YIGjblUs4MkcVJ9ceo6mnlNNeO-I0PJMg.jpg",
+    "url": "https://preview.redd.it/o2wtf4htx6a71.jpg?width=640&crop=smart&auto=webp&s=4f13a57f241a5386b84d152d0d5ff8923c2015dc",
+    "width": 640
   },
   "score": {
     "comments": 5,
