@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1628294400,
+    "full": 1628350497,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ozvg1o",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 56225,
+    "fullUrl": "https://preview.redd.it/xrmabyligyf71.jpg?auto=webp&s=a7619595c97d8b7088d35a53414ee3188474368c",
+    "hash": "a4ef6e039a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAiEAACAgIBBAMBAAAAAAAAAAABAgMRBCEAEjFBwQUiJFH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAABEAATFB/9oADAMBAAIRAxEAPwCbSxRnHqNWkBTuBZHb+jXriOkeViu7yMsjKGkPWpNi66j6HB+NzZkWYq33ijBRjugQbG9VocJsj8eQWhieQXbsCSded155NazrFFrP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-Vof8zqckEMJZ2yJm92BoS4-v2hJQBlZrtJ-949HO0c.jpg",
+    "url": "https://preview.redd.it/xrmabyligyf71.jpg?width=640&crop=smart&auto=webp&s=ed6d8cbbe35ec028abcb53ea94134a869e722e1b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ozvg1o/swamp_40x30/"
+}

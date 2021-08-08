@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_8pavxf1q",
+    "name": "Brick_DM"
+  },
+  "date": {
+    "day": 1628294400,
+    "full": 1628324620,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ozpif9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 128092,
+    "fullUrl": "https://preview.redd.it/moefhehkbwf71.jpg?auto=webp&s=c5402a37b428929b95ecbcbfdda8934b46093f3e",
+    "hash": "43c27ae850",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQRIQUSEzFRQf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARET/9oADAMBAAIRAxEAPwBpURxAyXU0K5OgTkn7nNVJIrorKQwxoj0RR9fclYpzCufJLGzFpXjU9VxsfuTv4DWkteUtIrdEiuYSgGj3FM5Lf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sgSB2QoTRW4I2shAWx4_UnsZcIyU6zIIJgNk9VWgRZE.jpg",
+    "url": "https://preview.redd.it/moefhehkbwf71.jpg?width=640&crop=smart&auto=webp&s=2dd53f08757e24b0fbc17f14b6a67933fe1d084b",
+    "width": 640
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 305,
+    "value": 305
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "LMoPh - Wave-Echo-Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ozpif9/lmoph_waveechocave/"
+}

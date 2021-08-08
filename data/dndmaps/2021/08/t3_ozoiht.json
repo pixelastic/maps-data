@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1628294400,
+    "full": 1628319431,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ozoiht",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 64089,
+    "fullUrl": "https://preview.redd.it/f4y6yk25wvf71.jpg?auto=webp&s=8d14bef7025e265daceea08977767b3478012223",
+    "hash": "fea21f7bc9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIRABAAEDBAIDAAAAAAAAAAAAAQIAAxESISIxBFETocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMQhqnKPMBR27Sj5dtLd2LPU4Q94/aFsZsZGlk9K7Y91aL8l64kTJxIh91Mf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/gXy8cgREj2m0cfF_og771d0nDGl9ECRjjDBD9qKEC8w.jpg",
+    "url": "https://preview.redd.it/f4y6yk25wvf71.jpg?width=640&crop=smart&auto=webp&s=4d7869b1784e29c3f406b4310a802b68cc46fec5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.84,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Shadowfell Gate Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ozoiht/shadowfell_gate_battle_map_30x30/"
+}

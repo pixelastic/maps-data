@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_9gde966p",
+    "name": "LostAcumen"
+  },
+  "date": {
+    "day": 1628208000,
+    "full": 1628280872,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_ozeleh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 236953,
+    "fullUrl": "https://preview.redd.it/ry57if0dpsf71.jpg?auto=webp&s=55a0e99a18590324530a3fcc81c81fd75cafc679",
+    "hash": "7b6a18c11f",
+    "height": 1034,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBBEhAAUSFCJBYTFCgf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgABESESE8H/2gAMAwEAAhEDEQA/AM4Fk6kNFuTx8pXCxSvaR+48snJBvjxYADOkWkCqFWq3QACw5O4P6L4OpWplqZzUztTq9Oz3ilwzD63Ho3+fGkl3qneV2kl5OSSxUYJ9apET1ig0RbDHV//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/azOeElA11jAH0NLScJNUga2OGn325hRqx6O0kSv0uOo.jpg",
+    "url": "https://preview.redd.it/ry57if0dpsf71.jpg?width=640&crop=smart&auto=webp&s=a172e001020bec7377a48772d423a13478c9bf63",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 277,
+    "value": 277
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Topiary Menagerie Garden",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ozeleh/topiary_menagerie_garden_26x42/"
+}
