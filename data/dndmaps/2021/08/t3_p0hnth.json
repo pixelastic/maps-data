@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_12gn6h",
+    "name": "Quantitas"
+  },
+  "date": {
+    "day": 1628380800,
+    "full": 1628439698,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p0hnth",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 190527,
+    "fullUrl": "https://preview.redd.it/2oxrl7z8r5g71.jpg?auto=webp&s=9afc3961f57be6c98e01e68786b401761d3e029a",
+    "hash": "a43ba8674c",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHxAAAQQCAgMAAAAAAAAAAAAAAQIDERIABRYxIjJR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABURAQEAAAAAAAAAAAAAAAAAAAIA/9oADAMBAAIRAxEAPwDJmGXFaMF3RtNtlNCs1IHhNo7nGRpW3x8zv3AjqBE2r6fYxgkzp3//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/oaulYx8vKKgronNxNUGR_gkFkXSqzefDsZghDIyI51g.jpg",
+    "url": "https://preview.redd.it/2oxrl7z8r5g71.jpg?width=640&crop=smart&auto=webp&s=f35cb791d3b55a392d7e5cf0c89f1985d17cd25b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Trading Company Interior",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p0hnth/trading_company_interior/"
+}

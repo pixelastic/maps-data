@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1628380800,
+    "full": 1628407963,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p0ad0a",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 50160,
+    "fullUrl": "https://preview.redd.it/jdpzvfnd73g71.jpg?auto=webp&s=1218bff150498b435b5c38c5f9c2ccfbd947de4b",
+    "hash": "3e9bcb7d18",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAH/8QAHRABAAICAgMAAAAAAAAAAAAAAQACESESQSJxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDCKVoVPHPyFqUK20L6kWOBveOmOkwKr1BI/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/kEB2_mDW5eFP9XGXnu53Rm7MQ2ALiQ7_7PFIgqaBsyE.jpg",
+    "url": "https://preview.redd.it/jdpzvfnd73g71.jpg?width=640&crop=smart&auto=webp&s=210c2bc8d935016f5b6055fe27dce5471e105f9d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Bridges Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p0ad0a/swamp_bridges_battle_map_30x30/"
+}
