@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1628467200,
+    "full": 1628528505,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p15kr4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 76407,
+    "fullUrl": "https://external-preview.redd.it/Mw3Qu8bq-Y-L5f4XPWDBRvcrAF6SACRRpC4zFkbpPvw.jpg?auto=webp&s=b57296876945dc936e19b5de72d30d01e41ebe7a",
+    "hash": "5d40496c63",
+    "height": 414,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQH/xAAhEAACAgICAQUAAAAAAAAAAAABAgMRADEEEiEiQVFhof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAwADAAAAAAAAAAAAAAAAAAIRASFh/9oADAMBAAIRAxEAPwARXHNgaIRwtcR6gEArQsmt3+YDJEjRyLHE6xMrKSyqSASBe/sa+bxfmgJM7IOrXVjwdZeYqiR6AHqHtklW3joq0//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/HQ3TS5_g-5umPblishmQINfv_GxGGHwz5MIAQxBdHjc.jpg",
+    "url": "https://external-preview.redd.it/Mw3Qu8bq-Y-L5f4XPWDBRvcrAF6SACRRpC4zFkbpPvw.jpg?width=640&crop=smart&auto=webp&s=b1280137d8144dc51abaf7c9e905b311f7d14031",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "House Fire - Phased Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p15kr4/house_fire_phased_battlemap_34x22/"
+}

@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_8f5p8owy",
+    "name": "Motion_Maps"
+  },
+  "date": {
+    "day": 1628467200,
+    "full": 1628521329,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p13736",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 78005,
+    "fullUrl": "https://preview.redd.it/dfv14vjgkcg71.jpg?auto=webp&s=7484b531327f63f752d000fa2271bf415989c46a",
+    "hash": "105c68407f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAmEAABAwMACwEAAAAAAAAAAAABAgMRAAQFBxITIjE0NkFxdLHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AC+Cwti6FW7j2wdKBBuWVNyZ7EiCCOFT9JOLftME0lKUFouAOuIOsIA3TIpqzy1166fyj+J6QX4T8NDFpQ5moOJv/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/7120rn53X7mpxG5LaVOY6pI0SN69Si6z_j5dEX6cYjY.jpg",
+    "url": "https://preview.redd.it/dfv14vjgkcg71.jpg?width=640&crop=smart&auto=webp&s=971df933b40d800a5eec589c8aeb9a34bba833dc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Free still \"Desert Ambush\" (Bonus variation)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p13736/free_still_desert_ambush_bonus_variation/"
+}

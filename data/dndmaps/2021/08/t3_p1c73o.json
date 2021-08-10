@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "t2_cyqx4md7",
+    "name": "GulluMaps"
+  },
+  "date": {
+    "day": 1628467200,
+    "full": 1628548403,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p1c73o",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "filesize": 177314,
+    "fullUrl": "https://preview.redd.it/3u0ic0zxseg71.jpg?auto=webp&s=1f543f0eaaa908afea8671d51ed5116d8b6d96af",
+    "hash": "d7e988fe15",
+    "height": 897,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJBAAAgEDBAAHAAAAAAAAAAAAAQIDAAURBBIhMRMVIzJBUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMRIjH/2gAMAwEAAhEDEQA/AMFc4ljl0ekZjHFGMliMqxPbE9nk1WS3RTP4sfmMauA22OPKjI+OaPiVon0wUDY0fuVt24ZwQc/vH1ikBa71N6kVxiKHol3GRUFoNaL1kLgWers//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/Oi6nmN1bnbEpPf98PrQgf7wR2IQLKmBMyOcyhqBX_C4.jpg",
+    "url": "https://preview.redd.it/3u0ic0zxseg71.jpg?width=640&crop=smart&auto=webp&s=6b135047dd00962f658c1931090073e4a3166e9f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A not-so-safe bridge over a river chasm",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p1c73o/a_notsosafe_bridge_over_a_river_chasm/"
+}
