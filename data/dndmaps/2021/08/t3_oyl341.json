@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_74733",
+    "name": "FatalEden"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628178277,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oyl341",
+  "picture": {
+    "filesize": 65287,
+    "fullUrl": "https://preview.redd.it/93n324ys7kf71.jpg?width=7680&format=pjpg&auto=webp&s=0860bc722b8f89aa43bb058b1310025c5408f5d1",
+    "hash": "cf2fec6814",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDB//EACEQAAIBAwMFAAAAAAAAAAAAAAECAwAEEhEhQQUjMWHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAABBIf/aAAwDAQACEQMRAD8AwKCNbkkyjFxoxKnz6IpT2ezPEw1Y8toCKOlHuzMSMeftTupEecBs8FIw22NG4cf/2Q==",
+    "url": "https://preview.redd.it/93n324ys7kf71.jpg?width=640&crop=smart&auto=webp&s=2289fc177369158255d0ceb680effb94de0c99ce",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Town Square (30x30, Grid/Gridless, Day/Night, PNG/UVTT, 256px/70px)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oyl341/town_square_30x30_gridgridless_daynight_pnguvtt/"
+}

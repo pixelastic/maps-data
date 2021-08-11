@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1628121600,
+    "full": 1628167341,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oygq69",
+  "picture": {
+    "filesize": 138250,
+    "fullUrl": "https://preview.redd.it/u95mm1dipgf71.jpg?width=1024&format=pjpg&auto=webp&s=31a96379253661a75957e6f1b7cd512aee49d122",
+    "hash": "24644aae46",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBSExEhNRFkJxgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABf/EAB4RAAIBAwUAAAAAAAAAAAAAAAECAwARIRIxgZGh/9oADAMBAAIRAxEAPwDMRPLaQIheJoGQho5CuckeOfBplvJBHpVxdSFMi2EKxRn3tvkj6NRI59QhtzL2ojG7ds9SqSeASuf2m200np+6AtN0dAxBySG6stv88VNeFmIYleCPaQaYwVF7b5z1X//Z",
+    "url": "https://preview.redd.it/u95mm1dipgf71.jpg?width=640&crop=smart&auto=webp&s=45bb12dc4ec90d907651463ffa772a528275a9f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 269,
+    "value": 269
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "57 maps for FREE!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oygq69/57_maps_for_free/"
+}

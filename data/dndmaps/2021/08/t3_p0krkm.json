@@ -10,16 +10,12 @@
     "week": 1628380800
   },
   "id": "t3_p0krkm",
-  "misc": {
-    "postHint": "image"
-  },
   "picture": {
     "filesize": 96332,
     "fullUrl": "https://preview.redd.it/x48uvkxdn6g71.jpg?auto=webp&s=6138aae1a361ae0170d345038a0c02a83bd7adee",
     "hash": "ef6c194b6c",
     "height": 472,
     "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhAAAgIBAwUBAQAAAAAAAAAAAQIDESEABBIFEzFRcSJC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhEDEQA/AGNm8qS9oyO0jA/g8lFXmzePXnW7p8D841jLKgIsljQzeD8xpePpe2Ku7qZOX8ObUG/IHvPnVm2ECwqsK9pgy06VYv7Y0aKgv//Z",
-    "thumbnailUrl": "https://a.thumbs.redditmedia.com/iPnOiT4gk3XIZ__psyaUd6hjE68nOIqkBk17HLr94C0.jpg",
     "url": "https://preview.redd.it/x48uvkxdn6g71.jpg?width=640&crop=smart&auto=webp&s=3058cb3a54a78bb8ca274fbabee249790406d295",
     "width": 640
   },
@@ -27,9 +23,9 @@
     "comments": 5,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.98,
-    "ups": 59,
-    "value": 59
+    "ratio": 0.97,
+    "ups": 58,
+    "value": 58
   },
   "subreddit": {
     "id": "t5_3isai",

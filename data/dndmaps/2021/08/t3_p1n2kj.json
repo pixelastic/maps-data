@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_awgo5nlc",
+    "name": "Rudocini"
+  },
+  "date": {
+    "day": 1628553600,
+    "full": 1628593941,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p1n2kj",
+  "picture": {
+    "filesize": 93401,
+    "fullUrl": "https://preview.redd.it/paebv6gakig71.jpg?auto=webp&s=d8210311450bfc57331cab777b5b3644a3775b6d",
+    "hash": "264e20b185",
+    "height": 825,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgP/xAAjEAABBAEEAgMBAAAAAAAAAAABAgMEEQUABhIhImETMUGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AsnD4qLhYbqseXX5TdhToKeHX0QD2b796L7gjSIM8RnGWiUNprhYAB7qv7pttHcEE4+PAlqLTzPglTwFLNmuP7o9vqQ23n3ERXB4pHyUomlkkm/fej4pLkMv/2Q==",
+    "url": "https://preview.redd.it/paebv6gakig71.jpg?width=640&crop=smart&auto=webp&s=65c85a6903360e7dc199a0db5bfb4a81585bc957",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lightbringer Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p1n2kj/lightbringer_temple_45x58/"
+}

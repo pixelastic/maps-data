@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1628035200,
+    "full": 1628087178,
+    "month": 1627776000,
+    "week": 1627776000
+  },
+  "id": "t3_oxtt5t",
+  "picture": {
+    "filesize": 104049,
+    "fullUrl": "https://preview.redd.it/lvyk1ecfpcf71.jpg?width=984&format=pjpg&auto=webp&s=10324b5cfa743f8516ce31601f13139dc5d4c421",
+    "hash": "66ac8c3b94",
+    "height": 645,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFCP/EACQQAAIBAgUEAwAAAAAAAAAAAAECAxEhAAQFBhIUMUFRFYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQABBQEBAAAAAAAAAAAAAAACAAEDEUESIv/aAAwDAQACEQMRAD8Ag7yjh+NWWXkJC6qrhrKLnt2r4w+65B0SwPCZXYGRVYWsP0+b+sHdyA6XHM6llimUtewBtf7pjQ+j5SeDc2Wds/qWYjfkXiaNQg5K1OdRWljSh7ge8GV/RC+0oQR9CJtlr//Z",
+    "url": "https://preview.redd.it/lvyk1ecfpcf71.jpg?width=640&crop=smart&auto=webp&s=bf3d1d3e57e19ea9738615cf90ef5967a9a3f221",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "VTT Maps - River, Wilderness & Rooftops",
+  "url": "https://www.reddit.com/r/dndmaps/comments/oxtt5t/vtt_maps_river_wilderness_rooftops/"
+}
