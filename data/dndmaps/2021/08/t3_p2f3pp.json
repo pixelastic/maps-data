@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628695033,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2f3pp",
+  "picture": {
+    "filesize": 205736,
+    "fullUrl": "https://preview.redd.it/w0qw1citwqg71.jpg?auto=webp&s=e7e07dcc80778f4879e3308bf7cdae48afe78199",
+    "hash": "18b155cb44",
+    "height": 914,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAHxAAAgEEAwEBAAAAAAAAAAAAAQIDBBESIQAxQYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIEEf/aAAwDAQACEQMRAD8Azw3kDhMgMRfIK3o2LjXg4eQkOcUZB3ixuR+a5T08CCmleSCJhKiozW81b5ofOAraGhapcyww56Bu4XoAdcmLRImqSXWf/9k=",
+    "url": "https://preview.redd.it/w0qw1citwqg71.jpg?width=640&crop=smart&auto=webp&s=2076c927506a1d4d567ddd85cb9b454649537f65",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 347,
+    "value": 347
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Temple of Zeiruru - Big Dungeon Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p2f3pp/temple_of_zeiruru_big_dungeon_map_70x100/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628716707,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2mdvm",
+  "picture": {
+    "filesize": 57930,
+    "fullUrl": "https://preview.redd.it/lwf5dl4cpsg71.jpg?auto=webp&s=b8fb46e579f7f21992055801d1329ddbfd51da76",
+    "hash": "658f83ea0e",
+    "height": 742,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAIBAAAQQCAgMBAAAAAAAAAAAAAQIDBBEAEiExIiNRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBERIhUf/aAAwDAQACEQMRAD8AzjIjLZelMIlokqV4F29th2P0YJ2Oy3HGzTpXY9iVDUgjoiuDxlN2ltJUmharsmjYwMkguEpPfJHw5R41AkbG+n//2Q==",
+    "url": "https://preview.redd.it/lwf5dl4cpsg71.jpg?width=640&crop=smart&auto=webp&s=daedcf1c6e9ed92d6d1c97257a093ab3c6eb69fb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Forgotten Bloodcave  (might be darker on mobile phones)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p2mdvm/forgotten_bloodcave_50x58_might_be_darker_on/"
+}

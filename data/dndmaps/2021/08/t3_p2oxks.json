@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g90eq75",
+    "name": "pantsbriskley"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628724691,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2oxks",
+  "picture": {
+    "filesize": 211454,
+    "fullUrl": "https://preview.redd.it/kkjlgl67dtg71.jpg?auto=webp&s=849ce6580436c5792f9a15505d386997424ee3e2",
+    "hash": "1fb001e8fb",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACcQAAIBAgQFBQEAAAAAAAAAAAECAwQRABITIQUGBzFhFCIyUXHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANQ5yjanq4HQyaLrpRDPbLlG/cdze/nFXpnxOomp6+GVi0MLrpKzk5Qb7An8/MDnmP0/BW17F3mCQaYLEOTc7Ad7D+YR07JFHUZ+G1E8ntBmClQ3ysLMBuPH2MBf/9k=",
+    "url": "https://preview.redd.it/kkjlgl67dtg71.jpg?width=640&crop=smart&auto=webp&s=eaf78ced4ab34d0ecd5c1cf90e14c475b38e296a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Tidetown",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p2oxks/tidetown/"
+}

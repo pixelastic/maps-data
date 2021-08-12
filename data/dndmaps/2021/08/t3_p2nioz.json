@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5ukq84yr",
+    "name": "animatronic_poultry"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628720136,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2nioz",
+  "picture": {
+    "filesize": 65741,
+    "fullUrl": "https://preview.redd.it/qaxp2dbzxsg71.jpg?auto=webp&s=e836bc32fc443ba067f8fd24992f7f8a8b9ebf61",
+    "hash": "c20d5a37fd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIRAAAwABAwQDAAAAAAAAAAAAAQIDBAAREiEiMWETQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMFx0K4S8QtFKd3TxpMnvhKlMeSzA4qyjzt++9VhYd0MZLaQBn8p3boQOux96G90ejnJC8XJPGf02lD/2Q==",
+    "url": "https://preview.redd.it/qaxp2dbzxsg71.jpg?width=640&crop=smart&auto=webp&s=a84d37f0b6b2410e4bfb2840f63ce3ae74d51b4b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Bandit Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p2nioz/bandit_cave_35x35/"
+}

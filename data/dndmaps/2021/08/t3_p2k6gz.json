@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1628640000,
+    "full": 1628709994,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p2k6gz",
+  "picture": {
+    "filesize": 100019,
+    "fullUrl": "https://preview.redd.it/oo9bzz6h5sg71.jpg?auto=webp&s=13ef1071df2d5bf805e9ec07e96356553536fc43",
+    "hash": "0037b479ec",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAAA//EACMQAAICAQMDBQAAAAAAAAAAAAECAwQRAAUhIlFhEhMxQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAAIDAAAAAAAAAAAAAAAAAAAREyFh/9oADAMBAAIRAxEAPwBq8FCvszmxEjSV2x0kgv8AY5GM/mhuvWahFMK6gzH0OEHVwCcAHjxk99Neox0dqIFwWPYBcxlAvSe/f50VXbxdrxWBOiRysCyFAQVAxhcYxxx51NjtjYf/2Q==",
+    "url": "https://preview.redd.it/oo9bzz6h5sg71.jpg?width=640&crop=smart&auto=webp&s=aa3c446a3039d2e39a09e14f3373dfa30ffb2fcc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fallen Library Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p2k6gz/fallen_library_ruins_46x46/"
+}
