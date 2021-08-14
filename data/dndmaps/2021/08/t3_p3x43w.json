@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4cud7s2w",
+    "name": "tvdepression"
+  },
+  "date": {
+    "day": 1628812800,
+    "full": 1628898429,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3x43w",
+  "picture": {
+    "filesize": 108300,
+    "fullUrl": "https://preview.redd.it/gzdbs5mrp7h71.jpg?auto=webp&s=0e894a3a4bbd6660dee0683137725bce36afe9f8",
+    "hash": "5af322324a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEQUSQRMhUSIjMWHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAcEQEAAgEFAAAAAAAAAAAAAAABABICAyEiUaH/2gAMAwEAAhEDEQA/AM9gW3Eg3288ysxO4tzjBGOaPqNxHI0XsShh3EgONvOPukNNvJo79I1bKu6ggjz2/KtXcfW9JYqolAwoHjOfioHPTucPWAaO/U//2Q==",
+    "url": "https://preview.redd.it/gzdbs5mrp7h71.jpg?width=640&crop=smart&auto=webp&s=f8c1128f1821f5d3c9c93bbe856e48adb881e3e9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battle at the Bridge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p3x43w/battle_at_the_bridge/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_lhlv2f",
+    "name": "Mr_Kruiskop"
+  },
+  "date": {
+    "day": 1628812800,
+    "full": 1628852322,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3l3gn",
+  "picture": {
+    "filesize": 116183,
+    "fullUrl": "https://preview.redd.it/tgqu0famw3h71.jpg?auto=webp&s=deeb6d40b2ac965ca171968a38ff5cd97a0cd822",
+    "hash": "da43b40f38",
+    "height": 869,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABBAEEAQUAAAAAAAAAAAABAgMEESEABRIiEwYxUXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDESGh/9oADAMBAAIRAxEAPwAltjDio/iLSAWGUhRU23+5IzWMaPbvDnSZYWI5NISOiEoHt8DSb03uMF0TS4nn1Cz5XhfEJyKIxm9QXdwZRxCRMogno9YqzWfqtRVBixkTmvZ//9k=",
+    "url": "https://preview.redd.it/tgqu0famw3h71.jpg?width=640&crop=smart&auto=webp&s=23705430f50fac830fda52ca9fcf1f4b921b089a",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lair of the Gorgon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p3l3gn/lair_of_the_gorgon_28x38/"
+}

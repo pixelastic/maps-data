@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c6u7m6de",
+    "name": "IM_Brock"
+  },
+  "date": {
+    "day": 1628812800,
+    "full": 1628866941,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3mggq",
+  "picture": {
+    "filesize": 81292,
+    "fullUrl": "https://external-preview.redd.it/CvcYtQWzR876NX2H63wiRwocwdA74hc11qSgP0t2R-8.png?format=pjpg&auto=webp&s=9e2b71581af7646ffd10a00bc20c1f37ff12bd89",
+    "hash": "e73251df2e",
+    "height": 649,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAEDBAIDAQAAAAAAAAAAAAECAxEABAUhEhMiMWHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAEDAAIRIf/aAAwDAQACEQMRAD8AJtht62lkBsqT5CNH7NLGxatUdja1JUI5yBusi1mcg2kIFy6kgRED1+/auN5A3GLaLij2pEKB3y3EzQmIK6aYVb6sOAdn/9k=",
+    "url": "https://external-preview.redd.it/CvcYtQWzR876NX2H63wiRwocwdA74hc11qSgP0t2R-8.png?width=640&crop=smart&format=pjpg&auto=webp&s=6cc6fb93763d2a344f4b00f68ebba50f23d560aa",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 494,
+    "value": 494
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "My first attempt animating a map for D&D! How did I do?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p3mggq/my_first_attempt_animating_a_map_for_dd_how_did_i/"
+}

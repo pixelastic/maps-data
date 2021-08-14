@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5fzfehw7",
+    "name": "EventyrGames"
+  },
+  "date": {
+    "day": 1628812800,
+    "full": 1628883208,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p3scim",
+  "picture": {
+    "filesize": 56767,
+    "fullUrl": "https://preview.redd.it/h5xnwvzig6h71.jpg?auto=webp&s=4a6e04878374e47d8a292f8d40dabb570cd9e460",
+    "hash": "ce67df342f",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAHxAAAgICAwADAAAAAAAAAAAAAQIDEQASBCExE0Jh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAwDAQACEQMRAD8AyoNwQW3eNWK6ook+9XWVGCOFm1kR9oB1Y7NefhwWTgwLKWKlmMnzWT41VjC8cvEGEmpKUaXElVML/9k=",
+    "url": "https://preview.redd.it/h5xnwvzig6h71.jpg?width=640&crop=smart&auto=webp&s=ba7aa571e68d9945ede3cc723ced72b12bd6ae5d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Fomorian Caves 50x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p3scim/fomorian_caves_50x40/"
+}
