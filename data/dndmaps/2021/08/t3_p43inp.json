@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1628899200,
+    "full": 1628925692,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p43inp",
+  "picture": {
+    "filesize": 79563,
+    "fullUrl": "https://preview.redd.it/mnb9npnuy9h71.jpg?auto=webp&s=df46b956b8c013fd690d59421c5ab9bfc5201294",
+    "hash": "c095c04444",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACAQAAIBBQACAwAAAAAAAAAAAAECAwAREiExBCJBcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAIDAAAAAAAAAAAAAAAAAAARAQIh/9oADAMBAAIRAxEAPwDHZDOvlsGaRszdQHHOjXBq1I6Ms5ErBCoVzcZc1+UQPg9oRIpuSzYk7J+Puqw+K8kwMokd2b2utl0alAs3h//Z",
+    "url": "https://preview.redd.it/mnb9npnuy9h71.jpg?width=640&crop=smart&auto=webp&s=a1d79055c8cc723743625f915d2cf203c183dab1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Thieves Guild Battle Map 35x35",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p43inp/thieves_guild_battle_map_35x35/"
+}

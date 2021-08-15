@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1628899200,
+    "full": 1628936784,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p45llj",
+  "picture": {
+    "filesize": 96257,
+    "fullUrl": "https://preview.redd.it/y8ousxduvah71.jpg?auto=webp&s=2610cb122acc0a1700d50e3079a90a03e4249915",
+    "hash": "bfd0d8dce3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBBEhAAUSBhPwFSIxUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAhMf/aAAwDAQACEQMRAD8AxWwRQ+opTiNJmccWYW9uMeHUdXQKIqhaRlWpiIJQi4YDNz+aDsslZQieerEbdzCi4VrAfItom61M1bMFmfiFPM1BfJW2E8+9ELjDSq2f/9k=",
+    "url": "https://preview.redd.it/y8ousxduvah71.jpg?width=640&crop=smart&auto=webp&s=a9a2c4a87205907df91fa3f9ab2dc6f00c05e9cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p45llj/swamp_camp/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6dq7gi5b",
+    "name": "fruchtberkeit"
+  },
+  "date": {
+    "day": 1628899200,
+    "full": 1628947551,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p47zmd",
+  "picture": {
+    "filesize": 56041,
+    "fullUrl": "https://preview.redd.it/ln9s4krurbh71.jpg?auto=webp&s=1888e77db2129539777e1e73fec303032ca195bd",
+    "hash": "0ff55ee926",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQIDEQAEEiETMVGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgASIf/aAAwDAQACEQMRAD8Az1szzAxiTiSASQZpl+2yqzbW0yhgtgJWAvLNR7PoHlFzDcrbQlJGI1Mdb+1XMq5UWnIxCZ0NyBTRfYj5pZZBE3//2Q==",
+    "url": "https://preview.redd.it/ln9s4krurbh71.jpg?width=640&crop=smart&auto=webp&s=f7ad42b6e37117fc0b6d9783ae68ffed6ccc1815",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.78,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "My first map!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p47zmd/my_first_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7td0638n",
+    "name": "ZMMaps"
+  },
+  "date": {
+    "day": 1628899200,
+    "full": 1628955465,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p4a8q1",
+  "picture": {
+    "filesize": 177550,
+    "fullUrl": "https://preview.redd.it/sigje39dfch71.jpg?auto=webp&s=0a394ec6124eed88210750fd72f83d6896666461",
+    "hash": "202bfef53b",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAJBAAAQIFAgcAAAAAAAAAAAAAAQACBAUREhMUITEzQUJRcfD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAARAQIhA//aAAwDAQACEQMRAD8Axmx5kuo0EPhy2cvut9/BFC2XxJlOdr3EB1tAWnenjjSnVEdIb0s6Slh//9k=",
+    "url": "https://preview.redd.it/sigje39dfch71.jpg?width=640&crop=smart&auto=webp&s=e49b88f53a995ad90879d27b56d38d2f78f192ff",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Crypt",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p4a8q1/crypt_18x36/"
+}

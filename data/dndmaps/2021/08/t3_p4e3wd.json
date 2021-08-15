@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1628899200,
+    "full": 1628968199,
+    "month": 1627776000,
+    "week": 1628380800
+  },
+  "id": "t3_p4e3wd",
+  "picture": {
+    "filesize": 90535,
+    "fullUrl": "https://preview.redd.it/bg0wsmc6hdh71.jpg?auto=webp&s=3912f9e46e9657a0425b15665d44ab40f739426c",
+    "hash": "0699104d7c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAlEAABBAECBQUAAAAAAAAAAAABAgMEEQUAIQYSMUFRExQjcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EAB0RAAAGAwEAAAAAAAAAAAAAAAABAgMREgQTIXH/2gAMAwEAAhEDEQA/AJXAgxH25bvuExgKT6YSoqTexVR3/euiZSKzBUy5DlqugRSSlR3oqBvz21S4uNiZXNuRJrDbhfWsLfr5dk2CFdiK8fd6JN4TxuKyS3Gw5IIbSQmRyrSCT1qtO1kXK/RMcZNCtcF72R//2Q==",
+    "url": "https://preview.redd.it/bg0wsmc6hdh71.jpg?width=640&crop=smart&auto=webp&s=72212235655726fa8c622b47c8b95fbbfc4b5b84",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Beware the Kraken!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p4e3wd/beware_the_kraken/"
+}
