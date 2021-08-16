@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1628985600,
+    "full": 1629034849,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p4tlfz",
+  "picture": {
+    "filesize": 117830,
+    "fullUrl": "https://preview.redd.it/vcakgkuezih71.jpg?auto=webp&s=4721274674159f3fe4348b36cd2d87883363b846",
+    "hash": "3bf1da6500",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEB//EACQQAAIBAwMDBQAAAAAAAAAAAAEDAgQFEQAhMRIicQYTFGGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAAMAAAAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AMlpy2+1MorqpCpnE9p7oEjfJz9avutLK2VVLJVQ57GryzpIiBGOM/p876f0lUU/z1SikNT7c3PWpXJHEgcZB2G2edG53RFwrl1CUhPR0hKJqJnzuTtjjzqF51xoHWPh/9k=",
+    "url": "https://preview.redd.it/vcakgkuezih71.jpg?width=640&crop=smart&auto=webp&s=afb1f799bb0681d1dd7d6bbb6d67fc0d5ee446f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.82,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Druid Circle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p4tlfz/druid_circle_40x40/"
+}
