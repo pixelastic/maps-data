@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_16ujae",
+    "name": "Faeriedae"
+  },
+  "date": {
+    "day": 1629072000,
+    "full": 1629121515,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p5gd18",
+  "picture": {
+    "filesize": 139370,
+    "fullUrl": "https://preview.redd.it/rxojzt7l4qh71.jpg?auto=webp&s=8511b171e269eb3d743dab1c8814a8de82bac9f0",
+    "hash": "9bb21ecd4c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACMQAAIBBAIBBQEAAAAAAAAAAAECAwQRITEAEiITIzNBYdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAECABIhMf/aAAwDAQACEQMRAD8AydVVwemXkS4ZFS0bEHtY51kXIxxUMtLPPTE9UiF1dZfL62MYF8cIUxqkCNC0Mff5QDYWG7k6/nJgsEErxrGJShHuE78hkfm+S6qFzsAKAMn/2Q==",
+    "url": "https://preview.redd.it/rxojzt7l4qh71.jpg?width=640&crop=smart&auto=webp&s=bbabf2a347c5161191508e4a277e5180046bd42f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Tartarus Facility - 02",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p5gd18/tartarus_facility_02_31x31/"
+}

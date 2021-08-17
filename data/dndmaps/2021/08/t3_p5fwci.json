@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4gk85haf",
+    "name": "TheReclusiveCarto"
+  },
+  "date": {
+    "day": 1629072000,
+    "full": 1629119921,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p5fwci",
+  "picture": {
+    "filesize": 53579,
+    "fullUrl": "https://preview.redd.it/gvu1kuke0qh71.jpg?auto=webp&s=a1d529b3b460c54bdb4e02dce94057be94cdb26b",
+    "hash": "481e7df95f",
+    "height": 445,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDEQASIQRBEzFRcYGR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAExEf/aAAwDAQACEQMRAD8AyRJbTprW0DG/XFQ43LRRJTcnmDHv7elWJL70gG1tCh3KRmhuknTqJJnhgz4orhbh/9k=",
+    "url": "https://preview.redd.it/gvu1kuke0qh71.jpg?width=640&crop=smart&auto=webp&s=8f13f5d97520b1adb0a2aacf31a53f41b8f582cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 141,
+    "value": 141
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Underdark Market - Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p5fwci/underdark_market_battlemap_46x32/"
+}
