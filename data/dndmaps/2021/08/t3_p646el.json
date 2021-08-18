@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_l45m9",
+    "name": "Zhrack"
+  },
+  "date": {
+    "day": 1629158400,
+    "full": 1629208220,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p646el",
+  "picture": {
+    "filesize": 50310,
+    "fullUrl": "https://preview.redd.it/98lft78taxh71.jpg?auto=webp&s=8f753eca8d0ef9a409c3f2ca9ccbfcf0f909bf4a",
+    "hash": "a89f8cf2ca",
+    "height": 327,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMAEiEEBREVIkFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAACACEx/9oADAMBAAIRAxEAPwCP1ukkWaQ2NIrvcqrzn2fFTu63dSjLSMuQoBPaBzn5SlGemQO3/9k=",
+    "url": "https://preview.redd.it/98lft78taxh71.jpg?width=640&crop=smart&auto=webp&s=6ffa9c4ce097ba7d40dc756d96d58a2a8a158e31",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "My first map, a cave with an hidden necromancer dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p646el/my_first_map_a_cave_with_an_hidden_necromancer/"
+}

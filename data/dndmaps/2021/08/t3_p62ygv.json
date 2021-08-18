@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_41t76ako",
+    "name": "miksmaps"
+  },
+  "date": {
+    "day": 1629158400,
+    "full": 1629204000,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p62ygv",
+  "picture": {
+    "filesize": 62772,
+    "fullUrl": "https://preview.redd.it/6ikoj7hnwwh71.jpg?width=3840&format=pjpg&auto=webp&s=3e84a1548f4e0918bc9e48c1c6f468f0cac8f458",
+    "hash": "6b29f1d864",
+    "height": 405,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACIQAAIBAwMFAQAAAAAAAAAAAAECAwAEEQUhMQYHEhMiUv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBEVES/9oADAMBAAIRAxEAPwDDfUl2gMcTBh+iBxQLFF9RszBBsQOSac1JVh1aVIlCIGx4qMDGKuO5trb21r0y1tBFCz2zFzGgUscjc45q2emhNELa94f/2Q==",
+    "url": "https://preview.redd.it/6ikoj7hnwwh71.jpg?width=640&crop=smart&auto=webp&s=da91c0d0d33577d7f9c95412a2d7c7476aa3c0de",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Metroid Falls  - Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p62ygv/metroid_falls_30x19_battlemap/"
+}

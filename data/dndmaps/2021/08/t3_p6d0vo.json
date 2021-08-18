@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1629158400,
+    "full": 1629235832,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p6d0vo",
+  "picture": {
+    "filesize": 123762,
+    "fullUrl": "https://preview.redd.it/l1qcy8umkzh71.jpg?auto=webp&s=90ba6a169267fdcbe8afb5886a3a06adc27782a0",
+    "hash": "bc217c1de7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBBEhAAUSQRNRFDFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAEUEC/9oADAMBAAIRAxEAPwDJbLHGrwtDTRupSNZGaBWZiwDftgBa5yTfR3KjpwapvgQgSLKFPh42YKTc+xg2PRGdW11UCChEVZFxkSLkBMFIcKB30RbBt9XGnX1FPzqUlnBUJKQqzB25EMufQAJx3fUHlKAh/9k=",
+    "url": "https://preview.redd.it/l1qcy8umkzh71.jpg?width=640&crop=smart&auto=webp&s=632f812fc8b031946ea4615d962b74c86160319f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mother Gale's Shrine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p6d0vo/mother_gales_shrine/"
+}
