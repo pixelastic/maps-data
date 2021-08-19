@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1629244800,
+    "full": 1629288060,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p6ppz7",
+  "picture": {
+    "filesize": 104271,
+    "fullUrl": "https://external-preview.redd.it/Q9nN-edwNPgGPXmdicd9Nfdbtr8DkeFhJsNn7-T6NO8.jpg?auto=webp&s=2de5bdc79d77d39d7b0b6d7544e4ac0ddfef5800",
+    "hash": "da2db6e113",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACQQAAECBQMFAQAAAAAAAAAAAAECAwAEBQYREjFREyEiUoFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMhEhP/2gAMAwEAAhEDEQA/AMHZdprrNMW/JttOrAAyrvpGcEH53+Qit0FqWqkwy6060tBA0JZBAGBjccYiCy7rnLZn2X5J5R0ZW5LpV4rR6njPO4g7srqa/cE3VEOqYEyUr6XUX4HSARt+Qo2jzCquiFFJ7LM2Gf/Z",
+    "url": "https://external-preview.redd.it/Q9nN-edwNPgGPXmdicd9Nfdbtr8DkeFhJsNn7-T6NO8.jpg?width=640&crop=smart&auto=webp&s=c9778729a6ba24b618f0af93fe327ed758814c8e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Floating Island Waterfalls",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p6ppz7/floating_island_waterfalls_36x54/"
+}

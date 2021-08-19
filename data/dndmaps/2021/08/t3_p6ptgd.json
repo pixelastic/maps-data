@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1629244800,
+    "full": 1629288423,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p6ptgd",
+  "picture": {
+    "filesize": 83376,
+    "fullUrl": "https://preview.redd.it/b60djzzyw3i71.jpg?auto=webp&s=08f25f1e14eaae1c2bb3284ce8801ed31f99d2fe",
+    "hash": "9da391f564",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAQMDAgYDAAAAAAAAAAAAAgEDEQAEMRIyBQYUISJRE2GB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDURESIv/aAAwDAQACEQMRAD8AO3r5BxS+acVm4+R3UhllCntPuKvd68rJu9uSTqNSiDiF5aY2jH0i4zisQkW34jctNkWkTVEnO7M/tLOXwV22fVwzIBRARufHdMx77ZqTOdGg0mQdHFr/2Q==",
+    "url": "https://preview.redd.it/b60djzzyw3i71.jpg?width=640&crop=smart&auto=webp&s=0c17a3f99652df55cd2afd3e04a4e5af15d2424b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Third map of a multi part desert city. Farming District",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p6ptgd/third_map_of_a_multi_part_desert_city_farming/"
+}
