@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7t8rzfkc",
+    "name": "WitchNWizard"
+  },
+  "date": {
+    "day": 1629331200,
+    "full": 1629414119,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p7pt4g",
+  "picture": {
+    "filesize": 55059,
+    "fullUrl": "https://preview.redd.it/34c8pte6bei71.jpg?auto=webp&s=17ccadb67d596cfee6e56feb8dd5b60fee29f421",
+    "hash": "df9c3af88f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACMQAAICAQMDBQAAAAAAAAAAAAECAxEABRIhBBMiMUFRYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDBYSfBZkVpQavgH6rAN2Q7hAGjBtuOT8AYumSs/TybquNKX9GXaTEk6TSODuW/f1oXkab/2Q==",
+    "url": "https://preview.redd.it/34c8pte6bei71.jpg?width=640&crop=smart&auto=webp&s=cc1cf2454cb1e94f22443f463dd013ee0260c012",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Cave Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p7pt4g/cave_map/"
+}

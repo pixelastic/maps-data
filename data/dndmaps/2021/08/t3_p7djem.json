@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1629331200,
+    "full": 1629374874,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p7djem",
+  "picture": {
+    "filesize": 51867,
+    "fullUrl": "https://preview.redd.it/1m1oi2ra2bi71.jpg?auto=webp&s=6b50959b7f5dcd9f0f8bb7237cc5b3ec47ad9d30",
+    "hash": "6ee4ddd739",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDBBEABRIhFDEiI0GR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIh/9oADAMBAAIRAxEAPwDP21UacL04pPGueS6uXw31pkgj8/cf3TpLdOnt+8V4tupyLBMyLKWHMBiR0PZxqZq2ZF22dCeXEqUJJ+GDnrvHvR7N+1ZTjPMzqTkggdnVDTnpI3//2Q==",
+    "url": "https://preview.redd.it/1m1oi2ra2bi71.jpg?width=640&crop=smart&auto=webp&s=3868973cb2f41865115f3cfbb94aeecacce91625",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 204,
+    "value": 204
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Wizard Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p7djem/wizard_dungeon/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1629331200,
+    "full": 1629374671,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p7dhm9",
+  "picture": {
+    "filesize": 92860,
+    "fullUrl": "https://preview.redd.it/9rhs3kvv1bi71.jpg?auto=webp&s=b0524b32bbf9144bbeda2e4c85bd959f1cc98137",
+    "hash": "b173203ede",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAoEAACAQMBBwQDAAAAAAAAAAABAgMEBhEABRITFCExMgcVQVEiYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAMBAAMAAAAAAAAAAAAAAAECAwBCYbH/2gAMAwEAAhEDEQA/AHN7XY+zqTCxuIZH4cIXAabp3J+F/Xcj50Os7aCVlxJVSF3qeYiXe4e6qAHxx2HjgY0yvu1ai5C3MmliEchWnILM7RkD8yB2bOR9Y1Navp/7fKKiqlJp4pFmSJvJpFBAZj9deg/moavMT7z3SjVB4j3f/9k=",
+    "url": "https://preview.redd.it/9rhs3kvv1bi71.jpg?width=640&crop=smart&auto=webp&s=469ba74cf8a6bd0479461d80fc7035bb9b73f837",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Oasis",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p7dhm9/oasis_60x60/"
+}

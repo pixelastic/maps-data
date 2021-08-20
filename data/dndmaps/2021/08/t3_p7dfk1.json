@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1629331200,
+    "full": 1629374452,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p7dfk1",
+  "picture": {
+    "filesize": 65399,
+    "fullUrl": "https://external-preview.redd.it/MFmE8NUyyNIK21y5K-wmu_9qMS5Ov3PVErxlkcb8dGM.jpg?auto=webp&s=86c47a100bdca93bba2a887e9c4b1593eecf3b6c",
+    "hash": "721ea6ca43",
+    "height": 975,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQIDBBEABSESMVFSYf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQADEQL/2gAMAwEAAhEDEQA/AMega2GqGsORmHpBF9ReUFAeawR3TlLigXEg/cb18uOGgaSHargd8jlPFUhZpXJ9TiWgSaqsuO02f//Z",
+    "url": "https://external-preview.redd.it/MFmE8NUyyNIK21y5K-wmu_9qMS5Ov3PVErxlkcb8dGM.jpg?width=640&crop=smart&auto=webp&s=fb236d9d33ba2eb51945d69bc87353d8d40ac901",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.89,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ghost Ship Dock",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p7dfk1/ghost_ship_dock_21x32/"
+}

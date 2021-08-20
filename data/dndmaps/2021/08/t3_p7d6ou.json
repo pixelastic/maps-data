@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1629331200,
+    "full": 1629373399,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p7d6ou",
+  "picture": {
+    "filesize": 157564,
+    "fullUrl": "https://preview.redd.it/mbx5yc7jwai71.jpg?width=1950&format=pjpg&auto=webp&s=10fa29d3bf3fee8514a41c29962d0e2dc9cc0f48",
+    "hash": "d3e2c95c20",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACEQAAECBgMBAQAAAAAAAAAAAAIBAwAEBRESYQYhMSJR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAyExcf/aAAwDAQACEQMRAD8AIo7hEEwjii01NASYGV0l7JbG3nnsGYU1v4PkVSyHpcXltfWoGl6Y8bU1JS1WmCNohadETVQEl7LEl93+wanEakaZAaYr2mSIi23uJRRBRJ7H42csyi9eT//Z",
+    "url": "https://preview.redd.it/mbx5yc7jwai71.jpg?width=640&crop=smart&auto=webp&s=641e56f1878cbf8c16ffd60ae839fec9a0dfb9c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Eight big maps for encounter in different regions",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p7d6ou/eight_big_maps_for_encounter_in_different_regions/"
+}
