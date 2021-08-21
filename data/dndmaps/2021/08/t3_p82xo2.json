@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1629417600,
+    "full": 1629457241,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p82xo2",
+  "picture": {
+    "filesize": 185774,
+    "fullUrl": "https://preview.redd.it/fxxz9fagvhi71.jpg?auto=webp&s=4bf894a6f103754b9647e9f4dd476137bcf326c2",
+    "hash": "4d46e1ecf8",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQMEAQUAAAAAAAAAAAABAwIEBREAEiJRgRMhQWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAMhMUH/2gAMAwEAAhEDEQA/AJu0PTUWqrYulRFLVmDFKxzhn85DvPg6Nqp0ECsU1AxkDAEkSAwcnIIGnbOFohFCKtE6YjbtdL0pR9ujxOT9jQdRabkx02rtzzFhMxxB+e/GohdlHUQ0PJ//2Q==",
+    "url": "https://preview.redd.it/fxxz9fagvhi71.jpg?width=640&crop=smart&auto=webp&s=0e78333185273f728697928b7177ed8ee60e2a63",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Riverside Caravan",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p82xo2/riverside_caravan_45x60/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1629417600,
+    "full": 1629464821,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p84tk6",
+  "picture": {
+    "filesize": 152840,
+    "fullUrl": "https://preview.redd.it/7wyq154blgi71.jpg?width=2364&format=pjpg&auto=webp&s=ee44d5136bc42cc7c97482c5f1f0a859b107bc68",
+    "hash": "089e5a9943",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDEQQABRIUISIxMkFRgcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACETH/2gAMAwEAAhEDEQA/AM/tuJ1uQRI3GFPE7XVDSr7ciYuTkTxxxmE1GobkJErtfv8Aei8HKEGQFhitXIDBm9Q/PPVd13GWdzjgcI0NEXfKvk6OmvYCtsEyf//Z",
+    "url": "https://preview.redd.it/7wyq154blgi71.jpg?width=640&crop=smart&auto=webp&s=ec55eb7069491ff96ef7c6c559c4901b7164f22c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Druid Grove Battle Map | 30 x 30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p84tk6/druid_grove_battle_map_30_x_30/"
+}

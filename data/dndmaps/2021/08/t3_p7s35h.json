@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4cud7s2w",
+    "name": "tvdepression"
+  },
+  "date": {
+    "day": 1629417600,
+    "full": 1629422281,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p7s35h",
+  "picture": {
+    "filesize": 133757,
+    "fullUrl": "https://preview.redd.it/zggjadagzei71.jpg?auto=webp&s=a8748977353a269827e5aec41ae019bcd909b69a",
+    "hash": "f89b11586d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIDAAQRIQUSIjFxEzJB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAfEQABAwMFAAAAAAAAAAAAAAADAAECBBJRISIxofD/2gAMAwEAAhEDEQA/ACSSi3nDwdUWO4pk/bG9VhcvcZnhkWT4pkJC6yN/mKjLybMSwViqYLkEEAHx7pdxHHcRnuCuNqw8hvVSDHIWW7RsIBTQG1sOe39hf//Z",
+    "url": "https://preview.redd.it/zggjadagzei71.jpg?width=640&crop=smart&auto=webp&s=f2e462625f0c168c43274fb3730ec4239346b22b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lake Edge Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p7s35h/lake_edge_encounter/"
+}
