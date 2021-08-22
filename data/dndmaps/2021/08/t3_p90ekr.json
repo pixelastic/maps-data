@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1629504000,
+    "full": 1629583879,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p90ekr",
+  "picture": {
+    "filesize": 57946,
+    "fullUrl": "https://preview.redd.it/nbvp3g4zbsi71.jpg?auto=webp&s=2bc32589909278ea22322ea2d6a3e7f7ecedc05a",
+    "hash": "625e73e06e",
+    "height": 299,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHxAAAQQCAwEBAAAAAAAAAAAAAQIDERIABAUhMRMi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhEDEQA/ANjrt2U+phbi+NTtqaoFQqtv0BIkEK7m3giD5l+QZe2ddJfdYJaP0LqU+mD1FR1jGSaZwv/Z",
+    "url": "https://preview.redd.it/nbvp3g4zbsi71.jpg?width=640&crop=smart&auto=webp&s=1293e55a723165b8850d73359afbba2956016add",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Monolith of the Ghost Dunes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p90ekr/monolith_of_the_ghost_dunes/"
+}

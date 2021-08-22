@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1629504000,
+    "full": 1629552468,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p8rgaj",
+  "picture": {
+    "filesize": 62069,
+    "fullUrl": "https://preview.redd.it/28yijtbkqpi71.jpg?width=2100&format=pjpg&auto=webp&s=5c85273861b4ebbd4fde4475add2ac300c5e0dd1",
+    "hash": "5775f16e20",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMI/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIDEQAEIRJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AM8QxK6oxAcsLP04tRDBs+0XlML8g8rBptUZMcyRigGBarGV1pG2dgRq/labg7fDguiZD//Z",
+    "url": "https://preview.redd.it/28yijtbkqpi71.jpg?width=640&crop=smart&auto=webp&s=bc8f36d47e96381e645fb33f389f4050d0d49b2a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ogre Cave / Ruined Camp (Maps from our latest Adventure! Full PDF Link in Comments)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p8rgaj/ogre_cave_ruined_camp_maps_from_our_latest/"
+}

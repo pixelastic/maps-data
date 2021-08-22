@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_j3hosll",
+    "name": "KSBX"
+  },
+  "date": {
+    "day": 1629504000,
+    "full": 1629590349,
+    "month": 1627776000,
+    "week": 1628985600
+  },
+  "id": "t3_p92490",
+  "picture": {
+    "filesize": 66558,
+    "fullUrl": "https://preview.redd.it/hmpywpw2vsi71.jpg?auto=webp&s=c2435d4c14b432b2207ab06be4d2df1f28ca4542",
+    "hash": "f0b1b265cc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFCP/EACEQAAICAgEEAwAAAAAAAAAAAAECAwQAEQUTMUFREiEj/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDN80lq5Gr9JyhJVdD6Jys7QcNTaGf42LM4/RfCAjEOLvyLLGs0pREJZCo7edH2D6wu0rEXJydZWk3qXZOyQe28QV//2Q==",
+    "url": "https://preview.redd.it/hmpywpw2vsi71.jpg?width=640&crop=smart&auto=webp&s=2b2605dc2c51deca75dc2f89afdeb2711c6c7842",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruins Map/Cave Temple?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p92490/ruins_mapcave_temple/"
+}
