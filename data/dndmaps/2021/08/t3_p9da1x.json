@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6y4q3fs6",
+    "name": "Semnemrod"
+  },
+  "date": {
+    "day": 1629590400,
+    "full": 1629642008,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_p9da1x",
+  "picture": {
+    "filesize": 162149,
+    "fullUrl": "https://preview.redd.it/55j276z74xi71.jpg?auto=webp&s=3e821104a2061827d0f8a26b10a8d428bbf5eaf0",
+    "hash": "95fa9aeed6",
+    "height": 809,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAEEAQMCBwAAAAAAAAAAAAECAwQRBQASEyExIjJBUWGR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxJBcf/aAAwDAQACEQMRAD8AzSVCw2OVGC4rKWXV7HCUqrylXUWb7dtDnYjByHyRFYS3QLZaSpIKSAR6/r1WlQMmtDW6NjX0clJ5NytvWgbPx7afxkCcw2sT4sGyfAEqWihX1oBtOIbfZSKhlCz/2Q==",
+    "url": "https://preview.redd.it/55j276z74xi71.jpg?width=640&crop=smart&auto=webp&s=5fb10f2bbfd4b98baf2427c9b46ccc59f0a079c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Aleister's lair, the cathedral of the Seven Sins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p9da1x/aleisters_lair_the_cathedral_of_the_seven_sins/"
+}

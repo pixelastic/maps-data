@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1629590400,
+    "full": 1629619028,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_p98ivv",
+  "picture": {
+    "filesize": 90739,
+    "fullUrl": "https://preview.redd.it/liboj6mh8vi71.jpg?auto=webp&s=189c3b8e2625b6dba19ab077f4a9436519bf15ec",
+    "hash": "59b41db954",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQISAAQRBRMhA0FhIjFRkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAxITIv/aAAwDAQACEQMRAD8AxrTbAXHTBKPuBlYSBgUyB8efwqNRtNkuwRsyLehTALkjuBzxTTr428cu8shRJjFVyD2PimoXbXLsAWkCUG2TErkn7596EpNC3NT/2Q==",
+    "url": "https://preview.redd.it/liboj6mh8vi71.jpg?width=640&crop=smart&auto=webp&s=8a650b0b309e357cf0cfb134d3c296306d3e62bb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Secret Library Battle Map 22x22",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p98ivv/secret_library_battle_map_22x22/"
+}

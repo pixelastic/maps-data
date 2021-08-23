@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_63muq8gv",
+    "name": "Skront_Stuff"
+  },
+  "date": {
+    "day": 1629590400,
+    "full": 1629599106,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_p94aql",
+  "picture": {
+    "filesize": 102762,
+    "fullUrl": "https://preview.redd.it/j3ez1qtekti71.jpg?width=1800&format=pjpg&auto=webp&s=2d44dac481976d41512dbc1ebd53082f76b187b6",
+    "hash": "e39fe7e6a2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEERIABSExExRBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABwRAAEDBQAAAAAAAAAAAAAAAAEAAgMEERMhYf/aAAwDAQACEQMRAD8AAHwS0sWSQBTELAKvBCjs6q25bbWnb6Oevegh86WjWCNAEGJNm+zYagcUdOu2iQvCXFjfLoEW609aSk9QpG8bhoMbFkJLY888cfP5qJlMXUtps1yTtf/Z",
+    "url": "https://preview.redd.it/j3ez1qtekti71.jpg?width=640&crop=smart&auto=webp&s=9902218a3193cf71b929e7d064139e0249d2d2f9",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "25x25 forest sets map (testing new Dungeondraft assets)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p94aql/25x25_forest_sets_map_testing_new_dungeondraft/"
+}

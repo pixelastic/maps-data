@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9c4689",
+    "name": "Raznag"
+  },
+  "date": {
+    "day": 1629590400,
+    "full": 1629649587,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_p9fjz2",
+  "picture": {
+    "filesize": 81960,
+    "fullUrl": "https://preview.redd.it/wcyshm2brxi71.jpg?width=1400&format=pjpg&auto=webp&s=4d4a067d5cda8789dd7bc0f501f0cd3220f20346",
+    "hash": "20fc93ff32",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQFEQASISJBUXEkMYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A3+9XGntlIJ9krncdpTJEfG0sR4GiLXH8eOWUr0BHKhMsVA6cDtzk/ulV7W4lkakjkaSqYJvdOgY55Xx4z949nVHTyMEp2qAqz7T2xxxn0DjQf//Z",
+    "url": "https://preview.redd.it/wcyshm2brxi71.jpg?width=640&crop=smart&auto=webp&s=6dddf22a9c881e6e6f31b6dd356845dbe0e56022",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "My first try at hand draw battlemap!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/p9fjz2/my_first_try_at_hand_draw_battlemap/"
+}
