@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1629676800,
+    "full": 1629738189,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pa41pr",
+  "picture": {
+    "filesize": 127186,
+    "fullUrl": "https://external-preview.redd.it/JTJ6fQV3B7ReS2s6O4V9R4mVWAJoICRFmNVBwd5CJ3c.jpg?auto=webp&s=15018fc7f06ca1976bbb216c848b882fb76b2087",
+    "hash": "0f71639568",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAH/8QAIxAAAQMEAgIDAQAAAAAAAAAAAQIDEQQFEiEAEzFRQWGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMEISL/2gAMAwEAAhEDEQA/AM5tzzbbEVOBf6sFAeMQJmPfz+b4cKd87NuWud5JCgD/ADXG7pYmqWyUl2qX3SKxB6W2kyEpToqKo0J8e55Une3TNJ7XTCRtGUH744Zkq1NyO+u5Prk//9k=",
+    "url": "https://external-preview.redd.it/JTJ6fQV3B7ReS2s6O4V9R4mVWAJoICRFmNVBwd5CJ3c.jpg?width=640&crop=smart&auto=webp&s=9ea48025fcb4f1d45246655e550a26812be69a39",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rocky Beaches",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pa41pr/rocky_beaches_34x51/"
+}
