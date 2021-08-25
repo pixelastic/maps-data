@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dpmqd2ka",
+    "name": "DragonMapMaker"
+  },
+  "date": {
+    "day": 1629763200,
+    "full": 1629842538,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_paxel3",
+  "picture": {
+    "filesize": 142484,
+    "fullUrl": "https://preview.redd.it/ruol19uzodj71.jpg?auto=webp&s=b9b293f0dfd4650df76cc4fe22dd575dda835034",
+    "hash": "ef09ab8cb3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAnEAACAQIFAQkAAAAAAAAAAAABAgMEEQAFBhIhURQVIiMxMkFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECAxL/2gAMAwEAAhEDEQA/AC8jq4coiqYKaNz2kIfET5Z6LY3+TidRVXftO8LjZIshkUlmsxtbaCT+YPpWEsK1IISZCqc+h+yOoF+cBZjqBVcxxUzNBT3G4yWNx7jYcG9uMQM42t8yLdJI/9k=",
+    "url": "https://preview.redd.it/ruol19uzodj71.jpg?width=640&crop=smart&auto=webp&s=1cdc89853b366be0a1763b12c1524fe607653004",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Tavern          A large battlemap with a Tavern, forest and cave.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/paxel3/forest_tavern_96x96_6000x6000px_battlemap_cave/"
+}

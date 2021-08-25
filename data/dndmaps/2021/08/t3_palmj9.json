@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1629763200,
+    "full": 1629805316,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_palmj9",
+  "picture": {
+    "filesize": 108705,
+    "fullUrl": "https://preview.redd.it/wvp7rvsnkaj71.jpg?width=3900&format=pjpg&auto=webp&s=93ddd62d6df5a7f72c9a820f3381089b0c84b39e",
+    "hash": "36a384275a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACUQAAEDAwMDBQAAAAAAAAAAAAECAwUEESEAEjEGQUITFCKB4f/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQABBAMBAAAAAAAAAAAAAAABAgMREgBhofD/2gAMAwEAAhEDEQA/AMsgIGRmpZEew2hVSlvaSogBKR2+9FczIdKdRmk3+3fp7KWWzdKkX8sfudNEyFdCTRfo1tB1LSQ4VHcm2CfkM35yNTzNZXzks9IOj1ahxFyfBCQO1+eNGJW6XLEikdxlbbIZqkG88n25z//Z",
+    "url": "https://preview.redd.it/wvp7rvsnkaj71.jpg?width=640&crop=smart&auto=webp&s=a9c5afb317cb73f6d8026bea55df7a6494435275",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 90,
+    "value": 90
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A big volcano dungeon with several floors",
+  "url": "https://www.reddit.com/r/dndmaps/comments/palmj9/a_big_volcano_dungeon_with_several_floors/"
+}

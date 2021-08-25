@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_glsp4",
+    "name": "nova_centurion"
+  },
+  "date": {
+    "day": 1629763200,
+    "full": 1629818601,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_paphv2",
+  "picture": {
+    "filesize": 60718,
+    "fullUrl": "https://preview.redd.it/1dkdo44vpbj71.jpg?auto=webp&s=df4765efcef38f46bd5962a1ef576a81d1cae473",
+    "hash": "44e5b7c7f1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAEEiEjQWEx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAaEQACAgMAAAAAAAAAAAAAAAACEQASASEx/9oADAMBAAIRAxEAPwDCasSNrh5Y1kkltR6oVQ+X1eDe1IteAM0qtOwU8I1IC9dg/chU+Mt7DCsUkzSyc2qz+1hUrN6kuSFcn//Z",
+    "url": "https://preview.redd.it/1dkdo44vpbj71.jpg?width=640&crop=smart&auto=webp&s=6514f63ad1f828a25919cfbf4dda1d540b69d7b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "The World of Lorin",
+  "url": "https://www.reddit.com/r/dndmaps/comments/paphv2/the_world_of_lorin/"
+}

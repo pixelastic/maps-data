@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6clh3oi7",
+    "name": "IntoTheFaywild"
+  },
+  "date": {
+    "day": 1629763200,
+    "full": 1629778309,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pag0dm",
+  "picture": {
+    "filesize": 243457,
+    "fullUrl": "https://preview.redd.it/fe1h6os0e8j71.png?width=1400&format=png&auto=webp&s=a6609505b201fa882d40db0b0b6d19cde3ae89c1",
+    "hash": "9cb5811f85",
+    "height": 494,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAIAAADkharWAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB7klEQVQokSWRyW/TQByFfUVCAhIvs/7GMxnvsZPYSZ3FWZq1LUkrKlVNCi0gFW6cgUOR+M+RhfSdnvT0pO8ZYVZ2B7O4M2znYybDfHJ1+v73/vnPYHpwvc509xB1pyYSWAQIfCICA3SbqYTKmMrYwu7+/sft15f9p5/Hby/5aFdtT6CzhkMxU4hJi0jD9TvC64BOQacWkUV1vTz+nt39ml88vXr9RgW9an2X9Iarq7vd9SlKC8OhyiFgY0FEQN2wYfP+7Hp2+bGJRMPhaf98+f4x6Z3NNh8WuxsdpgaoaDy/1EGKuA+ttomETspssGrYFHGPiCDuTt41sU3kW4s2HW5Q8HtnSwIt0wGLSOpG1fa4vnmGVtpEYGFo9yYENOaeTZXDtEFBZ8XEj7Ig7jZtVs5vVofP68OX6fbeRMLVWTHaZP15Xq4c2nKoMsDVw+mmrDbj80NaTKvV7frwtNo/Li4f0mI+mFyU42XeHxXDBRGhTZXhEMGEpqAxUxYWVIRJr8r6C64SEwku46RTBkkepmc2VYhrA3TKVEzqXzwMfi2NSgKeiQUG3yLSwrV+E7s2VRg8g+uUtxIqIww+Bt/EbtQZ56OtiQTiGvE6JKIGg4+4ZzAVMxVT93/Bc5i2iLSpsql0mHaYRtxDvB6vEf4/sWFgUkOowdcAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/fe1h6os0e8j71.png?width=640&crop=smart&auto=webp&s=06e2f3cb7abc2e777a32f7c8494ab9fe18f77d62",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.72,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Temple of the Azure Ascent - Homebrew Dungeon Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pag0dm/temple_of_the_azure_ascent_homebrew_dungeon_map/"
+}

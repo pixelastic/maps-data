@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pvz4inx",
+    "name": "RPGScenery"
+  },
+  "date": {
+    "day": 1629763200,
+    "full": 1629800652,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pakkm9",
+  "picture": {
+    "filesize": 123609,
+    "fullUrl": "https://preview.redd.it/s484hkie8aj71.jpg?auto=webp&s=191e9613c0199d0e6b32a3fa46d1bf946d5f38ea",
+    "hash": "60a9ce2a03",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAJxAAAgECBAQHAAAAAAAAAAAAAQIDBBEABRMxBhIiYRQyM0FRcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAwADAAAAAAAAAAAAAAAAAAEhERIT/9oADAMBAAIRAxEAPwAhw/TUeSZpJVVFV4mVYU1F5XMq3JXYjruCNvjtjNmU6V0y1EcDtUvIqOEiYNGpYgRtfceU/ZPthPwtnQqQkMsMYkt6jLYkE7A4mpzSkpoa3RZufVMcrqOrquVtb974J6VyjmqxHD//2Q==",
+    "url": "https://preview.redd.it/s484hkie8aj71.jpg?width=640&crop=smart&auto=webp&s=ee39f0e59429aaf655f786c4a0d32a37b9094478",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fortress Gate Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pakkm9/oc_fortress_gate_battlemap48x48/"
+}
