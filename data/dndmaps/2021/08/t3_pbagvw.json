@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1629849600,
+    "full": 1629895480,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pbagvw",
+  "picture": {
+    "filesize": 130891,
+    "fullUrl": "https://preview.redd.it/4yxzoloj2ij71.jpg?auto=webp&s=e6d511812c21e3838ef426ebb542db773324ea51",
+    "hash": "638e04424c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIxAAAgICAgIBBQAAAAAAAAAAAQIDBAURABIhQgYiMUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHREAAgIBBQAAAAAAAAAAAAAAAQMCEgAEIVGhsf/aAAwDAQACEQMRAD8AH8do01wlGzK8rZquzyyQxns7qPUE70APbmemycsmds5XHx9C5ArwdeyooHjQ/nnl6N+GhVsx27WQrZusSitEPocN6v8AbWtk/rXjgWycrvC2RjQVxCQxTQ6gja9SPb864djrCsRt7kxOmK5lrJWkehwM/9k=",
+    "url": "https://preview.redd.it/4yxzoloj2ij71.jpg?width=640&crop=smart&auto=webp&s=0084ff22f3aeb82bc749b22c986173d824f7374e",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "River Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pbagvw/river_road_30x30/"
+}

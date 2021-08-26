@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12flox",
+    "name": "DanielHasenbos"
+  },
+  "date": {
+    "day": 1629849600,
+    "full": 1629896815,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pbau2r",
+  "picture": {
+    "filesize": 120365,
+    "fullUrl": "https://preview.redd.it/ecuza5hw5ij71.jpg?width=1000&format=pjpg&auto=webp&s=802976ce8f4d896b76a15fb41930fdd66bfd4b9d",
+    "hash": "eb67721d8d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAIhAAAgICAgEFAQAAAAAAAAAAAQMCBBESAAVBExQhUWHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDERL/2gAMAwEAAhEDEQA/AJ0fS2rPVtv+4lBcMiCtQQQD5H1zSpUTcQLDJsiWHYRAIwOLrdKQWqdYmK0p76LYQCfII/eJsKTGUY+u1WI41VkxGPj+cg5bmtcoTR//2Q==",
+    "url": "https://preview.redd.it/ecuza5hw5ij71.jpg?width=640&crop=smart&auto=webp&s=77f095f047a64277628eee2bb06b886ba27b4c4d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Tower of Annaaru",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pbau2r/ruined_tower_of_annaaru/"
+}

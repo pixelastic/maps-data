@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1629849600,
+    "full": 1629892990,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pb9tii",
+  "picture": {
+    "filesize": 239588,
+    "fullUrl": "https://external-preview.redd.it/UeqDTTahH6oqrAnPw_VLboAxL0yjPb-c4doHN8AQwm8.jpg?auto=webp&s=991e9927babba6cc341e38095b81ccaed7292970",
+    "hash": "2314c55086",
+    "height": 1484,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIAAxESBAUiMZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAALx/9oADAMBAAIRAxEAPwDLcZ6tm3pe1S57BWPuDEm6bTYvIdadamZ2Yua/Ps4OYkrewezhf//Z",
+    "url": "https://external-preview.redd.it/UeqDTTahH6oqrAnPw_VLboAxL0yjPb-c4doHN8AQwm8.jpg?width=640&crop=smart&auto=webp&s=f42c5291d490b8edeeac5220ad4660a22fe1310d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.9,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Merritts Keep",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pb9tii/merritts_keep_44x102/"
+}
