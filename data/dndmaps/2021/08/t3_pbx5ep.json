@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_67y4w69v",
+    "name": "mik_wewa"
+  },
+  "date": {
+    "day": 1629936000,
+    "full": 1629975515,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pbx5ep",
+  "picture": {
+    "filesize": 91015,
+    "fullUrl": "https://preview.redd.it/3qo8csy1ooj71.jpg?auto=webp&s=b60cb11993cf3355fd25be033f3571d99d729581",
+    "hash": "dad0f25e05",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEhAAUTMRIiI0FR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAwDAQACEQMRAD8AzyIw6ENOStqhuQ2mEUGY6ZBeJBCleQF1dEAfRzoqdcVHeiCBEjLBVD8GVpKm0KZUvNdewuu9WjzoDMHhcKI8NzbudUZINpQbwFWMn26Ggkx9v2h1EGOyltvldLhe5K+I0f0k+QFHrOiGF2//2Q==",
+    "url": "https://preview.redd.it/3qo8csy1ooj71.jpg?width=640&crop=smart&auto=webp&s=f3c0ac0437c9438bab726cf8782c95377e869975",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 298,
+    "value": 298
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "City Sewers",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pbx5ep/city_sewers_35x35/"
+}

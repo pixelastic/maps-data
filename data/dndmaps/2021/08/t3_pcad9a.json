@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1629936000,
+    "full": 1630017603,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pcad9a",
+  "picture": {
+    "filesize": 144021,
+    "fullUrl": "https://preview.redd.it/apqx3ceo5sj71.jpg?auto=webp&s=67ed59628b17ec16e001952cae63b9a06d7e5962",
+    "hash": "7208fdca4e",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAkEAABAwMEAQUAAAAAAAAAAAABAgMEAAUREiExQRMUYXGx8P/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAATH/2gAMAwEAAhEDEQA/AF5iXiLdHHWGZMlpKleIOqK0EEbA78Z76qtCmPz3pDabWEGOQlRUcEk+xH7NHLrdJ1xcQI7LwLaihtLQI8gB5GRzsPimVkekKtjXrMrfBKVLUNGvHe/3QXCx/9k=",
+    "url": "https://preview.redd.it/apqx3ceo5sj71.jpg?width=640&crop=smart&auto=webp&s=f0bb805c040fb6adafab82ba700b84d9474c6689",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Dungeons of Zath Gor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pcad9a/the_dungeons_of_zath_gor_vtt_notes_lore_in/"
+}

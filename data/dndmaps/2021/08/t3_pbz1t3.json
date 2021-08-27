@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1629936000,
+    "full": 1629982907,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pbz1t3",
+  "picture": {
+    "filesize": 105658,
+    "fullUrl": "https://preview.redd.it/dixtyr5s9pj71.jpg?auto=webp&s=6abd4ddbff954084fb5f74edc10685113cc845a9",
+    "hash": "f4170e0088",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAEDAgUEAwAAAAAAAAAAAAECAxEABBITITFBBQYUUSIkcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAyEREv/aAAwDAQACEQMRAD8Ay9x0yzQVteOxGWFIxIHy4gRtvSrfb9jcIg27bSWtVvThSgc4jzVPqY+rnScxJAn2NdPyjsVFvt8OMqU0q5whZSTtOwmfVSNayr0HYhSjN5Iyf//Z",
+    "url": "https://preview.redd.it/dixtyr5s9pj71.jpg?width=640&crop=smart&auto=webp&s=81af97e06dacfcf7d861cf8904b693e655062cff",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 93,
+    "value": 93
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The Forth District Zivis.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pbz1t3/the_forth_district_zivis/"
+}

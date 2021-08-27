@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5xmopp9v",
+    "name": "FriendOfStilgar"
+  },
+  "date": {
+    "day": 1629936000,
+    "full": 1630021321,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pcbga9",
+  "picture": {
+    "filesize": 125284,
+    "fullUrl": "https://preview.redd.it/7uvajmzpgsj71.jpg?width=3678&format=pjpg&auto=webp&s=c44f451ca1e5ade3a0a630b2ffa38c31d1d018ed",
+    "hash": "c937257927",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACYQAQABAwMCBgMAAAAAAAAAAAECAwQRABMhBTEGEiIjMkFRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDWJWVvb3g9R2GvKO5UlKMWJP6VRz2+/wBaooyze2VenUlbtR9DkWTLGRDjnhT+aOtU417ituEfakEUiCiHC4ynLpPh+4qXfXaRXSTu1HOO/k+J+ONVEf/Z",
+    "url": "https://preview.redd.it/7uvajmzpgsj71.jpg?width=640&crop=smart&auto=webp&s=09f075161e2e371f92a60b739f8c55e220a75bff",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "World and Continent Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pcbga9/world_and_continent_maps/"
+}
