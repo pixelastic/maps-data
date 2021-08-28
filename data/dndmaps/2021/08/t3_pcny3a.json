@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1630022400,
+    "full": 1630072858,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pcny3a",
+  "picture": {
+    "filesize": 107987,
+    "fullUrl": "https://preview.redd.it/l7u5u81spwj71.jpg?width=5040&format=pjpg&auto=webp&s=d7981a7af09fa16aea86b511e6273f5da1c63a0e",
+    "hash": "d65731a042",
+    "height": 613,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAEEAQQDAQAAAAAAAAAAAAECAwQRBQASEyExQWEi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAMAwEAAhEDEQA/AMpcw6cXEgvrfjTkuMF0qZbHI3SRRBJO5PfzQMtQQnINNxmCXQUgbSNgqyQe/Pvz2dPIOSgOYxTwdDTIjKcHG0SokJ8kHquj91P5Ofi5qHVRE7H6VyfkgLO2zQqgK69WKvU5sg3/2Q==",
+    "url": "https://preview.redd.it/l7u5u81spwj71.jpg?width=640&crop=smart&auto=webp&s=3323dc75bfa1283273a6abdc9b97572ba5c76013",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Brukarthe Delve",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pcny3a/brukarthe_delve_70x67/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d2wu2",
+    "name": "HITMARX"
+  },
+  "date": {
+    "day": 1630022400,
+    "full": 1630072635,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pcnvf1",
+  "picture": {
+    "filesize": 130785,
+    "fullUrl": "https://preview.redd.it/0tnor79bpwj71.jpg?auto=webp&s=09df2fc728cc17f9980b01046fd1831f792d5a1a",
+    "hash": "cf68d07eb6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhABAAEDBAEFAAAAAAAAAAAAAQIAAxEEEyFhEgYxQYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAISUf/aAAwDAQACEQMRAD8AASOCGJbTAE4e6xamzjRbtiwt4fF2OxMuPzumtTAdLfz8WyRwe/JVPTDHxvsoEtsixyvD9NTR5AV0lSf/2Q==",
+    "url": "https://preview.redd.it/0tnor79bpwj71.jpg?width=640&crop=smart&auto=webp&s=2626d2570395b6e07eb95dde88f0f8406c3550bc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Village of Numa",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pcnvf1/village_of_numa/"
+}

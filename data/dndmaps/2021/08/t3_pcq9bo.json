@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1630022400,
+    "full": 1630080188,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pcq9bo",
+  "picture": {
+    "filesize": 163767,
+    "fullUrl": "https://external-preview.redd.it/Tl6O4bfVxqqsYV6_AiJrPEJY_ZImE9FQp8QbxnPQUOo.jpg?auto=webp&s=77c4aa1cebd1f5b4a5848461aba7b7a4eb9258ac",
+    "hash": "73ddac3fd7",
+    "height": 1087,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMABBESIQUTFUExUlSSk6HR/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMSESH/2gAMAwEAAhEDEQA/AD15YTJAA8cbBbdykhQa4yxJzgnfYeJ3oryrz0TfG/7SOHjEF9w1ZrgLyIV0oI9Q2ych8d/rB71B1hPJY+yitS2KOZih7wfdT//Z",
+    "url": "https://external-preview.redd.it/Tl6O4bfVxqqsYV6_AiJrPEJY_ZImE9FQp8QbxnPQUOo.jpg?width=640&crop=smart&auto=webp&s=0b5cad30446c67d73f69bb651bdfce7e72cf7eb6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Shrine Fire",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pcq9bo/forest_shrine_fire_43x73/"
+}
