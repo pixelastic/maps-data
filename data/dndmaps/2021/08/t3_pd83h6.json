@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1630108800,
+    "full": 1630149928,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pd83h6",
+  "picture": {
+    "filesize": 53236,
+    "fullUrl": "https://preview.redd.it/7d33gvr133k71.jpg?width=6960&format=pjpg&auto=webp&s=6e8af3d54ef518828d4059958d03091164b9cbad",
+    "hash": "7d24f89a6c",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIRAAAQMDBAMAAAAAAAAAAAAAAgEDBAAREgUxQVETIYH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMEEUES/9oADAMBAAIRAxEAPwDMWdSlHIKVIE32wbXB3FSAC4Jb3v177qiVOkOPPmsbxFKxVzAUQnERbpvtwvxOqUqNUD7J5HJvalR57P/Z",
+    "url": "https://preview.redd.it/7d33gvr133k71.jpg?width=640&crop=smart&auto=webp&s=8b0c9ca11b343e13bebe39724db4c606ba2a9583",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Coast Defense",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pd83h6/coast_defense_80x60/"
+}

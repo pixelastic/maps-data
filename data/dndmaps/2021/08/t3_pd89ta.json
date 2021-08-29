@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zlsf4",
+    "name": "strelky"
+  },
+  "date": {
+    "day": 1630108800,
+    "full": 1630150780,
+    "month": 1627776000,
+    "week": 1629590400
+  },
+  "id": "t3_pd89ta",
+  "picture": {
+    "filesize": 119589,
+    "fullUrl": "https://preview.redd.it/culg4y0p53k71.jpg?auto=webp&s=7b1185485ede344b2946c03d73fd2dee98c3647f",
+    "hash": "c4405a817c",
+    "height": 813,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIEAxESAAUhBjFBYSIyUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDe7vuk6pLdIjvRpIMrrycBa7H1Y359absm5S5UUlabSGUkHMYFeTYEn7cAc6Fu/T1WVMkiOmFGpiQxewB827/g1a6fgtAifNVSrUALqvYEC398m/vUlJ//2Q==",
+    "url": "https://preview.redd.it/culg4y0p53k71.jpg?width=640&crop=smart&auto=webp&s=7443a7208cdde86512855a3bd2dc6190084c051e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Wayward Grotto",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pd89ta/wayward_grotto/"
+}
