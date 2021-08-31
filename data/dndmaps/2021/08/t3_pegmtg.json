@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1630281600,
+    "full": 1630324731,
+    "month": 1627776000,
+    "week": 1630195200
+  },
+  "id": "t3_pegmtg",
+  "picture": {
+    "filesize": 116651,
+    "fullUrl": "https://preview.redd.it/7tw7mysvihk71.jpg?auto=webp&s=4fd5736f1d0324e596095dbb2931f782691c6ab8",
+    "hash": "ae4ccc7c7e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACYQAAICAQIFBAMAAAAAAAAAAAECAxEEACEFEhMxQQYUIjJRcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABcRAQEBAQAAAAAAAAAAAAAAAAERABL/2gAMAwEAAhEDEQA/AM7FJhzen5EinkVYiFYPGJDJRU2Td7/i/Gl8eTF9x0j1WkIZgI4aG29UGPcfb9DU7ieaeHQrLKC3zQIoocti27E/3R5OINjZ2PIFxSzMOUSsABdKdiw8ea1P5ZRzsd//2Q==",
+    "url": "https://preview.redd.it/7tw7mysvihk71.jpg?width=640&crop=smart&auto=webp&s=b7eb342d58c38c1e2bd19ed69b79b55f40b8f436",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Small City District",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pegmtg/small_city_district_40x40/"
+}

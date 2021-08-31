@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fmwxh",
+    "name": "Plaindog"
+  },
+  "date": {
+    "day": 1630281600,
+    "full": 1630314971,
+    "month": 1627776000,
+    "week": 1630195200
+  },
+  "id": "t3_peeha6",
+  "picture": {
+    "filesize": 24029,
+    "fullUrl": "https://external-preview.redd.it/XkrGZzwp2o6qutzawhGmZ-rl37deacwH2OIf1xV1A44.jpg?auto=webp&s=f05381ad45e35d4235df57997e36a9112cf5d812",
+    "hash": "bfe1f6cfed",
+    "height": 429,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDBAAFETESEyEiQfH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDOOsdNfbaGOwDLMgUsI1ZCG8Tx8uj2Of3IJppZlvy+pFXSspcLYcK7jnoD7OG2diSy1d5mDMIVUEKB7DkDrBZMNf/Z",
+    "url": "https://external-preview.redd.it/XkrGZzwp2o6qutzawhGmZ-rl37deacwH2OIf1xV1A44.jpg?width=640&crop=smart&auto=webp&s=824f2734a215d2252c0663d416b50650851d9ec0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Twisting Bridges",
+  "url": "https://www.reddit.com/r/dndmaps/comments/peeha6/the_twisting_bridges/"
+}
