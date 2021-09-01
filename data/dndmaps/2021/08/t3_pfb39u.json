@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1630368000,
+    "full": 1630432466,
+    "month": 1627776000,
+    "week": 1630195200
+  },
+  "id": "t3_pfb39u",
+  "picture": {
+    "filesize": 161276,
+    "fullUrl": "https://preview.redd.it/pgzwxkk8fqk71.jpg?auto=webp&s=d17aeb2b0be618f5f61ec384a9fbd5ad1e1b188a",
+    "hash": "8aa007111a",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAhEAACAgEEAgMAAAAAAAAAAAABAgMEEQAFEjEGIhNBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACEQMh/9oADAMBAAIRAxEAPwCdE1W545Sijr1ylWFneQV+JB5D0yT1k94+8HUn5Gkab5bZI66rI/ycWBGM/gzpjad0qy7XDTiLPwqe8VmPOX7LjB6AAOGP0NDboJGvyt8N6wjHKTNCvuP3vVQN8h5li7s//9k=",
+    "url": "https://preview.redd.it/pgzwxkk8fqk71.jpg?width=640&crop=smart&auto=webp&s=dc009d25d7d0860bbaad9d2477950cf4742949fc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Ghost Quarter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pfb39u/ghost_quarter_32x44/"
+}

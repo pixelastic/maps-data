@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_16ujae",
+    "name": "Faeriedae"
+  },
+  "date": {
+    "day": 1630368000,
+    "full": 1630413641,
+    "month": 1627776000,
+    "week": 1630195200
+  },
+  "id": "t3_pf50uq",
+  "picture": {
+    "filesize": 59108,
+    "fullUrl": "https://preview.redd.it/xm2lb6uavok71.jpg?auto=webp&s=c1ccbceef3bcab0a8e85f631d29a7b319ab3b4c4",
+    "hash": "3209970c2c",
+    "height": 409,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIEAxESAAVBBgcUITEi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAABMkL/2gAMAwEAAhEDEQA/AL/uvAl1pcKokR2i01YsygMQ5Ye2x4sABf5oHbWBMjb5MlrBqvS8RgtyFDZMuK/eQD7OtC6tdl2fdCrEHC1wdC2imlLpo1qaKlVi2TqLMfzydGbll//Z",
+    "url": "https://preview.redd.it/xm2lb6uavok71.jpg?width=640&crop=smart&auto=webp&s=4ca552c38f7768b14070f1b64a3ab11e4b2e777f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Frozen Bunker",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pf50uq/frozen_bunker_47x30/"
+}

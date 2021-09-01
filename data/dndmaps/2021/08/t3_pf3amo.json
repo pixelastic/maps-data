@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1630368000,
+    "full": 1630406531,
+    "month": 1627776000,
+    "week": 1630195200
+  },
+  "id": "t3_pf3amo",
+  "picture": {
+    "filesize": 214436,
+    "fullUrl": "https://preview.redd.it/dw4zxqn5aok71.jpg?auto=webp&s=9bd41587ea4e93c4da0349258f363d69cd8fae22",
+    "hash": "78529257b6",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQMCBAURABIhIjFRYRQyQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAxIh/9oADAMBAAIRAxEAPwDNbWbeuyJgwb6x6gsOl2QuJPSB5J5J58alb8lcrvUmgW2FNkCMRInHAzye/OdP2eYUHwroU4cI9G7vjwPzQFwUGVrx8hY2SMfqcH2OPemBarbryT3R5Sf/2Q==",
+    "url": "https://preview.redd.it/dw4zxqn5aok71.jpg?width=640&crop=smart&auto=webp&s=24cbfc98942980fb4f88e2ebfc9388e8c6df9b73",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 192,
+    "value": 192
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Barricade 2021",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pf3amo/the_barricade_2021/"
+}
