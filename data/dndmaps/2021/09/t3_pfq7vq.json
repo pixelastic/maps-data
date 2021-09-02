@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_irojo",
+    "name": "OnslaughtSix"
+  },
+  "date": {
+    "day": 1630454400,
+    "full": 1630487996,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_pfq7vq",
+  "picture": {
+    "filesize": 105067,
+    "fullUrl": "https://external-preview.redd.it/9iEAIFKJdCAE3UL12StJuGMM18Af4DjMIEZOd_TXCWQ.jpg?auto=webp&s=3b1cc331de44a47ccb1c0070d42fd8273aeef55a",
+    "hash": "c3689d4993",
+    "height": 412,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMAERIEBSFBEyKRMf/EABUBAQEAAAAAAAAAAAAAAAAAAAIG/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxESMf/aAAwDAQACEQMRAD8ASl3SDTymJxypxZ8SVQ9KT0aI3WeWRW1EEheMEuFAzQAfpt31VEzEnfUJJTGI434uXW/2krCPU6hI/VPIfUcD5Uola5uQvfaQR17P/9k=",
+    "url": "https://external-preview.redd.it/9iEAIFKJdCAE3UL12StJuGMM18Af4DjMIEZOd_TXCWQ.jpg?width=640&crop=smart&auto=webp&s=fbc897e62585450b6eabce9785cce76ab76c6c72",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Hex map of the NE region of my world, Aerda, for a new campaign!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pfq7vq/hex_map_of_the_ne_region_of_my_world_aerda_for_a/"
+}

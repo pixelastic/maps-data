@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1630454400,
+    "full": 1630497691,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_pfsfox",
+  "picture": {
+    "filesize": 155075,
+    "fullUrl": "https://external-preview.redd.it/TJ3aOMerUUPycrqjKzMQDJIpchBQmWOsFK9m-4fKspw.jpg?auto=webp&s=c0b81240db51d13bf8d52038fffd97236cdd406c",
+    "hash": "a2fc8678cb",
+    "height": 1000,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDBAUABhETIRIxQWEiUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABwRAAEEAwEAAAAAAAAAAAAAAAIAAwQhARExQf/aAAwDAQACEQMRAD8AHZLrSx5fpaineKjkkRdneUlXZeHUjxydePX0cDnzxU78nRaA6dR0YMeRr37Yq3anpmsEa0yl0jgZY40QPt6jUlSPIP7jPYsvUbxozZhSNmAJQg/H13wMWFBnkb2s5vl0pRvmyIhvxf/Z",
+    "url": "https://external-preview.redd.it/TJ3aOMerUUPycrqjKzMQDJIpchBQmWOsFK9m-4fKspw.jpg?width=640&crop=smart&auto=webp&s=a1186d91d88a54ac70105e98a4879d243d7f1b2c",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 307,
+    "value": 307
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rope Bridge Chasm",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pfsfox/rope_bridge_chasm_32x50/"
+}

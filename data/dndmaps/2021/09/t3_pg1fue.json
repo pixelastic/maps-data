@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6zbg7",
+    "name": "Zdele"
+  },
+  "date": {
+    "day": 1630454400,
+    "full": 1630525423,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_pg1fue",
+  "picture": {
+    "filesize": 120694,
+    "fullUrl": "https://preview.redd.it/s0v2h6qm3yk71.jpg?auto=webp&s=6b59d78719d0ffbed73160b55fa58758dbde2622",
+    "hash": "9e32ce8faf",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDBBEhAAUSEzFxofH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEAAwAAAAAAAAAAAAAAAAEAERIh/9oADAMBAAIRAxEAPwDH6UgSvFBKo0+RIVOU+eR5C8riYDtjJIkx7Uj84uxWZunRJXdbDaJGcMPvY3wt5WoRB/GSJkCEuc7974tUpiZ5f//Z",
+    "url": "https://preview.redd.it/s0v2h6qm3yk71.jpg?width=640&crop=smart&auto=webp&s=0432d192ab6db4fb19ef78fe52a67d856eec03f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Darkmoor Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pg1fue/darkmoor_swamp/"
+}
