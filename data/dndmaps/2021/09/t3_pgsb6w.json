@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1630540800,
+    "full": 1630622054,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_pgsb6w",
+  "picture": {
+    "filesize": 108740,
+    "fullUrl": "https://preview.redd.it/jfyyybno26l71.jpg?auto=webp&s=05cf35725b9b060a642036fd82eec6d20065ec2c",
+    "hash": "1f8862ecd8",
+    "height": 414,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAgEAACAgICAgMAAAAAAAAAAAABAgMRABIEIRNhIzHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AE+GnxeVoE1CA34/VV+5PNGJg+pVGFg0PrEZ5ZDweIhdtBH0t9DrDVdrddjqYxYv3gkf/9k=",
+    "url": "https://preview.redd.it/jfyyybno26l71.jpg?width=640&crop=smart&auto=webp&s=a7ce09fc65d0ee975d8b7aa0cc152a180cb34b53",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Catacombs of the Flayed Minotaurs",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pgsb6w/the_catacombs_of_the_flayed_minotaurs_vtt_notes/"
+}

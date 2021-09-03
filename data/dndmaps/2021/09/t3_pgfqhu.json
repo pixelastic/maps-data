@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1630540800,
+    "full": 1630581141,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_pgfqhu",
+  "picture": {
+    "filesize": 195366,
+    "fullUrl": "https://preview.redd.it/fkra4m6dp2l71.jpg?auto=webp&s=e52bff139c9b3b2d3466752298f88a9303123f13",
+    "hash": "cffa1890d5",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBAAFEiEGESMxQeH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAERABIUITH/2gAMAwEAAhEDEQA/AM84bapLqZguEUjpGTWbfte/yjkuJfkveaK8FkAnIHdJOPKeTDlouEt7p5GDZU50cvej8+VBkNXQrGbs1J6GlObowsSeSocdban/2Q==",
+    "url": "https://preview.redd.it/fkra4m6dp2l71.jpg?width=640&crop=smart&auto=webp&s=47d5b89b3440701102667a4ff20461dccd367cf8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bridge on a Lava Chasm",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pgfqhu/bridge_on_a_lava_chasm/"
+}
