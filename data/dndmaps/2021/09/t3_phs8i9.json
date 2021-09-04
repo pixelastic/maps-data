@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1630713600,
+    "full": 1630764641,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_phs8i9",
+  "picture": {
+    "filesize": 115467,
+    "fullUrl": "https://preview.redd.it/etmbl9fquhl71.jpg?width=5040&format=pjpg&auto=webp&s=d73ea4d692029d8f9d344cce94a5084da609c703",
+    "hash": "133aa1fba2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIRAAMEIRITMlJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQEBAAMAAAAAAAAAAAAAAAACAAERIf/aAAwDAQACEQMRAD8AB2uyhTcKmTsyFG4rJzG4LKszMCI2fYCqbNKhkcvyBJMLIoeVkG6jIgfRB8fu6m81Mk4N/9k=",
+    "url": "https://preview.redd.it/etmbl9fquhl71.jpg?width=640&crop=smart&auto=webp&s=e58fab48de3aea4ef2459a47835c6da8e10de5bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Campsite of the IX Legion",
+  "url": "https://www.reddit.com/r/dndmaps/comments/phs8i9/campsite_of_the_ix_legion_70x70_battle_map/"
+}
