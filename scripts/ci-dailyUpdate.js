@@ -18,7 +18,7 @@ const _ = require('golgoth/lodash');
     const currentDate = dayjs.utc().format('YYYY-MM-DD');
     const commitMessage = `chore(ci): Daily update (${currentDate})`;
     consoleInfo(`${status.length} files changed, commiting`);
-    await repo.commitAll(commitMessage);
+    await repo.commitAll(commitMessage, { skipHooks: true, skipCi: true });
 
     // And push
     consoleInfo('Pushing changes to the repo');
