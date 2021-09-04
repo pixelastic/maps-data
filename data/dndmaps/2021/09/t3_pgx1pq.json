@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_212r8lp7",
+    "name": "Druus"
+  },
+  "date": {
+    "day": 1630627200,
+    "full": 1630639469,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_pgx1pq",
+  "picture": {
+    "filesize": 66521,
+    "fullUrl": "https://preview.redd.it/rm0s8i6si7l71.jpg?auto=webp&s=3610785eb23f5102341eb62b40a76f1596a4b42e",
+    "hash": "503ebc6518",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQYHCP/EACIQAAEDBAICAwAAAAAAAAAAAAECAwQFERIhADETUQYicf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQJhEv/aAAwDAQACEQMRAD8Az9AbffRGW1eOyAVnApspOQAFtWN78PyER1RXnHG/HKDpQ1dOJxBtbWuuO9CoFPYokZJZ8qpAKVLdORA7+vre/wB5P4qw/UZTUhtt4EuLyWm5B6164E2qbwWp5laf/9k=",
+    "url": "https://preview.redd.it/rm0s8i6si7l71.jpg?width=640&crop=smart&auto=webp&s=df209ca0ffde8802fd8b73f24c320fe0c1c5a40c",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Slaad cult dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pgx1pq/slaad_cult_dungeon/"
+}

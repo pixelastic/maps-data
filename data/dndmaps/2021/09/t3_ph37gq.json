@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3phw1x2s",
+    "name": "Depolys"
+  },
+  "date": {
+    "day": 1630627200,
+    "full": 1630668108,
+    "month": 1630454400,
+    "week": 1630195200
+  },
+  "id": "t3_ph37gq",
+  "picture": {
+    "filesize": 151380,
+    "fullUrl": "https://preview.redd.it/h7d630gjv9l71.jpg?width=1400&format=pjpg&auto=webp&s=1a15b45f34a6db6b021b3d63c9ff6859c38af028",
+    "hash": "8f124e1f80",
+    "height": 864,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAhEAABBAICAgMAAAAAAAAAAAABAgMEEQUhADESEwYiUf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AH8J8OhuRsQnGyPSiS2lbyGSFUgWCoFQ2LIBHXA8pCZx0xbMPComtH7+1x5IXZOwoVojrWqrlHgprLamUxlojKBU2xIc204lxIJRaSPBfkDQOvzkjm8xFh5eYj2Mxyt0rLSHS74E92oCr1eurrjJ6//Z",
+    "url": "https://preview.redd.it/h7d630gjv9l71.jpg?width=640&crop=smart&auto=webp&s=86ea82b73dbb79f901d899c230aa578c06078aa6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rough Terrain (20x27)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ph37gq/rough_terrain_20x27/"
+}
