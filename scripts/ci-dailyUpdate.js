@@ -1,8 +1,6 @@
 const onCircle = require('on-circle');
-const dayjs = require('golgoth/dayjs');
-const run = require('firost/run');
-const consoleInfo = require('firost/consoleInfo');
-const _ = require('golgoth/lodash');
+const { dayjs, _ } = require('golgoth');
+const { run, consoleInfo } = require('firost');
 
 (async () => {
   await onCircle.run(async ({ success, repo }) => {

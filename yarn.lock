@@ -5607,10 +5607,10 @@ object.pick@^1.3.0:
   dependencies:
     isobject "^3.0.1"
 
-on-circle@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/on-circle/-/on-circle-2.0.0.tgz#8a1212ce669f496b9b58567dac43e4837949faa6"
-  integrity sha512-cq9+jduM9HeXMrx04d4lIVevq/GcSyum06PPIAlm9RRSvrZ0ymiy5jxAwB2kgIsq4TgZJ6WrdFX43Pv/6DqxLA==
+on-circle@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.npmjs.org/on-circle/-/on-circle-2.1.0.tgz#7a04a66a82baff9a98242722d3900be5d32032fd"
+  integrity sha512-sfPElv/57ZfwY07AZyhTZhdsFxVpUcmnjuhY+iMT/pBmhHzpgA3P+6kfgaFZNorTCv3YqYdpoYs1UegvdO/oYg==
   dependencies:
     "@octokit/rest" "18.10.0"
     firost "2.16.4"
