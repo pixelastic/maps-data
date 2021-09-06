@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3m1x1fu2",
+    "name": "Astonsh"
+  },
+  "date": {
+    "day": 1630800000,
+    "full": 1630822099,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pi7oof",
+  "picture": {
+    "filesize": 91814,
+    "fullUrl": "https://external-preview.redd.it/VrCQX1523x6sqgig5T7krPNvDQ-KcMVgxvV-ak3zj2c.jpg?auto=webp&s=9056d4bc6e0159b8362fab11f59f439a55488697",
+    "hash": "6d14abf6b1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBf/EACQQAAIBAwQABwAAAAAAAAAAAAECAwQRMQASIUEFEyIjYbHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQEhMf/aAAwDAQACEQMRAD8AzHjRa2F5YVpE2kBSN9yD1YYxqtFFEKp62pqJZEN0lIttYffAyPjSeHtFJUwLM6K0nuh0PliNuxxm/wC6KsYmqKgSJAiC7rGyHcRj1Hs831Ml4NKz/9k=",
+    "url": "https://external-preview.redd.it/VrCQX1523x6sqgig5T7krPNvDQ-KcMVgxvV-ak3zj2c.jpg?width=640&crop=smart&auto=webp&s=11a3f43ef60f5c9e7a667c86e34f7ef9bef127e9",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Bridges",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pi7oof/swamp_bridges_35x35/"
+}
