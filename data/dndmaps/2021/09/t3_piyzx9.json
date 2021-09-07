@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_73yyhff2",
+    "name": "Gardsvoll"
+  },
+  "date": {
+    "day": 1630886400,
+    "full": 1630933282,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_piyzx9",
+  "picture": {
+    "filesize": 88424,
+    "fullUrl": "https://preview.redd.it/bb1odi15svl71.jpg?auto=webp&s=16d59f7be313a747bf411d78df144c3e2e6f4ce3",
+    "hash": "c09eb403a2",
+    "height": 854,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMI/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDBBESIQAFMUFhE//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDQ0tRUUtaVpWd4jKRIJWJKCxtiN5HK2vNj84hRdlCIcJ5y0yHFywAJPn18I4c9FkrGJKhjDJkDfdytiAAdDZ5fqoE/Oe0GTCVg5QA7Fh7N76A4H//Z",
+    "url": "https://preview.redd.it/bb1odi15svl71.jpg?width=640&crop=smart&auto=webp&s=a1354a48f42256872c430b822484b72101532814",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 111,
+    "value": 111
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "First attempt at handdrawn (on tablet) isometric dungeon.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/piyzx9/first_attempt_at_handdrawn_on_tablet_isometric/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1630886400,
+    "full": 1630961929,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pj8dcp",
+  "picture": {
+    "filesize": 103983,
+    "fullUrl": "https://preview.redd.it/cmk2kg9h5yl71.jpg?width=6200&format=pjpg&auto=webp&s=727ff0095e8ba94c98a411520b077d78bd877fc2",
+    "hash": "c3a78cc8ee",
+    "height": 846,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBAUABhESITEycUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAQADAQAAAAAAAAAAAAAAAQIAAxIR/9oADAMBAAIRAxEAPwDCmjkDSNGyMsZHK68/o+sWKXNt/pUaOC5S7Ne2O4n47PrCLvki8WuvelaJpZiu5FQefo9HBZMq3yAqs9HIrEAgMRrpiVvTYdI4sxtPeRz/2Q==",
+    "url": "https://preview.redd.it/cmk2kg9h5yl71.jpg?width=640&crop=smart&auto=webp&s=558842afb8672e11761fe22cd9640ec609a56368",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lair of the Green Dragon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pj8dcp/lair_of_the_green_dragon_31_x_41/"
+}

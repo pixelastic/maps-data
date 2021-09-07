@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_41t76ako",
+    "name": "miksmaps"
+  },
+  "date": {
+    "day": 1630886400,
+    "full": 1630927952,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pixod9",
+  "picture": {
+    "filesize": 100779,
+    "fullUrl": "https://preview.redd.it/q7pm0kxbcvl71.jpg?width=4480&format=pjpg&auto=webp&s=bdd6c6c5a30fe73c67563602fbefd49759fb2fda",
+    "hash": "03ef205cf4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAICAQMEAQUAAAAAAAAAAAEDAgQFABExEhMhQQYVUWFxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgASEf/aAAwDAQACEQMRAD8AyT5KvHQbRsVm/UHXYBdmSasYxWwwhsFyHPkkbfjU+CJV69fuViglLVAPQAZx56wPZ5HOgZDNSy2CossimqVbiNdgUwEbAS6fZ8b/AM07kMrbtY9yL2UDIV1DtRiyI89JA9AyP7++hSWQQvuYcj0b/9k=",
+    "url": "https://preview.redd.it/q7pm0kxbcvl71.jpg?width=640&crop=smart&auto=webp&s=9cb6af57f0dc3a7e05e29c02667f6136faf4ab54",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Ambershard Cave  - Battlemap/ Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pixod9/ambershard_cave_35x35_battlemap_dungeon/"
+}

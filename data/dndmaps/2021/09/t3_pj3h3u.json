@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1630886400,
+    "full": 1630947684,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pj3h3u",
+  "picture": {
+    "filesize": 170467,
+    "fullUrl": "https://external-preview.redd.it/6WgmJPPLVtZMNiLwDy_UMTjaTMbNR6Gku8CWML5jF-k.jpg?auto=webp&s=de1e641721955be144dc4b3ca8b7ef2a62a81862",
+    "hash": "e8da26f4e8",
+    "height": 1336,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIRAAAQMEAgMBAAAAAAAAAAAAAgEDEQAEBSESURMUMUH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMRIUH/2gAMAwEAAhEDEQA/AIQ3V28yLYPCzjCGYVtFcQ/HtJ+Jvfe6Vn27PIsYX3rS3IrIW44qsiWuPKZntO/2lBxfSfVbLeD/2Q==",
+    "url": "https://external-preview.redd.it/6WgmJPPLVtZMNiLwDy_UMTjaTMbNR6Gku8CWML5jF-k.jpg?width=640&crop=smart&auto=webp&s=812a12dac92636c73694aa50e150b6fdbe9b1794",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Secret Fey Totem",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pj3h3u/secret_fey_totem_23x48/"
+}
