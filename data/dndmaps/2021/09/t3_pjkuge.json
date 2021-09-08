@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1630972800,
+    "full": 1631012557,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pjkuge",
+  "picture": {
+    "filesize": 118724,
+    "fullUrl": "https://preview.redd.it/b8m4ky97c2m71.jpg?auto=webp&s=fd47ffa2f32a50c2b0ca23b981884ea3cf90e641",
+    "hash": "7e8a1a60c8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDEQQSAAUTITEGIlFhQoGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAEiL/2gAMAwEAAhEDEQA/AM51JQVSNCqU48hSFkssuqvKZOxkHfyePQjlcnzV5GZ0mpUpSHCYcgdixzsdhcNvBn1gMxrnxTFd5km0gkxEfn1iHSOrfAuWpPd8VHEed2r7OU6Kg5G//9k=",
+    "url": "https://preview.redd.it/b8m4ky97c2m71.jpg?width=640&crop=smart&auto=webp&s=ef53fde19778edd179faab162a538c4416d59a64",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Canyon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pjkuge/jungle_canyon_80x60/"
+}

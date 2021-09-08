@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1630972800,
+    "full": 1631024073,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pjnw4p",
+  "picture": {
+    "filesize": 120204,
+    "fullUrl": "https://preview.redd.it/6lr2ggnca3m71.jpg?auto=webp&s=139ab1963e615db58445053fbe44b897d9ca2845",
+    "hash": "3903c5d910",
+    "height": 467,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMRBBIhAAUxE0FhIlFigZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMRIf/aAAwDAQACEQMRAD8ArGKFmjsT02+sG0iQ3FqYzBHbx+6F51sJdaSfUpNxJVgdsycT754jnTM1Dru8MtqWbE0C3rRwVyRJ+tSW+1VTRJUaapfQ48LlOXyofETwMDHjUuVvoFkUn//Z",
+    "url": "https://preview.redd.it/6lr2ggnca3m71.jpg?width=640&crop=smart&auto=webp&s=f7c367c71192e6059837a355b20593f3a313bf6e",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 587,
+    "value": 587
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Duskendale - RPG map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pjnw4p/duskendale_rpg_map/"
+}

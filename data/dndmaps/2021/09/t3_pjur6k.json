@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1630972800,
+    "full": 1631045003,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pjur6k",
+  "picture": {
+    "filesize": 122399,
+    "fullUrl": "https://preview.redd.it/f7b2xy0m05m71.jpg?auto=webp&s=5039a9c116ae55e91923e8fb18bbd38eb2b6d4dc",
+    "hash": "a5ad6eb514",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEESESMVEFMkFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACAyEx/9oADAMBAAIRAxEAPwDNIrOGO1ty2DKSQy8iMHWAdeN0svp8btiPAfplzsHzrv8AKlFNE1ujiRVYMzcQCScgDH31RnvihB4xch7SNfGdUbTJ2T0UNs//2Q==",
+    "url": "https://preview.redd.it/f7b2xy0m05m71.jpg?width=640&crop=smart&auto=webp&s=b783f65ed2889862d0a6f746c6afab8451cc4628",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Muirghelt  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pjur6k/muirghelt_100x100_oneiromancy_maps/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8chioeqh",
+    "name": "talesfromthepost"
+  },
+  "date": {
+    "day": 1630972800,
+    "full": 1631022643,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pjng69",
+  "picture": {
+    "filesize": 30072,
+    "fullUrl": "https://preview.redd.it/uhoahupv53m71.jpg?width=4060&format=pjpg&auto=webp&s=8fa84bd46996f567e39cc9a17f97308e069e588b",
+    "hash": "9b6bbdc57d",
+    "height": 254,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIDAAQFERMSITFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhMf/aAAwDAQACEQMRAD8A2GMseLFtJM5n43KqHJCqfelFTWljyFo1tBbRRMjdTMdgHz2AHylKmmLCe3//2Q==",
+    "url": "https://preview.redd.it/uhoahupv53m71.jpg?width=640&crop=smart&auto=webp&s=ee3e62fdd19831c0485a916c08dd32d8f0f398f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sky Patrol",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pjng69/sky_patrol_58x2370ppi/"
+}
