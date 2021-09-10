@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1631145600,
+    "full": 1631188029,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pkw7hf",
+  "picture": {
+    "filesize": 55649,
+    "fullUrl": "https://preview.redd.it/e0r7d0bctgm71.jpg?auto=webp&s=7eeb9e761ead5969f61c41e6204d1724f8f9125d",
+    "hash": "c6d3e330cc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgYH/8QAIhAAAQIGAQUAAAAAAAAAAAAAAQIDAAQFERIhUQYiMUFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDD5al05lTqX5ZDhNwg4mwt7hIpNPLKs5VvI6SRr5zzE2x1FPspKUFkg77mwYC69Oq8lsbvpFoof//Z",
+    "url": "https://preview.redd.it/e0r7d0bctgm71.jpg?width=640&crop=smart&auto=webp&s=91ae13f6fb4d15b6178bab98092893188773a76b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Catacombs",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pkw7hf/catacombs/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1631059200,
+    "full": 1631102486,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pk9386",
+  "picture": {
+    "filesize": 121482,
+    "fullUrl": "https://preview.redd.it/ijk2c78tc9m71.jpg?auto=webp&s=5c06ccdc295258d4069f0e9aa8f5374197cf8b43",
+    "hash": "01c7b56d4e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAgEDBAMAAAAAAAAAAAABAwIRBAAFMQYSIUEiMlH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAIDAAMAAAAAAAAAAAAAAAECAARhA5Hw/9oADAMBAAIRAxEAPwCbfkxXNjc5zGxSJKAEbMDE2uBqqBPMrJ8jTmzPe5Je2c4ybIshAD6UPkL9CyDXPnU+tysrpp+4NxFlgyIEruXaQREV+8CtIq3QYW3g4okUzMuyMeRdDuFn1d+TQ96nWkICjIKnyBi+MfdT/9k=",
+    "url": "https://preview.redd.it/ijk2c78tc9m71.jpg?width=640&crop=smart&auto=webp&s=4e4c7a7f8ae8a765b7728e58e994e9ec14f18633",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Watermill",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pk9386/watermill_60x60/"
+}

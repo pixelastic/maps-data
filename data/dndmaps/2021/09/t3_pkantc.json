@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1631059200,
+    "full": 1631108188,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pkantc",
+  "picture": {
+    "filesize": 100788,
+    "fullUrl": "https://preview.redd.it/oo97wplj8am71.jpg?auto=webp&s=11b0313a1e649adfc7049372b37378306754f6a6",
+    "hash": "1e550bca66",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQQABQYSIUFRcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAHBEAAQMFAAAAAAAAAAAAAAAAABIUQgMRI8Hw/9oADAMBAAIRAxEAPwDNeOQnPyVjBxoFjiYvJIQo6j81PIkbbNzh7tiyxyJaPG3YUQa9ePvR24PNiFZEiqIrV2CSp+a0TPkyZjgEWq+FFVQHrQJrOFwFwN7T7R//2Q==",
+    "url": "https://preview.redd.it/oo97wplj8am71.jpg?width=640&crop=smart&auto=webp&s=ab16c919733d4274e85a26398e3e4c89b6e46249",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Clocktower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pkantc/the_clocktower/"
+}
