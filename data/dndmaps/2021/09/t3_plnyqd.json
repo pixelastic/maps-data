@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1631232000,
+    "full": 1631289795,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_plnyqd",
+  "picture": {
+    "filesize": 122879,
+    "fullUrl": "https://external-preview.redd.it/1HFDN7HBSxTFCEqv9ug1G34cax_A8CC3yLxc22SUXq4.jpg?auto=webp&s=4e3771c9577f9e293fbf4cac26f02677153c9458",
+    "hash": "698a9a07c2",
+    "height": 1152,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACUQAAEDAQYHAAAAAAAAAAAAAAECAwQABRESFCFTFSIxYZGU0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAxEhMVHw/9oADAMBAAIRAxEAPwDH8o7FjsLQzz4QsOXgg66XU/xi0Npj1B8qDCtSSzEMdC3Et9cIF5PeizadyT4NV8ryohkqtBIsw3Wm8J//2Q==",
+    "url": "https://external-preview.redd.it/1HFDN7HBSxTFCEqv9ug1G34cax_A8CC3yLxc22SUXq4.jpg?width=640&crop=smart&auto=webp&s=0c455d0c62298a92dfee2169df6b75bc42f1930c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Elder Blue River",
+  "url": "https://www.reddit.com/r/dndmaps/comments/plnyqd/elder_blue_river_45x25/"
+}

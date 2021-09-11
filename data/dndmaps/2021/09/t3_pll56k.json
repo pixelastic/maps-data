@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1631232000,
+    "full": 1631280827,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pll56k",
+  "picture": {
+    "filesize": 74135,
+    "fullUrl": "https://preview.redd.it/2bv4eh5uhom71.jpg?width=3240&format=pjpg&auto=webp&s=a3be17346b8abd9ddba60e9119e314d100f27890",
+    "hash": "c5ad2f7db3",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIBAAAQIGAwEAAAAAAAAAAAAAAQIRAAMEEiFBBSIxE//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oADAMBAAIRAxEAPwDPbgsWjqRuFOKrKaRTzZM9AUpRPb5uVAjx9ZbMGWggjxxqIqWGIGCWywiSUmSXf//Z",
+    "url": "https://preview.redd.it/2bv4eh5uhom71.jpg?width=640&crop=smart&auto=webp&s=15f09b8a10ee7fb764f3ec3c2b33085ca3539d95",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lich’s Lair Battle Map | 60 x 50",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pll56k/lichs_lair_battle_map_60_x_50/"
+}

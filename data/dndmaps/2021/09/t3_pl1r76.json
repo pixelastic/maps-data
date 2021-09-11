@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1631145600,
+    "full": 1631206621,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pl1r76",
+  "picture": {
+    "filesize": 48244,
+    "fullUrl": "https://external-preview.redd.it/xtfLT5bUrTn3Sx5FA8UqJ0ZcjZUqB4ZCUpxJAE4S058.png?format=pjpg&auto=webp&s=20a9302315fadd56238aed1911b20e9dd6562b7b",
+    "hash": "0592335657",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAmEAACAAUCBQUAAAAAAAAAAAABAgADBAURBhITITE1QUNRc4Kx/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABoRAAICAwAAAAAAAAAAAAAAAAABAiERUbH/2gAMAwEAAhEDEQA/AArXT22bfqtLkUVJpQspcqm7wCRnOQM49+US1XJtcuyIKEoZod+KivuCDPgHpB3par+WVBlz7FTfb9g7GFq9cFLeWz//2Q==",
+    "url": "https://external-preview.redd.it/xtfLT5bUrTn3Sx5FA8UqJ0ZcjZUqB4ZCUpxJAE4S058.png?width=640&crop=smart&format=pjpg&auto=webp&s=41f800580279f15edf0f590ad926bbb79e1a5935",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Curse of the Pyramid Animated Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pl1r76/curse_of_the_pyramid_animated_battle_map/"
+}

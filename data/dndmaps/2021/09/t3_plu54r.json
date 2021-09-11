@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2sqxg88i",
+    "name": "Girafaell"
+  },
+  "date": {
+    "day": 1631232000,
+    "full": 1631309475,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_plu54r",
+  "picture": {
+    "filesize": 169878,
+    "fullUrl": "https://preview.redd.it/u5fi1tm6uqm71.png?auto=webp&s=311f53a8a9e9dd88c8aad11ff15770e6ac1de650",
+    "hash": "ee79622d0c",
+    "height": 320,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAIAAAB/FOjAAAAACXBIWXMAAAsTAAALEwEAmpwYAAABkElEQVQYlWP4/ffP7z+/////f+3mtSkr9pXPOrXu8N0Hzz+8e//u5csnz1++/PQdJPvt+9dPn97efvyGIbVnX3bHwmkLpjiFusn5t8tHr5aNXmce1+IdG2EbW+0alxufn7tu84rclj6H9IkuBSsZFKJXa/mlu4YFu8ck6yUvU0veHFq2PDyv0yu5zj6hc1p/c2x2rraHh2rkdNXETWoJqxm0k9eaJkyIykx1iCvVTN6kGjnVJanGPqnFLLLUJqbcKmONTtx8zfhlWsnrtZNXayevYdBKXq8R2qxkp6nq7qGXslYltMclOtE/wtXQx13dP1slqFopfLJlUp9p+iqNxDVaSSAb1muG1ssFd3W21tc2tslGr/QvWlpV02KbOlklbqWWb2B4rNPmOc3xNUuU4tbqpqxh0E5arZO8TjNxjWfWRPf4TIPYiSqJGxUTNupF9ponTjGNaQ3PaXHIXaeVtEo7eQ3ISdrJa0GspFVqies1kjZoJ6/VSVmjnbLOLH5CWGGva/YczeT1aolrwcpAKgE/GK/JqlRIVwAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/u5fi1tm6uqm71.png?width=640&crop=smart&auto=webp&s=af86c9de1bf168d08c7cb1fe11273528659aefc7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "I'm finally proud enough to share my latest map making project. A real-map version of my homebrew world.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/plu54r/im_finally_proud_enough_to_share_my_latest_map/"
+}

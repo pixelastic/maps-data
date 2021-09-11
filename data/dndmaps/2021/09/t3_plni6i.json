@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pv372",
+    "name": "naugrim04"
+  },
+  "date": {
+    "day": 1631232000,
+    "full": 1631288371,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_plni6i",
+  "picture": {
+    "filesize": 124238,
+    "fullUrl": "https://preview.redd.it/in0xblma4pm71.jpg?auto=webp&s=40b4f7270ccd1016163e6467f413156162712225",
+    "hash": "c51cb68b44",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACQQAAICAQIFBQAAAAAAAAAAAAEDAgQRACEFEjFRcRMUIsHx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAeEQABAwQDAAAAAAAAAAAAAAABAAIhETFBQoHB4f/aAAwDAQACEQMRAD8AyV0hXXSTSrwYycQZhkc5Pjtk6B8Us4VaZ7YQsoPyENtvrfVN51W1WosTZUmxGHp8mSCCB1P7pa0mPBbsQ6DmvGBJRMiO4OPHTSWmx29nhSmmAc17X//Z",
+    "url": "https://preview.redd.it/in0xblma4pm71.jpg?width=640&crop=smart&auto=webp&s=7b28999a7b6aea70837639761ddb30582a1fcc37",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Acid Arena",
+  "url": "https://www.reddit.com/r/dndmaps/comments/plni6i/acid_arena_25x25/"
+}

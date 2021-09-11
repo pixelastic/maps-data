@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9oklywih",
+    "name": "AStoryPerson42"
+  },
+  "date": {
+    "day": 1631145600,
+    "full": 1631225498,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pl7vri",
+  "picture": {
+    "filesize": 79001,
+    "fullUrl": "https://preview.redd.it/eti6i7f9xjm71.jpg?auto=webp&s=1ef747ca2eefe982c407db5e62b5ddbc3c957863",
+    "hash": "743de9817b",
+    "height": 803,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAgEAACAgICAgMAAAAAAAAAAAABAgMhABESYRMiQXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAAMAAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8Am0EMki+zSFFQFgh3w+P3BSOtBQ5Hex93ixNEC8aoTYGr2t2e93jPwaR/FzKbqsLo1D//2Q==",
+    "url": "https://preview.redd.it/eti6i7f9xjm71.jpg?width=640&crop=smart&auto=webp&s=aba11424da9d07cf2196bc0abbcde4d6b9a4be24",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Bandit Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pl7vri/bandit_cave/"
+}
