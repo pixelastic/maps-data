@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1631318400,
+    "full": 1631376774,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pma7s1",
+  "picture": {
+    "filesize": 123640,
+    "fullUrl": "https://preview.redd.it/h6dzzjm4fwm71.jpg?auto=webp&s=e656c13957860b679f572470c8c4fa96878df7b2",
+    "hash": "7c5596f1e9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAIRAAAgIBAwUBAAAAAAAAAAAAAQIDEQQAEyEFBhUxYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAMAwEAAhEDEQA/AMYRfHJjqV2HIprWiTXv6NF61hQyzwtCDEdobgAsFrPI+EVpmdjNIyhpACg22LHgceh+auft7MzBFNhyIIigFSGiCL0eUog63//Z",
+    "url": "https://preview.redd.it/h6dzzjm4fwm71.jpg?width=640&crop=smart&auto=webp&s=20670aed9a8feeab36d0ce19ad6b89de375e1953",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Arukame",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pma7s1/arukame/"
+}

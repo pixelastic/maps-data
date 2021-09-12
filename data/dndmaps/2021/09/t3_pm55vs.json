@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6lbfhmbc",
+    "name": "TaleMaps"
+  },
+  "date": {
+    "day": 1631318400,
+    "full": 1631356855,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pm55vs",
+  "picture": {
+    "filesize": 131297,
+    "fullUrl": "https://preview.redd.it/yufs9sdritm71.jpg?auto=webp&s=fab3f68c006614992321ab6c91e0dc57075ec6eb",
+    "hash": "f97729a26c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIxAAAgEEAgEFAQAAAAAAAAAAAQIDBBESMQATkQUhIlGh4f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREjH/2gAMAwEAAhEDEQA/AMuXpWYtVCR4mfD2tYfQA4fs7qlkSJI7R5JEL+Dff85Z8K2plhhj7Cj2VGyU2J3YbPjfFV9E/p0uFQrXEWJYRk4b+Nzr94MXCrTtR//Z",
+    "url": "https://preview.redd.it/yufs9sdritm71.jpg?width=640&crop=smart&auto=webp&s=2364842fb3cc820276575b5414865a4fea14094d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 581,
+    "value": 581
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon's Nest Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pm55vs/dragons_nest_battlemap_50x70/"
+}

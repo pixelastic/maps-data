@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9c4689",
+    "name": "Raznag"
+  },
+  "date": {
+    "day": 1631318400,
+    "full": 1631362880,
+    "month": 1630454400,
+    "week": 1630800000
+  },
+  "id": "t3_pm6gds",
+  "picture": {
+    "filesize": 86816,
+    "fullUrl": "https://preview.redd.it/dgzrspsr9vm71.jpg?auto=webp&s=fa9eec751bec24e7bf27922306422bdd883af5e5",
+    "hash": "8423e1b612",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFB//EACEQAAIBBAICAwAAAAAAAAAAAAECAwQRITEAEgUiE0FR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANpqZJ6yWdZamb4mldQitk9cbOha+Rx6VZKGRJpg8yGZUVS5O22b75en8FSVDzlzKD7L6kAWK5xa33w0NJGkrwHsyRX69j+Eb4H/2Q==",
+    "url": "https://preview.redd.it/dgzrspsr9vm71.jpg?width=640&crop=smart&auto=webp&s=bc98a802ae8c9182dc7cd47886e75622a3c218df",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Dungeon That Never Ends - Level 11",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pm6gds/the_dungeon_that_never_ends_level_11/"
+}
