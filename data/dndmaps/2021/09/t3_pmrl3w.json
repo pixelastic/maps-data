@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1631404800,
+    "full": 1631448758,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pmrl3w",
+  "picture": {
+    "filesize": 107306,
+    "fullUrl": "https://preview.redd.it/n6po09iqb2n71.jpg?auto=webp&s=e6bf16520d4228f2df4c3c4da9a34d14e33a085e",
+    "hash": "2fb39a50d2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRBAASIQUUMUJicaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgASITH/2gAMAwEAAhEDEQA/AIdeo9pgrA8NTlQJZLHIsmh9aDIxocuCSBVSTm2DEmrojaR5rSzJB1Fmgxqjm5HMu6+RRHtI4+dFK3awpDk5ChNpDK1BtvpcVbV4vj8OpC1tMVUCCo5P/9k=",
+    "url": "https://preview.redd.it/n6po09iqb2n71.jpg?width=640&crop=smart&auto=webp&s=91e8c403ac08fafd260ee3cb940f61f21c407f31",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Market District",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pmrl3w/market_district_50x50/"
+}
