@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_41t76ako",
+    "name": "miksmaps"
+  },
+  "date": {
+    "day": 1631491200,
+    "full": 1631550942,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pnj27d",
+  "picture": {
+    "filesize": 60971,
+    "fullUrl": "https://external-preview.redd.it/sJLe5LogWpJ2SiZCKDVVZ4Qy39lvgjXrhlw8yenA390.jpg?auto=webp&s=b5d2a4bf9d057c26c3bf9928a7570c0cba918269",
+    "hash": "807ef4b2e8",
+    "height": 448,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACQQAAIBAwIGAwAAAAAAAAAAAAECAwAEESExBRITIlFhcZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQEAAwAAAAAAAAAAAAAAABEAAQIx/9oADAMBAAIRAxEAPwDGrueS5eSaWSSWTmZSxOdANBQs3cqO9OmQABsfr9+aVPGq3JCggFdcHzvVN5BHb8YeGFSsSscLknGB7oHHJl1b/9k=",
+    "url": "https://external-preview.redd.it/sJLe5LogWpJ2SiZCKDVVZ4Qy39lvgjXrhlw8yenA390.jpg?width=640&crop=smart&auto=webp&s=461270f4b98f8c7e357def8d7961eb59a720b49b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Orc Stronghold  - Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pnj27d/orc_stronghold_50x35_battlemap/"
+}

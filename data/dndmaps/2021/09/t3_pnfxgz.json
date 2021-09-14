@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1631491200,
+    "full": 1631541314,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pnfxgz",
+  "picture": {
+    "filesize": 201513,
+    "fullUrl": "https://preview.redd.it/tw70tou40an71.jpg?width=3600&format=pjpg&auto=webp&s=e16243b7adb0848a618ba64ee3bbe21f548f569a",
+    "hash": "d5064d7572",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIxAAAgIBAwQDAQAAAAAAAAAAAQIDBCEAERIFEzFBJFFx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAERIhUf/aAAwDAQACEQMRAD8AlQu9OqUJxJCZEs/HHE5Axtn2f5rPzSVZZXfvFd2OAqH396fT6xLUIREjljWUOU4oWbAGT4Def3Q7HTYbMzzJZoSiQ8uck3bYn3uo8HfU1QjoMLZ8jvLHfBP/2Q==",
+    "url": "https://preview.redd.it/tw70tou40an71.jpg?width=640&crop=smart&auto=webp&s=f0fe58d5c7d35f710406e60da06d4ffeea65e5ee",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ogre Crown Falls",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pnfxgz/ogre_crown_falls_50x70_battle_map/"
+}
