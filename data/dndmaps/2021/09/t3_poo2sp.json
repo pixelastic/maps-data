@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1631664000,
+    "full": 1631704565,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_poo2sp",
+  "picture": {
+    "filesize": 139969,
+    "fullUrl": "https://preview.redd.it/xynuhu1senn71.jpg?auto=webp&s=9326cdfff9dabe0069fcd29cd77b951123062526",
+    "hash": "a0c618b3b1",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAICAgIBBQAAAAAAAAAAAAECAwQRIQAxBQYUQVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMRITGh/9oADAMBAAIRAxEAPwDFZ7VCbxsMaV3EkYwHQ4DH9++AlQdgDlcfTd+xFVZaCyiBC5SLAaReznffe+JLPh7MU7p7aRPkKzAkA73jXBxyM0D1Jfk3a//Z",
+    "url": "https://preview.redd.it/xynuhu1senn71.jpg?width=640&crop=smart&auto=webp&s=052d796a09a84951041aa59b48726fcc6b21645b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A mini bandit dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/poo2sp/a_mini_bandit_dungeon_20x30/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_awgo5nlc",
+    "name": "Rudocini"
+  },
+  "date": {
+    "day": 1631664000,
+    "full": 1631708397,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pop0hm",
+  "picture": {
+    "filesize": 86451,
+    "fullUrl": "https://preview.redd.it/hx7ajv74tnn71.jpg?auto=webp&s=0e4f2a934a8ac0b2d83c3a937775f99c9c2154f1",
+    "hash": "f583b2df07",
+    "height": 823,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAJBAAAQIFBAIDAAAAAAAAAAAAAQIDAAQFESESE1FxMkFhkcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABwRAAEEAwEAAAAAAAAAAAAAAAIAAQMREjFBUf/aAAwDAQACEQMRAD8AyFRYEqzLhCAE5JIN9SrDJPBz9RE01+bG6lxDDZ8EqVkjnHzeFpAh2QS0sb1hbA79QDWVKVUHNrWQLAnSTc/nURxyOQ4Dv1MwAaOrZ+L/2Q==",
+    "url": "https://preview.redd.it/hx7ajv74tnn71.jpg?width=640&crop=smart&auto=webp&s=8fb1390e77970b7483c5c1fb94a067b28cc0c7e9",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forgotten Kings",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pop0hm/forgotten_kings/"
+}
