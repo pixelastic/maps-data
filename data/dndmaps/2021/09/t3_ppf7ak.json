@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1631750400,
+    "full": 1631805108,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_ppf7ak",
+  "picture": {
+    "filesize": 61019,
+    "fullUrl": "https://preview.redd.it/37ww4klssvn71.jpg?width=2592&format=pjpg&auto=webp&s=918744d0dc3dd47a38cdca7170921ee05e226482",
+    "hash": "558308fec4",
+    "height": 484,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAgIBBAIBBQAAAAAAAAAAAQIDEQUABBIhEzEGQUJRcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABsRAQEAAQUAAAAAAAAAAAAAAAECAAMREiJR/9oADAMBAAIRAxEAPwDIw5BdlkGONmeNo2pIIlI5EkBiHo12Td6mh+SZJsvMm5TgjSE8Zey3fot9x/B0nkZQ08aGOOvD5rrvlY/mk4sVthtVnPMuob213Yvv9fTUGNUnZDt7ibGOCZ//2Q==",
+    "url": "https://preview.redd.it/37ww4klssvn71.jpg?width=640&crop=smart&auto=webp&s=a0b76532e12bad10a48733e84c35bcf954f9110e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Manor House Interior",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ppf7ak/oc_manor_house_interior/"
+}

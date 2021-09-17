@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dwi9st5d",
+    "name": "Ame_Kuma"
+  },
+  "date": {
+    "day": 1631750400,
+    "full": 1631780072,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pp94oc",
+  "picture": {
+    "filesize": 82326,
+    "fullUrl": "https://preview.redd.it/pcek6t06qtn71.jpg?auto=webp&s=3a7f2039b3fa5e9af9002746adcdfc8bded22263",
+    "hash": "f914fb1c30",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EAB8QAAICAwACAwAAAAAAAAAAAAECAxEABBIhMRNBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREjH/2gAMAwEAAhEDEQA/AMghKxSHpRyBQJ81+E5ZsF4poJCqDWHMgF1gxGMakSRMGR2ZiCo+qrE7/wAnCrZYA178D1k5ejTwf//Z",
+    "url": "https://preview.redd.it/pcek6t06qtn71.jpg?width=640&crop=smart&auto=webp&s=8f8ecbe5bd3e025b2877c783d820596bb6b30b6e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The Bazaar",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pp94oc/the_bazaar_30_x_30_oc_hand_drawn/"
+}
