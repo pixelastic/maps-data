@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5zaeq",
+    "name": "jimbol"
+  },
+  "date": {
+    "day": 1631836800,
+    "full": 1631906946,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pq6y46",
+  "picture": {
+    "filesize": 126813,
+    "fullUrl": "https://preview.redd.it/nuihf7ho74o71.jpg?width=3750&format=pjpg&auto=webp&s=2e58f7c06607cd3e1e39309727721e59dc386f77",
+    "hash": "c2284f127b",
+    "height": 485,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAEEAgEDBQAAAAAAAAAAAAMBAgQRACEFIjFhEhNBkeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2+ZOMOWVzjGRWudSI+r341heONKPId6pBXNq+oirXb6yhH4yOYrveRSdSql0lb8Y4OGEAkQbe9Wq/O/3A//Z",
+    "url": "https://preview.redd.it/nuihf7ho74o71.jpg?width=640&crop=smart&auto=webp&s=f0339e0d6e7df05ac65ccff543be66e2fd703c45",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "OC - Massive hex crawl map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pq6y46/oc_massive_hex_crawl_map/"
+}

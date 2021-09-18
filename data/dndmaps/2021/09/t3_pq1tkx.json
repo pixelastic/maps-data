@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3prumcf9",
+    "name": "Persevrant"
+  },
+  "date": {
+    "day": 1631836800,
+    "full": 1631890846,
+    "month": 1630454400,
+    "week": 1631404800
+  },
+  "id": "t3_pq1tkx",
+  "picture": {
+    "filesize": 105494,
+    "fullUrl": "https://preview.redd.it/0bxz1yhmv2o71.jpg?auto=webp&s=539edb4e617aae4fb444251a09e4f8ec15277257",
+    "hash": "4383f158ed",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQRIQAFMQYUEiMyQVFhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAgMAAwAAAAAAAAAAAAAAAQIAAyERMWH/2gAMAwEAAhEDEQA/AANC8Jp5EepqPMcA2yyX9fOLe2lnTu4vtUlFT0NS823xxCZjKqr4QWJAxkft+BoB0heSU3JURJgKbA5HPzpB1Qvb0bduWiKyrHdTkg83+886lWh6iUQ6evIytlfgsMn/2Q==",
+    "url": "https://preview.redd.it/0bxz1yhmv2o71.jpg?width=640&crop=smart&auto=webp&s=82f0fcfb072e2dfa6bca3561306b92cb8bf84975",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Test of my first 3d model in an Inkarnate scene",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pq1tkx/test_of_my_first_3d_model_in_an_inkarnate_scene/"
+}
