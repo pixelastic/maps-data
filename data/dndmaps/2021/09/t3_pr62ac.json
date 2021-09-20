@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_56i19",
+    "name": "Caeora"
+  },
+  "date": {
+    "day": 1632009600,
+    "full": 1632050153,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pr62ac",
+  "picture": {
+    "filesize": 95857,
+    "fullUrl": "https://preview.redd.it/pggpjocs0go71.jpg?auto=webp&s=a564a0de9cc18c8c63df7293e65311c2fe7af6d0",
+    "hash": "2fce32ee40",
+    "height": 446,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBAURABIhMQZBUSL/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAwEBAQAAAAAAAAAAAAAAAQIRACEi/9oADAMBAAIRAxEAPwAvxO0ywUNvMKUSwSftn3bjwMYVWxljwO+zqb/aKOotNRNVFI2RHACleDjIX3lxu5PzHvQPi88ktLE0jbjBErxggYVgV5x9571kvFfVSW+tmad96VBVcHAAKHPHWiAjF5e5iehv/9k=",
+    "url": "https://preview.redd.it/pggpjocs0go71.jpg?width=640&crop=smart&auto=webp&s=b0baa7a194e6ba595d42a0b36cecbee315312f9f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Of Secaris",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pr62ac/city_of_secaris_23x33_battlemap/"
+}

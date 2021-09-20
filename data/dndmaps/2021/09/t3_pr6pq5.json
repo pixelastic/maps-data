@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1632009600,
+    "full": 1632053208,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pr6pq5",
+  "picture": {
+    "filesize": 99641,
+    "fullUrl": "https://preview.redd.it/uqpc28rnyfo71.jpg?width=3500&format=pjpg&auto=webp&s=8b8ff31c7d6979dd2d441c1f3e1d1c7ae09cc226",
+    "hash": "e62b41d1da",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAJRAAAQQBAgUFAAAAAAAAAAAAAQIDBBEABRITISIjcTEyQVHx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AM+edkLb4cRtUiUtPTzsBVgH8xNehJivRuLJIlrHejsgbUgD235u/OBp05MNh5bYUuQodle+lNrSBzA+RWSCULeUTufcslwX6g3QH1gYPci1JO//2Q==",
+    "url": "https://preview.redd.it/uqpc28rnyfo71.jpg?width=640&crop=smart&auto=webp&s=93888a50f4a43efe7fb57400c116483c7c7f90ff",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Kings Tournament",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pr6pq5/the_kings_tournament_50x50/"
+}

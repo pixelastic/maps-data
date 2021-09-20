@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1632009600,
+    "full": 1632034650,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pr339c",
+  "picture": {
+    "filesize": 150990,
+    "fullUrl": "https://preview.redd.it/8yg3cixdreo71.jpg?auto=webp&s=c1928dd032b7987d0fdf4d3089c99f8114dffcf0",
+    "hash": "b9c11d868e",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIBAAAgIBBQEBAQAAAAAAAAAAAQIDBBEAEiExQQUjof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIBAxL/2gAMAwEAAhEDEQA/AMu+d82W3BEGEUcO3JkJBHA6b3vzU9yjAbL4Yr1wqcZx5jS1S3FHRRURf0G1mXsnHvOjLVphYcRStsBwMID/AHUGrGaQD//Z",
+    "url": "https://preview.redd.it/8yg3cixdreo71.jpg?width=640&crop=smart&auto=webp&s=f1ed11517215f9e75aba413c40e4678c7052819f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Ruins 22x33",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pr339c/battle_map_forest_ruins_22x33/"
+}

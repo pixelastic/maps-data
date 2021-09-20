@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bx13jobd",
+    "name": "AngelBlackHere"
+  },
+  "date": {
+    "day": 1632009600,
+    "full": 1632047640,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pr5jq9",
+  "picture": {
+    "filesize": 91305,
+    "fullUrl": "https://preview.redd.it/a9jklc11ufo71.jpg?auto=webp&s=cfcf8d91506013723d3c1de33113fb59dfd4da69",
+    "hash": "1cb020413c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFBv/EACQQAQABAwMCBwAAAAAAAAAAAAECAxESAAQhIjEFBhQyQUJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADEjFB/9oADAMBAAIRAxEAPwDA0s4FibGLz3txpgnUvHpmyHqk+23dHQ8NpwzqDEUkWXl+dVfMm1pbSu+nMMJRp3PteOSv63dRSzTAHsPVhCfJ/9k=",
+    "url": "https://preview.redd.it/a9jklc11ufo71.jpg?width=640&crop=smart&auto=webp&s=17a8ae3b3d0dc2449d6a32f821352af7ff5e6425",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "My first custom regional map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pr5jq9/my_first_custom_regional_map/"
+}
