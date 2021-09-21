@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1632096000,
+    "full": 1632149301,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_prwe4t",
+  "picture": {
+    "filesize": 79644,
+    "fullUrl": "https://preview.redd.it/4gbzbea88oo71.jpg?width=1890&format=pjpg&auto=webp&s=63c8308fd5e135aaac9836358335b386de04c227",
+    "hash": "d408ca41f3",
+    "height": 664,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAnEAACAQMCBAcBAAAAAAAAAAABAgMEBhEAEgUTIWEHFCIxQXGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQACEQMTIjHB/9oADAMBAAIRAxEAPwAFZ9qVVzyMlDEZWRRvdUO2MewJx9fup9z0PDlQxQRSCSnXGXypPqAJI7/GkPh/f81lx1YpYoJ3qVjzzCTjbkjqD30Y4rxipfzdQ9WxkrjukZ4+aXO7J65ypz/dTZdNUyMRrqTEL//Z",
+    "url": "https://preview.redd.it/4gbzbea88oo71.jpg?width=640&crop=smart&auto=webp&s=356cdc5718047c72501c8e83104ccd522a0a1102",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Vault",
+  "url": "https://www.reddit.com/r/dndmaps/comments/prwe4t/the_vault_27x28/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zlsf4",
+    "name": "strelky"
+  },
+  "date": {
+    "day": 1632096000,
+    "full": 1632163335,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ps0zhg",
+  "picture": {
+    "filesize": 150673,
+    "fullUrl": "https://preview.redd.it/bu5vc1kq9po71.jpg?width=7016&format=pjpg&auto=webp&s=205ddfb8ddef9d992f7cb498ad77afbc2ea98b71",
+    "hash": "deed5b6dee",
+    "height": 905,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIRIFEzEjQXGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECESES/9oADAMBAAIRAxEAPwDSLgSQ3UrpwCoeQQg7Bx4x5O6YMIJ9VgH9wg19Zofqb9RtrmVo51lgVsxqsmSRocca+f2rGV9du/SNSAQpKZGqkT5WUNim9s//2Q==",
+    "url": "https://preview.redd.it/bu5vc1kq9po71.jpg?width=640&crop=smart&auto=webp&s=465f006f79f17396fde1a20c810c485321ce25fb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Ruins of Northgaard abbey",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ps0zhg/ruins_of_northgaard_abbey/"
+}

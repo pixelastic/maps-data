@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7gs2rwc0",
+    "name": "SuperSilentSecret"
+  },
+  "date": {
+    "day": 1632096000,
+    "full": 1632160468,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ps01q0",
+  "picture": {
+    "filesize": 111630,
+    "fullUrl": "https://preview.redd.it/idmlqr365po71.jpg?width=1000&format=pjpg&auto=webp&s=9b67c32ff91ede99d0ad2f0f686b81870d613132",
+    "hash": "c6ca6877cd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAIxAAAQMDAwUBAAAAAAAAAAAAAgEDEQAEEhMhQTFRcbHh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/AMUPTuRNX3ZdwTLAYy49fakfsGltCQiVrTHJZ3/daTEkjb7ZCmCrE9/HNK4FLtskIoM134mo9KRHE5P/2Q==",
+    "url": "https://preview.redd.it/idmlqr365po71.jpg?width=640&crop=smart&auto=webp&s=d13613ea50736ca97f6c3fa4f7df5918e8e4a34d",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Enhanced Battlemaps: Creepy Manor for \"The Haunt\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ps01q0/enhanced_battlemaps_creepy_manor_30x30for_the/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1632096000,
+    "full": 1632157439,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_prz1w0",
+  "picture": {
+    "filesize": 83222,
+    "fullUrl": "https://external-preview.redd.it/lqsX4CVB26DWhUxSmSgb2YmYXGMFL6Ilaha9r6dmTzo.jpg?auto=webp&s=4434907609755033461368526770767966949e2b",
+    "hash": "40f65de498",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAwQFEQASEyEGMSJBgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQARMfACEiHh/9oADAMBAAIRAxEAPwDTL3XS0dWKG0qZTO4eTeTuVtq5VD9LjvU1quU1S72+8iQRgkkiPDLIO1QuPa4zn807yGyT3SrattkSjgKqxI2SOwC5KH0RjrORoLPZXo54pb3S/GSOTicMHIkwSGkIPRA61ABlu5i31IsByV//2Q==",
+    "url": "https://external-preview.redd.it/lqsX4CVB26DWhUxSmSgb2YmYXGMFL6Ilaha9r6dmTzo.jpg?width=640&crop=smart&auto=webp&s=b15b5c9ac799072d82a31bad929d9df37ee6a240",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.89,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Ancient Wizard's Portal Sanctum",
+  "url": "https://www.reddit.com/r/dndmaps/comments/prz1w0/ancient_wizards_portal_sanctum_35x35/"
+}

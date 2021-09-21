@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1632096000,
+    "full": 1632145909,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_prvbzz",
+  "picture": {
+    "filesize": 44570,
+    "fullUrl": "https://preview.redd.it/h67w5j95yno71.jpg?auto=webp&s=be264d518bba6f0c20af75be88bf570d4466ed1b",
+    "hash": "bed8832667",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIRAAAQMEAQUAAAAAAAAAAAAAAQIDBAARITEFEhQiUnH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIxQf/aAAwDAQACEQMRAD8AyyYkNmQ2/EbLiRbHWMY35bqyXNb5SMe7SFrbBbC1lNkm3qN/cUpRaqreiFmUXT//2Q==",
+    "url": "https://preview.redd.it/h67w5j95yno71.jpg?width=640&crop=smart&auto=webp&s=e39df9e4e0e7bbb270f29b9a74a3118acf2eca0f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Fantasy World Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/prvbzz/fantasy_world_map/"
+}
