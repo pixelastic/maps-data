@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_eo7ncdkz",
+    "name": "TheBurntCoin"
+  },
+  "date": {
+    "day": 1632182400,
+    "full": 1632223612,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_psgsuv",
+  "picture": {
+    "filesize": 75745,
+    "fullUrl": "https://preview.redd.it/wsqrk3v9duo71.jpg?auto=webp&s=88b0eadfe9071814ac14d889c7c0cd8eee2d1cb4",
+    "hash": "24a5ec63f2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDABESBCIxExQhQVHR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAERIhUf/aAAwDAQACEQMRAD8AwEjSaPCDRu9wcpGysTc/VVRe7jmjmUkBMw5Ay5+f3FEhFz5JNhkDTHYw6aJY9vVszn2TuFSiy4zXfYipBu5//9k=",
+    "url": "https://preview.redd.it/wsqrk3v9duo71.jpg?width=640&crop=smart&auto=webp&s=43d64c9ac21421dc18243e08986ef7030c9a6098",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Forest Shrine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/psgsuv/a_forest_shrine/"
+}

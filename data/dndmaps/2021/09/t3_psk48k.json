@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_945th",
+    "name": "HynraFoo"
+  },
+  "date": {
+    "day": 1632182400,
+    "full": 1632235277,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_psk48k",
+  "picture": {
+    "filesize": 199304,
+    "fullUrl": "https://preview.redd.it/g95h634vbvo71.jpg?auto=webp&s=27f227848d2a07aa055b8071db93ecf955a03d63",
+    "hash": "c51fdcbe04",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIBAAAgEEAQUAAAAAAAAAAAAAAgMBAAQRElETISOB8f/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBAkH/2gAMAwEAAhEDEQA/AMXUx6Bm4BuJlmSGSkZOPtKhcIaWbYV+Tqba478e+aUh6TZH/9k=",
+    "url": "https://preview.redd.it/g95h634vbvo71.jpg?width=640&crop=smart&auto=webp&s=a1a3c83aabc3e5585836362608a85a93335d0d45",
+    "width": 640
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 616,
+    "value": 616
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Toll Bridge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/psk48k/the_toll_bridge/"
+}
