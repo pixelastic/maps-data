@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632309545,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pt5e10",
+  "picture": {
+    "filesize": 147723,
+    "fullUrl": "https://preview.redd.it/lns3cbpng1p71.jpg?auto=webp&s=fe53df9cdd242e834be1a8a69881c5ba8dde7fa7",
+    "hash": "2eb0a26283",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACAQAAICAgEFAQAAAAAAAAAAAAECAwQAESISITFRoUH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EABoRAAICAwAAAAAAAAAAAAAAAAAhAjEBERL/2gAMAwEAAhEDEQA/AMlqKpsK6Ro9ggqNHiB31oe8K1BXWYSxAOx31AsWXzv5lcdSanXr2ZI2iD6KydP5vXL0ce5M000RI4gmLZ0FPn7hmTVE/UOKZ//Z",
+    "url": "https://preview.redd.it/lns3cbpng1p71.jpg?width=640&crop=smart&auto=webp&s=adc14624c1f5db66812842f4cd2847334e343576",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 775,
+    "value": 775
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Village Battle Map - 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pt5e10/ruined_village_battle_map_30x30/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632338252,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptesqw",
+  "picture": {
+    "filesize": 71857,
+    "fullUrl": "https://preview.redd.it/nyxwoce9s3p71.jpg?auto=webp&s=fffe277f84439f4345509df04a65cf3e7d5bcfd9",
+    "hash": "ab8a840818",
+    "height": 775,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAACAQQBBQAAAAAAAAAAAAABAgMABBEhQQUSEzGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREkH/2gAMAwEAAhEDEQA/AJBZ2CtAryI2eANc4zRvUYBHcFVGRStoDJaA+Xtkbet/aIvJZBJgKzHlveak1UrHUWs9P//Z",
+    "url": "https://preview.redd.it/nyxwoce9s3p71.jpg?width=640&crop=smart&auto=webp&s=247649b91e25bb7ef99bd37927f889e299079b4d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Ritual",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ptesqw/forest_ritual_19x23/"
+}

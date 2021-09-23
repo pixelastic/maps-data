@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dvbgnu1o",
+    "name": "IidentifyAsAMI24HIND"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632305802,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pt4g3j",
+  "picture": {
+    "filesize": 73724,
+    "fullUrl": "https://preview.redd.it/honoa96o51p71.jpg?width=3036&format=pjpg&auto=webp&s=d5b2bd72b80341b6e325628a291e08ba1a775a3a",
+    "hash": "b972f41c22",
+    "height": 507,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAQQBBAMBAAAAAAAAAAAAAQIDBBESAAUGIRMiMUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A3Lm24vxoKmHXG0LckZobcVYW2EnohJuiQPv790c4/u0trcH5BmZPob9GnElZcs14gciSBiKqz7XpDw6JH5DtsufPS44++kM5uKC1IBQCSnqgbUaodauRuOMNbi1MkSHpDrFBnKk4gX9oDI9nvQf/2Q==",
+    "url": "https://preview.redd.it/honoa96o51p71.jpg?width=640&crop=smart&auto=webp&s=a3c5874ce0c4d9a4bc2255b933f904bc4dc70687",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Just some maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pt4g3j/just_some_maps/"
+}

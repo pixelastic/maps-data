@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632320439,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pt8jhb",
+  "picture": {
+    "filesize": 108518,
+    "fullUrl": "https://preview.redd.it/ycx1pzw1d2p71.jpg?width=8400&format=pjpg&auto=webp&s=ad4b103bd41b26c5685c93f581f0fda70410d190",
+    "hash": "049fe1073f",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBBEABRIhMUFRcQYTFCVC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQADAQADAAAAAAAAAAAAAAABAhEAAyFB/9oADAMBAAIRAxEAPwDPcrjmjrsvlWxLRxmSNTs0Zax4G2nY798Mesqj5iUS09o4DFNrQEOwZTax2sOQR5wGmcfU0qGnUMmlvcRtLHja4HHm9sS1WaMKCqk0ykB7aTMf0AenPHXviU8Yt9xXLt2JN//Z",
+    "url": "https://preview.redd.it/ycx1pzw1d2p71.jpg?width=640&crop=smart&auto=webp&s=425e069df65ae296b9d9794c599c5a68d9056128",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Drowned Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pt8jhb/drowned_lair_60x50/"
+}

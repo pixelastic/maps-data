@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21q3mbrg",
+    "name": "uchideshi34"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632303130,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pt3vo0",
+  "picture": {
+    "filesize": 95926,
+    "fullUrl": "https://preview.redd.it/ugzfrnwnu0p71.jpg?width=7740&format=pjpg&auto=webp&s=99b95033ba649c69ebebb3f055a0928c7cbe9afb",
+    "hash": "29e33d5323",
+    "height": 610,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIxAAAQQBAwQDAAAAAAAAAAAAAgEDBBEFABIhEzFBYSJRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIh/9oADAMBAAIRAxEAPwDPyJTULFB1IzDrryj8RBL4VOL9pfGopEmNOiSm28esKS1aEIXaon337Xpmn8a7iCA2yaJa2lW4rHyi+NDjojL82Z0XyYAgtUcRXCX3f6miBCHOjt//2Q==",
+    "url": "https://preview.redd.it/ugzfrnwnu0p71.jpg?width=640&crop=smart&auto=webp&s=f89722bc85a0ac0f4cd5adae39902f9dc739fa11",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Castle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pt3vo0/swamp_castle/"
+}

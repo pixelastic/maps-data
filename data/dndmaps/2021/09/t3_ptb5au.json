@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632327919,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptb5au",
+  "picture": {
+    "filesize": 82930,
+    "fullUrl": "https://preview.redd.it/yh63okcoy2p71.jpg?width=2800&format=pjpg&auto=webp&s=1bdfb61b67fd0f4f349577b2cd8212844768c0f5",
+    "hash": "d948c1e1a3",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQAEEiEFExQxQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAEQMSQf/aAAwDAQACEQMRAD8AySIak+lG0ccfELbqR8Hq8lPJa8fvZPQsx9UbA+hjUO9DDK/GAKHBZbJHMVVV+CjgG2Yn2HaPkiE2FZuxio4GOiOw9CHu5//Z",
+    "url": "https://preview.redd.it/yh63okcoy2p71.jpg?width=640&crop=smart&auto=webp&s=925437f118b6d53e7b58768ff51d61b59b37d37b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Burning Farm in the Night Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ptb5au/burning_farm_in_the_night_phased_battle_map_40x60/"
+}

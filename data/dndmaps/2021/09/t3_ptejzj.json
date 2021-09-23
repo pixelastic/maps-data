@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_do6clob6",
+    "name": "lucasgehre"
+  },
+  "date": {
+    "day": 1632268800,
+    "full": 1632337567,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptejzj",
+  "picture": {
+    "filesize": 170878,
+    "fullUrl": "https://preview.redd.it/k1pn7f1vr3p71.jpg?auto=webp&s=b1297bb4901ea97fd9fd3b3987e462d28c372403",
+    "hash": "ab26e3cde3",
+    "height": 905,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAgAFAwIHAAAAAAAAAAAAAQIDBBESIQAFMRNBFCIzUWFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACAwURIf/aAAwDAQACEQMRAD8A26JFeXmIixQ9RViGWma8c/WeM6W2eaDbdCPh7+fMXqTk+2o6YabmWHStjPV7WZmDYPp5wexDHPb50/sUOI21wTGkonUq91z2mtx5BFf3Ra8ffG3aSvqUchX1n//Z",
+    "url": "https://preview.redd.it/k1pn7f1vr3p71.jpg?width=640&crop=smart&auto=webp&s=65360ca04653cf77bc5cfc306c2123d86c805a4a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Color coded by level generic isometric dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ptejzj/color_coded_by_level_generic_isometric_dungeon/"
+}
