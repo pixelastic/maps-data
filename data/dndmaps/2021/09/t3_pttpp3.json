@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632398644,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pttpp3",
+  "picture": {
+    "filesize": 81474,
+    "fullUrl": "https://external-preview.redd.it/2y5c5k-k6cVr3fxsTwZHTgvIEjPCWTZ-zdNO1F0W5Uk.jpg?auto=webp&s=d23934a2aeda88a788a256aaa050696e65e6fafe",
+    "hash": "73c6cb1aec",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQAhBRIiBFFxgbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABIWH/2gAMAwEAAhEDEQA/AMUg4ZIo1aWIsh2AdGvf6xP6GLse3a/nAeUZYXRfKqCBmtjf4MoRJL5qyKGF1rWHSdrT/9k=",
+    "url": "https://external-preview.redd.it/2y5c5k-k6cVr3fxsTwZHTgvIEjPCWTZ-zdNO1F0W5Uk.jpg?width=640&crop=smart&auto=webp&s=7e1e02cc51ac90775a523ecbb01f20ad78a20dfe",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 599,
+    "value": 599
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fireflies at the Crossroads",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pttpp3/fireflies_at_the_crossroads_26x39/"
+}

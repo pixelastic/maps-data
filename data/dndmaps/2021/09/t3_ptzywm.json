@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632417374,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptzywm",
+  "picture": {
+    "filesize": 121056,
+    "fullUrl": "https://preview.redd.it/72ejdhmedap71.jpg?auto=webp&s=425985f1dd738c05f6eb55ce82b7592380c4d602",
+    "hash": "c6160faf7e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBv/EACMQAAEDBAEEAwAAAAAAAAAAAAECAwQAERIhMQUTQXGBsdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAARASIxUf/aAAwDAQACEQMRAD8AzrsPqQcLUl4hQBvkvnfkevqi5E6k+vFuUsrHBSoAcfgFJDmSVJ28uyXQixsdfNTnTJAOPeXiVqTiNCwJ8D1UdeDudZ//2Q==",
+    "url": "https://preview.redd.it/72ejdhmedap71.jpg?width=640&crop=smart&auto=webp&s=e35a1a00083073f0a914da5aead41f2cebb3e161",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Medusa's Amphitheater  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ptzywm/medusas_amphitheater_40x30_oneiromancy_maps/"
+}

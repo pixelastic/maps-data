@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69xlz",
+    "name": "Reoh"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632361906,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptkzx9",
+  "picture": {
+    "filesize": 153155,
+    "fullUrl": "https://external-preview.redd.it/23BnvkkzCiX4acDLgN5sXQBli2CyrP33P2ZQt0-iJTg.jpg?auto=webp&s=af6d7fc64dc7b47e6483be5f68c2fa36341235fc",
+    "hash": "60947ecf1d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBv/EACMQAAEDAwIHAAAAAAAAAAAAAAECAxEAIUEEYRITIoGRweH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMQ4ytJhEEATKTjG89qY01gHF8skWBmY39VNtxbS+kwb3x5+0canFSZWZyM1OR//2Q==",
+    "url": "https://external-preview.redd.it/23BnvkkzCiX4acDLgN5sXQBli2CyrP33P2ZQt0-iJTg.jpg?width=640&crop=smart&auto=webp&s=4f39549592ce33050fc4f86736673757b84e5118",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Forest Ridge Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ptkzx9/a_forest_ridge_map/"
+}

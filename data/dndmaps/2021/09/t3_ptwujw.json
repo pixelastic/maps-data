@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bu1y54ai",
+    "name": "boroughbound"
+  },
+  "date": {
+    "day": 1632355200,
+    "full": 1632408479,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_ptwujw",
+  "picture": {
+    "filesize": 119282,
+    "fullUrl": "https://preview.redd.it/kr5wxr26k9p71.jpg?auto=webp&s=6990da947ac59e7f6bbeecf683e6d82fa2f7d807",
+    "hash": "2a41d0c00c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAURIQAGEjEHYRMjQf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxEhUf/aAAwDAQACEQMRAD8AplS1tVpqnO1BCCtSlh9xxR6PH8PdznrWU7L3E9U5UKNJZKaeokOqVyzjKeycHRzydCMnckR8uPMoc+uy0lASoLIIHrIvp7s+HIo8cNQ0lxuw5utthfyEqsFC+bC2b+9TAi11hudHkOmx80z/2Q==",
+    "url": "https://preview.redd.it/kr5wxr26k9p71.jpg?width=640&crop=smart&auto=webp&s=dea82d163bbe15128fc8663c39924c93bcf0932f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Oasis Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ptwujw/desert_oasis_battlemap_36x30/"
+}
