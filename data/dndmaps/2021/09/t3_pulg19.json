@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d54w8zdw",
+    "name": "gabmaps"
+  },
+  "date": {
+    "day": 1632441600,
+    "full": 1632495152,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pulg19",
+  "picture": {
+    "filesize": 86530,
+    "fullUrl": "https://preview.redd.it/ba00635ksgp71.jpg?auto=webp&s=1b29b09ba9aed79dd976dfda217f8b4f82e025c9",
+    "hash": "ab33c392bb",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBv/EAB8QAQACAQQDAQAAAAAAAAAAAAECEQMAEiEiBEFh4f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AMzLDfkSxwkMyxt20moJJMtASqrlbP3RPtlyZMhud3Pq19/NOEO4rdHHzU4kU60//9k=",
+    "url": "https://preview.redd.it/ba00635ksgp71.jpg?width=640&crop=smart&auto=webp&s=fdf962379a24d66d9908462ed63aee36e78e7a15",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Mushroom Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pulg19/mushroom_cave_25x20/"
+}

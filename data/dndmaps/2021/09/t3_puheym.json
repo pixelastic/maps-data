@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1632441600,
+    "full": 1632481370,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_puheym",
+  "picture": {
+    "filesize": 47064,
+    "fullUrl": "https://preview.redd.it/pjrsockqnfp71.jpg?auto=webp&s=56baa7724e3abb1c5a25e9cc96d069f91508bac5",
+    "hash": "e363973e29",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABQYxEiFBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAwDAQACEQMRAD8AxTjO00bdCGxahYMsjIzZOD9EjR8u2uhRrLNRhcCWXAdmOAMfA/dQam53KbRGCdwsZJVCcr77GNMlixuTyraszMjEOV8vWeutTKG3/9k=",
+    "url": "https://preview.redd.it/pjrsockqnfp71.jpg?width=640&crop=smart&auto=webp&s=03e8b97c0e7b2e11e0617ce0e1b6da5955b1d30f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fane of Tiamat",
+  "url": "https://www.reddit.com/r/dndmaps/comments/puheym/fane_of_tiamat_18x24/"
+}

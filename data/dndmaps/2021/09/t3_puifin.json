@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1632441600,
+    "full": 1632485478,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_puifin",
+  "picture": {
+    "filesize": 140914,
+    "fullUrl": "https://preview.redd.it/475xa3ljlcp71.jpg?width=2468&format=pjpg&auto=webp&s=278abd84d39946252b8eeabe2c5360228a0ab7a1",
+    "hash": "5dccba302d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACAQAAEEAgIDAQAAAAAAAAAAAAECAwQRABITISIxQeH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAAICAgMAAAAAAAAAAAAAAAECABEhMUGBkf/aAAwDAQACEQMRAD8Axj0OOhhh5GjodHYQsnjs+lfLwBGZbUouNDtN0VVV+j+ZXGTCDfG1JJbBvybNgivuLkiK4EKVMUNRqpOp7rCLZGdSizEPQPvPU//Z",
+    "url": "https://preview.redd.it/475xa3ljlcp71.jpg?width=640&crop=smart&auto=webp&s=e30c7e9f4d732583bc32ff5e9555ccb63fcdb57b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Urban Battle Map | 30 x 30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/puifin/urban_battle_map_30_x_30/"
+}
