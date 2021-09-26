@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9oklywih",
+    "name": "AStoryPerson42"
+  },
+  "date": {
+    "day": 1632528000,
+    "full": 1632605897,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pvg51r",
+  "picture": {
+    "filesize": 68007,
+    "fullUrl": "https://preview.redd.it/04jfgvcyxpp71.jpg?auto=webp&s=6414d08c010d726d3ee9cda1be0b0416b931dd4a",
+    "hash": "22ab93489c",
+    "height": 572,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAHxABAQACAgEFAAAAAAAAAAAAAQIDEQASQQQhImGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhIhMf/aAAwDAQACEQMRAD8AxPFjnBI6W3yGzX1xnoJMmTpWObPidU9jdB+cOpETFqpG965RGSN1jtlPIpwvQzdZaf/Z",
+    "url": "https://preview.redd.it/04jfgvcyxpp71.jpg?width=640&crop=smart&auto=webp&s=4b982518b8eb5a5a69894627c90acc5bddeb80c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pvg51r/swamp/"
+}

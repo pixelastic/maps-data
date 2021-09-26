@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1632528000,
+    "full": 1632567289,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_pv4je1",
+  "picture": {
+    "filesize": 88371,
+    "fullUrl": "https://preview.redd.it/lmfndbz6rmp71.jpg?auto=webp&s=ca4735d2a62630df5bb773488311fa25e774909e",
+    "hash": "63fedec196",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAgEAACAgEEAwEAAAAAAAAAAAABAgMEEQAFIWESIjFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQQRMf/aAAwDAQACEQMRAD8AAVpSLsclWs9iOIq8hAwW574xqHvdCOSRpGdVd2JwSfXo96Ry35RudfbEEaVDIAyhRlz5fST9Oiu7s01uyHY45fGf3U8fGHR//9k=",
+    "url": "https://preview.redd.it/lmfndbz6rmp71.jpg?width=640&crop=smart&auto=webp&s=19e8ff5ecfccd8d676c76c02ec61815fc79971d3",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 802,
+    "value": 802
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dwarven Excavation but in the Jungle (and Orc Pirates)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pv4je1/dwarven_excavation_but_in_the_jungle_and_orc/"
+}

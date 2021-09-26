@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3xae5mgp",
+    "name": "IMeMine_"
+  },
+  "date": {
+    "day": 1632528000,
+    "full": 1632541808,
+    "month": 1630454400,
+    "week": 1632009600
+  },
+  "id": "t3_puz1tv",
+  "picture": {
+    "filesize": 58474,
+    "fullUrl": "https://preview.redd.it/6xl2weagnkp71.jpg?auto=webp&s=85a33aaf3686dc7361a6ae5d69f801fb9aa18e02",
+    "hash": "478525b095",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACQQAAEDAwEJAAAAAAAAAAAAAAECAxEABBIxEyEyQlFxg7Lw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAEh/9oADAMBAAIRAxEAPwDJ7YsY7R2FtJAyxjJZOg+0pNwoXRdcQkIUuQBG8RpA6VI1weSiY5O59qiDZLy//9k=",
+    "url": "https://preview.redd.it/6xl2weagnkp71.jpg?width=640&crop=smart&auto=webp&s=b486fab21dcbdf11e61acc3ecb38c29db516eb41",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/puz1tv/forest_encounter/"
+}
