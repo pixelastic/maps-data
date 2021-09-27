@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4ie2smfu",
+    "name": "EightfoldPaper"
+  },
+  "date": {
+    "day": 1632614400,
+    "full": 1632656781,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_pvsaa8",
+  "picture": {
+    "filesize": 52008,
+    "fullUrl": "https://preview.redd.it/y90f6ifv4up71.jpg?auto=webp&s=ce455eb7164fc6f5fc050612134f10f839efba14",
+    "hash": "4aa0c0f350",
+    "height": 388,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDAAQFESFhEhMUIlGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oADAMBAAIRAxEAPwDKMPHZLcoJ7KFEBCtEYgT2Sehz3UWdxmMjSZrSNEXZK7YMSPz6ozC3Vx7ZT68u1HHzPFHxSyNJpncjyPBPRo03tQuX/9k=",
+    "url": "https://preview.redd.it/y90f6ifv4up71.jpg?width=640&crop=smart&auto=webp&s=c11c3fc512a9123f866642a9123f8960f18d9e7c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Gridlock Vault",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pvsaa8/gridlock_vault_part_03_33x20/"
+}

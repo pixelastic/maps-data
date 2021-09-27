@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1632614400,
+    "full": 1632641141,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_pvp2f2",
+  "picture": {
+    "filesize": 89909,
+    "fullUrl": "https://preview.redd.it/03yz3azsusp71.jpg?auto=webp&s=f6a8d4b2bcf518f7990b47caeb9fce2950b61215",
+    "hash": "df7d88a8d6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAICAQQBBAMAAAAAAAAAAAECAwQRAAUSMVEUIUFhcaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQADAAIDAAAAAAAAAAAAAAABAhEAITFhsf/aAAwDAQACEQMRAD8AyeKS7u1uBWsRy+kuEqjEBlQYyQPA/mpcy2Chka/xXmQrMWGfPX5/eiRWYY91lC0IZecrBg3JvcnvvTu+1DtcqUpa6MpZnTjKcnJwPn660zZcgSI4SS8DXd9Gf//Z",
+    "url": "https://preview.redd.it/03yz3azsusp71.jpg?width=640&crop=smart&auto=webp&s=3eeb4711286da70ea0448097b5d34fed96654773",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Canal City Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pvp2f2/canal_city_battle_map_30x30/"
+}

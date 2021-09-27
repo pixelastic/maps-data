@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dwi9st5d",
+    "name": "Ame_Kuma"
+  },
+  "date": {
+    "day": 1632614400,
+    "full": 1632654637,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_pvru02",
+  "picture": {
+    "filesize": 77039,
+    "fullUrl": "https://preview.redd.it/pkflnygvytp71.jpg?auto=webp&s=f60c473f35b583834657a8f403543125ba22841c",
+    "hash": "45f73ab82b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDERIABBMhQQUiMTJRcZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQISIf/aAAwDAQACEQMRAD8AwOO11VYSqlALu3ya+rf5w/H0OUZ6ILpqpUagQ0tbyQa803+8BdDljSR5HVWpW5mJ2HH7iqkzsRyp0ZGN8drMGI8Dge/FcRVWeCiZc6bR/9k=",
+    "url": "https://preview.redd.it/pkflnygvytp71.jpg?width=640&crop=smart&auto=webp&s=91430b4c95e43472fb585d5ae45de333f04a2839",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Stew",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pvru02/forest_stew_25_x_25_oc_hand_drawn/"
+}
