@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1632700800,
+    "full": 1632745696,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_pwfznr",
+  "picture": {
+    "filesize": 36176,
+    "fullUrl": "https://preview.redd.it/yn5bbxwkh1q71.jpg?auto=webp&s=7213a8b87404fe67ea88dfd5dbc55c5d553fb1db",
+    "hash": "4df873f7b5",
+    "height": 213,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAFABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAHxAAAQMEAwEAAAAAAAAAAAAAAwECBAAFESESMUFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDEtmaW4FWXJMdnDKNVcLvrfyrmjGjmhtbLKoSE4uZnfS+5pSj1pI//2Q==",
+    "url": "https://preview.redd.it/yn5bbxwkh1q71.jpg?width=640&crop=smart&auto=webp&s=eebc06f96458aaf1c3f811a921216e1712058fe7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Known Lands of the World",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pwfznr/known_lands_of_the_world/"
+}

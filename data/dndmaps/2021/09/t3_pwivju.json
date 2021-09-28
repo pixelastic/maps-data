@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3m1x1fu2",
+    "name": "Astonsh"
+  },
+  "date": {
+    "day": 1632700800,
+    "full": 1632754741,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_pwivju",
+  "picture": {
+    "filesize": 78494,
+    "fullUrl": "https://external-preview.redd.it/S4jR5vjSEcmUxTtovYMVqdiJqs6vMtOnh6mxTlXG7is.jpg?auto=webp&s=366b6211e83edd224fa0102e3cf8a3e4090541e2",
+    "hash": "27a6a97c9f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJRAAAQIEBAcAAAAAAAAAAAAAAQIEAAMFERIxQXIGEyEyNDVx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN14kATUZ6lYwSUjqrMW0itKdzp7yn81wsoXdJAUbnD2g20y+w2/8VG4wQ39w33iA//Z",
+    "url": "https://external-preview.redd.it/S4jR5vjSEcmUxTtovYMVqdiJqs6vMtOnh6mxTlXG7is.jpg?width=640&crop=smart&auto=webp&s=ffc89800bcb1a0852137682f326c86fafe840dc9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Spiral Corridors.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pwivju/spiral_corridors/"
+}
