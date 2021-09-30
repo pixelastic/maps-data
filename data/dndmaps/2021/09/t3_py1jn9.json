@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pou0u",
+    "name": "Chaouleon"
+  },
+  "date": {
+    "day": 1632873600,
+    "full": 1632940195,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_py1jn9",
+  "picture": {
+    "filesize": 139331,
+    "fullUrl": "https://preview.redd.it/804ase1ujhq71.jpg?width=2040&format=pjpg&auto=webp&s=e1d76ba8a79160a56712d3b5b9ff1035a06e366d",
+    "hash": "ba9ab37cd7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAlEAACAQIFAwUAAAAAAAAAAAABAgMEEQAFEiExEyKhFBVRYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQAREjECE6H/2gAMAwEAAhEDEQA/AJmmlasOqL3CWoqHZgkcmpnTVcEDi3b4w2izNY2lEWZxiIhmkOkqqAk7245P7gUkPpiUVa+GenkZVkiWzKlyAAeLd3nCWWu6fTWXMnE1lMbWCMCSN/nYHf6wTCbh+2nnXEta/9k=",
+    "url": "https://preview.redd.it/804ase1ujhq71.jpg?width=640&crop=smart&auto=webp&s=6e6a93079a6e0cbd1e014d7c0fd6a9d3a7176400",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fancy dining room for CoS",
+  "url": "https://www.reddit.com/r/dndmaps/comments/py1jn9/fancy_dining_room_for_cos/"
+}

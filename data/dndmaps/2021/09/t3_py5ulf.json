@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bu1y54ai",
+    "name": "boroughbound"
+  },
+  "date": {
+    "day": 1632873600,
+    "full": 1632953038,
+    "month": 1630454400,
+    "week": 1632614400
+  },
+  "id": "t3_py5ulf",
+  "picture": {
+    "filesize": 140531,
+    "fullUrl": "https://external-preview.redd.it/lLj_FfE4vmFFZLkLoU8nKwudqIiqP40lryWC7dbcSLc.jpg?auto=webp&s=d2ea4a289a6cb2087ac52ab3474c72c92151c3df",
+    "hash": "a90835d6ef",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQIDBBEFIQBBEjETUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABsRAAIBBQAAAAAAAAAAAAAAAAECABESMTJR/9oADAMBAAIRAxEAPwBmspnIDLKJQjSQopJUhylUbpJBI7sWN8vhyHci63KC1xkCkhtwWTahu76APNZGQbD3g5Eguh1NpWWhpQrdD17vgZrJiFOW23F+JMd7wQ20mkrBA3e6Guvv95GdQDrQ9jUFcsbZ/9k=",
+    "url": "https://external-preview.redd.it/lLj_FfE4vmFFZLkLoU8nKwudqIiqP40lryWC7dbcSLc.jpg?width=640&crop=smart&auto=webp&s=d860a5aa8953cbe5b4d6a3802c24dbfbba012ad4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Oasis Town Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/py5ulf/desert_oasis_town_battlemap_36x30/"
+}
