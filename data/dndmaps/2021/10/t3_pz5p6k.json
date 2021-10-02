@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3phw1x2s",
+    "name": "Depolys"
+  },
+  "date": {
+    "day": 1633046400,
+    "full": 1633086353,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_pz5p6k",
+  "picture": {
+    "filesize": 115214,
+    "fullUrl": "https://preview.redd.it/cmbvg1pmmtq71.jpg?auto=webp&s=7622482a9f637d26dceffde39293096fabcb3aa2",
+    "hash": "b77d71d10f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACIQAAICAgEDBQAAAAAAAAAAAAECAwQAERIFEyExUVJhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AwuxA79TR5oxrkFJA2pOh4H5hYqxNBe4IgKSjR+I9tY2OFime7JKAoLNJ220pA9MiWjCOnxmOw7SOSWXlvz95HFcTHpQ//9k=",
+    "url": "https://preview.redd.it/cmbvg1pmmtq71.jpg?width=640&crop=smart&auto=webp&s=90c0fe8e13b0ee10aa251021944cc447d2959caf",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dungeon (20x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pz5p6k/dungeon_20x20/"
+}

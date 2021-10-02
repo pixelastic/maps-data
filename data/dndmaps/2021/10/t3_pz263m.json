@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1633046400,
+    "full": 1633069506,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_pz263m",
+  "picture": {
+    "filesize": 186618,
+    "fullUrl": "https://preview.redd.it/p0uhgrf78sq71.jpg?auto=webp&s=9d839c7081cf6877af507ed6e2071c88e95a0ebb",
+    "hash": "dcc23ecb21",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEESEABRIxIkEyUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAESIXH/2gAMAwEAAhEDEQA/AKNvo1q6AwtAlkQW4/IEqCSfWdBV0EbVcrxQQIsh58Ax8b+sDH5pCmrpI9uWaHhHO4SISKwsoK2YkZuDbOO+9HVm3QT1LLPSy1BitEsqOyhwB3gj7OdESUrFYf/Z",
+    "url": "https://preview.redd.it/p0uhgrf78sq71.jpg?width=640&crop=smart&auto=webp&s=0b7feddcfe53b63b4a54cdaab1edb1be23b20f6f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 301,
+    "value": 301
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Shelter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pz263m/shelter_32x44/"
+}

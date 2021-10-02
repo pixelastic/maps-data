@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1633046400,
+    "full": 1633086208,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_pz5nwq",
+  "picture": {
+    "filesize": 107189,
+    "fullUrl": "https://preview.redd.it/lm0kk3d8mtq71.jpg?auto=webp&s=dab3d1bbfc33c5281ac385e2559a43521cb4cfbd",
+    "hash": "ef0b8b1d0d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABAURMRITIUEWIjL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAgMRIUH/2gAMAwEAAhEDEQA/AJd8OjSyIqOi6DEAa2vJPHFO5tS+Ot5LiDSwyPCrAFvp+lOteiaPyLJdjqE4DBTohR7JpYzJXkksTzTmUTTFGSQBlGgCNAjwfJqNbq3iQZGHAF//2Q==",
+    "url": "https://preview.redd.it/lm0kk3d8mtq71.jpg?width=640&crop=smart&auto=webp&s=c0116414840413d111994f08ac0f696b5ec35dd3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Shining Star Inn",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pz5nwq/shining_star_inn_40x30/"
+}
