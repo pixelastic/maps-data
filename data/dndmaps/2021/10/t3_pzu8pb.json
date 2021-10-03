@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1633132800,
+    "full": 1633177791,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_pzu8pb",
+  "picture": {
+    "filesize": 182628,
+    "fullUrl": "https://preview.redd.it/25ct4tbj61r71.jpg?width=2000&format=pjpg&auto=webp&s=1624d6752b045c424d0ceb2a934b0b988c3c0304",
+    "hash": "a96d1bf0b1",
+    "height": 864,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMABBEFITFREiJhgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABgRAAIDAAAAAAAAAAAAAAAAAAABAjEy/9oADAMBAAIRAxEAPwAO0tTNFG6oWLOI84J8c53OOBtzUzoI3K9HqldD1ZbGzniaIOT7Ekn6+P2iJZA0rMA2Ccip3QTyf//Z",
+    "url": "https://preview.redd.it/25ct4tbj61r71.jpg?width=640&crop=smart&auto=webp&s=0cad587ab5efb9db892f7b7ee3989ceea2de3435",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Temple Battle Map | 20 x 27",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pzu8pb/temple_battle_map_20_x_27/"
+}

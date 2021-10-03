@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9ottc",
+    "name": "neepster44"
+  },
+  "date": {
+    "day": 1633132800,
+    "full": 1633137332,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_pzlh05",
+  "picture": {
+    "filesize": 112025,
+    "fullUrl": "https://external-preview.redd.it/YPf2XNMs5Z6RTMo7alxUpa9ri08Fa87SkpSZo6AfHJ0.jpg?auto=webp&s=2ea68ab61f2113af0dde0c422f4bea295004e53e",
+    "hash": "083862d9bd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRBAASEwUhUSJBYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIxE//aAAwDAQACEQMRAD8AozM2TnYA8aKewAu69zXfSYfUJJpakxkCbSxYH8rz96syMJXJaJuN2vcfN6IYcsKO4kVztI9QNKPjUXo1jBpQ5w//2Q==",
+    "url": "https://external-preview.redd.it/YPf2XNMs5Z6RTMo7alxUpa9ri08Fa87SkpSZo6AfHJ0.jpg?width=640&crop=smart&auto=webp&s=f16e5bd6eff032681b2e321733e06f4981b6aa05",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Helm's Hold City Map(s)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/pzlh05/helms_hold_city_maps/"
+}

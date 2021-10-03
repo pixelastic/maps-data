@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5kbxe",
+    "name": "powerkor"
+  },
+  "date": {
+    "day": 1633132800,
+    "full": 1633210797,
+    "month": 1633046400,
+    "week": 1632614400
+  },
+  "id": "t3_q04253",
+  "picture": {
+    "filesize": 149030,
+    "fullUrl": "https://preview.redd.it/eodw6yygw3r71.jpg?auto=webp&s=79f56fab08ec2174b2e17871e273a6a71e804d91",
+    "hash": "af806010db",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAQQCAQMFAAAAAAAAAAAAAQIDBBEAIRITMUEFIlGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQUBAQAAAAAAAAAAAAAAAwABAjFBEXH/2gAMAwEAAhEDEQA/AM1SG4rDnXSoua4BYNcb3dedj6xIl9KGA22lLrtDa635Oz8VhoUJ2e84hla1NBHIFbhXYsG9mjlNj09EdxUqS42WI5BNH3OaIFd/3tkoQyZ/dTlNDlVi/9k=",
+    "url": "https://preview.redd.it/eodw6yygw3r71.jpg?width=640&crop=smart&auto=webp&s=287fb8851c434e0f698404d1c28b2b24b69a8199",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dreadmaps - Cryptic Mainframe 40x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q04253/dreadmaps_cryptic_mainframe_40x40/"
+}
