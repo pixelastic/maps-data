@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6crb1m7g",
+    "name": "RedBearMaps"
+  },
+  "date": {
+    "day": 1633305600,
+    "full": 1633375319,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1ctrx",
+  "picture": {
+    "filesize": 83544,
+    "fullUrl": "https://preview.redd.it/9e90av0uhhr71.jpg?width=3840&format=pjpg&auto=webp&s=cfaf80e9f511028c44c5f01d0ba824bd72b3af93",
+    "hash": "2981899d88",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIDBAARBSExQRQiUYHx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEhMf/aAAwDAQACEQMRAD8AHx0El64qIQvUkk/A/cRyN5YIPTUC5iEmpHB0ZT9dhla1WajxVi0QySSexd9wpPU68ZkVhI1gLGugpG/OFrRSVvh//9k=",
+    "url": "https://preview.redd.it/9e90av0uhhr71.jpg?width=640&crop=smart&auto=webp&s=99c55ec37594a05eadbee9805866b05a1aa183ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Free maps bundle from www.patreon.com/redbearmaps !",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q1ctrx/free_maps_bundle_from_wwwpatreoncomredbearmaps/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9jm23r2f",
+    "name": "JokePale"
+  },
+  "date": {
+    "day": 1633305600,
+    "full": 1633382157,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1ffu8",
+  "picture": {
+    "filesize": 727186,
+    "fullUrl": "https://preview.redd.it/eucqz0f12ir71.png?auto=webp&s=7a2a8b73b47ca10f8ac9b73ac44da2b7a82def1a",
+    "hash": "42bac3714a",
+    "height": 640,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAACc0lEQVQokQXBx3LbRgAAUHyGE6uwAthdYHsHdlEEUgRJS4ElUvIhkjWTxDPRJWUmufnb/V6ySkHf10+nACXKFbg51G9vx5zLry/n9z/OxNDxfqiHcHNsbzddoXzy82KV0fL5aTDOCiX6Knpbrwo5QwZwSRwOTZ0y/mlqbze1sjKZZevCKm8VVxxI2rYxVl0udW78HBOiqapkRgHSmBkOIExWgBNhSJFBiucwo1ZUyg9fD4e/7gHBiJU8UCTQIls0U/P2OiWca1LQAgGlDTYM4FII5Zxv+qiVrGprg8A1tTs7Dn1ouwQShHgBVdodG+bY5Sr9aTYvibDWUyOZ4iUuw7E+/T9t2x4RlsxgmSpa0LUxopT8Yrm6Wq68r432BSuhRoBhgWmsvKksc2XiXHTaH28jxbm1PkPwIkW1a4fYUkcLi+d5zsty2/YqqFyCZN8P274PcdgP7d3YccpyZofHsWp8LmBhCKL0yzQ9Tb8wT7AlSXBVwewMqufz6fs/vztFN7s4vo5XORBCSCY2Xff4MIUYnk+HIcbEtWGO1PUyu0bCe/95vNsfAmeQcbE/tuNN2/WBRykd++/9Nfom6Xb9VcYWxK2psEF2fdfsGqagkqzpTK3lbtP3Y313t9E6Xqc8GW4HQYXzbXe/2T9sU1wsQJZTREDGQFmkWWerZhvHPz9xpTIMExOqeZo3Vfjy7XR+uc9wkfIiFxiBGYU5Q4UkQmvjhogxNlEkmSYfPl5dLNdamG3ba2MIIVVoQggFXGfrJciXUlCUrpeL2fmsE8LY5SojghplBDeSq9i0v/368vT4mRAKc/T+98O3fyfOyeViVQf9A/ABp16pv7wdAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/eucqz0f12ir71.png?width=640&crop=smart&auto=webp&s=76f43023f56ef0d88523d57937100073309db099",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Speckled Forest Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q1ffu8/speckled_forest_battlemap_30x30/"
+}
