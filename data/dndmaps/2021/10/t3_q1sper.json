@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pvz4inx",
+    "name": "RPGScenery"
+  },
+  "date": {
+    "day": 1633392000,
+    "full": 1633425462,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1sper",
+  "picture": {
+    "filesize": 124242,
+    "fullUrl": "https://preview.redd.it/sglfeb0pmlr71.jpg?auto=webp&s=a94301078439958baaa27c3beae34f50bb5fb09e",
+    "hash": "676f1bc4b8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBREhABITBjFBIkJxkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREgL/2gAMAwEAAhEDEQA/AIGNJhtNJeRAjLGxHLuSoJUQbjaPbfse99BW2Yi4Tj7aS0pXqcjtA7UZsLE+M3z8aagJjTZUaFIlJLanglTgNxnGAfIONF1WJFOcqNLYeKgFcTmMrAN7H8+tHqag8+lhuH//2Q==",
+    "url": "https://preview.redd.it/sglfeb0pmlr71.jpg?width=640&crop=smart&auto=webp&s=6bd3f4ba98d5c06f8ecd908e54b9af1f777959f7",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Red Rocks Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q1sper/oc_red_rocks_battlemap53x53/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9jnmw7l6",
+    "name": "XploringMap"
+  },
+  "date": {
+    "day": 1633392000,
+    "full": 1633425908,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1sshu",
+  "picture": {
+    "filesize": 97689,
+    "fullUrl": "https://preview.redd.it/c17ei747olr71.jpg?auto=webp&s=f8760edcd7f7faa2d48b185129dbbf889cc9805d",
+    "hash": "5abc1b773e",
+    "height": 453,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIBAAAgEDBQEBAAAAAAAAAAAAAQIDBBEhAAUSIjFBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREhP/2gAMAwEAAhEDEQA/ANVuNXVxyLFDEFh4AsCvuBnR0FY08rRVY6plFTqA1j7+jPmqlE7AC9mutjyHLHv3R7gFWKeZURZAh7BQNG3ELlPV2f/Z",
+    "url": "https://preview.redd.it/c17ei747olr71.jpg?width=640&crop=smart&auto=webp&s=f72d83fa9af241ea0355b22cde4003292af2c070",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Allondon fantasy RPG map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q1sshu/allondon_fantasy_rpg_map/"
+}

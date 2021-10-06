@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1633392000,
+    "full": 1633443091,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1x6u2",
+  "picture": {
+    "filesize": 176532,
+    "fullUrl": "https://preview.redd.it/lj0uep6b3nr71.jpg?auto=webp&s=7671743cd1b4921c5718e6f0fad86e338d6e5503",
+    "hash": "023624ce01",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAICAQMDBQAAAAAAAAAAAAECAxEEABIxEyFBFCJhcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAQACAwEAAAAAAAAAAAAAAAEAAhESQaH/2gAMAwEAAhEDEQA/AM/feyY8Xs6ZbeGrbQoXYBIs3X5omYuaMcwY0TymVrYsRV1wCKr70piQIiS5TyzSEMTHua/NDjyTzq0ZYo5Jo/UdFUXuQb7/ACPGi2rXmZJEqAvk/9k=",
+    "url": "https://preview.redd.it/lj0uep6b3nr71.jpg?width=640&crop=smart&auto=webp&s=b7d21c3ff9d9daece04c7fce84e3298df61749b0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 266,
+    "value": 266
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bamboo Forest Battle Map - 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q1x6u2/bamboo_forest_battle_map_30x30/"
+}

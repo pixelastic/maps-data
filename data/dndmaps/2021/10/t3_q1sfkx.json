@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1633392000,
+    "full": 1633424173,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1sfkx",
+  "picture": {
+    "filesize": 146434,
+    "fullUrl": "https://preview.redd.it/rm1ycgt5jlr71.jpg?auto=webp&s=fe852c0d7fa04677b21c72546394df84bacdc6c5",
+    "hash": "9ad70bd8ad",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJRAAAQMCAwkAAAAAAAAAAAAAAgEDEQAEBUFhEhQVMVFUkZLR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwDN28LQsKcICbFsCQYUYlM10qXwpvuLfyXynt3oOsO7aoak42RSPRFlZy50TebLT2WkuSElri7s/9k=",
+    "url": "https://preview.redd.it/rm1ycgt5jlr71.jpg?width=640&crop=smart&auto=webp&s=940167eb46692e8b5238fd936a69bc3fce982073",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Salamander's Forge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q1sfkx/salamanders_forge_24x42/"
+}

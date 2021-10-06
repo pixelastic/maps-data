@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3k37t42r",
+    "name": "Pandemoria"
+  },
+  "date": {
+    "day": 1633392000,
+    "full": 1633422382,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q1s42u",
+  "picture": {
+    "filesize": 132561,
+    "fullUrl": "https://preview.redd.it/mrqhlfqndlr71.jpg?width=4200&format=pjpg&auto=webp&s=da3f95f888894decfb618115b6f20df39a8df08d",
+    "hash": "a1c2ff8029",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACEQAAEEAgICAwAAAAAAAAAAAAECAwQFABESMSFRIkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQEBAQADAAAAAAAAAAAAAAABAgADETH/2gAMAwEAAhEDEQA/AD8msVd17rkNYQGwSVLPEFAOjy30AfOCLaA9WWT0SSAHmvioJUCOvYxZWzbKtr5qkyy3wYLRQhQJ597J+973+4OmyXZcx1+Qsrdc2pSldk+zkvi6JTPBbavm/9k=",
+    "url": "https://preview.redd.it/mrqhlfqndlr71.jpg?width=640&crop=smart&auto=webp&s=6b5fee1b0b542a4572d1eb43e938cccb3a7e9858",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dimensional breach encounter battlemap - maptober day 4",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q1s42u/dimensional_breach_encounter_battlemap_maptober/"
+}
