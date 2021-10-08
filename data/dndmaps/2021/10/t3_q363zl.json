@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7l3gpd7q",
+    "name": "Marfesca"
+  },
+  "date": {
+    "day": 1633564800,
+    "full": 1633602432,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q363zl",
+  "picture": {
+    "filesize": 87069,
+    "fullUrl": "https://preview.redd.it/2wy5zmnz80s71.jpg?width=3840&format=pjpg&auto=webp&s=de29dae48ea39e4195b26cc9bf1ca7d358001854",
+    "hash": "6dbb629ec1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAgEAABBAEEAwAAAAAAAAAAAAACAQMEEQASITFRMkHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgARMRIh/9oADAMBAAIRAxEAPwCMso1Oig6bY6u0T2mHLiiLBlQJQrxz3hRJjcNrS5u6S2QCnj9xpklt6GQtvDZolJSJWRqYNQyN0pT3Z//Z",
+    "url": "https://preview.redd.it/2wy5zmnz80s71.jpg?width=640&crop=smart&auto=webp&s=599a66acbdcf63f47128d539de1c25df4937c638",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Derelict cabin in the swamp with a dark secret",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q363zl/derelict_cabin_in_the_swamp_with_a_dark_secret/"
+}

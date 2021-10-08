@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1633564800,
+    "full": 1633609208,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q37v5k",
+  "picture": {
+    "filesize": 78794,
+    "fullUrl": "https://preview.redd.it/3t3z6j12s0s71.jpg?auto=webp&s=1059fd47483001d925b2abde2afcb3da6d1bc574",
+    "hash": "d41b424da9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIhEyIxgdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEBAQEAAAAAAAAAAAAAAAIDABLx/9oADAMBAAIRAxEAPwDHNvbefWZYFlGoAOTul8ATXqL7yLubYk2XfX5QxlQigGvUADuvrENJK5HlndgtUpYmsAA6NLRJsgfH7kgDM8nO1nZdvzf/2Q==",
+    "url": "https://preview.redd.it/3t3z6j12s0s71.jpg?width=640&crop=smart&auto=webp&s=0609373a3ee46cf8b77a7de3b6c435d4918d0b5d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The crater of Myth Dranor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q37v5k/the_crater_of_myth_dranor_90x90/"
+}

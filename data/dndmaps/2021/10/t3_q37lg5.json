@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1633564800,
+    "full": 1633608235,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q37lg5",
+  "picture": {
+    "filesize": 59744,
+    "fullUrl": "https://external-preview.redd.it/m0i09-ozWD0BG7NoBC5jYmvrCVhQaU-SB5fkGhxBtuc.jpg?auto=webp&s=376b989634cd66c45ffeecff0d22aa16f549854e",
+    "hash": "172634b9ec",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQFESEABhIxInFBUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAABB/9oADAMBAAIRAxEAPwDGaJQIsPzceZklTgFji3vv80DcVHiO09+Y022w42Djn77H3jrU/tupyIL5SzwsVBR5C+RfTVVnSKipwPuFKQLFKMA/OdTTH//Z",
+    "url": "https://external-preview.redd.it/m0i09-ozWD0BG7NoBC5jYmvrCVhQaU-SB5fkGhxBtuc.jpg?width=640&crop=smart&auto=webp&s=9d759588b9dcf35b7d68c9129c63ebd99086464b",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 466,
+    "value": 466
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dungeon Ritual Room",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q37lg5/dungeon_ritual_room_22x17/"
+}
