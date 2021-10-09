@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1633651200,
+    "full": 1633698407,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q3xdw9",
+  "picture": {
+    "filesize": 156304,
+    "fullUrl": "https://preview.redd.it/lkhh1p9i68s71.jpg?width=1190&format=pjpg&auto=webp&s=7ca7751f2c54beb93a2c0a1a07eea4bd7f8e3637",
+    "hash": "3bcca6cf23",
+    "height": 1129,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAmEAABBAECBAcAAAAAAAAAAAABAgMEEQAFEhMhVJMVIkFhcYHS/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAgMx/9oADAMBAAIRAxEAPwBkmdGVDhSEsNKkM7ChQApKaN0atPIV9++EvHx0kXtn85d1qbA0zTw1Daadd4bLq0DzAik8qHz6YW2p6ZntrwRaVXROZR//2Q==",
+    "url": "https://preview.redd.it/lkhh1p9i68s71.jpg?width=640&crop=smart&auto=webp&s=b5294383c5b4313c1ceebf8daa8f3783400009ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Temple of Judgement Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q3xdw9/temple_of_judgement_phased_battle_map_34x60/"
+}
