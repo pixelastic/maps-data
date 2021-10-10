@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1633737600,
+    "full": 1633800855,
+    "month": 1633046400,
+    "week": 1633219200
+  },
+  "id": "t3_q4pyxj",
+  "picture": {
+    "filesize": 136338,
+    "fullUrl": "https://external-preview.redd.it/WLNos2BWAWDp_p7s9jo0kvjlhdD6Rsm0WCE4IzNvorU.jpg?auto=webp&s=d95a417bd60ef522e1985c57dd68e406b08ba213",
+    "hash": "91d03fc143",
+    "height": 1231,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAJRAAAQMCAwkAAAAAAAAAAAAAAQACEQMEBRIhBhQWIjFRYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AMeFlcnYveDQJtxUg1eWBp6nr5RW1+J8F5Q15w51fIIadXRPb4itRx//2Q==",
+    "url": "https://external-preview.redd.it/WLNos2BWAWDp_p7s9jo0kvjlhdD6Rsm0WCE4IzNvorU.jpg?width=640&crop=smart&auto=webp&s=a36a29c4463c92724e62dfe228e3b302f5001796",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Minotaur Labyrinth - Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q4pyxj/minotaur_labyrinth_camp_26x50/"
+}
