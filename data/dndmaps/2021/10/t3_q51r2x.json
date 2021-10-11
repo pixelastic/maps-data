@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1633824000,
+    "full": 1633843170,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q51r2x",
+  "picture": {
+    "filesize": 89694,
+    "fullUrl": "https://preview.redd.it/56zj6lu15ks71.jpg?auto=webp&s=430da0bccce7229b4f8bec98bfd1d972d04538b0",
+    "hash": "99511f4e3f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIH/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIEBQMRABIhMXETYfH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAASISL/2gAMAwEAAhEDEQA/AMKqq1BHEiUgZWAKqe/nhaV2M4DnjKqhRsrrR165VXZYzGSPJYAY/BJ1v6/eNtYJ8RjQ2DBxo9J6u3vjTFxT/9k=",
+    "url": "https://preview.redd.it/56zj6lu15ks71.jpg?width=640&crop=smart&auto=webp&s=02bf9bb8e9360d0bc4774c0fe73bbdb959de0f2e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Vampire Sanctum Battle Map 26x26",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q51r2x/vampire_sanctum_battle_map_26x26/"
+}

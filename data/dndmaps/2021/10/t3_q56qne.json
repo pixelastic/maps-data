@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1633824000,
+    "full": 1633867360,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q56qne",
+  "picture": {
+    "filesize": 85441,
+    "fullUrl": "https://preview.redd.it/71ayjjxowls71.jpg?width=2800&format=pjpg&auto=webp&s=6301f2e1f111012d457966e2e3261d35f176a6fa",
+    "hash": "de93ec4e0f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDBAURAAYhEhMxQWFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAXEQEBAQEAAAAAAAAAAAAAAAABACFB/9oADAMBAAIRAxEAPwDMqiSK67ZSqlrZBU08IjMA5ZmDkrlvQA8akNwWmuNJVU9DCOwihlA7nXkcnPsjTW0ZAli3FLHbJZagrmVDyp88YHryTozb87JBM9rsy1EjwNK+ZC6xkfg4+fdThNyR5f/Z",
+    "url": "https://preview.redd.it/71ayjjxowls71.jpg?width=640&crop=smart&auto=webp&s=2e919ef8f1c789a8918439d9878cdddfba199a3d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q56qne/forest_road_40x40_generic/"
+}
