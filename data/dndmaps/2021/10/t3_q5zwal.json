@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1633910400,
+    "full": 1633970318,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q5zwal",
+  "picture": {
+    "filesize": 134370,
+    "fullUrl": "https://preview.redd.it/mlho9xq3nus71.jpg?auto=webp&s=09ad55e7af82a7bfcc6f72ad783efc227a265aea",
+    "hash": "5b5999878b",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACQQAAIBAwQBBQEAAAAAAAAAAAECAwQFEQASEyEGFDFBUWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAQADAAMAAAAAAAAAAAAAAAEAAhESMVH/2gAMAwEAAhEDEQA/ADKky2Okfx+1itEcvBWDg3SBwctke2DgDcPnSL7YbbDdqhKdo4YgQRGzNlcgEj+61nhb0lBbx6WeMrUHlKh97BtvefrvJ1Br63ZWTLNUyPIrYLGQAt+9daTQRX2H5a5U6n//2Q==",
+    "url": "https://preview.redd.it/mlho9xq3nus71.jpg?width=640&crop=smart&auto=webp&s=5e41273307b5d541dbd00fa737247e88b969fb6a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Lodge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q5zwal/forest_lodge_28x42/"
+}

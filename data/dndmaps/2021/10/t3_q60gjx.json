@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1633910400,
+    "full": 1633971863,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q60gjx",
+  "picture": {
+    "filesize": 130992,
+    "fullUrl": "https://external-preview.redd.it/r-s4mod8QEswzh3WL2591jTXnJpTSjFffg8cQ44dIeo.jpg?auto=webp&s=57a17d1cec9ce251332eb8d263ec19a2bdd2cd38",
+    "hash": "f333a7dc11",
+    "height": 1164,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACUQAAIABAMJAAAAAAAAAAAAAAECAAMREgQhMQUTFFFTYWKRk//EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACIRH/2gAMAwEAAhEDEQA/AMc2ZhZTmZJYqoBoqMc6wPBeL/Mwp8RL3CtIvL5NYGNrNTWnPQ94n3Y/qTPcQKtt7FsGJP/Z",
+    "url": "https://external-preview.redd.it/r-s4mod8QEswzh3WL2591jTXnJpTSjFffg8cQ44dIeo.jpg?width=640&crop=smart&auto=webp&s=7da4955e61e703e209e77a664ad98527017ca97c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 116,
+    "value": 116
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Banshee Moor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q60gjx/banshee_moor_22x40/"
+}

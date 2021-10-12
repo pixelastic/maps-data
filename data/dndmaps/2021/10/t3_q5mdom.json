@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2t2hex5w",
+    "name": "KittyKibblez"
+  },
+  "date": {
+    "day": 1633910400,
+    "full": 1633919809,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q5mdom",
+  "picture": {
+    "filesize": 57665,
+    "fullUrl": "https://preview.redd.it/o2bnq5wtgqs71.jpg?auto=webp&s=5fa6d251c96a7d60b31f391f3ffa775d84d3bbf7",
+    "hash": "d8a99e4812",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAI/8QAHxAAAQQCAgMAAAAAAAAAAAAAAQIDBBEAIQUSMUFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAQQIRIf/aAAwDAQACEQMRAD8AzJPkOpkrT4o1XzKHLdW8lBUR2Oq9Y+TiOmY6QAR20QbsYIDDzUpC+m0kHYyngupH/9k=",
+    "url": "https://preview.redd.it/o2bnq5wtgqs71.jpg?width=640&crop=smart&auto=webp&s=ed6c85f602edab9b73f3a448250a924aa212481a",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 206,
+    "value": 206
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Pit",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q5mdom/the_pit/"
+}
