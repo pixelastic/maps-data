@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1634083200,
+    "full": 1634144632,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q7fmwl",
+  "picture": {
+    "filesize": 48260,
+    "fullUrl": "https://external-preview.redd.it/9OVh4YnxHaVkVuEtDDG3Eeqn7aeChvx-UkbCOGue8Hk.jpg?auto=webp&s=ecb00646663fa7c0c99b0d99f9f714cf4bd56ec3",
+    "hash": "21171e8a7f",
+    "height": 350,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACQQAAIABAQHAAAAAAAAAAAAAAECAAMFMQQSInIGERMhM0KB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIREgQUIv/aAAwDAQACEQMRAD8Az+hvw8wkI6qD7BxqP20HrpoMqQyyelmKHKL6uXeILDeVdph5LzNkTTi9zYpOzDa1C//Z",
+    "url": "https://external-preview.redd.it/9OVh4YnxHaVkVuEtDDG3Eeqn7aeChvx-UkbCOGue8Hk.jpg?width=640&crop=smart&auto=webp&s=603dffbb1727884b3874192c8daa28dab7379d83",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.91,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Stranded Casino",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q7fmwl/the_stranded_casino_42x23/"
+}

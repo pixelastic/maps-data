@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pou0u",
+    "name": "Chaouleon"
+  },
+  "date": {
+    "day": 1634083200,
+    "full": 1634147565,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q7gnhp",
+  "picture": {
+    "filesize": 128283,
+    "fullUrl": "https://preview.redd.it/rzwuie4c99t71.jpg?width=4096&format=pjpg&auto=webp&s=919ad14eb4cd7ee181819c7d26dff22133448545",
+    "hash": "593546c9fc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMG/8QAIhAAAQMDBAMBAAAAAAAAAAAAAgEDBAARIQUSE3ExQVGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESQv/aAAwDAQACEQMRAD8AxelQo8mCpE4AOb8uoiEvWcW6p6vpbKxieiIIbUuoJ47SpS2H3IkUI7RHH4xuIqiJe+c/bUdPjOMi/wArRNNkJqO4sJjxf36/KjTtMTlZtP/Z",
+    "url": "https://preview.redd.it/rzwuie4c99t71.jpg?width=640&crop=smart&auto=webp&s=966a89cc90eb06433e4d66149b9e7eee1fc44282",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Noble's Manor 2-Floors 40x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q7gnhp/nobles_manor_2floors_40x40/"
+}

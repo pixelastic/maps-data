@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6zgrx4aq",
+    "name": "J_empty"
+  },
+  "date": {
+    "day": 1634083200,
+    "full": 1634118338,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q77o26",
+  "picture": {
+    "filesize": 41435,
+    "fullUrl": "https://preview.redd.it/k37k0eh8v6t71.jpg?auto=webp&s=390f9ab8d92f2a86f4d0ada8ead88ae79c058d0f",
+    "hash": "744659537c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIxAAAwABAwIHAAAAAAAAAAAAAQIDEQAEEiExBRMyQWFx8f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACUf/aAAwDAQACEQMRAD8AyNpGF/D6TEHe5Jy4HpHt+aiTaLPazaZZ6s7BgT1GO3TSz3lYO3kcZhgAQo+O+irZ7urPjko45AwT96TIi8or/9k=",
+    "url": "https://preview.redd.it/k37k0eh8v6t71.jpg?width=640&crop=smart&auto=webp&s=f652d7ca239cdcdf9baf58f2051aa7fc4000d7ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "First map I've made - thoughts/feedback?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q77o26/first_map_ive_made_thoughtsfeedback/"
+}
