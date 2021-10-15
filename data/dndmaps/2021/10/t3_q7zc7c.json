@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pdxtk36",
+    "name": "MisterKrane"
+  },
+  "date": {
+    "day": 1634169600,
+    "full": 1634216797,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q7zc7c",
+  "picture": {
+    "filesize": 264319,
+    "fullUrl": "https://preview.redd.it/mt3zl60tzet71.jpg?auto=webp&s=4dc76fd7d954f9c953452b693d707ef96843e986",
+    "hash": "64763a419b",
+    "height": 1402,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAQQCAgMAAAAAAAAAAAAAEQECAwUABBITFTFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAyGh8P/aAAwDAQACEQMRAD8AxdhpzVlW3x8b3oitJQk+1GMtntIm10ew/cXqcvFpcpPwYyFC1bFxXxIxse7P/9k=",
+    "url": "https://preview.redd.it/mt3zl60tzet71.jpg?width=640&crop=smart&auto=webp&s=762d08ae53ad5375c4f135b3d9f90ed06d0ec105",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Farmhouse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q7zc7c/farmhouse_46x21_cornfield/"
+}

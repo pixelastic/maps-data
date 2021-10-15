@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1634169600,
+    "full": 1634213317,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q7yd5s",
+  "picture": {
+    "filesize": 73137,
+    "fullUrl": "https://preview.redd.it/tea38l79pet71.jpg?auto=webp&s=61f127957aad34a73e2ac66b2e50e01a0dc329ff",
+    "hash": "c0d72360ae",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAJRAAAgIABQIHAAAAAAAAAAAAAQIDBAAFESExBmEHEhQVI0FR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgARAyFB/9oADAMBAAIRAxEAPwCqWgKNKtbooklUKoCqmpLbcba899vw4DOcumjVqk6kSTQ+oibQFih2MZJGpK76H7GM7Juq81hq+3mYSVVUMFccHnkd8D4gWnzLpeazL8dinC0sUkTMrebnUnXfck4OmQPYOpOpUiuz/9k=",
+    "url": "https://preview.redd.it/tea38l79pet71.jpg?width=640&crop=smart&auto=webp&s=f314867dd41191c6a425775329bf93d08f03b2b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 54,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 1595,
+    "value": 1595
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "The Living Nexus",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q7yd5s/the_living_nexus/"
+}

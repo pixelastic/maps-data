@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1634169600,
+    "full": 1634214191,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q7yl9d",
+  "picture": {
+    "filesize": 173747,
+    "fullUrl": "https://preview.redd.it/jl1be928set71.jpg?auto=webp&s=2f90b02cea47bab61091d8ebfb06791f40aec797",
+    "hash": "e3e5d2354f",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAAICAgECBwAAAAAAAAAAAAECAxEABBIhMQUTIlGBocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAEDBQAAAAAAAAAAAAAAAAEAAgMRISJR8P/aAAwDAQACEQMRAD8Awe6ZNLT0JdaRWlKMJTZqQk3ZrtR6V7AZNWBZRz2RGZmNsbPfHoZlg5rAVGop4lwPVIR1pf04OXxdnkZjrpMSbL+QTfz9Yo4jBQxI0OAlue0v/9k=",
+    "url": "https://preview.redd.it/jl1be928set71.jpg?width=640&crop=smart&auto=webp&s=0aba139c1da19b3a25013732acab2595755ec211",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forgotten Fen",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q7yl9d/forgotten_fen_36_x_24/"
+}

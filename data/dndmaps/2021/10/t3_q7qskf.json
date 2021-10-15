@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8h7mi6o2",
+    "name": "artbyJeronimo"
+  },
+  "date": {
+    "day": 1634169600,
+    "full": 1634179856,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q7qskf",
+  "picture": {
+    "filesize": 46820,
+    "fullUrl": "https://preview.redd.it/bgukdsbyxbt71.jpg?auto=webp&s=6d8bfc74010f472e30847c6f31503d32fd6879a5",
+    "hash": "ff5ae7d043",
+    "height": 652,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAIBAwMFAAAAAAAAAAAAAAECAwAEEQUxQRITISKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Ay6aSJc28fZ6SFw5QktnB8nilJI2ilkjdQCvIBHO9G71tK0ZnQqyAg9HqrY2B5+1T03UobS2eOT3EsjkMCMbDwc/KCkf/2Q==",
+    "url": "https://preview.redd.it/bgukdsbyxbt71.jpg?width=640&crop=smart&auto=webp&s=002a320987e9a1670a789cf6ffb12fec414508e7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Map of Kavan's crypt for Curse of Strahd",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q7qskf/map_of_kavans_crypt_for_curse_of_strahd_30x30/"
+}
