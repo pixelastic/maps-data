@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1634256000,
+    "full": 1634332626,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q8xpui",
+  "picture": {
+    "filesize": 42302,
+    "fullUrl": "https://preview.redd.it/5z47larfkot71.jpg?auto=webp&s=6e177aef17faedea93b8eecbedb708c57af20e0a",
+    "hash": "58757c3db0",
+    "height": 546,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACQQAAECBQQCAwAAAAAAAAAAAAECAwAEBRFBBhIhMRMUIlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMhEf/aAAwDAQACEQMRAD8AeuW1JMqQVv0pAAB8SGVkHq/yJuP2xgzwmWVpMwwyTyk2cKrnGBFqu1UUumPzi0KLTQ3EItu7txfjMZGpaemKwgTlXqs0WVq8vpMHa0gdAbuFH7vk4hNsWBa2prrw/9k=",
+    "url": "https://preview.redd.it/5z47larfkot71.jpg?width=640&crop=smart&auto=webp&s=47863690e3bc984232c3ba6f7e96de6399b35414",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bleakfrost Glacier",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q8xpui/bleakfrost_glacier_34x29/"
+}

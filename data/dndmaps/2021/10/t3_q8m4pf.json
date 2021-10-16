@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1634256000,
+    "full": 1634295959,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q8m4pf",
+  "picture": {
+    "filesize": 80116,
+    "fullUrl": "https://preview.redd.it/kmy3amwfjlt71.jpg?auto=webp&s=ee18db50286fda6ad5915eace4a016a3520aac12",
+    "hash": "2d424a99ec",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAG/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQREkEFEzEVIVFhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQBh/9oADAMBAAIRAxEAPwDBbt0m6za7LE4yxbk1PI18iRzbtbjJzn3Hz+fVLPH6hGktuoKsdSMHzzSWkMkMW1u4ZGOrds58cDFGElxmTu//2Q==",
+    "url": "https://preview.redd.it/kmy3amwfjlt71.jpg?width=640&crop=smart&auto=webp&s=c7459137405a80aaf0e20afd4475e99830a4b39e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sunken Tower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q8m4pf/sunken_tower_20x20/"
+}

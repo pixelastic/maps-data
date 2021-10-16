@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1634256000,
+    "full": 1634317460,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q8sqtj",
+  "picture": {
+    "filesize": 53860,
+    "fullUrl": "https://external-preview.redd.it/jvd03mYybF3JWYe2VSGqGolrO9MndXxYHoBTyf5qCJk.jpg?auto=webp&s=ca9b20c2a34861f75e573d58174f904998f29e59",
+    "hash": "98c10c598b",
+    "height": 417,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIDAAQFERITISJhBjFBUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EAB0RAAAHAAMAAAAAAAAAAAAAAAABAgMREyExMvD/2gAMAwEAAhEDEQA/AM+jwwwx2Uu4V3gr74XUWJ8+Pql8DsEmW9S5UTQKGYSsulkYZkEH3/Kt6fkcztCXYxLKQEJ6jkfFM4idFoyJ1QyMCo4BGVTKdKuIDJlV3bOfaP/Z",
+    "url": "https://external-preview.redd.it/jvd03mYybF3JWYe2VSGqGolrO9MndXxYHoBTyf5qCJk.jpg?width=640&crop=smart&auto=webp&s=6ccf191fcdb1470821bbe157c603beb1690d1355",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 151,
+    "value": 151
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Colosseum of Challenges - Flooded",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q8sqtj/colosseum_of_challenges_flooded_43x28/"
+}
