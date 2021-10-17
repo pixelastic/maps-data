@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1634342400,
+    "full": 1634396639,
+    "month": 1633046400,
+    "week": 1633824000
+  },
+  "id": "t3_q9dqw7",
+  "picture": {
+    "filesize": 201581,
+    "fullUrl": "https://external-preview.redd.it/KpL50Tc6nxyhebhjwznw0A97MUq-W1HI1MZ3XSS3knk.jpg?auto=webp&s=736a0838d2eb24dd5fcd47e79aae994f40929d8d",
+    "hash": "53d1794d26",
+    "height": 1187,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAApEAABAgIHCQEAAAAAAAAAAAABAgMABAUREhMhMdEUIjNCUVVWkZLh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAMAwEAAhEDEQA/ACp6aacmZltTE66qqwFrbs3GXCPMK8yazEq/b7M99N6Q1NtqE8Vim9lKyVkuha0o6p3sBh+RHvpnyhv2xrE9cJwbf//Z",
+    "url": "https://external-preview.redd.it/KpL50Tc6nxyhebhjwznw0A97MUq-W1HI1MZ3XSS3knk.jpg?width=640&crop=smart&auto=webp&s=1c403b9acea6fa9bb69a011f778bbed4b86dc1ee",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Temple of Judgement",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q9dqw7/the_temple_of_judgement_55x102/"
+}
