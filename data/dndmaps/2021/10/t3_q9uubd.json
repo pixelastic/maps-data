@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3prumcf9",
+    "name": "Persevrant"
+  },
+  "date": {
+    "day": 1634428800,
+    "full": 1634459909,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_q9uubd",
+  "picture": {
+    "filesize": 107061,
+    "fullUrl": "https://preview.redd.it/0sd3r1br2zt71.jpg?auto=webp&s=c87076b687c575063684e5bf172b93cdfd4a1c13",
+    "hash": "fbc7b283fd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACEQAAICAQQCAwAAAAAAAAAAAAEDAhEEAAUGIRIxMkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAMREiH/2gAMAwEAAhEDEQA/AF4uGcvMyXPZjRRUCssMmA+iwHsUbBABHYF6I7ijjEXRxHLYzcUTWXTBqQJFA+PYAs+hfWsc/kW64m+Mwk5jBjtYZsBo+RiTWo3OnK3SkTP5GyfsHr81KMVsam3J/9k=",
+    "url": "https://preview.redd.it/0sd3r1br2zt71.jpg?width=640&crop=smart&auto=webp&s=746504167f6ae257ef0f490fb45eae7edf94e061",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 295,
+    "value": 295
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Home made castle integrated in Inkarnate scene",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q9uubd/home_made_castle_integrated_in_inkarnate_scene/"
+}

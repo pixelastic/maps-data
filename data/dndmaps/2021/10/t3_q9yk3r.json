@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ld6xb",
+    "name": "zycros"
+  },
+  "date": {
+    "day": 1634428800,
+    "full": 1634476703,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_q9yk3r",
+  "picture": {
+    "filesize": 154151,
+    "fullUrl": "https://preview.redd.it/ll3p3ahsg0u71.jpg?width=1653&format=pjpg&auto=webp&s=886c30dabd6e6a52d3855ed58f3d9afb7bf2753e",
+    "hash": "11d6ec12a9",
+    "height": 947,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJxAAAQIFAgUFAAAAAAAAAAAAAQIDBAUREiEAMQYTFEFRIjJDYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EAB4RAAIBAwUAAAAAAAAAAAAAAAECAwARYSExUYHw/9oADAMBAAIRAxEAPwBDg6NYTw9EPvuiEWE8sqtrzjf7yfNpIB+ie2sUUiFVEuluOYSgqNocczTzgH91SVTWWohYxpc0lr1AFudQtAB9Q2SMDbeh2GNHTONkTke8tM6l5BPxBFtaZpUiue9M6hC7rKzrocdc0pbIoG49iv/Z",
+    "url": "https://preview.redd.it/ll3p3ahsg0u71.jpg?width=640&crop=smart&auto=webp&s=c34a617e815f7dbbd9786314a2161ae2697a4656",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fallen City/Tower Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/q9yk3r/fallen_citytower_map_23_x_16/"
+}
