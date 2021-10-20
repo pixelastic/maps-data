@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1634601600,
+    "full": 1634678730,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qbldpn",
+  "picture": {
+    "filesize": 76131,
+    "fullUrl": "https://preview.redd.it/juwd6zzj5hu71.jpg?auto=webp&s=7f6a75c85f1f58027e8af9829239e5f0a444aba3",
+    "hash": "c256fed9b1",
+    "height": 387,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhAAAgICAgEFAQAAAAAAAAAAAQIDBBESACFBExQiUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQACAwAAAAAAAAAAAAAAAAAAIRESMf/aAAwDAQACEQMRAD8A0p/eBSbW0dcS4V1jIAGAMFvrGT57/vGqVJZZLMmqz0ljYBz1qMHU/p68canZn0VPWl0IAK7nBHXKbssi1ERZHCaH4gnHI9lgmGf/2Q==",
+    "url": "https://preview.redd.it/juwd6zzj5hu71.jpg?width=640&crop=smart&auto=webp&s=74e7fda148a72301523e49fa02ebac0a55201ce0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Beneath the Temple of Sinakad",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qbldpn/beneath_the_temple_of_sinakad_lore_vtt_notes/"
+}
