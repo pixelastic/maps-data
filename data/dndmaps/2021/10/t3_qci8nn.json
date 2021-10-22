@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c63ajx0f",
+    "name": "Mind-Fillet"
+  },
+  "date": {
+    "day": 1634774400,
+    "full": 1634786177,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qci8nn",
+  "picture": {
+    "filesize": 120698,
+    "fullUrl": "https://preview.redd.it/7dgcrnx31qu71.jpg?auto=webp&s=c9d2c5b603d878a8f73a3c8258fa4afbb52e5fc8",
+    "hash": "fc6c8fbfd7",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAkEAACAQMCBgMAAAAAAAAAAAABAgQAAxEFIgYSEyExUUFhof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQACAwEAAAAAAAAAAAAAAAACAwABEjH/2gAMAwEAAhEDEQA/ADTgHVbsabJsWiED21Y9PKh+X3j6JpYg63NkxldH2jaMkfFAsV3tyOeIyo7KMdMAkeCe57DBA/aoIPGU2LDs2gIpYLua7aLlj7yDRrUlZaGJKaNBkq5P/9k=",
+    "url": "https://preview.redd.it/7dgcrnx31qu71.jpg?width=640&crop=smart&auto=webp&s=b143eb8632303da3d80acee12bf23a4c5c8caf6f",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 714,
+    "value": 714
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Map of Theros based on Ancient Greek hydria (WIP)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qci8nn/map_of_theros_based_on_ancient_greek_hydria_wip/"
+}

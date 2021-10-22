@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3phw1x2s",
+    "name": "Depolys"
+  },
+  "date": {
+    "day": 1634774400,
+    "full": 1634815942,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qcppr1",
+  "picture": {
+    "filesize": 123872,
+    "fullUrl": "https://preview.redd.it/qj1fvq3ehsu71.jpg?width=1540&format=pjpg&auto=webp&s=de225c6c443e3e3d3e35011507e436165764b976",
+    "hash": "96b1260a01",
+    "height": 582,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEETESFHEFISKBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAhEA/9oADAMBAAIRAxEAPwDAQskN5dSNDJDCVUYCbOT++aozXsM9za9aQqOMjSKE4lfjjGvFIw21yPTo5IbUF4WbkzSjGtEfe6LfrRwg3Dv3kgdmBBIBz7AHOqKuRx5IpDDO/9k=",
+    "url": "https://preview.redd.it/qj1fvq3ehsu71.jpg?width=640&crop=smart&auto=webp&s=07899f3d07b75f6738f724803c2887893916e315",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 152,
+    "value": 152
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Thieves Territory (22x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qcppr1/thieves_territory_22x20/"
+}
