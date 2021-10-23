@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4wk4jibb",
+    "name": "dart1609"
+  },
+  "date": {
+    "day": 1634860800,
+    "full": 1634892315,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qdcmrm",
+  "picture": {
+    "filesize": 85254,
+    "fullUrl": "https://preview.redd.it/4p3pqq1ksyu71.png?width=5000&format=png&auto=webp&s=aefd95784d4aa39b81407a6200e64766192585e3",
+    "hash": "426936d632",
+    "height": 640,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABd0lEQVQokYWS246DIBCGff8H60UvSNqoQYHxELUtJ7FSqbbazUrS7G5N9rsEPpjhn+D1wTAMAEAIcc69Xq9lWX7uBp+Cc44QUhQFANzv9+fzuS0sy2KtnaapqioA6LquLMskSQghj8djQ7DWHg6H3W6HENJac86VUn6x7/sN4Xa7IYQAQK5wztu2zfOcELJd0jiOcRwbY6SUSikppRAiSRLfw7v1wDk3rDjnMMbn81lrrZTSWldVRQiZ53mapnme/ZkgyzK6Qggpy1Kt+KqEEGmaspUsy9I0BYCAMZamKaW0KArOuV7xTtu2xhillBACACil34Jzzlrb9z3n/Hg8+gSapqnrmjF2Op2EEMYYjPH1eh3H8VdwwzAghPyb+/1eShlFUV3XXdcBgDHmb3A+5qZp8jzXWl8uF4yx/+IwDK2126PhZd+ilDLLsjiOOed+fVtgjOV53nVdFEVN0/wcpw2h7/skSbTWYRi+L/5HoJQyxoQQn+P9BWPD0av6APqlAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/4p3pqq1ksyu71.png?width=640&crop=smart&auto=webp&s=cd81e31cec5cc7f230011db28d23a2d730a7bef2",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "First Try of Map Tiles. Printerfriendly Black and White",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qdcmrm/battlemapgrid_100x100dimension_5000x5000_first/"
+}

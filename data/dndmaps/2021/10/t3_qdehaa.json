@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1634860800,
+    "full": 1634900535,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qdehaa",
+  "picture": {
+    "filesize": 65386,
+    "fullUrl": "https://preview.redd.it/kdeclwp5hzu71.jpg?auto=webp&s=1678ccce88de8ef23324046655d6f16cbb084d89",
+    "hash": "a404edf223",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIhAAAQMDBQADAAAAAAAAAAAAAQIDBAAFEQYSITFhIkGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAASAhEDIUH/2gAMAwEAAhEDEQA/AMR0pAE2KxJk5UkFTSWwPgcDgkdZ9pXWFptMe0POx0A7GwQotbCF/YoKPrdyNbYkFi2xUNMI2rIzlwntR9qMnUSLpGMOREcSwcctEqKMdfnlOaC10EmRmrR//9k=",
+    "url": "https://preview.redd.it/kdeclwp5hzu71.jpg?width=640&crop=smart&auto=webp&s=4fa251fec439e29e9bbe4a7b942ac2787a1e7f3d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Icy Cavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qdehaa/icy_cavern_24x24/"
+}

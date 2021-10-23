@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1634860800,
+    "full": 1634915003,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qditt0",
+  "picture": {
+    "filesize": 102287,
+    "fullUrl": "https://preview.redd.it/zf8unrkyn0v71.jpg?width=7000&format=pjpg&auto=webp&s=c97ad72e88ff045ec9582dedf5a98516319171b0",
+    "hash": "f4b9594809",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMG/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIDERIABCIxQVFxEyEyYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAAIDAAAAAAAAAAAAAAAAAAARISJB/9oADAMBAAIRAxEAPwDG7eHNnBXJA3EtgEDrX5p+lM6yExUi2VBYXhfyI7/Wr7aZdvGJBGgFNkMeJvfl456O/laeKJFUAAhwwBFHtXXzqY6iy1h//9k=",
+    "url": "https://preview.redd.it/zf8unrkyn0v71.jpg?width=640&crop=smart&auto=webp&s=f71474ea54aadf1cfc8c40a3223b6570ada028db",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Frog God Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qditt0/frog_god_temple_50x50/"
+}
