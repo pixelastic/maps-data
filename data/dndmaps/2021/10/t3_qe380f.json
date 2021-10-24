@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1634947200,
+    "full": 1634988951,
+    "month": 1633046400,
+    "week": 1634428800
+  },
+  "id": "t3_qe380f",
+  "picture": {
+    "filesize": 166004,
+    "fullUrl": "https://preview.redd.it/cd7quk40s6v71.jpg?width=4800&format=pjpg&auto=webp&s=9621f1a0178640493d3cf929035e672de6314e0b",
+    "hash": "a20dab4f69",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIRAAMhBBITQTFxgfD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAABAhFB/9oADAMBAAIRAxEAPwDJDtvLFtHuMLeMZOZJ+VDmttk46iBSIuJp+TcFEqCS09+fVBfULuMqJJn9FIsIJp0f/9k=",
+    "url": "https://preview.redd.it/cd7quk40s6v71.jpg?width=640&crop=smart&auto=webp&s=7839ed9be93f4bacafa3871076069c738bbcc77e",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 363,
+    "value": 363
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Haddonfield Street",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qe380f/haddonfield_street_normalnightmare_halloween/"
+}
