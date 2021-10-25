@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3mvxha05",
+    "name": "HorribleHouse"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635087743,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qetvro",
+  "picture": {
+    "filesize": 150939,
+    "fullUrl": "https://preview.redd.it/t7puad8evev71.jpg?width=5400&format=pjpg&auto=webp&s=ace0d6e8aaa4ee4d145ab12383699582c4d3fd18",
+    "hash": "c7800ebedf",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBEFEyEGEmEUIjFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAMBAQAAAAAAAAAAAAAAAgABEQNR/9oADAMBAAIRAxEAPwCfrO3Bb20ckQikdsIjpwcjgADOB4o30CefteOzZQBg8quT+1BXVDepH6mRmmhbdx3H2kD5+6S66hfeJne5LnklTgHziox5Uaytj00vJ//Z",
+    "url": "https://preview.redd.it/t7puad8evev71.jpg?width=640&crop=smart&auto=webp&s=f83939066bc9ab1574bb392cf7c01e4bcad3aff7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Cursed Bridge, Base Variant",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qetvro/the_cursed_bridge_base_variant_18x24ocbattlemap/"
+}

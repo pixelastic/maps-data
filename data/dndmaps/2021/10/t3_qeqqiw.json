@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6m81mbr6",
+    "name": "AdventureBundles"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635076690,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qeqqiw",
+  "picture": {
+    "filesize": 36950,
+    "fullUrl": "https://preview.redd.it/hi2mxfhw0ev71.jpg?auto=webp&s=58b915f0128f53608a83a7eace26fc1eb108c24f",
+    "hash": "988ad55d3c",
+    "height": 316,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIDAAQRElEFEyExYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAMAwEAAhEDEQA/AMcktnHTILmZHjjl7iwyEZWQqVyo4xtUrq7NykW/lY1CgDAwOPXylKNNKf/Z",
+    "url": "https://preview.redd.it/hi2mxfhw0ev71.jpg?width=640&crop=smart&auto=webp&s=69a4c6843ff28ba8012f57044722ecf2a2cb703e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Desert Temple-Tomb (80x42 map)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qeqqiw/desert_templetomb_80x42_map/"
+}

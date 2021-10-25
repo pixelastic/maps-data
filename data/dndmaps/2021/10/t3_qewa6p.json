@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635095039,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qewa6p",
+  "picture": {
+    "filesize": 74307,
+    "fullUrl": "https://external-preview.redd.it/XZqhQOD-JniO5RUi1xaosLMwaUASb4o-KUe7-smtzHk.jpg?auto=webp&s=c9be0e9bf65ee958d0f9f33ee9e7c4d191edb904",
+    "hash": "88dba6f111",
+    "height": 975,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACQQAAEDAgUFAQAAAAAAAAAAAAECAxEABAUHEhRREyEiQXHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAhIxQf/aAAwDAQACEQMRAD8Apxk89cwvcsIeMqCdZn7Q0Zb3lunpOugLT2I11p1rizISh0aAqPJQ9zH4KU4ljSN89LqZnkcUpVT2Dwjh/9k=",
+    "url": "https://external-preview.redd.it/XZqhQOD-JniO5RUi1xaosLMwaUASb4o-KUe7-smtzHk.jpg?width=640&crop=smart&auto=webp&s=86c28c32aac4d87793d56d48c310c2da559f80a5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.85,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Serene Lakeside - Frozen Lake",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qewa6p/serene_lakeside_frozen_lake_21x32/"
+}

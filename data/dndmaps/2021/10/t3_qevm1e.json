@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635093024,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qevm1e",
+  "picture": {
+    "filesize": 207408,
+    "fullUrl": "https://preview.redd.it/5r6o292gdfv71.jpg?auto=webp&s=8e93140ecc11e0730a54dc0f648ba6ed3cd0c20a",
+    "hash": "92411e6f3d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDBCEABRESMQYTM0KR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDERIh/9oADAMBAAIRAxEAPwDJtUmNSOyZOUkHIYMVwTqraHFeu6hyAzdvlYeQPOdDdysSenNwnpPda1GskfRQ4Zl7IHLdRj7cfumuywQ36CWY29zvklhwwPAwRjRy19JIqo85HU//2Q==",
+    "url": "https://preview.redd.it/5r6o292gdfv71.jpg?width=640&crop=smart&auto=webp&s=02e75def30a5cd69767bf73755195ae4424b31d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "La Citta - Event",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qevm1e/la_citta_event/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8jt3wr5",
+    "name": "in-the-pine-forest"
+  },
+  "date": {
+    "day": 1635033600,
+    "full": 1635089497,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qeugji",
+  "picture": {
+    "filesize": 61769,
+    "fullUrl": "https://preview.redd.it/p5tbg6iy2fv71.jpg?auto=webp&s=188af1c27dce616993176160586443ef751ff252",
+    "hash": "97399d6eba",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAHhABAAICAgMBAAAAAAAAAAAAAQIRAAMSIRRRcfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAIRAf/aAAwDAQACEQMRAD8A03YkY8uQU2j6wnbr8cndR+/u8O12cVskd5MmrKmSxHovowRnghi0/9k=",
+    "url": "https://preview.redd.it/p5tbg6iy2fv71.jpg?width=640&crop=smart&auto=webp&s=f2587e72d804a66e1ef5f35fac35bda45e9eff24",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "The Welos",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qeugji/the_welos/"
+}
