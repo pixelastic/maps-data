@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6p4u8h6h",
+    "name": "TereTox"
+  },
+  "date": {
+    "day": 1635120000,
+    "full": 1635172662,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qfi4yi",
+  "picture": {
+    "filesize": 98974,
+    "fullUrl": "https://preview.redd.it/gzcq75i8ylv71.jpg?width=2200&format=pjpg&auto=webp&s=e99948dccdee3640c0f14649963be9959b80b472",
+    "hash": "77b8e1e311",
+    "height": 756,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIxAAAgICAQIHAAAAAAAAAAAAAQIDEQAEBSFBEhMxUVJhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxIhIv/aAAwDAQACEQMRAD8AyzidWNBFshUcMSixrZtj7j07YezEYIFuLXLu7FhE1KDf7lfA70UMESCQxIVJlQrSg/IHtjS8udTzF8IeGZhItsOlAgUR9dayWMnsIOhE5VZ//9k=",
+    "url": "https://preview.redd.it/gzcq75i8ylv71.jpg?width=640&crop=smart&auto=webp&s=f1f0e83787d391482f9cd018343647a7b202352d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest path Map pack (22x26), (33x26), (26x26)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qfi4yi/forest_path_map_pack_22x26_33x26_26x26/"
+}

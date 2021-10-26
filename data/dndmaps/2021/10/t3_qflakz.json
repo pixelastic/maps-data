@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635120000,
+    "full": 1635181447,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qflakz",
+  "picture": {
+    "filesize": 40019,
+    "fullUrl": "https://external-preview.redd.it/lNKTwkcT6U5F81GYAlj0WZF4v-w34LZgSdpjYNsOEYM.jpg?auto=webp&s=fcda077b6f261d8c2e1b4d17da5e77360f5d952a",
+    "hash": "6d9b2251bc",
+    "height": 475,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDBBEhAEESFDGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAAIDAAAAAAAAAAAAAAAAAAABIUFR/9oADAMBAAIRAxEAPwDKqjNdtSxz2GiVAcbxnfXJXGZVgjRg/nKUDH7jW+IsVYvdRAumySe88bVpRypGrO4Ak0Bjr84i3odFH//Z",
+    "url": "https://external-preview.redd.it/lNKTwkcT6U5F81GYAlj0WZF4v-w34LZgSdpjYNsOEYM.jpg?width=640&crop=smart&auto=webp&s=542f703562dfd33868f15c3442361bda2c1a473a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Vampire Mansion - Haunted (Night)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qflakz/vampire_mansion_haunted_night_35x26/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1635120000,
+    "full": 1635178558,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qfk91w",
+  "picture": {
+    "filesize": 100523,
+    "fullUrl": "https://preview.redd.it/5amvqu5lfmv71.jpg?width=1750&format=pjpg&auto=webp&s=dc783e0816f259ae34c7b671521d1ab5f32d5d78",
+    "hash": "70091d3716",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQI/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDEQAEBSExURMygSIzQWHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEQMRAD8Azw64Mbk/abKQYgenSO2fMH7pq2yLKGUp6iwBMb7Tp8cUZkG1INuLlxtSUSouDcE88/tQXAU28pNtbrcaHaoCQfMUgsLhZLDf/9k=",
+    "url": "https://preview.redd.it/5amvqu5lfmv71.jpg?width=640&crop=smart&auto=webp&s=7faf0f92cf449dc2f2e369204a912215d3c00945",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn (Phased battle map)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qfk91w/phnglui_mglwnafh_cthulhu_rlyeh_wgahnagl_fhtagn/"
+}
