@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_edze7gkz",
+    "name": "RavenFX-JR"
+  },
+  "date": {
+    "day": 1635206400,
+    "full": 1635211706,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qfvhg3",
+  "picture": {
+    "filesize": 62925,
+    "fullUrl": "https://preview.redd.it/dpz7bwrd6pv71.jpg?auto=webp&s=d4133a8fa055c358f02b9981c3d6f37aa779239d",
+    "hash": "7b42f59f61",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAL/xAAoEAABAgMFCQEAAAAAAAAAAAABAgMABREEEiExQQYiIzQ1UXSCsbL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABsRAAEFAQEAAAAAAAAAAAAAAAIAAQMREiFR/9oADAMBAAIRAxEAPwA8+mtrFtQ3a2yHWOJRJokZEUpoMRU54wuTzV1bza0pWouOFCm+9d69eIyGmNNIvajmXPX8qhEm6yx4g+xGeUHDOO+2mYDGW9cX/9k=",
+    "url": "https://preview.redd.it/dpz7bwrd6pv71.jpg?width=640&crop=smart&auto=webp&s=31d919bef72b606add1342f992b14b221479571a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wurn of Splendarr - Encounter map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qfvhg3/wurn_of_splendarr_encounter_map/"
+}
