@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635292800,
+    "full": 1635354246,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qh1c7h",
+  "picture": {
+    "filesize": 166777,
+    "fullUrl": "https://external-preview.redd.it/Ko2I8a1oWRuiu0AIHAuYURg-Lnkkgx7kOByO-QpCn0Q.jpg?auto=webp&s=d9386643bb4423bac9021923370818befaab5c8e",
+    "hash": "7c2e80e741",
+    "height": 1160,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQMEAQEJAAAAAAAAAAAAAQIDBAAFESESExYxQVFSVZKV0v/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACQRL/2gAMAwEAAhEDEQA/AMWkykyLyJjTBEHklS+MfCdDZ493j51Qdp7f6Yf1o/dBQ7881a3IaISirploAZwATnYxs0N0X/a3Pgqp+AyJbOs//9k=",
+    "url": "https://external-preview.redd.it/Ko2I8a1oWRuiu0AIHAuYURg-Lnkkgx7kOByO-QpCn0Q.jpg?width=640&crop=smart&auto=webp&s=7fb2716f0fe67f7ffc2f484d033a61920cce5b3e",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 139,
+    "value": 139
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Opulent Ballroom - Massacre",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qh1c7h/opulent_ballroom_massacre_32x58/"
+}

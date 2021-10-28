@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4cvjyl1q",
+    "name": "ZKT_Matsilpar"
+  },
+  "date": {
+    "day": 1635292800,
+    "full": 1635318021,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qgqok9",
+  "picture": {
+    "filesize": 48793,
+    "fullUrl": "https://preview.redd.it/tdu80md7yxv71.jpg?width=1920&format=pjpg&auto=webp&s=e24adf0f0d4c216788b5f2401fd325da9e9a7af2",
+    "hash": "227a80f80d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJxAAAgEBBAsBAAAAAAAAAAAAAQMCAAQFEWEGEyEiMTI0QVFxcsH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAMRH/2gAMAwEAAhEDEQA/AMJRdLBdcWuXZkxZOJDJNgN3LPxUek1jYh41asUwWSZgAjj3I2Y0OeeHoU/f3TM+D+UXlTYr3KWVKBzf/9k=",
+    "url": "https://preview.redd.it/tdu80md7yxv71.jpg?width=640&crop=smart&auto=webp&s=1a7d4a809cb2e543c1a5821b22c742a63f7e3bb6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bandits' Camp i made using TaleSpire, any feedback?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qgqok9/bandits_camp_i_made_using_talespire_any_feedback/"
+}
