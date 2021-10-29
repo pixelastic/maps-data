@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635379200,
+    "full": 1635440651,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qhrjpz",
+  "picture": {
+    "filesize": 60185,
+    "fullUrl": "https://external-preview.redd.it/K32XG7RQEsDW5e-cpRspnL7DFfYTSwhsw-9TWSayOgs.jpg?auto=webp&s=0cfe7b9fdd9acc8bbf54e0bb899a30305841e842",
+    "hash": "9afa938132",
+    "height": 346,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAJxAAAAUCAwkBAAAAAAAAAAAAAQIDBAUAERMhMRI0NUFRcnOBsbL/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EAB4RAAIBAwUAAAAAAAAAAAAAAAECAAMREhMhMeHw/9oADAMBAAIRAxEAPwB26UU2kXbBy2ZCVRTESVMIABdLlKN7CHvrTmQYyEiSPYMWgkQTPjCnbMohrtc7ZVnGXB47sN8qqC3pTwB+AqGq7UGS/A69vABSxbET/9k=",
+    "url": "https://external-preview.redd.it/K32XG7RQEsDW5e-cpRspnL7DFfYTSwhsw-9TWSayOgs.jpg?width=640&crop=smart&auto=webp&s=987b9a042988fbe77a79b12b96855925a835f895",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Goblin Bridge - Graffiti",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qhrjpz/goblin_bridge_graffiti_37x20/"
+}
