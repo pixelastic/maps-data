@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1635465600,
+    "full": 1635503753,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qi9v9d",
+  "picture": {
+    "filesize": 226008,
+    "fullUrl": "https://preview.redd.it/ja4i1yotadw71.jpg?auto=webp&s=1d2d0bc1742cf7685e9bed97eeb7e1308716446e",
+    "hash": "2c5e910568",
+    "height": 938,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAjEAABBAEDBAMAAAAAAAAAAAABAgMEESEABRIGEzFBgcHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIEEhEhYf/aAAwDAQACEQMRAD8AJdRR4sd0iY924rbtlBTYdF4BrwPHxpVt7qnoTSktBIA4gFVHGPrUE2Bt8qFHS7Mjl5baC4XFgJcISMDOPzR/d+rEbfuDsWLI7jTVJ5Np5JKqHKj7F3pxh3SnUmyb10Gxz4T/2Q==",
+    "url": "https://preview.redd.it/ja4i1yotadw71.jpg?width=640&crop=smart&auto=webp&s=82db72444320d9a877eb9cd59cb8cde35dfa4343",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 387,
+    "value": 387
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The City of Sandgate",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qi9v9d/the_city_of_sandgate/"
+}

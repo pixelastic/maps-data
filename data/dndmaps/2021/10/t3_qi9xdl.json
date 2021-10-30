@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9fqj8mg",
+    "name": "EpisodicMaps"
+  },
+  "date": {
+    "day": 1635465600,
+    "full": 1635504004,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qi9xdl",
+  "picture": {
+    "filesize": 259758,
+    "fullUrl": "https://preview.redd.it/7ikdxy1jbdw71.png?auto=webp&s=9fb84923f04e5025df03af74d86ed5c28db005c3",
+    "hash": "730d6bc457",
+    "height": 472,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAIAAADkharWAAAACXBIWXMAAAsTAAALEwEAmpwYAAABvUlEQVQokT2Sy27TUBiEvWo34HP+y7n6OL47aRwnbZOoJGmTJi2XCiGgUhFvwhLBkyODhDSaxYy+1UwEkkEyAiMoAAagQcgAjEiI2iifmDCuZzfX+4t2ESEwCJYxIbCMEV4BnJE8B3kGeM7wGkAgu3qUd9OmL/NJBIJJKZsHGWsOqe5a+GroQ0nvCvisqS7ZBVtNXTUNofAmjaRAUj4pe8BUF2N/vwm/j8Wvb9mP5+TnaXQ6tatDvd2P1ltfNAwqAoHAVugCXKuzhd4k5qM2x4m5HeutM8sqNJukWrm8I/ZSYCRjgaoI8092fvL91l3e6W5v549m9l5PH0y7c5N71z5JvwDSMoZICoqBdbNL+rd6u0j2t6E/htlzOn9Jpg9+dWfWJz/7oooVURgAkCSAwGYqb6iuZV2Mlrty/b1cv2Q3j+FwUMs3tlumzSWxB4HRMAIZ1y5M2Zm00Vlpqs5UV6a+spNrO+ns+MKOe1dfIlmQPACsLNmMfYnsWXn2uXQ5uJx8wcojDi25nJUbACkIUSEqIoOoCTWSBtJIBskQaSLDyg1OWkoadvgnEIR/b/I/kYJAkCKjtVdkkYyQ/AeQlkKVf/JqWQAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/7ikdxy1jbdw71.png?width=640&crop=smart&auto=webp&s=cf39b9e6b8f0762d98a604add0544624ce90bb60",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Bar",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qi9xdl/modern_map_the_bar/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635465600,
+    "full": 1635527043,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qihf0e",
+  "picture": {
+    "filesize": 126219,
+    "fullUrl": "https://external-preview.redd.it/hZ2p5LVGTwHF86fNBx5D4QOPFfnTCh88_x4dU5-d04o.jpg?auto=webp&s=ed2a7d87a53929f5c384851c1ae03c6f6677dc48",
+    "hash": "e36c300c97",
+    "height": 1152,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJhAAAQIEBAcBAAAAAAAAAAAAAQIDAAQFERMUIdEiQVNVkZKho//EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAMREv/aAAwDAQACEQMRAD8ABlg7UJdDLLAlMmziKfccHHcG9hzjOYtB7n+A2iyVdbNMdSlnEeCBZJGqyTqo/fMG5R3pyforaF9uEGVGrP/Z",
+    "url": "https://external-preview.redd.it/hZ2p5LVGTwHF86fNBx5D4QOPFfnTCh88_x4dU5-d04o.jpg?width=640&crop=smart&auto=webp&s=d1c4964b9fc0f1a3f197b6866d3387f6f07afa04",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Depths of the Festerwood - Winter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qihf0e/depths_of_the_festerwood_winter_25x45/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1635465600,
+    "full": 1635550832,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qip9mf",
+  "picture": {
+    "filesize": 140531,
+    "fullUrl": "https://preview.redd.it/oag4a2kr6hw71.jpg?auto=webp&s=d5c7354090513e0d06911f061ac89d2646f811c9",
+    "hash": "289a8a97a0",
+    "height": 874,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQRAAUGIUESUYEHExQjwf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBESExUf/aAAwDAQACEQMRAD8Ay/S+fQ6ajiekjHyGJ90kkKw4t47jD+X1mzOGQoKVCo2F52Nh22tiFhqJcwNNCixjYKpLBRsOT+4CzSI0tQscynqCA/SepbeOcCFXF7JrHT//2Q==",
+    "url": "https://preview.redd.it/oag4a2kr6hw71.jpg?width=640&crop=smart&auto=webp&s=6cfe9d1b0f23d5f78ff04a224dab5ddb93397a25",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Laboratory of Lunacy",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qip9mf/laboratory_of_lunacy_48x27oc/"
+}

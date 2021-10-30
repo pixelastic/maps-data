@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1635465600,
+    "full": 1635505313,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qia9hj",
+  "picture": {
+    "filesize": 236947,
+    "fullUrl": "https://preview.redd.it/yd1tft0hfdw71.jpg?auto=webp&s=2b2b8841fd13d49b416e162817bd136dc593b6dd",
+    "hash": "6c0f3b8382",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAH/8QAJBAAAQMCBgIDAAAAAAAAAAAAAgEEEQADBRIhMTJREyIUQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAICAwAAAAAAAAAAAAAAAAABAhEhMVH/2gAMAwEAAhEDEQA/AM9dYk8evHrrV0EoV1QWBieUdRO3dO6xrwODtn5TVF5fJJNN00jqpi4at22ZsArdcXjbhejIK2yjMuX7WfVOqC7bQrhKbBwpbSHH89dqjqEVitCW+n//2Q==",
+    "url": "https://preview.redd.it/yd1tft0hfdw71.jpg?width=640&crop=smart&auto=webp&s=3dd5cd62a01b4ae9bbbff0eeb8a670284aa70d93",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Heart of the Wood",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qia9hj/heart_of_the_wood_20x30/"
+}
