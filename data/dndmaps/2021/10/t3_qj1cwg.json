@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1635552000,
+    "full": 1635600024,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qj1cwg",
+  "picture": {
+    "filesize": 64093,
+    "fullUrl": "https://preview.redd.it/e9lvaqcr8lw71.jpg?width=4480&format=pjpg&auto=webp&s=e3a57885d8cc251496ca58e7cf983a14a62d7108",
+    "hash": "8c579e68e1",
+    "height": 845,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMG/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQAhBDESQVFhgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AyacMcsvHEZXc7FMB4kka+NX+ZVCxQUYx6VfWCyji8WUMKW6oaLgmzsfWEUKFAwXvZFdH26wL/9k=",
+    "url": "https://preview.redd.it/e9lvaqcr8lw71.jpg?width=640&crop=smart&auto=webp&s=d1c76820d3d0184aa8c061a686ad20d248149a14",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Level 1 – Dungeon Of The Mad Mage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qj1cwg/level_1_dungeon_of_the_mad_mage_128x166/"
+}

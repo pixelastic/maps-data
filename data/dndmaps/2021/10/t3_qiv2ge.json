@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_vgp99",
+    "name": "TerTerro"
+  },
+  "date": {
+    "day": 1635552000,
+    "full": 1635572925,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qiv2ge",
+  "picture": {
+    "filesize": 152913,
+    "fullUrl": "https://preview.redd.it/gnxht7zh0jw71.jpg?width=4096&format=pjpg&auto=webp&s=0bf4f5236adf811c9129f8b1a4b84c197afec915",
+    "hash": "d615094139",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACIQAAICAgEDBQAAAAAAAAAAAAECAxEABCESQXETIjFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEBAAICAwAAAAAAAAAAAAAAAQARAgMTcfD/2gAMAwEAAhEDEQA/AM3a2GnneQr6bDgKDTD7Hi+awdeZIKl2ZChDiR2rj23V9yPzK9vRM8sjwyRiS6ZHbpN1zRPziNDUki3YkmkRpSwCIhvyb7DJcSjj7uE2A3c//9k=",
+    "url": "https://preview.redd.it/gnxht7zh0jw71.jpg?width=640&crop=smart&auto=webp&s=05af64851c820b2b2160b1c769afe61aed856dc6",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 677,
+    "value": 677
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Zelcher V2 after some feedback also more maps in comments",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qiv2ge/zelcher_v2_after_some_feedback_also_more_maps_in/"
+}

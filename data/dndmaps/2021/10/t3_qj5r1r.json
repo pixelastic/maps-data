@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635552000,
+    "full": 1635613476,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qj5r1r",
+  "picture": {
+    "filesize": 91372,
+    "fullUrl": "https://external-preview.redd.it/BJOo1BXDl7hUxc98hvD6FEroMtrKSf4BuQi6P8QhJww.jpg?auto=webp&s=6d2e7abee0ede6fc84dea312ce3caa1829904e52",
+    "hash": "79b9e7aefe",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEABQYSITFRFIGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQACAgMAAAAAAAAAAAAAAAAAERITAQIh/9oADAMBAAIRAxEAPwDAaDFcfTG+HCbJaIUpN9qrv1X7ia3Dfbbeekx2W0SwSlKFjkgE+CKofWVtmTdPiSQZrvFAHSk428H4ktx16Im014Js17OQpbXxXAbspH//2Q==",
+    "url": "https://external-preview.redd.it/BJOo1BXDl7hUxc98hvD6FEroMtrKSf4BuQi6P8QhJww.jpg?width=640&crop=smart&auto=webp&s=c648bfda353582d8816fcfcfac76ac5f9c2c86db",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 187,
+    "value": 187
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Temple of Couatl Interior - Boss Room (Slime Infestation)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qj5r1r/temple_of_couatl_interior_boss_room_slime/"
+}

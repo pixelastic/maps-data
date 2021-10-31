@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1635552000,
+    "full": 1635604382,
+    "month": 1633046400,
+    "week": 1635033600
+  },
+  "id": "t3_qj2op5",
+  "picture": {
+    "filesize": 34406,
+    "fullUrl": "https://preview.redd.it/ubddtfrvllw71.jpg?width=4200&format=pjpg&auto=webp&s=814cfaffcfd4bd580510fb8f83040e365b40dc50",
+    "hash": "0b19ac1aea",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECCP/EAB0QAQABBAMBAAAAAAAAAAAAAAECABESISJBUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMzZBPcnwI91cHNhgua2T7QxlbcdtzbSxs8dMmz5UF//2Q==",
+    "url": "https://preview.redd.it/ubddtfrvllw71.jpg?width=640&crop=smart&auto=webp&s=d155d95186b338a7a9a4b92b7f688fc7292ac396",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Battlemap: cave random encounter -original and brighter version (30x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qj2op5/battlemap_cave_random_encounter_original_and/"
+}
