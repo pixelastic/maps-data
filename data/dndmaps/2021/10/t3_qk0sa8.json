@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1635638400,
+    "full": 1635720912,
+    "month": 1633046400,
+    "week": 1635638400
+  },
+  "id": "t3_qk0sa8",
+  "picture": {
+    "filesize": 190849,
+    "fullUrl": "https://preview.redd.it/hvl07uwz7vw71.jpg?auto=webp&s=40674cfd8aa37d15aa63c84e944c19ef580f4d1e",
+    "hash": "a66ce01390",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAgEAACAQMFAQEAAAAAAAAAAAABAgMEERIABSExQRNR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAwDAQACEQMRAD8Aht8CwUhmGARosQUPJue7eHoaDVUMMdbUfZ5Iiz5ARDJSLDm9tJ2upimpRiRHKRkXvwL9FvwjnzzR9xeohq2FOWq1YBmlVBZmI580TaY//9k=",
+    "url": "https://preview.redd.it/hvl07uwz7vw71.jpg?width=640&crop=smart&auto=webp&s=6ecc5098502664dc6f8242bd935db1aee9d8a3a5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Market Street",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qk0sa8/market_street_32x44/"
+}

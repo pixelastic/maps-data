@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1635638400,
+    "full": 1635706731,
+    "month": 1633046400,
+    "week": 1635638400
+  },
+  "id": "t3_qjw6l4",
+  "picture": {
+    "filesize": 99499,
+    "fullUrl": "https://preview.redd.it/au4gkegb2uw71.jpg?width=2048&format=pjpg&auto=webp&s=18ec98cbfd19ef77f4bf7d5f5cca257db52d3708",
+    "hash": "815569b13b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIEAAMRBRIhMSJBUmGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAjER/9oADAMBAAIRAxEAPwDGY+pWbcW2g2qSoDEIfiPePqixJ0W20pr7lc3A6nYSD4gflJj3kuxI4R2B2Lj2OqjqjKulzQ7YYpwMccnqh1A6JsQuIk//2Q==",
+    "url": "https://preview.redd.it/au4gkegb2uw71.jpg?width=640&crop=smart&auto=webp&s=56e000a6ac9a21756387c5dcc4f1fbf503a09bf2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "House of Wax  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qjw6l4/house_of_wax_35x35_oneiromancy_maps/"
+}

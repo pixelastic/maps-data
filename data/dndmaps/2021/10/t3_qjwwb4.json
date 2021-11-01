@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dritcety",
+    "name": "Rmemmo"
+  },
+  "date": {
+    "day": 1635638400,
+    "full": 1635708781,
+    "month": 1633046400,
+    "week": 1635638400
+  },
+  "id": "t3_qjwwb4",
+  "picture": {
+    "filesize": 79117,
+    "fullUrl": "https://preview.redd.it/34cyzone8uw71.jpg?auto=webp&s=a86797b81104321cc79fee14bed9ab67cac66caa",
+    "hash": "41613099b0",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACMQAQABAwIGAwAAAAAAAAAAAAIDAAERBBIFEyExMkNhc6H/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDD86KaUCcmGLG1MDr2vi/zep2vBigRd7FY3HB/KT6TQ8V8tN9JoBvZHVDDJ//Z",
+    "url": "https://preview.redd.it/34cyzone8uw71.jpg?width=640&crop=smart&auto=webp&s=7dd4ddffaea9d9d8df09d28dd847436db2aacc55",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Night Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qjwwb4/forest_night_camp_35x20/"
+}

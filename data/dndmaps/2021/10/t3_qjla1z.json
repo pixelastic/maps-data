@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_99eoi6g",
+    "name": "nullegitimate"
+  },
+  "date": {
+    "day": 1635638400,
+    "full": 1635669005,
+    "month": 1633046400,
+    "week": 1635638400
+  },
+  "id": "t3_qjla1z",
+  "picture": {
+    "filesize": 112816,
+    "fullUrl": "https://preview.redd.it/tblz3dpfpnw71.jpg?auto=webp&s=4be2b7fe8f3650238c7ccbb6db92c2e6ecd2b88a",
+    "hash": "bab4a8edf6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAB/8QAIBAAAQMEAwEBAAAAAAAAAAAAAQIDEQAEEiEFE1Fxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQASIRH/2gAMAwEAAhEDEQA/AMuLhZCjBBjEBJMAR57QuKPcpwPQrADZp3IIS09bBAgFR/NVdDYxcx2ZUfuqj3U2Orxyf//Z",
+    "url": "https://preview.redd.it/tblz3dpfpnw71.jpg?width=640&crop=smart&auto=webp&s=a759f2977d781aea5a85c1610fd1f0d12537602b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Map of Holding: A Dense Many-module Hex-crawl",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qjla1z/map_of_holding_a_dense_manymodule_hexcrawl/"
+}
