@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635724800,
+    "full": 1635789844,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qkjt5b",
+  "picture": {
+    "filesize": 92819,
+    "fullUrl": "https://external-preview.redd.it/-eg4m3J25slxuwknPcMXIgU4pSvYcHeePe1qyz_fQGo.jpg?auto=webp&s=00807aa47cfbafdc56e4633d19a41be2adce39d4",
+    "hash": "3e455b6faa",
+    "height": 846,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBBESAAUhBxMxQTJhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAxL/2gAMAwEAAhEDEQA/AHDfVjQUMWROFTGjqWtwRe3541ZDFDLHeNVxUleYweQedGPVGuegk2hnqYyrygHtk3suPu3y5+7W1tKcPNTxkbjSsijFWjJGQv5I9HRTRbIEm2ZyKz//2Q==",
+    "url": "https://external-preview.redd.it/-eg4m3J25slxuwknPcMXIgU4pSvYcHeePe1qyz_fQGo.jpg?width=640&crop=smart&auto=webp&s=9896c02766a5247b544bfdbaaaf3390267e7a3a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Airship Port - Gold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qkjt5b/airship_port_gold_84x111/"
+}
