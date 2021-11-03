@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dwi9st5d",
+    "name": "Ame_Kuma"
+  },
+  "date": {
+    "day": 1635811200,
+    "full": 1635856641,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_ql38mx",
+  "picture": {
+    "filesize": 102322,
+    "fullUrl": "https://preview.redd.it/7q4fz7l1g6x71.jpg?auto=webp&s=0de5c42a2ae5699a6e88c3e56eacd48d3185de3d",
+    "hash": "ce1df9d32d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIDEQQAEgUhQVFxBgcTFDH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEBAAICAwAAAAAAAAAAAAAAAQIRACETMUH/2gAMAwEAAhEDEQA/AC7h0f28jHTLyKEkinuACQB5POhrae72QieoIsbFyFkjxAY2KihvsblroQAv5o3mgmhORjzrSyC/kV7oA3yI7HVojJNFBEszuyvvZma/NnqToALu9YSDAgkr5L78rP/Z",
+    "url": "https://preview.redd.it/7q4fz7l1g6x71.jpg?width=640&crop=smart&auto=webp&s=0c627a5041bcd3057e6c42153386650dbe2bfeef",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Fey Grotto",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ql38mx/fey_grotto_35_x_35ochand_drawn/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1635811200,
+    "full": 1635850802,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_ql1ow2",
+  "picture": {
+    "filesize": 203820,
+    "fullUrl": "https://preview.redd.it/42m3ycany5x71.jpg?auto=webp&s=8743ab2999924d5aab8b4025571aeeba66946976",
+    "hash": "6521419655",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEAEhMxIVFBYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhEhIv/aAAwDAQACEQMRAD8Ay2urWkkCyOYw+wLn599fepW4MWZBbkeecHDOTj860uq0iRyPxl9seVxIqgAHw3WhWI25SErvtHsgk6QuWR3tyNTc/9k=",
+    "url": "https://preview.redd.it/42m3ycany5x71.jpg?width=640&crop=smart&auto=webp&s=7b5a8a5b3b21600f6f5110b217dbb4092749613b",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 752,
+    "value": 752
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Castle Courtyard Battle Map - 30x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ql1ow2/castle_courtyard_battle_map_30x40/"
+}

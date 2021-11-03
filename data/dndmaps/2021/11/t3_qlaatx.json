@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb7zdygb",
+    "name": "EFmaps"
+  },
+  "date": {
+    "day": 1635811200,
+    "full": 1635876495,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qlaatx",
+  "picture": {
+    "filesize": 168955,
+    "fullUrl": "https://preview.redd.it/82a5peb538x71.jpg?width=2048&format=pjpg&auto=webp&s=1e2a2099e59cf72d8b7d5a0e2f92a7488928b2f9",
+    "hash": "fa0bec9b5f",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQACAxEEMSIjYbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AyjAyH5Eji53YLJvRF/UUoYi2OSxyDm1Q2D6iThSDsF7f/9k=",
+    "url": "https://preview.redd.it/82a5peb538x71.jpg?width=640&crop=smart&auto=webp&s=dda9dbd3ac2cf0336cdc25d09bd00ee5ca5021cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Foggy Forest Valley  Gridless included",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qlaatx/foggy_forest_valley_30x60_gridless_included/"
+}

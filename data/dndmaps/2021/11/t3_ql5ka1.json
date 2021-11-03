@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21v10kpq",
+    "name": "fantasymaps"
+  },
+  "date": {
+    "day": 1635811200,
+    "full": 1635863682,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_ql5ka1",
+  "picture": {
+    "filesize": 117103,
+    "fullUrl": "https://preview.redd.it/cdhduwnjz6x71.jpg?auto=webp&s=2a98a10eb238d7c65b10607e84fd4a2a2d792963",
+    "hash": "243ecdfe1d",
+    "height": 951,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQREiExE0Gh4f/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAx/9oADAMBAAIRAxEAPwDDbeBp5iYpEEeMak98ff2oZY9jhwPXApmxuPFbIY4l3ViS4JDddUNOm0zlbdiCc5CHFFFreZrAJ3f/2Q==",
+    "url": "https://preview.redd.it/cdhduwnjz6x71.jpg?width=640&crop=smart&auto=webp&s=f2546944fe6f247d57b5cd27852bfb463a5e6e0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gnoll-captured Stronghold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ql5ka1/gnollcaptured_stronghold_35x52/"
+}

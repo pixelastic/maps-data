@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1635811200,
+    "full": 1635858179,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_ql3pu8",
+  "picture": {
+    "filesize": 163568,
+    "fullUrl": "https://external-preview.redd.it/H7Nw4kidoiUBy_b3Cz3LyOMxYjJE6sLichGFvA5ruOU.jpg?auto=webp&s=dbc0f19998ac3944db8d245219b857bf4202545a",
+    "hash": "c9c0e490e6",
+    "height": 989,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAJRAAAgEDAgYDAQAAAAAAAAAAAQIEAxESAFEFBhMhMUEUYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABcRAQEBAQAAAAAAAAAAAAAAAAEhADH/2gAMAwEAAhEDEQA/AMvj/wAidxB6jK9YSUQU63TIxsfK7d9/ekPzPIju1FqnUNM4FzByLW7XvbvffReJSJUyTIaQnWWoqgVlpsMQDZSPvx/fWqXmicihGpZMosWMTIk739/ujWhMgR7v/9k=",
+    "url": "https://external-preview.redd.it/H7Nw4kidoiUBy_b3Cz3LyOMxYjJE6sLichGFvA5ruOU.jpg?width=640&crop=smart&auto=webp&s=7f4969a02d198aaec13e942db54e46e488e8d73c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Caravanserai",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ql3pu8/caravanserai_44x68/"
+}
