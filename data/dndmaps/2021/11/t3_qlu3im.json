@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1635897600,
+    "full": 1635944938,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qlu3im",
+  "picture": {
+    "filesize": 105890,
+    "fullUrl": "https://preview.redd.it/oe67deqeqdx71.jpg?width=2800&format=pjpg&auto=webp&s=5d00048d3994d01950dc0180c4e53cfaa93c031c",
+    "hash": "fee6eb44f1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAJxAAAgEDAgMJAAAAAAAAAAAAAQIDABESBAUhMUETFDJRUmFxgdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAjERIWH/2gAMAwEAAhEDEQA/AMn3rcZZFXUduzZKY75XAHKxPU/HKjeBoE00aENKwOUY9ZFgCB1ANqVdVO7RtgrJEQsMeIs8pHit7flTE0qKw7y2nlMjiQkDJeHGx8yfsUNR6RLbwqR//9k=",
+    "url": "https://preview.redd.it/oe67deqeqdx71.jpg?width=640&crop=smart&auto=webp&s=f947dfb7f5df994f2eedf0d17f053bb5d681da9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.79,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Spider Cave and Entrance",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qlu3im/spider_cave_and_entrance40x40/"
+}
