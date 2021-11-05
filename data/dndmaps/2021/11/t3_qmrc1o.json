@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1635984000,
+    "full": 1636051070,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qmrc1o",
+  "picture": {
+    "filesize": 139499,
+    "fullUrl": "https://external-preview.redd.it/cnGPOsvWb8RMxj34buPcc8gscQVBX2n7SGRfTWiBPKU.jpg?auto=webp&s=553f9475896ca1fe52d20565493bceac3ae6f96d",
+    "hash": "0d3768c588",
+    "height": 1631,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIDEQAEMRRx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABURAQEAAAAAAAAAAAAAAAAAAACB/9oADAMBAAIRAxEAPwDAotbT8qskrnYemYKtKorlkiz8xkk2m8kagBlA5QJGMUDX/9k=",
+    "url": "https://external-preview.redd.it/cnGPOsvWb8RMxj34buPcc8gscQVBX2n7SGRfTWiBPKU.jpg?width=640&crop=smart&auto=webp&s=73121dc2e810c185c47e4400caed9334c684519a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Chthonic Lighthouse - Blind Wyrm Variant",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qmrc1o/chthonic_lighthouse_blind_wyrm_variant_31x79/"
+}
