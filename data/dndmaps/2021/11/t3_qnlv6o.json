@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bvyuvmlu",
+    "name": "StrigunArt"
+  },
+  "date": {
+    "day": 1636070400,
+    "full": 1636149976,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qnlv6o",
+  "picture": {
+    "filesize": 56752,
+    "fullUrl": "https://preview.redd.it/mm84ztk5oux71.jpg?width=3264&format=pjpg&auto=webp&s=f008f74f2481933c5bc3f0060b31034986472fb9",
+    "hash": "43498aeeec",
+    "height": 303,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIxAAAgECBAcAAAAAAAAAAAAAAQMCABEEBRJRBhMhMUGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgABAxESIWH/2gAMAwEAAhEDEQA/ANRzVjzg8UmztOoTvol0PMItH768VZ4UYV5OsshMsLJCxiexIFztvSlTDuW+JnHAKZf/2Q==",
+    "url": "https://preview.redd.it/mm84ztk5oux71.jpg?width=640&crop=smart&auto=webp&s=8a05f0e3e93beadb835244051c54d469bdac39ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "LOTR maps bundle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qnlv6o/lotr_maps_bundle/"
+}

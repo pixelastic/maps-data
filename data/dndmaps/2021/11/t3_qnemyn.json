@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dritcety",
+    "name": "Rmemmo"
+  },
+  "date": {
+    "day": 1636070400,
+    "full": 1636129138,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qnemyn",
+  "picture": {
+    "filesize": 179690,
+    "fullUrl": "https://preview.redd.it/3kmvlkjeysx71.jpg?width=3000&format=pjpg&auto=webp&s=94a4317e266128a5cc3af41421502a6a4b3c07f8",
+    "hash": "82230fd9b2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAL/xAAlEAACAQIEBgMAAAAAAAAAAAABAhEDBAAFEjEGExQhIkFRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABESIfD/2gAMAwEAAhEDEQA/AD5WnWVxDA3VRoL128VgGCTsBA+MA4ita+X3VyGKa7fS/MRtQZTG3ruCMEsb97K6Da6fUCZ1kbGZEbFSDt+YrMbxsx5jOyVajwo0iJHb16HjEfWImSHuGuQnR6p//9k=",
+    "url": "https://preview.redd.it/3kmvlkjeysx71.jpg?width=640&crop=smart&auto=webp&s=d8fa5ee62ac0e1c7679ecd98dc586e86bcf4145a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Day and Luminous Night at the Ruined Sanctuary",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qnemyn/20x20_day_and_luminous_night_at_the_ruined/"
+}

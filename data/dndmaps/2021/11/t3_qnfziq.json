@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1636070400,
+    "full": 1636132886,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qnfziq",
+  "picture": {
+    "filesize": 189244,
+    "fullUrl": "https://preview.redd.it/r6zb474q8tx71.jpg?auto=webp&s=81830984a6e821c646f00da7a46b25956c4820f2",
+    "hash": "b56cfd3daa",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIxAAAgEDBAIDAQAAAAAAAAAAAQIDBAUhABESQTFRFDJhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAwDAQACEQMRAD8ACgtUD0cIp+Ezgb8ldlx7/fJ1BcqWlp6tkUsijxxI2IGO2Hr1rXtNxj+HGoLKSW+h344637wP5oprhURTSLFboZ1LE85I92z0caFlUWn/2Q==",
+    "url": "https://preview.redd.it/r6zb474q8tx71.jpg?width=640&crop=smart&auto=webp&s=fdc604a60253fe004450b1c1b3f093bf95709ae3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Execution square",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qnfziq/execution_square_32x44/"
+}

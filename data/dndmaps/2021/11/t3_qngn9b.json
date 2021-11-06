@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1636070400,
+    "full": 1636134779,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qngn9b",
+  "picture": {
+    "filesize": 81772,
+    "fullUrl": "https://preview.redd.it/tsg3u6k0ftx71.jpg?auto=webp&s=a0498a6f1034395960b5cc95ccc4703bf65acc3e",
+    "hash": "5de48e9264",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACEQAAEDBAIDAQAAAAAAAAAAAAECAxEABCExBRITQaFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAXEQEBAQEAAAAAAAAAAAAAAAABIQAR/9oADAMBAAIRAxEAPwDPrNq0as2WzZoWSB2KxkxuDvOKdfH2A4l25cQyvBSesjqYMATqPtTth5GEKStvImFLAEgex+faKXW1WdwhxwwW5IBEdk6B3Puo1GZDxu//2Q==",
+    "url": "https://preview.redd.it/tsg3u6k0ftx71.jpg?width=640&crop=smart&auto=webp&s=41eec120d055808148da7a5f1d2eb7a8677a3b25",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Winding Forest Path",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qngn9b/winding_forest_path_40x40/"
+}
