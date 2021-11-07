@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1636156800,
+    "full": 1636198280,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qnydzz",
+  "picture": {
+    "filesize": 81573,
+    "fullUrl": "https://preview.redd.it/3u7pp960oyx71.jpg?width=2200&format=pjpg&auto=webp&s=9f09d019d5bbbd5f694dfe43965c79d2ff2439db",
+    "hash": "6133db2754",
+    "height": 465,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIDBCEABRESE0ExMlFhgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAMAAwAAAAAAAAAAAAAAAAACEQEDEv/aAAwDAQACEQMRAD8AzTMKbM66olkzGNaSFVACRnVGI+Nb/fi2HhouaGYU8klNy+qVZCWkHan2GKLNJiJGR1STSUoC63A2k/neCCKYaw7QOGnaRQLDcDYnEuKDrUqSH//Z",
+    "url": "https://preview.redd.it/3u7pp960oyx71.jpg?width=640&crop=smart&auto=webp&s=8f5280aa00a23e88bfa39876892b9ef65f07e624",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "5 Ready to Print Battlemaps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qnydzz/5_ready_to_print_battlemaps_a4_size/"
+}

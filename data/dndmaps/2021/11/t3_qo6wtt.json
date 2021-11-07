@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1636156800,
+    "full": 1636225424,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qo6wtt",
+  "picture": {
+    "filesize": 61033,
+    "fullUrl": "https://external-preview.redd.it/pgtwGENQ-cmON8kMAAFkYHycN9VcsAtmKiKRg2a_3tE.jpg?auto=webp&s=e6c70510e0580ef37ee858d475e4d0cc44a4ae6b",
+    "hash": "8c1859244a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACEQAAEDBAMAAwAAAAAAAAAAAAMBAhEABAUGEiExUWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMSEyJi/9oADAMBAAIRAxEAPwDINW1oGUE0xjKELFgip5Edfs0dpwTMdbCKN/IT5QbxtjnHtNqmct7C3Jb3bHHERYexr45JE9fdX2nLhymLE2yYow26KjAtRXKir6sovx1Q3Ll5K1qf/9k=",
+    "url": "https://external-preview.redd.it/pgtwGENQ-cmON8kMAAFkYHycN9VcsAtmKiKRg2a_3tE.jpg?width=640&crop=smart&auto=webp&s=35ce349d6f3d59da4715bce8e4703cbb1ff94fcc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ancient Hydra Lair - Tangled",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qo6wtt/ancient_hydra_lair_tangled_50x50/"
+}

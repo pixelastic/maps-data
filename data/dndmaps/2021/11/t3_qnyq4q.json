@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d54w8zdw",
+    "name": "gabmaps"
+  },
+  "date": {
+    "day": 1636156800,
+    "full": 1636199737,
+    "month": 1635724800,
+    "week": 1635638400
+  },
+  "id": "t3_qnyq4q",
+  "picture": {
+    "filesize": 75226,
+    "fullUrl": "https://preview.redd.it/xqougx6gryx71.jpg?width=1750&format=pjpg&auto=webp&s=b2b55f1415b2cbe6329de944a43338664456fa34",
+    "hash": "5db6ddda94",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACEQAAIBAgYDAAAAAAAAAAAAAAECEQADBCEiMVFhBUHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIx/9oADAMBAAIRAxEAPwDB+ZRExlwK088g7VPDEMJyG0d/TTGL1XrrvqIbP1NBRNYJMwMuqgSyJ2//2Q==",
+    "url": "https://preview.redd.it/xqougx6gryx71.jpg?width=640&crop=smart&auto=webp&s=9d345e2098c1e1d99848eef6d81eced7ebc4ff01",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Mushroom Cave  with one-page guide",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qnyq4q/mushroom_cave_25x20_with_onepage_guide/"
+}
