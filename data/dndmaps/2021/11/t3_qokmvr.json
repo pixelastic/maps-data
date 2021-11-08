@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_f1djtfrv",
+    "name": "anxietycomics"
+  },
+  "date": {
+    "day": 1636243200,
+    "full": 1636275038,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qokmvr",
+  "picture": {
+    "filesize": 142851,
+    "fullUrl": "https://preview.redd.it/7oawoaw305y71.jpg?auto=webp&s=942108acbe358490db27888f158ddb8486d219e1",
+    "hash": "2efd56d87f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAhEAEAAgEDBQEBAAAAAAAAAAABAgMRAAQhEhMxQWFRkf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAdEQAABgMBAAAAAAAAAAAAAAAAARESUfAxQXGx/9oADAMBAAIRAxEAPwC10ljK6t3AHJWhh45w/NK67rYde4kACtcHPVFMg/dIMq9vc8ECZ20xz/PIap2qdtCy6eYzj5seOMev0x70TkyRexZANXZ28H//2Q==",
+    "url": "https://preview.redd.it/7oawoaw305y71.jpg?width=640&crop=smart&auto=webp&s=fb62b00ab96a137947639e9425d1a3646a2db387",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Big, Coastal Shelf Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qokmvr/oc_a_big_coastal_shelf_map/"
+}

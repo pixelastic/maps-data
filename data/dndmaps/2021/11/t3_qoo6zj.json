@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1636243200,
+    "full": 1636290483,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qoo6zj",
+  "picture": {
+    "filesize": 73770,
+    "fullUrl": "https://preview.redd.it/4tub5rhz96y71.jpg?auto=webp&s=da58bc0b4aadd80fb6491f7db4d63784c91fbb93",
+    "hash": "9113528708",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAiEAABBAEEAgMAAAAAAAAAAAABAgMEETEABRITBiFBUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAAMBAAAAAAAAAAAAAAAAAAARIUH/2gAMAwEAAhEDEQA/AJhssMNwVSJ8ZNIrrVeL+9IR4/EmR3JjrwR2hXUKyRnRGHZO4xlsJkobCgOaOVAgYsfOky9vkqSlywrtpDbTSa5HHoD81LUNR//Z",
+    "url": "https://preview.redd.it/4tub5rhz96y71.jpg?width=640&crop=smart&auto=webp&s=b698ae92bacf90bc102ad53f3828785b92c78828",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Gatehouse (Foggy)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qoo6zj/gatehouse_foggy_25x25/"
+}

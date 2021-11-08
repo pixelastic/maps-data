@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ld6xb",
+    "name": "zycros"
+  },
+  "date": {
+    "day": 1636243200,
+    "full": 1636284417,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qomnh2",
+  "picture": {
+    "filesize": 91217,
+    "fullUrl": "https://preview.redd.it/bcnjazm1s5y71.jpg?width=3276&format=pjpg&auto=webp&s=3de110f7c8ba5ef039a74c5ed12b57d24dc37323",
+    "hash": "e47b9740d6",
+    "height": 679,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAiEAABBAICAgMBAAAAAAAAAAABAgMEBRESACExURQVQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIAERL/2gAMAwEAAhEDEQA/AB66idryhx4JXI0yC0oqDX4SkjrBO386PEflt1IRPgQ2JJ2LLynTsEA9gnxqSRwWsvav6qIBctRVoCGnCoAq1GxB1J9k+PfLW5MOyrrGOzcVj8VK0ICHFpYLgyDsMq7wQOGqXLWIm2MUZ//Z",
+    "url": "https://preview.redd.it/bcnjazm1s5y71.jpg?width=640&crop=smart&auto=webp&s=01e84cca81c553e0be331a8b2be0ecc24c0a0aef",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 583,
+    "value": 583
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert ruins battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qomnh2/desert_ruins_battlemap_42x42/"
+}
