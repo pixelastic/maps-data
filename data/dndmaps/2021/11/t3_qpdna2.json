@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1636329600,
+    "full": 1636378170,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qpdna2",
+  "picture": {
+    "filesize": 64949,
+    "fullUrl": "https://preview.redd.it/jtbly22kgdy71.jpg?width=3500&format=pjpg&auto=webp&s=e8591c659c835cc10444422fdc58f5613df2e49b",
+    "hash": "63c6632586",
+    "height": 384,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAQMEAQQDAAAAAAAAAAAAAQIDEQQFEiEAExQxMkFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIBA0H/2gAMAwEAAhEDEQA/AC1ZbLn03KotJCmxiCl5KtQCTvRmNx98gpqLpUyl3CQy4A2gB0ZHKZT49Yn84xoEJ7O9KxGQqHhMbiPHMu1MMqsbSy02V9+BkUifYfPJa2NKj4f/2Q==",
+    "url": "https://preview.redd.it/jtbly22kgdy71.jpg?width=640&crop=smart&auto=webp&s=c8d731df7d58e31bf5ab1b4b8511215347b02d92",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Gatehouse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qpdna2/gatehouse_50x30/"
+}
