@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9v4r7fm3",
+    "name": "iskndrth"
+  },
+  "date": {
+    "day": 1636416000,
+    "full": 1636480515,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qq997h",
+  "picture": {
+    "filesize": 2447,
+    "fullUrl": "https://external-preview.redd.it/p9lBD1tAYQK3tyArGSKNxpcydvOxNihCrMyGUju_viw.png?format=pjpg&auto=webp&s=86bb91a3bf32173dcd47bd9631f6305062ca3f78",
+    "hash": "8a718c1124",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAj/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJUAB//Z",
+    "url": "https://external-preview.redd.it/p9lBD1tAYQK3tyArGSKNxpcydvOxNihCrMyGUju_viw.png?width=640&crop=smart&format=pjpg&auto=webp&s=53f3f2d1504ae7abafcf571d568da1388ee20696",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Western Cemetery Animated Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qq997h/western_cemetery_animated_battlemap_33x19/"
+}

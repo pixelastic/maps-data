@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8f28v",
+    "name": "Herman_Crab"
+  },
+  "date": {
+    "day": 1636416000,
+    "full": 1636432699,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qpvwrm",
+  "picture": {
+    "filesize": 53606,
+    "fullUrl": "https://preview.redd.it/c3s0he821iy71.jpg?auto=webp&s=045d85a461cbebe3c9985c25d04dd1f1bf0b90ae",
+    "hash": "f8bebdc123",
+    "height": 452,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFCP/EACMQAAIBAwQBBQAAAAAAAAAAAAEDAgQFEQAGEyESMTJRYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABoRAAICAwAAAAAAAAAAAAAAABESAAECIVH/2gAMAwEAAhEDEQA/ANBbxvMLRwhgYebMRxjvofOltiXC5VraqNyC4xXgLj5ZmAc+78++tXbihVU2aahcWLI9JDRUKV0zYLRAQgARgammTMdcgLJuf//Z",
+    "url": "https://preview.redd.it/c3s0he821iy71.jpg?width=640&crop=smart&auto=webp&s=abc98aef0b9c075d30753b2f961bff929abbcbcd",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 721,
+    "value": 721
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Hexploration",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qpvwrm/hexploration/"
+}

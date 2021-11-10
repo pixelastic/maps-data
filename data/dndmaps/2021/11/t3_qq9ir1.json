@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1636416000,
+    "full": 1636481229,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qq9ir1",
+  "picture": {
+    "filesize": 95069,
+    "fullUrl": "https://external-preview.redd.it/fKo1b05r8iVi21Ol64wsWqzVU3c5XA3VtwayZBBj_d8.jpg?auto=webp&s=0f8878152c4dec5f8e08bdcf0ea25c63b39380e2",
+    "hash": "3d1764605a",
+    "height": 777,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAgEAACAgIBBQEAAAAAAAAAAAABAgMRAAQSBTEyUXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAARAAECMf/aAAwDAQACEQMRAD8AmXTemnYjaNiyyJThuNivQGGk02byVXjDEI7Ci3vF6+y9EwNZ48bo9h8w+42yGUNDKqjsSDZ+/mE028lXJR2f/9k=",
+    "url": "https://external-preview.redd.it/fKo1b05r8iVi21Ol64wsWqzVU3c5XA3VtwayZBBj_d8.jpg?width=640&crop=smart&auto=webp&s=831750b52e0517cf65f1e8f41d7cf717472c7519",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Thieves Guild Hideout - Betrayal",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qq9ir1/thieves_guild_hideout_betrayal_28x34/"
+}
