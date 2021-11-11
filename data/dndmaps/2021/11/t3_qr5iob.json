@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1636502400,
+    "full": 1636582055,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qr5iob",
+  "picture": {
+    "filesize": 133820,
+    "fullUrl": "https://external-preview.redd.it/CiBraSTNJFbmThPnIRsHJrzjkN3Z-R0s0DPAejOFRZI.jpg?auto=webp&s=93e1138e276c70225331687c763ec598007a39eb",
+    "hash": "cbe1cf74bc",
+    "height": 1234,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQACAwQREgUhUQYTIzJB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDETFB/9oADAMBAAIRAxEAPwDG3avE/p0aXHT074A8zAYeS+Xpl923RTkdNVFgljgkfGHdoPDTYu4vyiYvcdULIYY7o6b3q//Z",
+    "url": "https://external-preview.redd.it/CiBraSTNJFbmThPnIRsHJrzjkN3Z-R0s0DPAejOFRZI.jpg?width=640&crop=smart&auto=webp&s=0b89c41335c13f6509bfc2f52fd9fe2363cf756f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Tomb of Sand - Star Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qr5iob/tomb_of_sand_star_temple_28x54/"
+}

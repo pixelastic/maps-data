@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1636502400,
+    "full": 1636551079,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qqui1a",
+  "picture": {
+    "filesize": 125121,
+    "fullUrl": "https://preview.redd.it/3ivz0e0ysry71.jpg?auto=webp&s=cbb4a193f0e0898800cfa5e4f85ad79708bb4cb1",
+    "hash": "d0cc03b079",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACQQAAICAQMDBQEAAAAAAAAAAAECAwQRAAUhMTJBEiJRYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAWEQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhEDEQA/AMlr2DV3KOsiyzRyMY1mJyGOTz+nHGjt1u5NMohDQzscmJGySMnuXx/dUWdlt0447aW5HrKfYwbtQdMqeRjP3102vtBp1TMA4VmDtKE9QhA8nHOPkYOqGoTAVv/Z",
+    "url": "https://preview.redd.it/3ivz0e0ysry71.jpg?width=640&crop=smart&auto=webp&s=738529b4e9c58e770e9fb2ebe7213d9b7b31af8a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Tar Pits Battle Map - 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qqui1a/tar_pits_battle_map_30x30/"
+}
