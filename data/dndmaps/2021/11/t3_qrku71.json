@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1636588800,
+    "full": 1636635778,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qrku71",
+  "picture": {
+    "filesize": 84001,
+    "fullUrl": "https://external-preview.redd.it/-Kip5rt4z8-XyriMBLSj_C_rvOg371EThOEFgknAt1Y.jpg?auto=webp&s=6f2e705176a239adb0a560471ded7451a437854c",
+    "hash": "d9f9b0d624",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAkEAACAQMDAwUAAAAAAAAAAAABAwIABBESMVEFFEEhIjJhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAIREgH/2gAMAwEAAhEDEQA/AIJ0tQk9xiFMnFZMYtOmOf3mkwsn31lOdsljbveMIepxngbj7oxvR2qohSZFZPyB9w4PikX3VVMth2wWhk5ZloGgw2OBjwambdvB1zD/2Q==",
+    "url": "https://external-preview.redd.it/-Kip5rt4z8-XyriMBLSj_C_rvOg371EThOEFgknAt1Y.jpg?width=640&crop=smart&auto=webp&s=771643216a27fd615fa0cce49068035403ddf980",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Cave of Locked Secrets",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qrku71/cave_of_locked_secrets_21x21/"
+}

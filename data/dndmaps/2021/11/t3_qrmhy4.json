@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1636588800,
+    "full": 1636640966,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qrmhy4",
+  "picture": {
+    "filesize": 97874,
+    "fullUrl": "https://preview.redd.it/a41tlli08zy71.jpg?width=1225&format=pjpg&auto=webp&s=6caf35077cb01a117c0eca74f9d09a3767b1867d",
+    "hash": "ff994c6a45",
+    "height": 878,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAkEAABBAEDAwUAAAAAAAAAAAABAgMEEQUAITEGBxIUIiNhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAhEAAQNBYf/aAAwDAQACEQMRAD8AO+40b08TCuZSY2Zz8W3ktq8lKsnxJHNlJq/rR8pLaVFIBSBwFc6U8rDj9Uw3cvjnAXIyGw7Hf9zinKr46G422GoiRimlPrU+zJbdUbUhfIP5W2oyKnyHiditz//Z",
+    "url": "https://preview.redd.it/a41tlli08zy71.jpg?width=640&crop=smart&auto=webp&s=4c4f25b2ede690d7dfbdf14f53043ce4bd750534",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sleeping Giant Phased Battle Map, Fall Variation",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qrmhy4/sleeping_giant_phased_battle_map_fall_variation/"
+}

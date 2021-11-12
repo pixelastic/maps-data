@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5kbxe",
+    "name": "powerkor"
+  },
+  "date": {
+    "day": 1636588800,
+    "full": 1636642832,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qrn5bp",
+  "picture": {
+    "filesize": 99404,
+    "fullUrl": "https://preview.redd.it/scfziasvdzy71.jpg?auto=webp&s=dc110ff8f67d0b45c11a9936740c2ca38370cfb4",
+    "hash": "0c4bf766d5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDEQQABRIUMYETIUFCUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAEDAAIREjH/2gAMAwEAAhEDEQA/AMb3Nj1ckEkrNNim+SLRdas+RpmJvcg29Y8UiOVPY+p3e/nxqd2OBI4nTJIc0xWIceTft970FcZ5OnlMnGQNyMamy1fb+anYocMKvuMif//Z",
+    "url": "https://preview.redd.it/scfziasvdzy71.jpg?width=640&crop=smart&auto=webp&s=e96a2f8819439cb58d15baaedd6f8a3932c4aab4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dreadmaps - Plot Twist 40x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qrn5bp/dreadmaps_plot_twist_40x40/"
+}

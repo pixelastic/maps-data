@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6p4u8h6h",
+    "name": "TereTox"
+  },
+  "date": {
+    "day": 1636588800,
+    "full": 1636642263,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qrmy8g",
+  "picture": {
+    "filesize": 77566,
+    "fullUrl": "https://preview.redd.it/t8f1sjy5czy71.jpg?auto=webp&s=e5f73fbac328678b8e990313d99071bb827013e0",
+    "hash": "b505db5ec2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACAQAAICAgICAwAAAAAAAAAAAAIDAQQAIQUxYdERE6H/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAABEigf/aAAwDAQACEQMRAD8AzijUrNpwTYSsAXBsaQ7jvz4ytqnVVx5mEKYJqlimjG569zgpXKi6Iiz6iiVQtiyLZ7nf7jXLlZ3HshcpARXK1qEvmY69TgU9FlH/2Q==",
+    "url": "https://preview.redd.it/t8f1sjy5czy71.jpg?width=640&crop=smart&auto=webp&s=f945a3b414d657eb719899e21c8e97149b5f86ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Stone Hall Arena (20x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qrmy8g/stone_hall_arena_20x20/"
+}
