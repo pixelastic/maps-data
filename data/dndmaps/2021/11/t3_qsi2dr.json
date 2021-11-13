@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1636675200,
+    "full": 1636743231,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qsi2dr",
+  "picture": {
+    "filesize": 119948,
+    "fullUrl": "https://external-preview.redd.it/WAdPzsAH9U5OmeE48UuBI4Zm0V4qmokGiV_vWKyib6A.jpg?auto=webp&s=ed4976d6c17063673d8f145490b63bb0d502fa78",
+    "hash": "ea1818df81",
+    "height": 973,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAIRAAAgIBBQADAQAAAAAAAAAAAQMCBBEABRIhMSNBUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBv/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8Azu67vYpqpL2AMUpMSufERBLOvcjuI8/uhuEY3rc7VhVaLWgSkIzERnA+gOtJG0FldcXuWWpHDlOPyRJ97/DnrUFtNau+SZMsZhiJwOvNTK1rmKOw2tJA2f/Z",
+    "url": "https://external-preview.redd.it/WAdPzsAH9U5OmeE48UuBI4Zm0V4qmokGiV_vWKyib6A.jpg?width=640&crop=smart&auto=webp&s=eb20f0fbf5eb9f0a5077313a3dd890aeaf133208",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gnomish Pawn Shop - Badger Hill",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qsi2dr/gnomish_pawn_shop_badger_hill_25x38/"
+}

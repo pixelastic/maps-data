@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1636675200,
+    "full": 1636714880,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qs8sv7",
+  "picture": {
+    "filesize": 202680,
+    "fullUrl": "https://preview.redd.it/xyed5iv4c5z71.jpg?auto=webp&s=36dc582e5fb19b6d5e071db566aca101ec611772",
+    "hash": "599228d347",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACUQAAICAQIEBwAAAAAAAAAAAAEDAgQFABIRITFBBiJRYXGh8f/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEgMhUXH/2gAMAwEAAhEDEQA/AMSnD3rYruxWPdtlCIBABMj6n3OjOFuK8l7HsLR03gA8P3jqv4SihdRy523i/OIkR2XEdAOf2NMyQfRvOrumHzhIjee/P51MHK9ivPYqStBqf//Z",
+    "url": "https://preview.redd.it/xyed5iv4c5z71.jpg?width=640&crop=smart&auto=webp&s=78c32ab098b0a82ced9f258b0ff5fc07e558d7c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Abandoned Farmstead",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qs8sv7/abandoned_farmstead_30x40/"
+}

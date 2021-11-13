@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1636675200,
+    "full": 1636731376,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qsds03",
+  "picture": {
+    "filesize": 78734,
+    "fullUrl": "https://preview.redd.it/j6y55wawo6z71.jpg?width=5901&format=pjpg&auto=webp&s=2d050cd62fa0b1133b53ce80d81e1866c3b3f3e4",
+    "hash": "71e67484f6",
+    "height": 900,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAdEAACAgIDAQAAAAAAAAAAAAABAgMRAAQhQWEx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Ank4lRkLOxFUpU2PMZq7LLAqmYWLBtCe8O0LGUxhGeWvhTmvAMbCqJEinVksDtDkw1//Z",
+    "url": "https://preview.redd.it/j6y55wawo6z71.jpg?width=640&crop=smart&auto=webp&s=ca09b8d2059af5407692d4c9921fdb6f385243c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Level 2 – Arcane Chambers - Dungeon of the Mad Mage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qsds03/level_2_arcane_chambers_dungeon_of_the_mad_mage/"
+}

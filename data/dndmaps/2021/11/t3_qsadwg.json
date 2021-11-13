@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1636675200,
+    "full": 1636721010,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qsadwg",
+  "picture": {
+    "filesize": 121319,
+    "fullUrl": "https://preview.redd.it/5wwbnp89u5z71.jpg?auto=webp&s=76176a83fa0f342c13c4e82739bb78faf6b9e6e2",
+    "hash": "8adf5c78cb",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIxAAAgIBAwQDAQAAAAAAAAAAAQIDBBEAEiEFMVGBMkFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACEfADEiEiMf/aAAwDAQACEQMRAD8Ax/T4EsQiWzkTTboK+HBIVhggDtwfvzp7KSQVLVVC46e7xkbrBAhcHaCP55x61Dv9MDxrAr2Dbr43oWASPP5Ug4yO596e1WlqhqELyyqpUysUDKzKPkrHvzxzqZ1I49S3wOxQBDrbC//Z",
+    "url": "https://preview.redd.it/5wwbnp89u5z71.jpg?width=640&crop=smart&auto=webp&s=2174bbfe5e62480726e14eef568fa665edc756d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A map for the sick forest and a matching encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qsadwg/a_map_for_the_sick_forest_and_a_matching/"
+}
