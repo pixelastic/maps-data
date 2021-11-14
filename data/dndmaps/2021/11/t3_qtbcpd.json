@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ukcr7",
+    "name": "Urza_Is_Mine"
+  },
+  "date": {
+    "day": 1636761600,
+    "full": 1636841369,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qtbcpd",
+  "picture": {
+    "filesize": 178762,
+    "fullUrl": "https://preview.redd.it/f8luhvxrrfz71.jpg?width=1875&format=pjpg&auto=webp&s=f6c9246eaa9543fe6aeb600d86c8adce87b1f31c",
+    "hash": "e7634c8289",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACMQAAIDAAAFBQEAAAAAAAAAAAECAwQRAAUhMUEGEhMiYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAH/8QAIBEAAQMCBwAAAAAAAAAAAAAAAQADEQIhEhNBUWFxgf/aAAwDAQACEQMRAD8AvSKWxHEaEqSJ8mSq8QVqykdEBHk4N3toPjjANSnXklisXJ3lWR9MVlmUfY9AfOdv5wXOPVNOrVWKvGlWSwnutpCRqsDmnPwbnjeGcy5rFJcaSmtF4HVXVvt1JUE7h76Tv7wc5TrdImmAetNz7bi6Q2Jxkkr/2Q==",
+    "url": "https://preview.redd.it/f8luhvxrrfz71.jpg?width=640&crop=smart&auto=webp&s=52a562cfc100498c9f356047bf1a93d654fdfef7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Skull Cavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qtbcpd/skull_cavern/"
+}

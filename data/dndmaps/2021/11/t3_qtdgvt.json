@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1636848000,
+    "full": 1636848262,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qtdgvt",
+  "picture": {
+    "filesize": 191336,
+    "fullUrl": "https://preview.redd.it/6y8sxcylcgz71.jpg?auto=webp&s=88409f789eeb9b4fecc2c4683ab72b6b7a4196c8",
+    "hash": "2cb9d3f041",
+    "height": 785,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAUSIQAGETETQSJxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oADAMBAAIRAxEAPwB+sVeRJrTrsR9aGITloF9uesjn55z9aqtr1hVVcmqWlhoNlKQkrPPagc++tZ7Og1WO9KaXCdseNzagg8HhR9fmNI7VplTdEh9cIteQJNhaIIyrvHedSgs+X//Z",
+    "url": "https://preview.redd.it/6y8sxcylcgz71.jpg?width=640&crop=smart&auto=webp&s=b9cbf8ed41c5aa3b0bbd688ce896776d899aad69",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Hand-drawn Dungeon level map - Kamrorth's Cairn",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qtdgvt/handdrawn_dungeon_level_map_kamrorths_cairn_lore/"
+}

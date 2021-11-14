@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1636761600,
+    "full": 1636833493,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qt8tho",
+  "picture": {
+    "filesize": 159806,
+    "fullUrl": "https://external-preview.redd.it/_ydSkhpc0-ZjAPrrb-QGBn34nNf5k2hwXp_9ENocDik.jpg?auto=webp&s=f35b4f9160ac40a60d24d2a3a4afef92dc11de2f",
+    "hash": "efc3e7e0d7",
+    "height": 1128,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAEEAQMFAQAAAAAAAAAAAAECAwQRABMhQQUUU4OSk//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAQUBAAAAAAAAAAAAAAAAAAEREhNRYf/aAAwDAQACEQMRAD8Ax5mHFPTHZOlJJbUEEpKQ3fF8781inaR/IPzGUGXH9JUdCVEOU4lIAsgVvWD9bnycda65SfD/2Q==",
+    "url": "https://external-preview.redd.it/_ydSkhpc0-ZjAPrrb-QGBn34nNf5k2hwXp_9ENocDik.jpg?width=640&crop=smart&auto=webp&s=9ec4a324484b193bd332aecc71dfe385bcf15332",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Underworld Disco",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qt8tho/underworld_disco_21x37/"
+}

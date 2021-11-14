@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1636761600,
+    "full": 1636829837,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qt7o2i",
+  "picture": {
+    "filesize": 138142,
+    "fullUrl": "https://preview.redd.it/cp4764hxtez71.jpg?auto=webp&s=9b2b7059314ed16052d925ce3856162a77200ef9",
+    "hash": "db901298dc",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAgEAACAgEFAAMAAAAAAAAAAAABAgMEEQAFEiExIkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQABBQAAAAAAAAAAAAAAAAAAAQIDERL/2gAMAwEAAhEDEQA/AIOrS2x9rnklkInSJWRVHpPv15nrRFmrXWzKsY+Achcr3jOldvvs9B0IYsYolHFchQhJz3+6HuWUe3O3Mvl2PJk7Pfp1Jj1pR5aVraP/2Q==",
+    "url": "https://preview.redd.it/cp4764hxtez71.jpg?width=640&crop=smart&auto=webp&s=d704fdcb09b30961553aa882bfde6ba7e3d43126",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Overgrown Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qt7o2i/overgrown_temple_30x48/"
+}

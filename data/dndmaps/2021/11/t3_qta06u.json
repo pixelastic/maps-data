@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1636761600,
+    "full": 1636837126,
+    "month": 1635724800,
+    "week": 1636243200
+  },
+  "id": "t3_qta06u",
+  "picture": {
+    "filesize": 96380,
+    "fullUrl": "https://preview.redd.it/bn8t5wufefz71.jpg?auto=webp&s=04ca009249e894c978c101bc8766075e024eb886",
+    "hash": "445bd69c6e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAICAgEDBQEAAAAAAAAAAAECAxEEBQAGEiETFSIxQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABoRAAIDAQEAAAAAAAAAAAAAAAECAANBESH/2gAMAwEAAhEDEQA/AM29v1mZ0UskGCsM7xKA7JZDA1Yrybo8VxtbO3Q2RtTq4WwY1Mdiru67/wC/fDY0suq1mLFjzSOjxsR6hvsPbfxqq88h8KeeVMiE5EywyUXRXIVjd+R+8Urb0E73ZA1YE//Z",
+    "url": "https://preview.redd.it/bn8t5wufefz71.jpg?width=640&crop=smart&auto=webp&s=bc526eb7e29197f341bc290e53a6cf164cf579d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Terzado World map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qta06u/terzado_world_map/"
+}
