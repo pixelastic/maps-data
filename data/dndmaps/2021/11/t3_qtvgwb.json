@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1636848000,
+    "full": 1636912988,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qtvgwb",
+  "picture": {
+    "filesize": 83122,
+    "fullUrl": "https://external-preview.redd.it/iohvG5KzPdsKyhogFkJZi5AgPqSXyN9JrZcwcnLdXUE.jpg?auto=webp&s=c9fabb930167339e26b93ab5a6415b6c83ee136c",
+    "hash": "26c29afd35",
+    "height": 725,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJxAAAQMDAwEJAAAAAAAAAAAAAQIDBAAFEQYSITEHFTJBUZGh0eH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAICAwAAAAAAAAAAAAAAAAABEhMCMmH/2gAMAwEAAhEDEQA/AM07PtN95yFvPYKW+EpxnJI+jQuqLWu0XFyOkrBSrrnHHvS+kLvLtiwmO4lRdTjYsEDp6jz4qL7Knz5ZkOMqccIA2lvwj5/ak423tvUVxh0//9k=",
+    "url": "https://external-preview.redd.it/iohvG5KzPdsKyhogFkJZi5AgPqSXyN9JrZcwcnLdXUE.jpg?width=640&crop=smart&auto=webp&s=491164cfe7e568d572e1469454af2bcf375d5ec5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Village - Queen Bullywug",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qtvgwb/swamp_village_queen_bullywug_45x51/"
+}

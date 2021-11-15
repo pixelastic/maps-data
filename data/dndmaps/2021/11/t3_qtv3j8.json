@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9uj0uijo",
+    "name": "JasonDM14"
+  },
+  "date": {
+    "day": 1636848000,
+    "full": 1636912002,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qtv3j8",
+  "picture": {
+    "filesize": 51623,
+    "fullUrl": "https://preview.redd.it/0f5nxak9mlz71.jpg?auto=webp&s=5197fa9f81cedde6d7f24126e213a7b6dbe84bfe",
+    "hash": "6625df8b0f",
+    "height": 347,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAKhAAAQIEAQwDAAAAAAAAAAAAAQIDAAQFESEGBxIUMTQ1QVFxdJGhscH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABIhBBH/2gAMAwEAAhEDEQA/AH8kaLSKrKua0slKWySQvG9r4eoNrdHkZUBlp4tvlF1tk30SeR6bfiLm73eY7p/Iz1Z4vM+Wr7ieoNyPYL1XnGaZ/9k=",
+    "url": "https://preview.redd.it/0f5nxak9mlz71.jpg?width=640&crop=smart&auto=webp&s=2a828b15261cde8e99554e64b4a5419becbb1a18",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Cave Entrance",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qtv3j8/forest_cave_entrance/"
+}
