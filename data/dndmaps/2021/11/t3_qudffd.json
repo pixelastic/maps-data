@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4n3n7s5f",
+    "name": "schnudercheib"
+  },
+  "date": {
+    "day": 1636934400,
+    "full": 1636971943,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qudffd",
+  "picture": {
+    "filesize": 48122,
+    "fullUrl": "https://external-preview.redd.it/E6P1RwcVMSz6w-WcEc8c7sVTMDdAM3IG3PfrmXbDpeI.png?format=pjpg&auto=webp&s=50b7b7931bfaa10f9fb60ff8cb9ac5e516f4cde2",
+    "hash": "c26e644040",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAH/8QAJRAAAQIFAQkAAAAAAAAAAAAAAQIRAAMFEiEEIjQ1QUOBstHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQADAQAAAAAAAAAAAAAAAAAAQ4FE/9oADAMBAAIRAxEAPwDOafcvSi1N0xnfAD88RVacEaBSpibShJ2hkPd7hFE3FfbyMEq3CVfdQQXSXRD/2Q==",
+    "url": "https://external-preview.redd.it/E6P1RwcVMSz6w-WcEc8c7sVTMDdAM3IG3PfrmXbDpeI.png?width=640&crop=smart&format=pjpg&auto=webp&s=1e98057015467e416295bb12f623a6c579a9fa45",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 97,
+    "value": 97
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "First attempt at a dynamic version of my aqueduct battlmap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qudffd/first_attempt_at_a_dynamic_version_of_my_aqueduct/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1636934400,
+    "full": 1636974044,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qudy5x",
+  "picture": {
+    "filesize": 186691,
+    "fullUrl": "https://preview.redd.it/m7tbrakrqqz71.jpg?auto=webp&s=15165bdb5d282cb7ec12544130b038c2071398f2",
+    "hash": "3bd945f43e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQMCBAURABIhEyIUMUFRYYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAwADAAAAAAAAAAAAAAABAgADMSFB8P/aAAwDAQACEQMRAD8AzlpqEVFrq5rpUxS1ZgxSsd8M/ncPfP0dQVMqCHT8NQsnAwBJBAwecg40zaIrTAIRVolTkbdjj05R488Hg5PyNDVFquE2yau3PlFhMgTEH11OpdGsYOQF69sS1JA42f/Z",
+    "url": "https://preview.redd.it/m7tbrakrqqz71.jpg?width=640&crop=smart&auto=webp&s=b573e10603ca6049c9f865732039e1e74fdca681",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 399,
+    "value": 399
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Feywild Caravan Circle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qudy5x/feywild_caravan_circle_45x60/"
+}

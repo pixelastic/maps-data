@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1636934400,
+    "full": 1636985308,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_quh8w5",
+  "picture": {
+    "filesize": 82242,
+    "fullUrl": "https://preview.redd.it/0tgtl7svnrz71.jpg?width=1750&format=pjpg&auto=webp&s=6ae0cf197a65ed23edc75c31cad40d7c8d40fc28",
+    "hash": "f17a7329bf",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBBEhAAUGEhMxQRUikf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhIi/9oADAMBAAIRAxEAPwDG+HbR8vQTwMUVgbkEeji/7ozfeNzbb1nDFGsCB5z50zwPckikeCSohppBFdZHPScZsDqvNa/uyJBS1CVzTKGDxfZrn0bDV6lnBrzT/9k=",
+    "url": "https://preview.redd.it/0tgtl7svnrz71.jpg?width=640&crop=smart&auto=webp&s=3daa7d0a1da20da81ad446cc8b2c85c0e44af382",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Boss Room Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/quh8w5/boss_room_phased_battle_map_50x50/"
+}
