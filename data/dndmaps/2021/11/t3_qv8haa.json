@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7td0638n",
+    "name": "ZMMaps"
+  },
+  "date": {
+    "day": 1637020800,
+    "full": 1637071435,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qv8haa",
+  "picture": {
+    "filesize": 52955,
+    "fullUrl": "https://external-preview.redd.it/lnyGXocIvf99qreJyzsrp8ytgkbtpA9rN6Xcdz9QCwo.jpg?auto=webp&s=2882cfe47a8e2e018f1592e6eb42515e3b909bb9",
+    "hash": "bcdb9a9752",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAH/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAAREhMhM0EiMUJRcYLw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oADAMBAAIRAxEAPwDHm2HpTsSMvLkJysaW0gJPSO1zzYVMqVBfkJEJRcJwKYwEaW+L3509UTD2HvrS7W+v940HCie0/9k=",
+    "url": "https://external-preview.redd.it/lnyGXocIvf99qreJyzsrp8ytgkbtpA9rN6Xcdz9QCwo.jpg?width=640&crop=smart&auto=webp&s=54c4ed952f22d020f5a8a78888f1ef7240f83ff7",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Snake Pits",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qv8haa/snake_pits_48x27/"
+}

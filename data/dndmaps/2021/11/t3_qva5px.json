@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_16iafy",
+    "name": "judoberg"
+  },
+  "date": {
+    "day": 1637020800,
+    "full": 1637076157,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qva5px",
+  "picture": {
+    "filesize": 94867,
+    "fullUrl": "https://preview.redd.it/ym7qfax46zz71.jpg?auto=webp&s=e00c046414e117da0942141d73e3543257e11795",
+    "hash": "ea5f487590",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAkEAABBAIBAwUBAAAAAAAAAAABAgMEEQUhABIxQQYTFCNhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEAIf/aAAwDAQACEQMRAD8AI9NZyfFcfcly5wcecR1Oh5WyOxu68n+8Tzrr7sSbNjzpiZLKglavcPUkjZNXseb4JAh5lTTAZwcohpVp+lRs7tIvQ82OWy2FzLMaCw9Gd+TKcKWopaUVkWR2rZB1+cQ6MWBsw0bkIu//2Q==",
+    "url": "https://preview.redd.it/ym7qfax46zz71.jpg?width=640&crop=smart&auto=webp&s=85f1bf76f0d62158dc1aef38426ed3387db37013",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "My map for a campaign that I've been running for a couple of months now. I generated it with Dwarf Fortress and Satellite Map Maker, then overlaid my own cultures, history and themes on it.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qva5px/my_map_for_a_campaign_that_ive_been_running_for_a/"
+}

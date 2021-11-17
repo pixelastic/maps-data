@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1637020800,
+    "full": 1637066354,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qv6w8r",
+  "picture": {
+    "filesize": 98098,
+    "fullUrl": "https://preview.redd.it/zyd1dl7rbyz71.jpg?width=2100&format=pjpg&auto=webp&s=69240d1184360281d8fd781c5a62a7b90ec8f213",
+    "hash": "df5407ca1f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACEQAAIBAwUAAwAAAAAAAAAAAAECAwQREwAFEiExQUJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgARIUH/2gAMAwEAAhEDEQA/AMfuO8VKiZC0bzrLgxREqHci7MT7cXAHYF9D2tIZUSFpqjHMBSiPKwDdkkWP2UC9wdUJ0SonrMcjSyEc0jCKHX4YFSbMCR76DpWOgqKWhWbi0Ap4+StzDMXY93XsCwJH7qIGUrXYuHDP/9k=",
+    "url": "https://preview.redd.it/zyd1dl7rbyz71.jpg?width=640&crop=smart&auto=webp&s=3f325180ec11e34856e6aa67b72e330f2e89d289",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Noble Manor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qv6w8r/noble_manor_30x30/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1637020800,
+    "full": 1637065765,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qv6qfv",
+  "picture": {
+    "filesize": 72222,
+    "fullUrl": "https://preview.redd.it/gs8m15bgbyz71.jpg?auto=webp&s=d50a1c04846b1a0c7063054a0957a3199c9d9d61",
+    "hash": "ab700bc058",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAgIABQQDAQAAAAAAAAAAAQQCAwAREhMhBTFhsSIkQZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAAEBCQAAAAAAAAAAAAAAAAACAQMEERIhIkFR/9oADAMBAAIRAxEAPwDeouOsrSvrRIXlxCErtq4j8nkeAPB59YNP1qAz1NhylaciCC9rAkeB2AIHgHLBnSnLkVrK3LJzYugc5A/IHwT6xHC1tlatVnUZbh243S1kd+/9wtLu8mk9URjVvh//2Q==",
+    "url": "https://preview.redd.it/gs8m15bgbyz71.jpg?width=640&crop=smart&auto=webp&s=7a01d3f88e9f9480b263c5c8c91b1fd2222e7482",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 162,
+    "value": 162
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon Prison",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qv6qfv/dragon_prison_30x30/"
+}
