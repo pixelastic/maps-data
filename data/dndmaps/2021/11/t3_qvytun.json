@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7td0638n",
+    "name": "ZMMaps"
+  },
+  "date": {
+    "day": 1637107200,
+    "full": 1637154249,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qvytun",
+  "picture": {
+    "filesize": 52354,
+    "fullUrl": "https://external-preview.redd.it/4IdKnqifBoMBBAHkvcWwodsVR1hXAOMnd8M5DEDJSJ0.jpg?auto=webp&s=bf952d9531ed327bfa4a0d0f02000c2a7b1939cc",
+    "hash": "6c169c60bb",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACYQAAECBAQHAQAAAAAAAAAAAAECAwAEESEFEjFzBiI0NWFxsbL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAAv/aAAwDAQACEQMRAD8Ayp0JdZJn5VJJk0BghqwUamthrcQM5LuIddEs2koRL51AMZKcl1U9HXxDnu3YdsJ+Rfw90WKbKvwYAU5XNL3N/9k=",
+    "url": "https://external-preview.redd.it/4IdKnqifBoMBBAHkvcWwodsVR1hXAOMnd8M5DEDJSJ0.jpg?width=640&crop=smart&auto=webp&s=7d3ff50313996d244bc451e08fdd3f8267bcae2d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Sewer Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qvytun/sewer_lair_35x20/"
+}

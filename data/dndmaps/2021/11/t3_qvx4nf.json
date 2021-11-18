@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1637107200,
+    "full": 1637147974,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qvx4nf",
+  "picture": {
+    "filesize": 88820,
+    "fullUrl": "https://preview.redd.it/ltkoz3wt35081.jpg?width=4200&format=pjpg&auto=webp&s=4547feaca613b9875a70cd38af725af0c81f15f8",
+    "hash": "b742c74f1b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAICAgIBBQAAAAAAAAAAAAECAwQRIQASMRMjQVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AMYtX7EU5UR+nFnGxtsHzngaNiWWQM9nqkR7kKN488pRxu0VqW4mA2goBJUfQ4nUpwIfajsgMhAf4GRsfnJImSX/2Q==",
+    "url": "https://preview.redd.it/ltkoz3wt35081.jpg?width=640&crop=smart&auto=webp&s=662958dc088264ac484c8ecb03966897009076e4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: swamp2 random encounter (30x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qvx4nf/battlemap_swamp2_random_encounter_30x30/"
+}
