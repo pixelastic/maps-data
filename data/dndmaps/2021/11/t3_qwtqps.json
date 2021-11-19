@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1637193600,
+    "full": 1637253625,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qwtqps",
+  "picture": {
+    "filesize": 98908,
+    "fullUrl": "https://preview.redd.it/p0tmp2d2ud081.jpg?auto=webp&s=4034906c050798098a4336c6ab135111c9d3b356",
+    "hash": "3e715323fe",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEG/8QAIBAAAgEDBQEBAAAAAAAAAAAAAQMCBBESAAUhIjFhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAETJB/9oADAMBAAIRAxEAPwDC0iHVu9pDqpJc1oBayOEIm5AyHlgLatVTsRvT1LmlmLTCUlEGBAPsfnHujujJucjOR6ZrjbjgSJ/ToqX3X2n95tfnSKC12UMwzP/Z",
+    "url": "https://preview.redd.it/p0tmp2d2ud081.jpg?width=640&crop=smart&auto=webp&s=658c5e207c3f83451d67ad8d8c91767e12b0b08a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Wizard's Study",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qwtqps/wizards_study/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1637193600,
+    "full": 1637240634,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qwpa58",
+  "picture": {
+    "filesize": 79876,
+    "fullUrl": "https://external-preview.redd.it/jxTHvVFDFBtr73p-gMGp2BDLLZPZVkpWqJl7wS7P4ys.jpg?auto=webp&s=fd25664244f17c17d9511be89f2a335be6fbc7bc",
+    "hash": "be5cc7f512",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACEQAAICAgIBBQAAAAAAAAAAAAECBBEDIQASBRMUInHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRA//aAAwDAQACEQMRAD8Azbyodpcn2q9sblh63yvsNka1X5wZT5iI0l0yA4ETJZewwFaFHZ5SSYOFozdg7EIWBLnVg6+uIZfHx2aMApXpRUqxBFb5Lr1qmZHWf//Z",
+    "url": "https://external-preview.redd.it/jxTHvVFDFBtr73p-gMGp2BDLLZPZVkpWqJl7wS7P4ys.jpg?width=640&crop=smart&auto=webp&s=cb52f1a9d0f5216ad8014a6983ed4ff1e19ebd94",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Ruined Manor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qwpa58/ruined_manor_22x17/"
+}
