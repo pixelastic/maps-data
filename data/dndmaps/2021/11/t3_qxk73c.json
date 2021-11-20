@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1637280000,
+    "full": 1637340401,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qxk73c",
+  "picture": {
+    "filesize": 98909,
+    "fullUrl": "https://preview.redd.it/fd3bqnw00l081.jpg?auto=webp&s=2ad0c56f1440cd87bfa1d8a7d348317fdb1c03a8",
+    "hash": "50fa883108",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAABAwQCAgMAAAAAAAAAAAACAQMEAAURIQYSFCJBYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAACARESQdH/2gAMAwEAAhEDEQA/ACuM2q0DZ25EwIROE0uSklhG9p7Imd6zqp3kNphNSGfF6o2TaFr7pexyrPMsjbE0ooyGmsj5DiiJeyZTXzjK/lT/ACO5xCejjGa6Ng0g9R2iVORZyvo1p0f/2Q==",
+    "url": "https://preview.redd.it/fd3bqnw00l081.jpg?width=640&crop=smart&auto=webp&s=30e901c17bf1f02f4a1cb41178a222c7ebcb5087",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Thanksgiving With Titans",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qxk73c/thanksgiving_with_titans_16x20/"
+}

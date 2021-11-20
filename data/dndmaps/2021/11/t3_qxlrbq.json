@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6e5frrbu",
+    "name": "TheGoblinExplorer"
+  },
+  "date": {
+    "day": 1637280000,
+    "full": 1637344805,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qxlrbq",
+  "picture": {
+    "filesize": 95574,
+    "fullUrl": "https://preview.redd.it/yvgsin9ual081.jpg?auto=webp&s=18e4965243270e1e973a8a003e260c9fc4917504",
+    "hash": "b56b2e6809",
+    "height": 586,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIBAAAgICAQUBAAAAAAAAAAAAAQIDEQASITFRgZHR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDHl2UuAWQAC/1ZTCpHUMdl6Hv7GNKyyiSlQMDq3FCx4wA0aybGySeBQ+ZLpH//2Q==",
+    "url": "https://preview.redd.it/yvgsin9ual081.jpg?width=640&crop=smart&auto=webp&s=7ba84d9fbbf44c3c9a2674089f7fa7ffcca0dbeb",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 445,
+    "value": 445
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "I've drawn a new dungeon every week for a year, here's the result...",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qxlrbq/oc_ive_drawn_a_new_dungeon_every_week_for_a_year/"
+}

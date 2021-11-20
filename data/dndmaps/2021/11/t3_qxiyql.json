@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1637280000,
+    "full": 1637336805,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qxiyql",
+  "picture": {
+    "filesize": 208768,
+    "fullUrl": "https://preview.redd.it/pc6cwdbfpk081.jpg?auto=webp&s=f93aeb0e7b78300328984dd793283a192588541b",
+    "hash": "126a15c84e",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAKBAAAAQEBAYDAAAAAAAAAAAAAQIDBAAFESESExRRBhUiQVNVcZKU/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAdEQACAQQDAAAAAAAAAAAAAAABAhEAAxMxIcHw/9oADAMBAAIRAxEAPwCyMmma0nWV1TZo9UORZFtkFAiRKVAlQ3C1rb94P6w3om/5SQnbz3BwwdwIN8bU5E0j5gjaodRguI4ajX4jH50t5x+wQVDcacgEDW+qpsiJGMmTyfGv/9k=",
+    "url": "https://preview.redd.it/pc6cwdbfpk081.jpg?width=640&crop=smart&auto=webp&s=71691aabab73ca9060ba32ffaa4cf09a5993c12a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ophiuchus' Astral Gate",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qxiyql/ophiuchus_astral_gate_24x42_zodiacs/"
+}

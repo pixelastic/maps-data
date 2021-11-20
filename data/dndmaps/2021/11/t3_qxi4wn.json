@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1637280000,
+    "full": 1637334351,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qxi4wn",
+  "picture": {
+    "filesize": 63561,
+    "fullUrl": "https://preview.redd.it/k5o83vk0ik081.jpg?width=5847&format=pjpg&auto=webp&s=8dcf020d546228b379d2f7d536105156d8207160",
+    "hash": "c58b0bf15b",
+    "height": 1094,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIhAAAQIFBAMAAAAAAAAAAAAAAQACAxETIVEEEhQiQVJh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDKmv2RGipJl7OwkTGQjRdKetPzY/AcKnFZ6uRC/9k=",
+    "url": "https://preview.redd.it/k5o83vk0ik081.jpg?width=640&crop=smart&auto=webp&s=344ce4e0057d92e1c94fffec335fe4d0ace57564",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Azrok's Hold - Level 3 - Dungeon of the Mad Mage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qxi4wn/azroks_hold_level_3_dungeon_of_the_mad_mage_80x137/"
+}

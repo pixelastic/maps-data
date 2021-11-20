@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1637280000,
+    "full": 1637327654,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qxfynw",
+  "picture": {
+    "filesize": 94727,
+    "fullUrl": "https://preview.redd.it/orjo7w8vxj081.jpg?auto=webp&s=28a8d2235175253e4aca21b3473a19e4b7e09fb1",
+    "hash": "5f51bc70d7",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACYQAAEEAQIEBwAAAAAAAAAAAAIBAwQRAAUGExQhYSIyQVFxkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEXH/2gAMAwEAAhEDEQA/AM+3G/w5yts6bFVSpeZcZVy/e6TpXfEo07dLjAHHRgWlTwpTY/i1WFkGTDVPahIkki0TQuA2RdrTrlID3M4CFF02ObC+UhAyT79fnDwsGAMbSm6qcn//2Q==",
+    "url": "https://preview.redd.it/orjo7w8vxj081.jpg?width=640&crop=smart&auto=webp&s=ad539aa17d5a6cc62ffe836f2d821ec3e179c8bc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dead Marshes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qxfynw/dead_marshes_20x30/"
+}
