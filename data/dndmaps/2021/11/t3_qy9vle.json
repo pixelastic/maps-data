@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ukcr7",
+    "name": "Urza_Is_Mine"
+  },
+  "date": {
+    "day": 1637366400,
+    "full": 1637427957,
+    "month": 1635724800,
+    "week": 1636848000
+  },
+  "id": "t3_qy9vle",
+  "picture": {
+    "filesize": 111100,
+    "fullUrl": "https://preview.redd.it/3bfqtfu08s081.jpg?width=2625&format=pjpg&auto=webp&s=364fe3181963f1ffa5c3fa62032512d1a97ec0db",
+    "hash": "17f87dca30",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAQQBAwMFAQAAAAAAAAAAAQIDBAURABIhBjFBIiNRYYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAhEQABAgQHAAAAAAAAAAAAAAABAgMAESFRBAUSQZGhsf/aAAwDAQACEQMRAD8AUdPRFWFDXxLiTFtJyEA+k8qbIBTuBwSRnxk/R1BedIV66uS8I2yUlsoVgAbyOOP74OhlAuTaMqulyFMlpsgssjaFLIxuz2/MH4zrVZ6jkzo8quKQkV8NsB5R3qeHB9zIweTweCO3bUphbzLmlKqAzItWAxeXtPpLgElHfqvPlo//2Q==",
+    "url": "https://preview.redd.it/3bfqtfu08s081.jpg?width=640&crop=smart&auto=webp&s=6831bfa8eef9021ca991f1201763db549db7823d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Dock",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qy9vle/city_dock/"
+}
