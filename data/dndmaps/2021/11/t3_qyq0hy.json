@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9v4r7fm3",
+    "name": "iskndrth"
+  },
+  "date": {
+    "day": 1637452800,
+    "full": 1637480556,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qyq0hy",
+  "picture": {
+    "filesize": 2447,
+    "fullUrl": "https://external-preview.redd.it/6kC4a86OjrgihNGZvUbX053p-M6qRYM8rJw3aXsXdYs.png?format=pjpg&auto=webp&s=c73a2ccc5bb4b787dcf53cefc29e11ea4ebcd214",
+    "hash": "8a718c1124",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAj/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJUAB//Z",
+    "url": "https://external-preview.redd.it/6kC4a86OjrgihNGZvUbX053p-M6qRYM8rJw3aXsXdYs.png?width=640&crop=smart&format=pjpg&auto=webp&s=7c5269568df7260a51e098f18500fd833b92bbaa",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Prairies Animated Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qyq0hy/prairies_animated_battlemap_33x19/"
+}

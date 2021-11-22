@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1637452800,
+    "full": 1637496372,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qytmny",
+  "picture": {
+    "filesize": 118860,
+    "fullUrl": "https://preview.redd.it/f7ipsicwvx081.jpg?auto=webp&s=9d9dfbf02be7f55e30765909b626c20edda7edc9",
+    "hash": "b05f2f194b",
+    "height": 636,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAICAgIBBQAAAAAAAAAAAAECAxEEIQAFQQYSEyKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIiEUHh/9oADAMBAAIRAxEAPwDCOu6ipIsvsnCSIwZo3W1dasCx55b9TRRZUHYjHiRVWAP9QBbLVb14vgIpJoMVg+Xi5Eiop+RyEKggBa0QdbvzxybLnzYezePLw0eLHOQHMy2fatFao7O63+cadcIkmrqT1w//2Q==",
+    "url": "https://preview.redd.it/f7ipsicwvx081.jpg?width=640&crop=smart&auto=webp&s=164e2facb8dc3f903e31a3af53e3a837028086eb",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 134,
+    "value": 134
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Chambers of Mana, an Arcanepunk Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qytmny/the_chambers_of_mana_an_arcanepunk_dungeon/"
+}

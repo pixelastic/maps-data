@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8ij6mzzs",
+    "name": "Alex_TheMapMaker"
+  },
+  "date": {
+    "day": 1637452800,
+    "full": 1637479135,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qypofw",
+  "picture": {
+    "filesize": 123815,
+    "fullUrl": "https://preview.redd.it/yp6jlvpkgw081.jpg?auto=webp&s=1bcb4391af1d21f89f99a2e6da288599afbea11a",
+    "hash": "c06152525c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAKBAAAgEDAQcEAwAAAAAAAAAAAQMCBAURBgASExQiQWEhMVFxgbHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANRferrzdQai8GqUqomqKIQCR0nIMz8EED942rdHaijcixDprm8dQYuQkJAkgA4OM/z8kPUWirRd4VfLQCqh1SXMY5Epx3u43c+oPce3jZvR+nrbYkRVTKjxyTOUlp4cSfrxnA8bB//Z",
+    "url": "https://preview.redd.it/yp6jlvpkgw081.jpg?width=640&crop=smart&auto=webp&s=d26fffd64c55d58028aa369824229833733991c7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "MAPVEMBER2021 - Barrels.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qypofw/mapvember2021_barrels/"
+}

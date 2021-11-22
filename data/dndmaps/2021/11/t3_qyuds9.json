@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_67y4w69v",
+    "name": "mik_wewa"
+  },
+  "date": {
+    "day": 1637452800,
+    "full": 1637499264,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qyuds9",
+  "picture": {
+    "filesize": 62746,
+    "fullUrl": "https://preview.redd.it/0cvptj9n2y081.jpg?auto=webp&s=95b057e290e95f9ef5fe49a782f2caa591cb7976",
+    "hash": "dfeb8a0f36",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAjEAACAgEDBAMBAAAAAAAAAAABAwIEBQARIRITIjEGFHEk/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQADAAAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AJTjqlLt4hbqyf6mB0j1bzhGI5B3I8ZAE/uj+UYmr98tovroU5ZcmvPwIWAef3g+9DWzaLNXs5OchFaIKjGKYHrMTuOdiQPWlyWQgjGmrTpIDrC+l+ylzEY8EESiODqdY4j/2Q==",
+    "url": "https://preview.redd.it/0cvptj9n2y081.jpg?width=640&crop=smart&auto=webp&s=fe1e117cc5f42b199bc5645bfbe0b9b2e4523755",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Spellhold Level 3",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qyuds9/spellhold_level_3_44x44/"
+}
