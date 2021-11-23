@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dritcety",
+    "name": "Rmemmo"
+  },
+  "date": {
+    "day": 1637539200,
+    "full": 1637603812,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qzrd9e",
+  "picture": {
+    "filesize": 165943,
+    "fullUrl": "https://preview.redd.it/dwwmn0onq6181.jpg?auto=webp&s=4a72cb96a345b140cc97cef837cd1fc28be61108",
+    "hash": "79c1626c1f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBBEABRITMUEhIiNRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAgMBAAAAAAAAAAAAAAAAAhIAAREh/9oADAMBAAIRAxEAPwCVPPVvPuxTtI200aRgqHSPs6uAfHOF5fmognWFN4VCQkfMwCXFrEgdEftu8Bahq9+aUvGIowSYGIDNci6t1YX+8aBJqGmjokg0wxWj1MWZgPUDxfgHg82GIxUFjAsbLnJ//9k=",
+    "url": "https://preview.redd.it/dwwmn0onq6181.jpg?width=640&crop=smart&auto=webp&s=ad6a4ed80c0cfae8c8d4a365ca409deb61117159",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 170,
+    "value": 170
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Casual Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qzrd9e/casual_road_40x40/"
+}

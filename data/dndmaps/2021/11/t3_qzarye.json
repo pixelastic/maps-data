@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5kbxe",
+    "name": "powerkor"
+  },
+  "date": {
+    "day": 1637539200,
+    "full": 1637548049,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qzarye",
+  "picture": {
+    "filesize": 124468,
+    "fullUrl": "https://preview.redd.it/1de01soi52181.jpg?auto=webp&s=0d6693212f67c171562a10e9b37cf195bebba9ed",
+    "hash": "0bc8af5c1f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACUQAAEEAQMDBQEAAAAAAAAAAAECAwQRIQAFEhNBgSIxUXGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAdEQACAgEFAAAAAAAAAAAAAAABAwACUREhIkGh/9oADAMBAAIRAxEAPwDDG9ukIc6csU3ZSBgjkO1/zVTYmHI06U9KZLEXgeSeHpGMX8e9+NKy3mEbqh1sr6RZpdoCslPYHwb0UrfK2l2DEXIAdSEuqK6C8AZA+h+aO9rtAK/cQLJ4FTNd8dT/2Q==",
+    "url": "https://preview.redd.it/1de01soi52181.jpg?width=640&crop=smart&auto=webp&s=0dfeb8175727befc356af25803900ce8f8529f04",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dreadmaps - Obsidian Caves",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qzarye/dreadmaps_obsidian_caves_40x40_remastered/"
+}

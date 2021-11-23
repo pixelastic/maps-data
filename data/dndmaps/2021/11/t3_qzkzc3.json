@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1637539200,
+    "full": 1637586274,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_qzkzc3",
+  "picture": {
+    "filesize": 76699,
+    "fullUrl": "https://preview.redd.it/quby9jmw65181.jpg?width=1200&format=pjpg&auto=webp&s=990475558f44f23cdc7a3c1c195f15d341cd137f",
+    "hash": "3f1f0ee5c3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAL/xAAlEAABAwMDBAMBAAAAAAAAAAABAgMEBREhAAYSBzFBURNhcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAESEyFh/9oADAMBAAIRAxEAPwAe0IzlffkSampcxiPxbDVwm6lAm5sc2AH9P1qN9bcZgR49Tp8ZLBQoNrbUsEG4NlZ7HFj+g+NG6dVaPTnJMOc+YqXeLgXjjcYyc2uPPsH3pnUSuQW6UiNDeVIQpYLqkr+QX7JGb3J5Xxolzt4JKNen/9k=",
+    "url": "https://preview.redd.it/quby9jmw65181.jpg?width=640&crop=smart&auto=webp&s=f6620199ed1e2b7beb4ccf4a2abd1f05e86c3aa6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Arcane Colosseum",
+  "url": "https://www.reddit.com/r/dndmaps/comments/qzkzc3/arcane_colosseum_88x84_gallery/"
+}
