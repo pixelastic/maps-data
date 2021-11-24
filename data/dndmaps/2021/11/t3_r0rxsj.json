@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g996f5pu",
+    "name": "StoneGrounded"
+  },
+  "date": {
+    "day": 1637712000,
+    "full": 1637714646,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r0rxsj",
+  "picture": {
+    "filesize": 95403,
+    "fullUrl": "https://preview.redd.it/yii7kzkwwf181.jpg?auto=webp&s=a3faf098944995a12b1943ad88f4b1db2cdd84f7",
+    "hash": "e5e87b921e",
+    "height": 731,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBv/EAB8QAAIBBAMBAQAAAAAAAAAAAAECAwARITEEUaESFP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAMAwEAAhEDEQA/AMm8hiRy6oVAuLNkZ9p43/TGg48ZDAZa2/e70HYK2B0T3VePK0Uav8q6yDRxYgmoNf/Z",
+    "url": "https://preview.redd.it/yii7kzkwwf181.jpg?width=640&crop=smart&auto=webp&s=60faef6f749ce71e70c3412a3ebdfd8b869a9736",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Valhingen Crypts",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r0rxsj/valhingen_crypts/"
+}

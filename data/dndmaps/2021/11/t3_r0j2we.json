@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1637625600,
+    "full": 1637690440,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r0j2we",
+  "picture": {
+    "filesize": 143530,
+    "fullUrl": "https://preview.redd.it/mmds467wwd181.jpg?auto=webp&s=bd5a6f0998ccda55000789cba74fa52b30b07aef",
+    "hash": "0537029dbd",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAiEAABAgUEAwAAAAAAAAAAAAACAQMABAUREwYSMVEhQeH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAEDAAIREv/aAAwDAQACEQMRAD8AimqTnobOXGpJbaaJflFXjqBrmlWchXA73XqElM1FLS9MdBoymZglRwnXgQiPx6g+7XZsnTLeqXJV4+RAUWDcjtUaHmf/2Q==",
+    "url": "https://preview.redd.it/mmds467wwd181.jpg?width=640&crop=smart&auto=webp&s=46f223d70119b1d330c51650f20e4e97eb789b43",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 136,
+    "value": 136
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swampland: Occultists' Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r0j2we/swampland_occultists_lair_30x48/"
+}
