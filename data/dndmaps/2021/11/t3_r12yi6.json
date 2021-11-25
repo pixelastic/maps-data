@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9uj0uijo",
+    "name": "JasonDM14"
+  },
+  "date": {
+    "day": 1637712000,
+    "full": 1637752860,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r12yi6",
+  "picture": {
+    "filesize": 78570,
+    "fullUrl": "https://preview.redd.it/qciemplk2j181.jpg?auto=webp&s=60f90f014a4710567ea912e30c662fc76c4fe73a",
+    "hash": "d18b9ce9ed",
+    "height": 347,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJxAAAQIEAwkBAAAAAAAAAAAAAQIDAAQRIQVBsRITFCIxMzRxc3T/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMxEf/aAAwDAQACEQMRAD8AyJqZxFXMp6YcbAOwd6o0HWlMsok3xzc60pRfVSgstQIuL39w1Xjv/lGoh2Hd6Y+StYnPkVgDtajh/9k=",
+    "url": "https://preview.redd.it/qciemplk2j181.jpg?width=640&crop=smart&auto=webp&s=59ae24f54c82aa703c555a4b036fff688cf0e879",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Church Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r12yi6/church_battlemap_24_x_13/"
+}

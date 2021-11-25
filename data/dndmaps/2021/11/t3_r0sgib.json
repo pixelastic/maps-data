@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1637712000,
+    "full": 1637716147,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r0sgib",
+  "picture": {
+    "filesize": 80275,
+    "fullUrl": "https://preview.redd.it/a3wzg3vb1g181.jpg?width=4200&format=pjpg&auto=webp&s=eccf8a7907faf124fadc371f0dbfb4b68e9bc7ee",
+    "hash": "33ed7f8b61",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACIQAAIBBAIBBQAAAAAAAAAAAAEDAgAREiEEBTEjQVFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEBAAEFAAAAAAAAAAAAAAAAAQACAxExQf/aAAwDAQACEQMRAD8Ax7rDx+Rz2xklYYyEoOkCbTPm49t0pbFUWTYselYxxlvV/wB80V8mS5TssMkNhmVrH6qjn0q3pXi7K0shKQ1sC4I+KjtRacvY9z//2Q==",
+    "url": "https://preview.redd.it/a3wzg3vb1g181.jpg?width=640&crop=smart&auto=webp&s=fd8b4dce8f2312aa0a2bb9662e8811e3860fa653",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: swamp3 -random encounter(30x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r0sgib/battlemap_swamp3_random_encounter30x30/"
+}

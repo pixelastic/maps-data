@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1637712000,
+    "full": 1637760941,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r15boj",
+  "picture": {
+    "filesize": 220985,
+    "fullUrl": "https://preview.redd.it/1oq0bwliqj181.jpg?auto=webp&s=4a3e9d4829316139d7c1879ec03ed4b6ae0c3245",
+    "hash": "0f7d853ded",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAgEDAgcAAAAAAAAAAAABAgMEEQAFIRMxBhIkQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBAxEhQf/aAAwDAQACEQMRAD8AmvDdlZtsKcEoAQQO2g79j1cmI1YZ74xnj70jtc1etPYhjsdTqIpVicAtj8HHxoLcrjtembyry3umq3RtuaEXGz//2Q==",
+    "url": "https://preview.redd.it/1oq0bwliqj181.jpg?width=640&crop=smart&auto=webp&s=25ff63d41315336741d93acbf58d37136236472e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 258,
+    "value": 258
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fey Vale (Feywilds) Battle Map - 30x45",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r15boj/fey_vale_feywilds_battle_map_30x45/"
+}
