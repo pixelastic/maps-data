@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1637798400,
+    "full": 1637828938,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r1rxxt",
+  "picture": {
+    "filesize": 81247,
+    "fullUrl": "https://preview.redd.it/lfsnulzrcp181.jpg?auto=webp&s=932cd68b9d806214217616e0040abe4741471b85",
+    "hash": "52c98b5807",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEERIhBRMxQRRxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAMBAQAAAAAAAAAAAAAAAgABESHw/9oADAMBAAIRAxEAPwDIjaxTq08qwuqWyyIGONyBrqPeQRS57GFunzTR2sShIVYspJKsf37oOl3MLW0HbWL5lvgq05wvJ9HPkVUvZLefftDVJ4ykoWUFncc5888UK0ys9yTbtFZP/9k=",
+    "url": "https://preview.redd.it/lfsnulzrcp181.jpg?width=640&crop=smart&auto=webp&s=7206e2eb9bf5436c98bcd46c5594a92d2bb2de62",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Sewers Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r1rxxt/city_sewers_battle_map_30x30/"
+}

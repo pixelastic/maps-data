@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1637798400,
+    "full": 1637839706,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r1ukky",
+  "picture": {
+    "filesize": 98851,
+    "fullUrl": "https://preview.redd.it/ztdiqtqr8q181.jpg?width=4096&format=pjpg&auto=webp&s=740c76664e697f1a005952b29dbb80fd7a1732fc",
+    "hash": "7e177eec41",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMF/8QAIxAAAgEDAwUBAQAAAAAAAAAAAQIDBBEhAAUGBxITMVEygf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAxEAAhIh/9oADAMBAAIRAxEAPwA6l1yyciradFidIZTGpdQRa2Pf91DhUop92NRt6R+BilnhHaGFwGX7nOt7lHGKGTlk8HfOqM7k9rC9/fz6dHTnZKWTfpaZjL40lR/1liBfONGxbpOTDCNPPZ//2Q==",
+    "url": "https://preview.redd.it/ztdiqtqr8q181.jpg?width=640&crop=smart&auto=webp&s=17f37c8de426208bbcaff58dda83e808d8d222d3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The City of Fire",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r1ukky/the_city_of_fire_ac_onoff/"
+}
