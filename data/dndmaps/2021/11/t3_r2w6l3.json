@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1637884800,
+    "full": 1637958877,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r2w6l3",
+  "picture": {
+    "filesize": 148338,
+    "fullUrl": "https://preview.redd.it/xtdqpm7i20281.jpg?auto=webp&s=40c4f04fa864df5f46033df646f784e452097aa4",
+    "hash": "c22b91dbc8",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAgEEAgMBAQAAAAAAAAAAAQIDBAURIQASBjFBE1H/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAxFB/9oADAMBAAIRAxEAPwCK2q8MPQU04URMC5h6k5I+jba3jmLIgV27UbKxJJEsJH34P5jHDnh1wrorQ8SX6CSMQYRJVBMJYaILEE9djHrfCHkFJcay5NUT1iVjSKrCX9NYI9ADIAHrA4DAdanbf//Z",
+    "url": "https://preview.redd.it/xtdqpm7i20281.jpg?width=640&crop=smart&auto=webp&s=13b2b0f8f5065382f113b1788e1a3683579823a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Dwarven city gate",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r2w6l3/dwarven_city_gate_32x44/"
+}
