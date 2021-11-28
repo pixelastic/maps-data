@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1637971200,
+    "full": 1638029036,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r3giie",
+  "picture": {
+    "filesize": 156692,
+    "fullUrl": "https://external-preview.redd.it/d9AnUS5vAwzI_BTuaqxRFhGrPNx_3qSGN90tbQ-rWfQ.jpg?auto=webp&s=4254538fc4f44c3f43023f25102971445f3a3fad",
+    "hash": "b5d8fd3d2c",
+    "height": 989,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAACAgEDAgcAAAAAAAAAAAABAgMEBQARIQYiEhMjMUNR0v/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAdEQABBAIDAAAAAAAAAAAAAAABAAIDEiExBHGB/9oADAMBAAIRAxEAPwCZ5ih0+uExK07K2LrwBrCKyu6koGBIIHg79xtueOdEZrWPWZwbMIIYjY1D+tUDK4jpeLCUZa1xBdNdPQryrOZX8sEs4+PuLLsD9aDWN5LEryU6KuzFmVYwACT7AA8aH4Ul2YLjvfaQnbU5A8X/2Q==",
+    "url": "https://external-preview.redd.it/d9AnUS5vAwzI_BTuaqxRFhGrPNx_3qSGN90tbQ-rWfQ.jpg?width=640&crop=smart&auto=webp&s=937a4e4dfb47f754a81ed233fec06899bb1bfe71",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 187,
+    "value": 187
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Red Dragons Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r3giie/red_dragons_lair_44x68/"
+}

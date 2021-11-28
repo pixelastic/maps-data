@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1637971200,
+    "full": 1638031892,
+    "month": 1635724800,
+    "week": 1637452800
+  },
+  "id": "t3_r3hhu9",
+  "picture": {
+    "filesize": 109876,
+    "fullUrl": "https://preview.redd.it/z93t90v946281.jpg?auto=webp&s=30ccdee088d8146dfa32897703ca6ab5e5e10d2a",
+    "hash": "9665022a21",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAH/8QAJBAAAgECBAcBAAAAAAAAAAAAAQIDABEFIWGRBBIUM1NU0bH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQEBAQEAAAAAAAAAAAAAAAECAAMR/9oADAMBAAIRAxEAPwDJ8OjMpUIiojADtBwABmST+iqyeDi9k+0ngUEZgkllReqKc0YVxfS2gGW9BWHrSbD7Usd2l8crABv/2Q==",
+    "url": "https://preview.redd.it/z93t90v946281.jpg?width=640&crop=smart&auto=webp&s=fcfe1e054a5cc2bf0f16b46d17687240e70e4a5c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon Den Entrance Pt. 1/3",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r3hhu9/dragon_den_entrance_pt_13_27x48/"
+}
