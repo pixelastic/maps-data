@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gmgqplrc",
+    "name": "slumbog"
+  },
+  "date": {
+    "day": 1638057600,
+    "full": 1638064224,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r3ssif",
+  "picture": {
+    "filesize": 68637,
+    "fullUrl": "https://preview.redd.it/rkthqcb9s8281.jpg?auto=webp&s=2e3540ec120d614f76c9bf93f5e5e91a646ac49a",
+    "hash": "77f70336b6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACAQAAIBAwQDAAAAAAAAAAAAAAECAwAEEQUSEyFBUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAiES/9oADAMBAAIRAxEAPwDCrcjjV1UHcPtHNHFIoV1U+ex3S9IKc0K3CsEVQSRkYq68MTXDmAMY92Qzdkn3Uyzy5Gmk/9k=",
+    "url": "https://preview.redd.it/rkthqcb9s8281.jpg?width=640&crop=smart&auto=webp&s=e93f0b23477bf6998159c8ae39ea8023525889c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.77,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Church of Barovia, my first map. Tips/criticisms?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r3ssif/church_of_barovia_my_first_map_tipscriticisms/"
+}

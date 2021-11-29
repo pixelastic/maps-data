@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7rw440ul",
+    "name": "CozyMaps"
+  },
+  "date": {
+    "day": 1638057600,
+    "full": 1638097525,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r41z9v",
+  "picture": {
+    "filesize": 123511,
+    "fullUrl": "https://preview.redd.it/s6kzcz3aib281.jpg?auto=webp&s=672e473b6135c78c4f60bbff7efd7ccc946436c1",
+    "hash": "0b288e0d6e",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAHhAAAgICAwEBAAAAAAAAAAAAAQIDBAASESExUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABIQID/9oADAMBAAIRAxEAPwDCKtd320CiIAMWc8Akjzn8wzAqkrJEVcdEbZc7mSnDCF0MkwHvzjvDtV2axKXYlix8UZDzro2lD//Z",
+    "url": "https://preview.redd.it/s6kzcz3aib281.jpg?width=640&crop=smart&auto=webp&s=31484cb59b75e0d613b34500472bcffa236acf46",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 132,
+    "value": 132
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mountain steep turn → an excellent map for an ambush",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r41z9v/mountain_steep_turn_an_excellent_map_for_an/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4ie2smfu",
+    "name": "EightfoldPaper"
+  },
+  "date": {
+    "day": 1638057600,
+    "full": 1638107980,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r44wcj",
+  "picture": {
+    "filesize": 196977,
+    "fullUrl": "https://preview.redd.it/xjrob9nidc281.jpg?auto=webp&s=6cdf149586ddbf34ff42259bbe09358fe427e522",
+    "hash": "8c4e62da73",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAIhAAAgECBQUAAAAAAAAAAAAAAQIDAAQFERITIiExcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAbEQABBAMAAAAAAAAAAAAAAAAAAQISITFBcf/aAAwDAQACEQMRAD8AyW8KXEK3DXM5JlKlTqIHLz29UqbqnDFVY5TLvZEhOOWoH50pSWskOb3pytH/2Q==",
+    "url": "https://preview.redd.it/xjrob9nidc281.jpg?width=640&crop=smart&auto=webp&s=b374ffaab479aab7f78d2104bebe86e16ede8329",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 463,
+    "value": 463
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "FeyWild Wonderland",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r44wcj/feywild_wonderland_part_03_16x32/"
+}

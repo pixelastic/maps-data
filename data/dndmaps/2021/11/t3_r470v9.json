@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1638057600,
+    "full": 1638114003,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r470v9",
+  "picture": {
+    "filesize": 162485,
+    "fullUrl": "https://preview.redd.it/4x6mdvnewc281.jpg?auto=webp&s=494a028cc3dae5fe1ce86101d68be467e2101db0",
+    "hash": "467b1b3c75",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEERIhMVEiQWHB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxIhIjH/2gAMAwEAAhEDEQA/AM5uJohM0VxgqE1QxELh+OT8CjsrneD1PcBgcHXqpTuWcop1AcdHnPuc5/eaYtGlWABUkYeQCPqgyU3zxSdHqAF//9k=",
+    "url": "https://preview.redd.it/4x6mdvnewc281.jpg?width=640&crop=smart&auto=webp&s=74b1d9c82442afae5cc655c5bae8a0de9b41294d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.82,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Shrine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r470v9/the_shrine/"
+}
