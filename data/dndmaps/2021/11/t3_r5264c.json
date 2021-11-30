@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gpz47qcg",
+    "name": "AdequateCartographer"
+  },
+  "date": {
+    "day": 1638144000,
+    "full": 1638210498,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r5264c",
+  "picture": {
+    "filesize": 110125,
+    "fullUrl": "https://preview.redd.it/attms0mcvk281.jpg?auto=webp&s=fcb0094921adebcef367486aeb6f2c456fba6fed",
+    "hash": "fbbed6bf67",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACQQAAEEAQMDBQAAAAAAAAAAAAECAwQRBQASIRMxQQYUUXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAR/9oADAMBAAIRAxEAPwDWSVGbjnuhJeZG5Seq2shaFBRHzXjnUrCMlzKrju5yfIkRilwgLKUL5HHc3V0dE5h/cwJUR99za7JW8CkEFAKrA7c+f3TfTeFjYhbriXHXpCxsBUmqF3xX131DZVHmdQtHTf/Z",
+    "url": "https://preview.redd.it/attms0mcvk281.jpg?width=640&crop=smart&auto=webp&s=11ef27c3ba6b311304f6728db3852158f96641d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "New map after a break",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r5264c/new_map_after_a_break/"
+}

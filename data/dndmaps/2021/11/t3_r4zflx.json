@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1638144000,
+    "full": 1638203056,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r4zflx",
+  "picture": {
+    "filesize": 78883,
+    "fullUrl": "https://preview.redd.it/tlvvq4139k281.jpg?auto=webp&s=864646ff2fda005e1b18b2980db3022db036e8d6",
+    "hash": "7340e50349",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACMQAAICAQQBBQEAAAAAAAAAAAECAwQRAAUTITESIiRBYbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAABAhESEzH/2gAMAwEAAhEDEQA/ADQFCtBFT2/ijguE8gtKwWbK49KN5GPPf7ptw2uKXb51kgRa7QiPjVAVZ1Jx7x2ozjrGM96ztLdDLS+UssgMqwoizFEjXH0o/mp7F+zWnaBJpc14zIDyNhn6IJGfrPj81E1SytB248aP/9k=",
+    "url": "https://preview.redd.it/tlvvq4139k281.jpg?width=640&crop=smart&auto=webp&s=a5b7717d4b20f0cd9d967c4311595508d0294e81",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Ambush",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r4zflx/forest_ambush_24x30/"
+}
