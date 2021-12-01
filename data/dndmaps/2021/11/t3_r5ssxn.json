@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5kbxe",
+    "name": "powerkor"
+  },
+  "date": {
+    "day": 1638230400,
+    "full": 1638294216,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r5ssxn",
+  "picture": {
+    "filesize": 88269,
+    "fullUrl": "https://preview.redd.it/uz6ljao9sr281.jpg?auto=webp&s=9621156b622b56e705f6752c617680db049d9ef0",
+    "hash": "4dd5c4c5c0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAhEAACAgICAQUAAAAAAAAAAAABAgMEBREABkESIVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACAxEEURMhMf/aAAwDAQACEQMRAD8AEX+gx5TCJcx4jSaNdlWDOzj4AA5LsnibNGUpYgljJJA9cZXf5vlDx/acketpHTtyV0ViGMbH32fP1wbk7C2ZCzSPNJvQLeeT8B0sYc2Q2L62h4ZAaPm1/9k=",
+    "url": "https://preview.redd.it/uz6ljao9sr281.jpg?width=640&crop=smart&auto=webp&s=b40bd2604a3f5f48b633505e58edf6c4c1207d7c",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "DreadMaps - Water's Edge 40x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r5ssxn/dreadmaps_waters_edge_40x40/"
+}

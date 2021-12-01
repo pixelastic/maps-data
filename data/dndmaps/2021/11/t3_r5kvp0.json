@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1638230400,
+    "full": 1638270082,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r5kvp0",
+  "picture": {
+    "filesize": 80631,
+    "fullUrl": "https://preview.redd.it/ko7nknrjsp281.jpg?auto=webp&s=9459a6277e58448b7d6711e2ec8ddc9dea7ae542",
+    "hash": "59b1f59519",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQQAEiEFFDFBEzLx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oADAMBAAIRAxEAPwDMTxydXwZGzWczzTLI85lNUtCtg9AVXOnd5g48Sv2EnxqrJGWmb7DxXsCv3Q4UBIXwigUo8XWqtjxu8m4cbDxfGpZNB7f/2Q==",
+    "url": "https://preview.redd.it/ko7nknrjsp281.jpg?width=640&crop=smart&auto=webp&s=eeace88fc3f7646960260b5749f14b89d241075a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Statue Village",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r5kvp0/ruined_statue_village_40x30/"
+}

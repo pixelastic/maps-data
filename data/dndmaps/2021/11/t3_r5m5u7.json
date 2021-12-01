@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pvz4inx",
+    "name": "RPGScenery"
+  },
+  "date": {
+    "day": 1638230400,
+    "full": 1638275099,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r5m5u7",
+  "picture": {
+    "filesize": 88392,
+    "fullUrl": "https://preview.redd.it/ch0kad4a7q281.jpg?auto=webp&s=66ed73c464570c6d271f994abd683c5bd6ce90ba",
+    "hash": "90e1c49386",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBRESAAYhEyIxB1FhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMREiL/2gAMAwEAAhEDEQA/AIikR5kqV1m+pKcDAjuW7lM8jIp8A82ufkc6ndz7PqtSD1STCQ0WzipsO5LUCTZSvY+BbRNEmOKkoZjKUX3FBA7rAgm1vvTsP1HqkeUth9bMiOThgttIBtxybfugCo1+qwNlHtXGPP/Z",
+    "url": "https://preview.redd.it/ch0kad4a7q281.jpg?width=640&crop=smart&auto=webp&s=e4672d24c1d9022b545379e6b8c7f388ec9e7fdb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mechanical Workshop Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r5m5u7/oc_mechanical_workshop_battlemap_fov9048x48/"
+}

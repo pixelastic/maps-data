@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1638230400,
+    "full": 1638297793,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r5u6f5",
+  "picture": {
+    "filesize": 117844,
+    "fullUrl": "https://preview.redd.it/31otx5bm2s281.jpg?auto=webp&s=0f83e302259616150ce0d6c255355bedfaf02cd0",
+    "hash": "4830a914d9",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAgIBAwMDBQAAAAAAAAAAAQIDEQQABSEGElETFDEiIzJDUv/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAIxARH/2gAMAwEAAhEDEQA/AM82XZ3y9vT2uLAs8uE7SCBAy1dAlr+ftmz+I4FXejPVMMMO6mODEwVh9NGSmCsQw7rYXw3PI+PHGqfTOXiZWyxwzZpxRApHYcwRKxNFqB5s0LB+kUKBs6MdSifJ3aWXHjnKN+x1DNIf6NEiz4XjxpreaUND/9k=",
+    "url": "https://preview.redd.it/31otx5bm2s281.jpg?width=640&crop=smart&auto=webp&s=add4044c32ef4fd91befec4296830719517f96ee",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dwarven hall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r5u6f5/dwarven_hall_32x44/"
+}

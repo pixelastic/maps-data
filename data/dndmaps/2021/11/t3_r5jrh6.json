@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4s8aw6ir",
+    "name": "Bomby888"
+  },
+  "date": {
+    "day": 1638230400,
+    "full": 1638265434,
+    "month": 1635724800,
+    "week": 1638057600
+  },
+  "id": "t3_r5jrh6",
+  "picture": {
+    "filesize": 82743,
+    "fullUrl": "https://preview.redd.it/qpqr8g1qep281.jpg?auto=webp&s=04a6760aed5d142a0147256c4fb0ed1bcc4a1eea",
+    "hash": "dd4be3deee",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAHxAAAgEFAAMBAAAAAAAAAAAAAQIDAAQREiEUIkHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECBBP/2gAMAwEAAhEDEQA/AMy2lljgWFGWIqpI1ONmJPsR9I52iY6yySzANqpZix9fmTmjubp2W2bCBwuSwXp7UbDyd45iWWRtG7jmD+VE1kG2DuOY1P/Z",
+    "url": "https://preview.redd.it/qpqr8g1qep281.jpg?width=640&crop=smart&auto=webp&s=79beeda33ae5f551cbea1a1c60b7e3cd97862fa4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Region map of Berdeth",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r5jrh6/region_map_of_berdeth/"
+}
