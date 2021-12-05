@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_e2fanhc6",
+    "name": "NovemberDue"
+  },
+  "date": {
+    "day": 1638403200,
+    "full": 1638403565,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r6tddh",
+  "picture": {
+    "filesize": 66293,
+    "fullUrl": "https://preview.redd.it/8fdfyzq0t0381.jpg?width=6400&format=pjpg&auto=webp&s=648039c7bb5a8c1af8ea73d6fe04f31284bc63be",
+    "hash": "4cf64de4de",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMH/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIRIQADMQQSQWGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oADAMBAAIRAxEAPwDEmBZELdio0LJ4X3hrlVLKqmJs3PjEMG1BSK5+ZXX02ooIDCbmbGRWhsR//9k=",
+    "url": "https://preview.redd.it/8fdfyzq0t0381.jpg?width=640&crop=smart&auto=webp&s=25e633997ca48db3241e5dbc60d9657445aa61f6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Church Day/Night (50by40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r6tddh/church_daynight_50by40/"
+}

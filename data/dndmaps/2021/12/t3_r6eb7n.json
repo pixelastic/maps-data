@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1638316800,
+    "full": 1638363899,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r6eb7n",
+  "picture": {
+    "filesize": 119423,
+    "fullUrl": "https://external-preview.redd.it/yYpPX526dejBdihPP2YDhta4hmOSIQ7_9Zxt5bK61Kg.jpg?auto=webp&s=5dabcf0c8369ff2e21c232c99f3f1417c21974b4",
+    "hash": "eee9f9b531",
+    "height": 659,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAkEAACAgEDAgcAAAAAAAAAAAABAgMEEQASIQUxFCJBUWFygf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAeEQABAQkAAAAAAAAAAAAAAAABAAIRISIxQXGBwf/aAAwDAQACEQMRAD8AX4aqLKwWYombcSF2g5GSSR76PMlY0XjrpFsc4woXBYA8nBxqElbp9eyIbsUAO8vggcjPJGe/p20a7BVk6RYjrLGFZvKseAXdfqf340OzV6RJmAjfG+L/2Q==",
+    "url": "https://external-preview.redd.it/yYpPX526dejBdihPP2YDhta4hmOSIQ7_9Zxt5bK61Kg.jpg?width=640&crop=smart&auto=webp&s=3f0921847a180439d70fe4514ac0a72d5e16ea37",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.81,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Camel Racing Arena",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r6eb7n/camel_racing_arena_66x68/"
+}
