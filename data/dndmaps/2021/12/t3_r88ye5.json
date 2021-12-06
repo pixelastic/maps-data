@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_63muq8gv",
+    "name": "Skront_Stuff"
+  },
+  "date": {
+    "day": 1638489600,
+    "full": 1638565051,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r88ye5",
+  "picture": {
+    "filesize": 79056,
+    "fullUrl": "https://preview.redd.it/7xzwvpuu4e381.jpg?width=4104&format=pjpg&auto=webp&s=8c721ba450b622017f48702d37a67cfa04930d62",
+    "hash": "042029874b",
+    "height": 472,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIxAAAQMCBgMBAAAAAAAAAAAAAQIDBAARBRIhIjFREzJBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQABBQAAAAAAAAAAAAAAAAAAAQIRMUH/2gAMAwEAAhEDEQA/ACeHpwx6PHa8TaVrb55JUdBp9B7NTjUVMFxtDVsimQMqFpAT7bt2pJ50J+8UUlT3UPxxlbKo9g2ojcBbutODOcl+RyWhp9wJFlOJvYWJsOh+UKWG3IP/2Q==",
+    "url": "https://preview.redd.it/7xzwvpuu4e381.jpg?width=640&crop=smart&auto=webp&s=7803f0639c5288dde37c131136a8036dd56f86be",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Needlebark Tower (40x40 base map with floors, 42x57 total, 72DPI)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r88ye5/needlebark_tower_40x40_base_map_with_floors_42x57/"
+}

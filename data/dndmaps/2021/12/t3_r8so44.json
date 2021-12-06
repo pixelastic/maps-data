@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1638576000,
+    "full": 1638633770,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r8so44",
+  "picture": {
+    "filesize": 79689,
+    "fullUrl": "https://external-preview.redd.it/hw4HjeYi-N8HagkXSeNFB_t9j2DxgefcPxqvyv54rZs.jpg?auto=webp&s=6a261fb1fe21c046dbb64a578b237088c2dd7541",
+    "hash": "8cab35b6bd",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxAAAgICAgMBAAAAAAAAAAAAAQMCEQASBCEFMUFh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREEQf/aAAwDAQACEQMRAD8AylP5r2zISvQCRJiCNevtnsYTleT5ChANYpC41rGK72IPs2TY/BWM5FlpjZ1kSKv1Q+ZB5EIMhrGQBoGQs1eSVq7BDkP/2Q==",
+    "url": "https://external-preview.redd.it/hw4HjeYi-N8HagkXSeNFB_t9j2DxgefcPxqvyv54rZs.jpg?width=640&crop=smart&auto=webp&s=55a748d09b3823f24edb1ac9ec0fd6067c8f06a3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined City Wall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r8so44/ruined_city_wall_22x17/"
+}

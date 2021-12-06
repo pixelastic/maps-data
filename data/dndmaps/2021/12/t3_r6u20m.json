@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gmgqplrc",
+    "name": "slumbog"
+  },
+  "date": {
+    "day": 1638403200,
+    "full": 1638405411,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r6u20m",
+  "picture": {
+    "filesize": 43092,
+    "fullUrl": "https://preview.redd.it/w4b40envy0381.jpg?auto=webp&s=0d0c9df170fa8622f7179bff8d0598e4b1d8142b",
+    "hash": "35d4c7beab",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIhAAAQMDAwUAAAAAAAAAAAAAAgABAwQRITJBcQUxM8Hw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAEQECAxJh/9oADAMBAAIRAxEAPwDDKCigAGeaITkNsuTaeE3VaKiBiGOKO+LHEz427Kh0P9skDxlx6UmcltmxfD//2Q==",
+    "url": "https://preview.redd.it/w4b40envy0381.jpg?width=640&crop=smart&auto=webp&s=95b885d11ecc86f4c0f0eb80ab2d6a96b50572ed",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Caravan camped by the woods (35x20) Tried to make a map within 45 minutes, how did I do?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r6u20m/caravan_camped_by_the_woods_35x20_tried_to_make_a/"
+}

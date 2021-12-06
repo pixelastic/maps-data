@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_67y4w69v",
+    "name": "mik_wewa"
+  },
+  "date": {
+    "day": 1638489600,
+    "full": 1638532543,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r7xjfk",
+  "picture": {
+    "filesize": 54302,
+    "fullUrl": "https://preview.redd.it/9h6z57bzfb381.jpg?auto=webp&s=048dec79a2f6404a9149963b460f398a23caee38",
+    "hash": "c68fa4b264",
+    "height": 469,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACIQAAICAgEEAwEAAAAAAAAAAAECAwQREgAFEyExIkFRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAC/9oADAMBAAIRAxEAPwDJLPS7XZER6bcC15nQxFtjXPcBw4xn0D7PHJqFKa9ZmrRywViF7SAFQf3++eULbWHtidtxRZK0YKjDorMRv4+Rz9nhLEIvayysUJTXWMBVAU+ABjhKzLyFu//Z",
+    "url": "https://preview.redd.it/9h6z57bzfb381.jpg?width=640&crop=smart&auto=webp&s=8b60965eae14d3a559d186c3b5243b86a1115057",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Spellhold Tests",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r7xjfk/spellhold_tests_various_sizes/"
+}

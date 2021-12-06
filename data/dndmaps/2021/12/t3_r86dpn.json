@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1638489600,
+    "full": 1638557982,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r86dpn",
+  "picture": {
+    "filesize": 115243,
+    "fullUrl": "https://external-preview.redd.it/Tvaoqvqw2CotkZSjBk8TE-gTSaN1WNtPd0830lAHKdg.jpg?auto=webp&s=22af70b222b90b2b748064bd7874195997095568",
+    "hash": "cd4a79849d",
+    "height": 1006,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBAUhABETIhRBMWGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDESEx/9oADAMBAAIRAxEAPwAQ1ioLBbaqQ1UguSxrII2H1jH6DrHNLTTEy+I3ftj4zpZaqykmsoFMJWarDczTAM5BxsGO5C6gamnViImHGDsvYLj1j1qPD0R679jC7ZsT/9k=",
+    "url": "https://external-preview.redd.it/Tvaoqvqw2CotkZSjBk8TE-gTSaN1WNtPd0830lAHKdg.jpg?width=640&crop=smart&auto=webp&s=59ed170ca3f2fcfbc4e2190344844f84a5e30e9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 123,
+    "value": 123
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Riverside Scrapyard  - We have 10 free maps and a free Pirate Island Foundry pack available at our Patreon right now!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r86dpn/riverside_scrapyard_28x44_we_have_10_free_maps/"
+}

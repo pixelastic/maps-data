@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1638403200,
+    "full": 1638450275,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r7717g",
+  "picture": {
+    "filesize": 104009,
+    "fullUrl": "https://external-preview.redd.it/upiF9J0Nw-FKQ3zAjqg22ZpTXPFs_yGMeuSTJYmQrfA.jpg?auto=webp&s=a3f7fc47179d8492eb5704e617b069dfeed90d96",
+    "hash": "6b03ce7b92",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBCEABRESFUExUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQMS/9oADAMBAAIRAxEAPwBb25z1qzyCXDP07D1g86y/OXG4KSFh9lvnU16b2qUlQgmaOQSHumWXjIBGAf3T19oeNCrKDwcHn1qOTobrlqOH/9k=",
+    "url": "https://external-preview.redd.it/upiF9J0Nw-FKQ3zAjqg22ZpTXPFs_yGMeuSTJYmQrfA.jpg?width=640&crop=smart&auto=webp&s=26ef2691ef80c16dc053e952cf3a57f9e02452e9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Royal Docks",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r7717g/royal_docks_30x40/"
+}

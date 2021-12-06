@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1638489600,
+    "full": 1638532926,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r7xnau",
+  "picture": {
+    "filesize": 58821,
+    "fullUrl": "https://preview.redd.it/cmu8iab4ib381.jpg?auto=webp&s=8fc7f07ea342dd93c0c79b2188495af88679b6cd",
+    "hash": "936517773d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwII/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQFEhEhMWETQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAASImH/2gAMAwEAAhEDEQA/AM946waf4lWIszjoAeai/tUhXnVQQSNffunw2Xlx0iSxSssirryD9flDkLt7uR5Tydu/FTpsHK6f/9k=",
+    "url": "https://preview.redd.it/cmu8iab4ib381.jpg?width=640&crop=smart&auto=webp&s=6a40af5c8944cc01218879744ff4d7884710eb7b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Skinwalker Chase",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r7xnau/skinwalker_chase_40x40/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4yy8u",
+    "name": "SimpleRy"
+  },
+  "date": {
+    "day": 1638403200,
+    "full": 1638480804,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r7hwwc",
+  "picture": {
+    "filesize": 109158,
+    "fullUrl": "https://preview.redd.it/7pf3f0r657381.jpg?auto=webp&s=72e63a33cfb131ab5de6ce6eaa3696d4aa9df094",
+    "hash": "fc8b007a04",
+    "height": 912,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQFERIxIWEGMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABYRAQEBAAAAAAAAAAAAAAAAABEBAP/aAAwDAQACEQMRAD8Azd9JcvI7xTMYo3IYs572aYxbziyQBmI23lHbX2PXmncd8dTIWfBoGcOxL8FIKty6Oxvfvqo7TGz28bwxwT8I5ZFG4j+OfVRTErTf/9k=",
+    "url": "https://preview.redd.it/7pf3f0r657381.jpg?width=640&crop=smart&auto=webp&s=51d34d9207850680ca78837f666bd71e42cde4bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Into the Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r7hwwc/ocart_into_the_swamp_18x26/"
+}

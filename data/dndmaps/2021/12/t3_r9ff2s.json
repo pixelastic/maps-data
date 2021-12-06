@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_384tyhq3",
+    "name": "doulos_12"
+  },
+  "date": {
+    "day": 1638662400,
+    "full": 1638709825,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_r9ff2s",
+  "picture": {
+    "filesize": 98663,
+    "fullUrl": "https://preview.redd.it/2j31rtwcwl381.jpg?width=4096&format=pjpg&auto=webp&s=a912f14a079639358333d205c267c10c7bebf672",
+    "hash": "9a8915e302",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQRIRJBMVGhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAgMAASExQf/aAAwDAQACEQMRAD8AwSQXF9dRXLvJb2hHLiTtt/PVWI0WCFY4kMS5zgZ9ff3dGWZASDsuV3148Uo3GzEDJIBPe8d1Gc8mZwa5UYLod9n/2Q==",
+    "url": "https://preview.redd.it/2j31rtwcwl381.jpg?width=640&crop=smart&auto=webp&s=a9ce1f3d36403acbc108fd8351b1dd6c9ded3154",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Riverside Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r9ff2s/riverside_encounter/"
+}

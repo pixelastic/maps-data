@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9jnmw7l6",
+    "name": "XploringMap"
+  },
+  "date": {
+    "day": 1638489600,
+    "full": 1638532078,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r7xeyr",
+  "picture": {
+    "filesize": 54975,
+    "fullUrl": "https://preview.redd.it/j73r6w2kfb381.jpg?auto=webp&s=78b5f5d1106e49f8cda58a276e51bbcd21ab2684",
+    "hash": "140c48d473",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYQAAEEAAQFBQAAAAAAAAAAAAECAwQRAAUTMQYSISJRI0FhcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwB3K3I8JMlqEoEqfKnQViwaBIF3W+3z0wdqO3PfD0hLpXp8o9ax+10P2RjIcn4gzHLp6mmHuZD7iXl6nd3FQBq9gRuMVuZZrLhwEyY60p1UBSmtNPIaSD4v384jDr//2Q==",
+    "url": "https://preview.redd.it/j73r6w2kfb381.jpg?width=640&crop=smart&auto=webp&s=85abd718a3ed924a0c127079529b47b9cceb46cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Fystone - grayscale village map.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r7xeyr/fystone_grayscale_village_map/"
+}

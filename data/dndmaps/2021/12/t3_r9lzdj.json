@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5au4uoep",
+    "name": "AminiPainter"
+  },
+  "date": {
+    "day": 1638662400,
+    "full": 1638729160,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_r9lzdj",
+  "picture": {
+    "filesize": 96598,
+    "fullUrl": "https://preview.redd.it/8iknsb1lpr381.jpg?auto=webp&s=cc59363b4cbf1115cf32f61f853ef269ef2a5de8",
+    "hash": "4b0289bd0c",
+    "height": 426,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhUWEGFYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAABERIy/9oADAMBAAIRAxEAPwDQKsMEVarLTp1RFLGH4rCqHBHj91E3+vBJt9532+IARMMlFz0D60347ZlmoIJHyI1RF6AwMaHv7H6S954S949Nqd5FU2P/2Q==",
+    "url": "https://preview.redd.it/8iknsb1lpr381.jpg?width=640&crop=smart&auto=webp&s=af1dcf3d39aa22e52413b9ab1799f01fad1c295d",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Analog DM in Digital World",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r9lzdj/analog_dm_in_digital_world/"
+}

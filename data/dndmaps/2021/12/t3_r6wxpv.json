@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8f28v",
+    "name": "Herman_Crab"
+  },
+  "date": {
+    "day": 1638403200,
+    "full": 1638413812,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r6wxpv",
+  "picture": {
+    "filesize": 103919,
+    "fullUrl": "https://preview.redd.it/vewmrc9xn1381.jpg?width=2467&format=pjpg&auto=webp&s=6514aad9eefc9d7e207fb05b5fafe0d417d80f59",
+    "hash": "8bcd78aecd",
+    "height": 631,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBAURABJBBiExUTJh8P/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAcEQACAAcAAAAAAAAAAAAAAAAAAQISEyEiMWH/2gAMAwEAAhEDEQA/AN16gvM9JVSQRptiRAWk8FmPgKfx0Nku1StdDRTMZlcFi0nyGT2A+hz60/Udnkr2M8ZMi4zsUnJOMdveprXaWS4RVlXMISjBkR32naOMc9+dDnU4C1HNbR//2Q==",
+    "url": "https://preview.redd.it/vewmrc9xn1381.jpg?width=640&crop=smart&auto=webp&s=7401e4cb6d97beede0ad1756b4b7d1b98ab69ffb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Settlement expansion hex maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r6wxpv/settlement_expansion_hex_maps/"
+}

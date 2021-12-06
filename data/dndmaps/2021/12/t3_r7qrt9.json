@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_971wk",
+    "name": "danyack"
+  },
+  "date": {
+    "day": 1638489600,
+    "full": 1638506835,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r7qrt9",
+  "picture": {
+    "filesize": 147185,
+    "fullUrl": "https://preview.redd.it/cmhef0hbrcr71.jpg?auto=webp&s=7d21833fc0f216c5d21a0e4e82eb01c7c6256d26",
+    "hash": "d9a422bca3",
+    "height": 901,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAIxAAAQQCAgEFAQAAAAAAAAAAAQIDBAUGEQAhEhQxQUJSYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACA//aAAwDAQACEQMRAD8ATsitprlnYIRYSm0OKXHAZd0NJUogAjXirYOyO9dE8vMFnuWOJ1suTJ9Q862Sp0kbUfIj4AH84D01TcRciy2DLrbJlCrOROOo20qZdcIQpK/Ig7/I7HZ5oDEY7sXG4DEhksOob0Wz9ez17nkeYmkZf//Z",
+    "url": "https://preview.redd.it/cmhef0hbrcr71.jpg?width=640&crop=smart&auto=webp&s=352fa194f4702185938a4062766d1d160e86aced",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "A friendly fantasy hexmap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r7qrt9/a_friendly_fantasy_hexmap/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1638576000,
+    "full": 1638632599,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r8s9j1",
+  "picture": {
+    "filesize": 82784,
+    "fullUrl": "https://preview.redd.it/0anbsvadqj381.jpg?auto=webp&s=2eed1efb47e7d956a5847660401e01eb391236b8",
+    "hash": "83efaa99bb",
+    "height": 589,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQMCEQQAEhMxIiFBcYHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAdEQACAgMAAwAAAAAAAAAAAAABAhExAAMhBCLR/9oADAMBAAIRAxEAPwDOYYLxlMbBUmDafDjJFGhdDv1I1UY7ZSJC5TAAkTKNGqu/vRsfxuXLmYqINGQJO336+dLhCOVkYyMRrG5LmbCD4x6Ffmq7Yp1+aFcC5n3rtmYx51CbwpAmb79z/9k=",
+    "url": "https://preview.redd.it/0anbsvadqj381.jpg?width=640&crop=smart&auto=webp&s=c05268c544249580db5082a73b57286f3407383c",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fistandia's Mansion",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r8s9j1/fistandias_mansion_25x23/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1638662400,
+    "full": 1638708161,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_r9eyeh",
+  "picture": {
+    "filesize": 149459,
+    "fullUrl": "https://preview.redd.it/ocpkzbg1zp381.jpg?auto=webp&s=eb5f6dac64d0d802e7d4e87b5d089c0515fd494c",
+    "hash": "9a8cc67005",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIRAAAQIGAgMAAAAAAAAAAAAAAQIEAAMREhMhFDIWIlH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8AyZUqV49xQ3ZBzbtxlNRVWk3dqUFvyESCWVtEScrYD2CUnsE47gLSa7MImCSy/9k=",
+    "url": "https://preview.redd.it/ocpkzbg1zp381.jpg?width=640&crop=smart&auto=webp&s=71a6cf2a3c5d2bace9bbaa589f5239ee5b1d04fd",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 285,
+    "value": 285
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "'The Slithering Deep'",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r9eyeh/the_slithering_deep_42_x_84/"
+}

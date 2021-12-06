@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1638576000,
+    "full": 1638647012,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r8xeuw",
+  "picture": {
+    "filesize": 108815,
+    "fullUrl": "https://preview.redd.it/omyzsyd9xk381.jpg?auto=webp&s=7757998cc91629ac991eb649508956e209a4f9e0",
+    "hash": "68b0d325d3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQGB//EACUQAAICAQIEBwAAAAAAAAAAAAECBBEDABIGITEyBRMVInFygf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACEQMSIf/aAAwDAQACEQMRAD8AzbhT0qYRA3Y8MjMqo2bKeSsTZX5odR00rxPi8IhSJEFZRkTMSMNyvaeYD2/Y8jqbSGntG97Us4PK7P500JOFcOR0TtZwaoCiKIIrVZQDEDyGU4iu9VNn/9k=",
+    "url": "https://preview.redd.it/omyzsyd9xk381.jpg?width=640&crop=smart&auto=webp&s=186c12df7f2dcb01f8cb839102598eaa253b2a35",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Archmage's study",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r8xeuw/archmages_study_25x15_4k/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g996f5pu",
+    "name": "StoneGrounded"
+  },
+  "date": {
+    "day": 1638576000,
+    "full": 1638580381,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r8dyji",
+  "picture": {
+    "filesize": 87753,
+    "fullUrl": "https://preview.redd.it/k4h8qm11ff381.jpg?auto=webp&s=32d462648caa3b54189c11ac31b2c09bfdce98a2",
+    "hash": "78da61a19b",
+    "height": 737,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIhAAAgEDAgcAAAAAAAAAAAAAARECAAMhEiIEEzFCYXHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDP43BKSjnD80gQOpb+VK2BDmbRLWAN3b6qXDvSWTLKBNBZ/9k=",
+    "url": "https://preview.redd.it/k4h8qm11ff381.jpg?width=640&crop=smart&auto=webp&s=c7496b8aa0fdf12a79e83c5d1e74b22f52143ed5",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Temple of the Scale",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r8dyji/temple_of_the_scale/"
+}

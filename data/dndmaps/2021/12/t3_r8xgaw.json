@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1638576000,
+    "full": 1638647127,
+    "month": 1638316800,
+    "week": 1638057600
+  },
+  "id": "t3_r8xgaw",
+  "picture": {
+    "filesize": 144916,
+    "fullUrl": "https://preview.redd.it/8bpvjnvoxk381.jpg?auto=webp&s=2a9f4047942bfc2f52ef9693af246c6d2505f4be",
+    "hash": "14170b3011",
+    "height": 621,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJRAAAgECBQMFAAAAAAAAAAAAAQMCBBEABRIhMRMiQRRRYcHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQEAAwADAAAAAAAAAAAAAAABAAISAxEh/9oADAMBAAIRAxEAPwAGmXSuziFPOpVOMW6guUyJL8kfI5NvrGivpYOBeM1TF+kjo3I7RsDwBfc+OLYJVl9QzOV162aldWRAky/i2w9/3FKpi21C/VRMmRkDHtAEbSAAO1+cT7cZsR86imxjIT//2Q==",
+    "url": "https://preview.redd.it/8bpvjnvoxk381.jpg?width=640&crop=smart&auto=webp&s=ab4fe88ec0655808f2ff8991dae44bb0038f14f3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "High-End Neighborhood",
+  "url": "https://www.reddit.com/r/dndmaps/comments/r8xgaw/highend_neighborhood/"
+}
