@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1638748800,
+    "full": 1638810329,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rac2vz",
+  "picture": {
+    "filesize": 100488,
+    "fullUrl": "https://preview.redd.it/7onzjmvyey381.jpg?auto=webp&s=4a0838e2ffc9ebb42b712d782500b410d5c2038b",
+    "hash": "b1c414a036",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMAERIhBEFRU2GSof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAyH/2gAMAwEAAhEDEQA/AIfAERIn48TEYIrBrbksSCL686orGX1L9aZhn4zcN4jDx2kZUsytjjoDvd+9fND4H2/hoaLKdKj1n//Z",
+    "url": "https://preview.redd.it/7onzjmvyey381.jpg?width=640&crop=smart&auto=webp&s=dad42fd3cc091f9dcdfc26e5f29091274c25ac79",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.84,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragons Den - Level 02",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rac2vz/dragons_den_level_02_27x48/"
+}

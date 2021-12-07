@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1638748800,
+    "full": 1638795752,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_ra6se6",
+  "picture": {
+    "filesize": 62514,
+    "fullUrl": "https://preview.redd.it/bdjcrh2k7x381.jpg?auto=webp&s=50681cad8a1506d92c467db309dd8c6444ba0049",
+    "hash": "043bc9e328",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQIDBBEAITESFFFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2iYUxuat1xJejrUVONF0rX1G9eK4+ZLAVLE5TLPfpik0FLBsG+RvQr1eMZJLf//Z",
+    "url": "https://preview.redd.it/bdjcrh2k7x381.jpg?width=640&crop=smart&auto=webp&s=077e32b8f5c93e997fa4f09b143cb89cb3c4ea7d",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 312,
+    "value": 312
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "World map Terra",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ra6se6/world_map_terra/"
+}

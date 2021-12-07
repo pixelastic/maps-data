@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1638748800,
+    "full": 1638795893,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_ra6u4r",
+  "picture": {
+    "filesize": 127279,
+    "fullUrl": "https://preview.redd.it/10svcogj5x381.jpg?width=3780&format=pjpg&auto=webp&s=087ebcf6af7b055509ef54500f03fba35e87a4f9",
+    "hash": "9226d75ec8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQQhABITMUFhceH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AzqZ8iV0iyY2Lw2PGbuIEaHDyDj40hWTy+JVBXpRokihQv51yQRrkRPPHJI8ZfTiS99jf37+vBsvA0UpNowCdVFIVY2zWdnevzkkoGDl//9k=",
+    "url": "https://preview.redd.it/10svcogj5x381.jpg?width=640&crop=smart&auto=webp&s=28a42dc3741323c65b718b16300a1cebe6f52fc2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlefield After/Before Battle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ra6u4r/battlefield_afterbefore_battle_30x30/"
+}
