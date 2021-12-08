@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1638835200,
+    "full": 1638872050,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_ravyw1",
+  "picture": {
+    "filesize": 81156,
+    "fullUrl": "https://preview.redd.it/4bc9w6rfi3481.jpg?auto=webp&s=ce5db8eb63fd1ab44adc67f51140f45bdb6118aa",
+    "hash": "d2a037ffed",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQQG/8QAIxAAAgIBAwQDAQAAAAAAAAAAAQMCEQUABBIGMVFhFCFBgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHhEAAAQHAAAAAAAAAAAAAAAAAAECBAMREyJSYaH/2gAMAwEAAhEDEQA/AMZlstv35xW32qmtgTb3Ag8B9eewFizqZeXdtMqxMnEyXLlCRqPKNmj77aJR3eH6ljvAyfxwKariCJkdrv8APP8ANKttkOqc7JzYKL22IBURCMYizQ91qVEJubcs+zDsp7H/2Q==",
+    "url": "https://preview.redd.it/4bc9w6rfi3481.jpg?width=640&crop=smart&auto=webp&s=0388100c8a5346a06c66f69a78101608f2733b31",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Void Ritual",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ravyw1/void_ritual_15x15/"
+}
