@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1638835200,
+    "full": 1638878919,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_raxrig",
+  "picture": {
+    "filesize": 258195,
+    "fullUrl": "https://preview.redd.it/ig5cmgqw24481.jpg?auto=webp&s=d45f26d4fee902d31ef65f69ded72b2eb0e6dcd0",
+    "hash": "3bf5b4109e",
+    "height": 1145,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAABAgQFBQAAAAAAAAAAAAABAgMABAURISIxVJMSExVBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIhE//aAAwDAQACEQMRAD8AimyG2kkJKOnKEXAwGmEBtObBjjEUUrSWZ99zszjqmkIJVlQm5BN7HT18g3hqdvpnlRAqSzBvGz//2Q==",
+    "url": "https://preview.redd.it/ig5cmgqw24481.jpg?width=640&crop=smart&auto=webp&s=9c8c0ce8f7716e83ea7e587f55b9b0b70c4eb152",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 683,
+    "value": 683
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Bastion City",
+  "url": "https://www.reddit.com/r/dndmaps/comments/raxrig/bastion_city/"
+}
