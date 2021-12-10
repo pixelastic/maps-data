@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1638921600,
+    "full": 1638938862,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rbj05i",
+  "picture": {
+    "filesize": 115033,
+    "fullUrl": "https://preview.redd.it/226wza3019481.jpg?auto=webp&s=2238f19f4f62c7ceb649e34b2f24777bcfd931b2",
+    "hash": "c8e4f367ab",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDEQAEEiEycQUTMVGBodH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AykNEUiLqm2+qhyKv7rF6rw2ZNOZA8TxkWQjBhQu+5GDhjaTSDy0Eiou9qbpb3r1uvjJmk3IwEpoEMEHA3c2e/wCZDhH/2Q==",
+    "url": "https://preview.redd.it/226wza3019481.jpg?width=640&crop=smart&auto=webp&s=31a6c7d87829e3c2186779f0164c1427d7b4f195",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Neverwinter Wood for Encounters",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rbj05i/neverwinter_wood_for_encounters_160_x_160/"
+}

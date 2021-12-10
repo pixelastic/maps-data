@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1639008000,
+    "full": 1639087322,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rcsh2x",
+  "picture": {
+    "filesize": 102146,
+    "fullUrl": "https://preview.redd.it/w0g9ddtjal481.jpg?auto=webp&s=3b96c396a2e15cea1cf00a5161311aeb1fc90077",
+    "hash": "4a1280ff7e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACEQAAIBBAICAwAAAAAAAAAAAAECBAADESEFMRITQVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAIDAQEAAAAAAAAAAAAAAAESAAIDIUH/2gAMAwEAAhEDEQA/AMjxkSKkXyYLcZxkYAC5A1nW90ydCsSI5LIltlGWIGAG+xgdVKiybkTjbXqI3jvfZOaPITr14zrDEBEUMPEYPxr83RC2fhiB1oMQF8n/2Q==",
+    "url": "https://preview.redd.it/w0g9ddtjal481.jpg?width=640&crop=smart&auto=webp&s=c7005bf1d6bc0ce8c19d493d092f245365c19883",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Strixhaven - Firejolt Café",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rcsh2x/battlemap4096x307240x30_strixhaven_firejolt_café/"
+}

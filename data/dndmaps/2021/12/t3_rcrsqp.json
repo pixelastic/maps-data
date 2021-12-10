@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_rqn5hdz",
+    "name": "MyDnDName"
+  },
+  "date": {
+    "day": 1639008000,
+    "full": 1639085456,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rcrsqp",
+  "picture": {
+    "filesize": 28856,
+    "fullUrl": "https://preview.redd.it/473ffuqk4l481.jpg?auto=webp&s=01f087c2a5824cf935006728f99bd1b8cc802079",
+    "hash": "7a88b17cbb",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAACAAUDBQAAAAAAAAAAAAABAgADBBEhBRKRIjVBcsH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAMRASH/2gAMAwEAAhEDEQA/AJlqE5aegnPMXfdSAhGDfGeYKyVVadmJ696qov4sb44hbqXY6v1+wNEPVloN3If/2Q==",
+    "url": "https://preview.redd.it/473ffuqk4l481.jpg?width=640&crop=smart&auto=webp&s=b3fe25b0bf92a2ae4237e857f3ae9170c6710866",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Icewind Dale - Angajuk's Bell",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rcrsqp/icewind_dale_angajuks_bell_oc/"
+}

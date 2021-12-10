@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5fhxp",
+    "name": "AngrySnail"
+  },
+  "date": {
+    "day": 1638921600,
+    "full": 1639000788,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rc23nt",
+  "picture": {
+    "filesize": 39460,
+    "fullUrl": "https://preview.redd.it/pa0bbhx65e481.jpg?auto=webp&s=2d837c53203e51f313b837a19bd599843d9ecb22",
+    "hash": "ccbd5c25f7",
+    "height": 213,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAFABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAgIDAAMAAAAAAAAAAAAAAQMAAgQRUQUSIf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEi/9oADAMBAAIRAxEAPwDERatn4qm0rcrSWC+yDv6eyj41zs8YjnWXu5uCPToI7yIi3NTP/9k=",
+    "url": "https://preview.redd.it/pa0bbhx65e481.jpg?width=640&crop=smart&auto=webp&s=9cb0ba48ba5e45bf4100db0f218d7838761b5428",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gully of Zyg",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rc23nt/gully_of_zyg_120x40/"
+}

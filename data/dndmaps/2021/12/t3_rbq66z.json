@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8ij6mzzs",
+    "name": "Alex_TheMapMaker"
+  },
+  "date": {
+    "day": 1638921600,
+    "full": 1638966130,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rbq66z",
+  "picture": {
+    "filesize": 126684,
+    "fullUrl": "https://preview.redd.it/st2g6rd5ab481.jpg?auto=webp&s=d19f04aa981c6fb2223b1704e615804010db321f",
+    "hash": "21c2db9a09",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJBAAAgICAQMEAwAAAAAAAAAAAQIDBAURBgASMQcIIWEiMnH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwCfLPU7mdrKZJIpZRVhsyCutGRYwUVyF7gNswIHzvo/Acs5ViudY+xctWlUSoslVXLNYiLDaldHt+G2PvrTe4TiApcmo3sPjLlalaQvYmoVmkU2e/YLBfDEfzZ++kPRLi96rzN8/m69pIBV7IpcrGI5mmbt/KNPIAUEbOv20B5PU3tohhrP/9k=",
+    "url": "https://preview.redd.it/st2g6rd5ab481.jpg?width=640&crop=smart&auto=webp&s=fb1ea4d64a365a8f374e5e6448e917b75a253870",
+    "width": 640
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 731,
+    "value": 731
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The sewers are not where most people want to be. This is just one of \"Encounter Area\" maps I am working on to help DMs populate either a random encounter or a small set piece.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rbq66z/the_sewers_are_not_where_most_people_want_to_be/"
+}
