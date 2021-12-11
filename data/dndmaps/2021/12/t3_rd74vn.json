@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1639094400,
+    "full": 1639137672,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rd74vn",
+  "picture": {
+    "filesize": 222210,
+    "fullUrl": "https://preview.redd.it/i8577c7cgp481.jpg?auto=webp&s=b9bb96261c2629e217f6eba5351a3cc903631511",
+    "hash": "ec8b366fd9",
+    "height": 1800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAIhAAAQMEAAcAAAAAAAAAAAAAAQIDBAAFESESEyIxQVHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAMAwEAAhEDEQA/AMBfkQk2+KrkjqyAeH13+UqzZJTaILyXHFLdKtYGsaPilRkyP//Z",
+    "url": "https://preview.redd.it/i8577c7cgp481.jpg?width=640&crop=smart&auto=webp&s=952d4295b8d39e68c687fb030941633db88df426",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 182,
+    "value": 182
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Whispering Cairn",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rd74vn/the_whispering_cairn_32x90/"
+}

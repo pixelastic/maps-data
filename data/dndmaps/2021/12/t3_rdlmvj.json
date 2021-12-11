@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3bpb6al7",
+    "name": "MirisDor"
+  },
+  "date": {
+    "day": 1639094400,
+    "full": 1639178615,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rdlmvj",
+  "picture": {
+    "filesize": 199771,
+    "fullUrl": "https://preview.redd.it/8j1l79b1us481.png?auto=webp&s=1ddf9b4f65596c7942d5e2b1545b965fe1bd9828",
+    "hash": "47fdb4a8f0",
+    "height": 452,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVQokY3Oa0/CMBQGYP7/nzLqB4ggBCGgDge7dmtpR+m6rbdTMyAmAia+Od/O++ScgT8FALRz2rrOWGOd6HR5bAC8Ayi5TJhImCCiBfAD770yTiqzF+1bul8htsGH1whPYyyVAYBKdnWnRavqTnt/ArOEPHyko7AYbYuYiTWqnjf5PCWfZaWs87/Tg6CsFhmNqRjvylmCxxF+DPJZQtaI3QetNu8FW2Z00gPysiuXOQ3wYY1YSPgd0Cg7T8kkwsuMLjI6jTHikso25zXiUlt7Dbz3+NgMw2Ic4WGInoLsi/CIHrOqFp02rv/KWKdMLy/AAaSVGG2LFWIFb2plRKelMg7gzks/Mda12p7ntnoNznvw/s/u7YX/5BvGafkzp+USEgAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/8j1l79b1us481.png?width=640&crop=smart&auto=webp&s=08e2e2716c9ace422992a61f137d5d6242a57c08",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Isometric Map - The Last Duel",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rdlmvj/isometric_map_the_last_duel/"
+}

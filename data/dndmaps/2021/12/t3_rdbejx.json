@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5s8ro3y",
+    "name": "stelliadi_isometric"
+  },
+  "date": {
+    "day": 1639094400,
+    "full": 1639150969,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rdbejx",
+  "picture": {
+    "filesize": 101829,
+    "fullUrl": "https://preview.redd.it/3c0yfxv8hq481.jpg?auto=webp&s=4c7723a5911d819d4c281771ce317056c1cb0e3c",
+    "hash": "407afc19e2",
+    "height": 843,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACEQAAEDBAIDAQAAAAAAAAAAAAECAyEABAURBhIiQXFR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRMf/aAAwDAQACEQMRAD8AcxzfJtMEOMW6k9lFJWSSRBnX5IoGOa5FpHVbNu5OwSkggGdGftTM61ZIt8cLFbrqwyQ73AGl7369TWZvsgbR4NkKJKQrxSNT9ovaVPYVsVhon//Z",
+    "url": "https://preview.redd.it/3c0yfxv8hq481.jpg?width=640&crop=smart&auto=webp&s=75aa4389db3f3a3b81cc4116cf8f4c4041e76f0a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "5-room-dungeon inspired mountain map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rdbejx/5roomdungeon_inspired_mountain_map/"
+}
