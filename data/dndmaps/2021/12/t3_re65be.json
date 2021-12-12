@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1639180800,
+    "full": 1639248738,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_re65be",
+  "picture": {
+    "filesize": 110033,
+    "fullUrl": "https://preview.redd.it/k5ut8usjmy481.jpg?width=2048&format=pjpg&auto=webp&s=c0aed381a0c33885177c9e5fa1b753d9fba5c137",
+    "hash": "28231d5418",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAIBAwEJAQEAAAAAAAAAAAECAwQFEQAGEhMUITFBUXEVgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARITP/2gAMAwEAAhEDEQA/AMzBWNy1vNM0hcBsKADvOD58Hv8ANDtPQvbY/wBiomWbMu88a9MHPcdMdPWpdj5uot6sizNGrheIoyqn76+nTW01DUS2+O5VtXHUsZOGtOoOVIPrt/Tqc9KjdLJ//9k=",
+    "url": "https://preview.redd.it/k5ut8usjmy481.jpg?width=640&crop=smart&auto=webp&s=4e9fe1c176418fbc63cebdce6b52d140abc61bdf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Road Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/re65be/20x20_road_map/"
+}

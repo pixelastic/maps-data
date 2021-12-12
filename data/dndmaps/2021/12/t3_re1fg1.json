@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1639180800,
+    "full": 1639234604,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_re1fg1",
+  "picture": {
+    "filesize": 120945,
+    "fullUrl": "https://preview.redd.it/ser8k07cgx481.jpg?width=1024&format=pjpg&auto=webp&s=709d79577adbdfce1c8c220535e9faf3fb554b2c",
+    "hash": "b67f46ccfa",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGB//EACMQAAIBAgYCAwAAAAAAAAAAAAECAwQRAAUGEiFRE0EjMZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGxEAAQQDAAAAAAAAAAAAAAAAEQACAyEBEnH/2gAMAwEAAhEDEQA/AMSooYhlLDxQyPIEjUyg/De4JPoA9nrCVXTBl8BiQjZcOu3k3+hgVypLiZxCVIkRTbcebX/cW+n5sjg0Xms1cY2q5w8YBUApZeAp7JPrrAYy055swt2BIrq//9k=",
+    "url": "https://preview.redd.it/ser8k07cgx481.jpg?width=640&crop=smart&auto=webp&s=c6f9ffd20542d94af2154458b459ce1e36bb1f1e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Gemstone Caves",
+  "url": "https://www.reddit.com/r/dndmaps/comments/re1fg1/gemstone_caves/"
+}

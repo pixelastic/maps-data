@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1639180800,
+    "full": 1639224162,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rdyehh",
+  "picture": {
+    "filesize": 176953,
+    "fullUrl": "https://preview.redd.it/yd6hhwa8kw481.jpg?width=3072&format=pjpg&auto=webp&s=d315cebdd4389f4852495866f5d89627192310a0",
+    "hash": "d55ace754b",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQQCAQUAAAAAAAAAAAABAgMEBREhABJBBiJRYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAQUBAAAAAAAAAAAAAAAAAAECBBIhFP/aAAwDAQACEQMRAD8AirZbKmOFJVgjkJPYAeEI1keCd74beLWgrWanBlif3K2M+T8feeUFg9QRtRSGmBeWOBpJQwI6Ip0RreMnXArhfKZ5x2nywXBKqVB/ABwpJNX6g1zXbh//2Q==",
+    "url": "https://preview.redd.it/yd6hhwa8kw481.jpg?width=640&crop=smart&auto=webp&s=db36fdf9d8d26bd4841dc4c77c96ee5713d1ec18",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Castle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rdyehh/castle_4k_50x67/"
+}

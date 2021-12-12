@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1639180800,
+    "full": 1639225572,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_rdyrk4",
+  "picture": {
+    "filesize": 84694,
+    "fullUrl": "https://preview.redd.it/y49oh20npw481.jpg?auto=webp&s=f758ae25494d1129223e7e7aee0be0dd7d0cef8e",
+    "hash": "3fa273f9b5",
+    "height": 549,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACcQAAEDAgUCBwAAAAAAAAAAAAECAwQFEQAGEjFBExQiIzJxgZHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AxaBBDi45ILjinkpDQF9ST+2xWRoqHn8wsR6ZE8MQvBbh0dIJtq0jk+2Ez2YoJyxFpsSmJjz2HA53qDZa1c3+LfWC0dpOYZMiLLkylVSU4luM6pXlpJ9RXzsNhi7nIoq7P//Z",
+    "url": "https://preview.redd.it/y49oh20npw481.jpg?width=640&crop=smart&auto=webp&s=5ba24734a85c934441254a7ac0f8a422847f9d5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 282,
+    "value": 282
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Aeromancer's Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rdyrk4/aeromancers_lair_21x18_oc_battlemap/"
+}

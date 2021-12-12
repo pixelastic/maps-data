@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g996f5pu",
+    "name": "StoneGrounded"
+  },
+  "date": {
+    "day": 1639180800,
+    "full": 1639244535,
+    "month": 1638316800,
+    "week": 1638662400
+  },
+  "id": "t3_re4q4d",
+  "picture": {
+    "filesize": 170941,
+    "fullUrl": "https://preview.redd.it/xatqn8lq9y481.jpg?auto=webp&s=9f62d903f0a964fab8056755fcacdb8f25b456bc",
+    "hash": "747b642a01",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACEQAAEDBAIDAQAAAAAAAAAAAAECAxEABBIhQWETIzGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8Azdt4JUYUqAcwDs74PdCbkNwlwuKXzGgOqRu14Xj4JwhvKTomT8iqNu4nxz6kSZhbeRP7FTrGVGN0gZP/2Q==",
+    "url": "https://preview.redd.it/xatqn8lq9y481.jpg?width=640&crop=smart&auto=webp&s=daee691a5b8aa6b4e2005a6b95f23bf96e048fe4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ravine Logging Trail",
+  "url": "https://www.reddit.com/r/dndmaps/comments/re4q4d/ravine_logging_trail/"
+}
