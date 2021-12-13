@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_945th",
+    "name": "HynraFoo"
+  },
+  "date": {
+    "day": 1639267200,
+    "full": 1639319641,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_req6yt",
+  "picture": {
+    "filesize": 200428,
+    "fullUrl": "https://preview.redd.it/dzcpvw1eh4581.jpg?auto=webp&s=9d353f85e7046f83035fada6a6f232f22d8fec83",
+    "hash": "e0e29edefb",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQRITFBYQUSEyL/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAEf/aAAwDAQACEQMRAD8Ax10UkgkVprdbiPAf5KVMuCPywAwWHBzzSp3gBDb2swkDtbvN6tEz5KTb7d669Uoakl5nYFOm/9k=",
+    "url": "https://preview.redd.it/dzcpvw1eh4581.jpg?width=640&crop=smart&auto=webp&s=c834fbcbd4fbb04924d7c9047a7e40229ffd6ac5",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Desert Canyon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/req6yt/the_desert_canyon/"
+}

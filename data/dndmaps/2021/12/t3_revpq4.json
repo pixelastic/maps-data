@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bu1y54ai",
+    "name": "boroughbound"
+  },
+  "date": {
+    "day": 1639267200,
+    "full": 1639335774,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_revpq4",
+  "picture": {
+    "filesize": 49166,
+    "fullUrl": "https://external-preview.redd.it/gGhD9sYUso2cWRMrBnBp8h-PRh0P8V9qhqTGqze8dL4.jpg?auto=webp&s=789c133030c53a7073175749b13c1fbf1557151b",
+    "hash": "bbb1925abf",
+    "height": 192,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAFABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAgAGAwEAAAAAAAAAAAAAAQIAAwQGERMSITFi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAEFAAAAAAAAAAAAAAAAAAABAhITUf/aAAwDAQACEQMRAD8AxtXcSpsmChlnLMnEucDrsxXTXBuQlaUIVBkg7CcfXnsIQK24Can/2Q==",
+    "url": "https://external-preview.redd.it/gGhD9sYUso2cWRMrBnBp8h-PRh0P8V9qhqTGqze8dL4.jpg?width=640&crop=smart&auto=webp&s=8d353dbe6fade734fdf84779f1e6a6475204efd7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City on a Bridge - Full Map!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/revpq4/city_on_a_bridge_full_map_120x35/"
+}
