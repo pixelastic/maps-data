@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5kbxe",
+    "name": "powerkor"
+  },
+  "date": {
+    "day": 1639353600,
+    "full": 1639414152,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rfk32i",
+  "picture": {
+    "filesize": 67745,
+    "fullUrl": "https://preview.redd.it/uv691dxfac581.jpg?auto=webp&s=b527b5fb72f327261e5022de0d4e587a758f0c21",
+    "hash": "ac0dbc470d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQQABRMhErEUInH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMREhMi/9oADAMBAAIRAxEAPwDDcPLeLHWXHk7csCB1fenLtuPuCcuFOPlOb4WX736rU9iTcMMsnhaK9Aj0NJbNWNKBkierIojr90uVnpTOjpp1Giv/2Q==",
+    "url": "https://preview.redd.it/uv691dxfac581.jpg?width=640&crop=smart&auto=webp&s=ef5a3c3b1d9825c15ee34281f9b7d87a4bba68e3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dreadmaps - Brigand's Bend 80x80",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rfk32i/dreadmaps_brigands_bend_80x80/"
+}

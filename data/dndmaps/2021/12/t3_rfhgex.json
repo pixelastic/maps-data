@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6p4u8h6h",
+    "name": "TereTox"
+  },
+  "date": {
+    "day": 1639353600,
+    "full": 1639407183,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rfhgex",
+  "picture": {
+    "filesize": 101612,
+    "fullUrl": "https://preview.redd.it/1vta2pmmpb581.jpg?width=2000&format=pjpg&auto=webp&s=ad7e3e059a0d4fcfe069c48b0031a192fb1e043f",
+    "hash": "e4898b068a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQFEQAhMRKBE0FCUWGh4f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgIDAAAAAAAAAAAAAAAAABICESNBYf/aAAwDAQACEQMRAD8AFXGnkerjjgkMTyq8j+Jz07HH5zxo1eBNRvEocyBsukqscgZ4PffOk91WMSQ1NKrxyogDFnLHO2Wx7+Wh11NVWXAyVkYk9CKuwHbHx9akg7cFjStn/9k=",
+    "url": "https://preview.redd.it/1vta2pmmpb581.jpg?width=640&crop=smart&auto=webp&s=763a652328ae42eabb83d53bb2fc1f2cf083db4b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Witch House (20x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rfhgex/witch_house_20x20/"
+}
