@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12flox",
+    "name": "DanielHasenbos"
+  },
+  "date": {
+    "day": 1639440000,
+    "full": 1639495200,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rg9qg3",
+  "picture": {
+    "filesize": 126762,
+    "fullUrl": "https://preview.redd.it/umbk39v3zi581.jpg?width=1333&format=pjpg&auto=webp&s=5c5f8c41e887803d0e1440dbbd2fd949aff385c3",
+    "hash": "f72cc09592",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBRIhExQiMVFhcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwCu91GS02CJt0cgO6ZT5k+x/ayY9cuJb2KFLh2jcFXVmyMEccUonitpdPWHtIEWVfIopyeD80YeGO0B6CKrs2wyHlsZx6/QqE5UxiB5P//Z",
+    "url": "https://preview.redd.it/umbk39v3zi581.jpg?width=640&crop=smart&auto=webp&s=e596f5f86e5f4cbbf1336c4e8e88e81a0327efac",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 129,
+    "value": 129
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The City of Sassarras",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rg9qg3/the_city_of_sassarras/"
+}

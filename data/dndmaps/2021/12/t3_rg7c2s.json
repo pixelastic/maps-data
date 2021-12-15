@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1639440000,
+    "full": 1639488014,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rg7c2s",
+  "picture": {
+    "filesize": 63633,
+    "fullUrl": "https://preview.redd.it/g6smdj11ei581.jpg?auto=webp&s=bdbd978ef975627db498ab44daf89025c3502933",
+    "hash": "126a803814",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAQMDBAMAAAAAAAAAAAAAAQIDEgAEEQUhIlEUFTH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABoRAAICAwAAAAAAAAAAAAAAAAACERIBITL/2gAMAwEAAhEDEQA/AM1No0mxbXBMiCT3RoWCPW+RNnqEhL51VZF66rSUp47KiDjfGM0XFw4psN54mmEzWbE+ktzo/9k=",
+    "url": "https://preview.redd.it/g6smdj11ei581.jpg?width=640&crop=smart&auto=webp&s=cc80f82b2b4360d610f79ee9e910046f1b8d74fd",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 544,
+    "value": 544
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Vessel"],
+  "title": "The Bathysphere (Research Ship Battle Map) - 60x45",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rg7c2s/the_bathysphere_research_ship_battle_map_60x45/"
+}
