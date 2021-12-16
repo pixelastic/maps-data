@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1639526400,
+    "full": 1639570465,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rgxrmj",
+  "picture": {
+    "filesize": 80211,
+    "fullUrl": "https://preview.redd.it/s4ylqio67p581.jpg?auto=webp&s=16998771ee5f3bc3b25cef9b5f5da77062493363",
+    "hash": "5345d881d4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACUQAAEDAwMDBQAAAAAAAAAAAAIBAxEABAUSFCEiMVEyYYGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAERIh/9oADAMBAAIRAxEAPwDCcYLW+ZF1RbE4kjXpnwvt2pd9athc3AsOAaAXcPTPMolXYtzHm/apdKvDSo5rjTqniPjzRXDdvc5jb4xt5w3xUBaYhdRwsJyv3+VPZLVEIAt8n//Z",
+    "url": "https://preview.redd.it/s4ylqio67p581.jpg?width=640&crop=smart&auto=webp&s=7e3711c152737fb797baa4bedb5a5529072fa7e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 169,
+    "value": 169
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Tower of Traitors",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rgxrmj/tower_of_traitors_20x20_oc_battlemap/"
+}

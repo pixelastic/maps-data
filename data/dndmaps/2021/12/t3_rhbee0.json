@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1639526400,
+    "full": 1639607728,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rhbee0",
+  "picture": {
+    "filesize": 137398,
+    "fullUrl": "https://preview.redd.it/isett96z9s581.jpg?auto=webp&s=c2460d4ad61902e2120641b20957859c36101a08",
+    "hash": "9aca42763a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACYQAAICAAQEBwAAAAAAAAAAAAECAwQABRESEzFhcQYhQVGBocH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABsRAAIBBQAAAAAAAAAAAAAAAAABEQISEyFB/9oADAMBAAIRAxEAPwDP/CNU2aUcQlSFwd7Suw81A5adx94fO68UZ4amIyhNwKkdzqffEbN+rViR7EO8yx7UWJtjKw9eWmnQ/GDL8xis3WRqYB2g8LeADp1/MR7Km8nBp1B//9k=",
+    "url": "https://preview.redd.it/isett96z9s581.jpg?width=640&crop=smart&auto=webp&s=fd8becc839baeed548c6ae4b59d4d2f4fdba5e68",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "What about 80 maps with 800 versions?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rhbee0/what_about_80_maps_with_800_versions/"
+}

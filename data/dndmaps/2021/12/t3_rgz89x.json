@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6p4u8h6h",
+    "name": "TereTox"
+  },
+  "date": {
+    "day": 1639526400,
+    "full": 1639575271,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rgz89x",
+  "picture": {
+    "filesize": 76872,
+    "fullUrl": "https://preview.redd.it/gs3yiwhglp581.jpg?width=3000&format=pjpg&auto=webp&s=dc09d740c9b608c7293d241980def718e21b5a53",
+    "hash": "c232033fda",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACEQAAICAQQCAwAAAAAAAAAAAAECAwQRAAUSMRMhQVGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEhABH/2gAMAwEAAhEDEQA/AMO2vbIhWisziU+RC2SuEUciO/vAzjT0jodjnkqJWasYArSNAFYMejkfJAP7o7BaikrQVjdICRkvHI2EHv1jI7GdTN2tIk24w1RI1eZ+Kty4qADkjiPRGejo4rcwJv/Z",
+    "url": "https://preview.redd.it/gs3yiwhglp581.jpg?width=640&crop=smart&auto=webp&s=538b0af809f1f9c129d13f36530d33c6905d37d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 118,
+    "value": 118
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Sewage (30x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rgz89x/sewage_30x30/"
+}
