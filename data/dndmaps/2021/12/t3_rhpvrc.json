@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1639612800,
+    "full": 1639658206,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rhpvrc",
+  "picture": {
+    "filesize": 51346,
+    "fullUrl": "https://preview.redd.it/lumyotl4gw581.jpg?auto=webp&s=0ea22fdc4771392d216a58a549c6b63539ea8648",
+    "hash": "926216827a",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQMEEQACEjEFQSFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECA1Ex/9oADAMBAAIRAxEAPwDO003XIOlHU3N9JgZ5DGDIPR38qfWDQyE7LiAfIsInvXrVKVLHBp61h//Z",
+    "url": "https://preview.redd.it/lumyotl4gw581.jpg?width=640&crop=smart&auto=webp&s=9a9da8e4fa41ad17134dac41b5558ec8725463dd",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 442,
+    "value": 442
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dwarven Excavation but in the Jungle (this time done in Dungeondraft)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rhpvrc/dwarven_excavation_but_in_the_jungle_this_time/"
+}
