@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1639699200,
+    "full": 1639755457,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rik1nm",
+  "picture": {
+    "filesize": 207379,
+    "fullUrl": "https://preview.redd.it/dwo6ldf9h4681.jpg?auto=webp&s=db41173880beccbfdfc3d64d801548aa1dd06d33",
+    "hash": "eb3f5782db",
+    "height": 967,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAJxAAAgECBAQHAAAAAAAAAAAAAQIDBAUABxESEyEiQRQkMVFhkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIBBQAAAAAAAAAAAAAAAAECAAMREsHw/9oADAMBAAIRAxEAPwC0OYF2gYtU1EoE/RvljYRkepJA9vjnhUZhXZwGjrrcidgRofojGPhvUkDWXhzp5eRmG4gBOkjmQD+YcOZNdSHw9KySQRDYjSPqxA7k8HEdMMwyJil1At25/9k=",
+    "url": "https://preview.redd.it/dwo6ldf9h4681.jpg?width=640&crop=smart&auto=webp&s=365cea1db5ad75b7a45ffb269d2787261de6f138",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Garden of Dawn 27x48",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rik1nm/oc_garden_of_dawn_27x48/"
+}

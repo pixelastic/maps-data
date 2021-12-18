@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dpmqd2ka",
+    "name": "DragonMapMaker"
+  },
+  "date": {
+    "day": 1639699200,
+    "full": 1639762000,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rimcks",
+  "picture": {
+    "filesize": 117063,
+    "fullUrl": "https://preview.redd.it/4mfo4fe805681.jpg?width=4000&format=pjpg&auto=webp&s=c6984d5d094ee48df07ab25647034ae25459bf28",
+    "hash": "5df94a353b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAJhAAAgIBAgMJAAAAAAAAAAAAAQIDBBEAIRJxgQUGExQiMVGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAIDAAAAAAAAAAAAAAAAAQADAhMi/9oADAMBAAIRAxEAPwALRgVakk1oyyBSsYQNhixydzyHXOp8klkFqMs3iK2TDIwDKR9Bh+63Vlle0eFSaJnSJonXJJLe42356dwd07K2J2uQ9jspsI0WIgCsfH6wfkldumodVWw5SKMJ/9k=",
+    "url": "https://preview.redd.it/4mfo4fe805681.jpg?width=640&crop=smart&auto=webp&s=9d857b852c934dec04e65a6f9c317455285c50a4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Manor House      A map of a manor house",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rimcks/manor_house_50x50_4000x4000px_battlemap_day_night/"
+}

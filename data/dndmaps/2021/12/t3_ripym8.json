@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1639699200,
+    "full": 1639772463,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_ripym8",
+  "picture": {
+    "filesize": 107933,
+    "fullUrl": "https://preview.redd.it/odec62lvv5681.jpg?auto=webp&s=ebb632e42b8c63fbba4590a295c3ad524b42a25e",
+    "hash": "1bbf92df00",
+    "height": 1114,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQIDBgcAAAAAAAAAAAAAAgEDAAQRBQYTITGREhQVU2GBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEAAwEAAAAAAAAAAAAAAAACAAEDQf/aAAwDAQACEQMRAD8AzKyZGQS7T789LtNmjGIw4SovEtNd8qRBYhdkNoflbSe6dyjIilGxQjQta5LX18gLALxvBMMkbVrsXvsbok8n/9k=",
+    "url": "https://preview.redd.it/odec62lvv5681.jpg?width=640&crop=smart&auto=webp&s=09a402a45466e9045bd0f3f2b1c9453f6aadc6af",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dragon Hoard",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ripym8/dragon_hoard_27x48/"
+}
