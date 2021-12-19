@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1639785600,
+    "full": 1639850613,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rjcwkh",
+  "picture": {
+    "filesize": 59598,
+    "fullUrl": "https://external-preview.redd.it/pEhZtx2Ma9pYXQS7dHX3TP5eEXs7ZjFLimJHqRr9Erc.jpg?auto=webp&s=608fe131fb51e7003429aef2f6d7f997dc5ae167",
+    "hash": "f3c5dbc3b9",
+    "height": 346,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAJhAAAQQBAgQHAAAAAAAAAAAAAQIDBAUAESESEzE1QXJ0kbGy4f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAIBEAAgEBCQAAAAAAAAAAAAAAAQIAEQMSEyExcdHh8P/aAAwDAQACEQMRAD8AeJGq4M6VWyI0JYcd5jbzqgnh1G4CtSCP3LEsQLGyRXwa+GUx2180NEbpI68Xjpt75gjt9d5D8YVL3lXph9BkuM7WDLXQdezggKWJuio35n//2Q==",
+    "url": "https://external-preview.redd.it/pEhZtx2Ma9pYXQS7dHX3TP5eEXs7ZjFLimJHqRr9Erc.jpg?width=640&crop=smart&auto=webp&s=f13900d32464aeb31292dc0b87f6afb6af76ccbe",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "On the seventh day of Christmas, Czepeku gave to me - 7 planks a slipping! ⁠ For the next 6 days we'll be posting unwatermarked copies of our map variants!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rjcwkh/on_the_seventh_day_of_christmas_czepeku_gave_to/"
+}

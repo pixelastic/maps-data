@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bkwpz",
+    "name": "posavec00"
+  },
+  "date": {
+    "day": 1639785600,
+    "full": 1639843597,
+    "month": 1638316800,
+    "week": 1639267200
+  },
+  "id": "t3_rjai1z",
+  "picture": {
+    "filesize": 19429,
+    "fullUrl": "https://external-preview.redd.it/D7zxSdVaKMEldZx-gdvZ6qIj48x__NEWaEzqpidXXfc.jpg?auto=webp&s=6012d11f3a4151abfa8dbaa4e2429265c6dd37de",
+    "hash": "ed1edbf5f8",
+    "height": 234,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEQMS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAQf/aAAwDAQACEQMRAD8A2joNqvlxyUGBESOFf//Z",
+    "url": "https://external-preview.redd.it/D7zxSdVaKMEldZx-gdvZ6qIj48x__NEWaEzqpidXXfc.jpg?width=640&crop=smart&auto=webp&s=10337499ff268727a40a10cc168882474d520099",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Du(st)ngeon II - a dungeon map based on de_dust2",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rjai1z/dustngeon_ii_a_dungeon_map_based_on_de_dust2/"
+}
