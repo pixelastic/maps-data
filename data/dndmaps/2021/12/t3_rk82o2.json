@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3bpb6al7",
+    "name": "MirisDor"
+  },
+  "date": {
+    "day": 1639872000,
+    "full": 1639954477,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rk82o2",
+  "picture": {
+    "filesize": 33440,
+    "fullUrl": "https://preview.redd.it/mjihxoq1xk681.jpg?auto=webp&s=8ae91ccfee3d1a62d95767d89efdcdb1c9b630a8",
+    "hash": "50c324801b",
+    "height": 453,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEI/8QAHhABAQACAgIDAAAAAAAAAAAAAQIAAwQRBTESIUH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/ANOc3kHB1jMfJp+1xPH7K28Wb2K0r7MfbqjaBsiaB7BO8szMyTIAeg/MbhMdP//Z",
+    "url": "https://preview.redd.it/mjihxoq1xk681.jpg?width=640&crop=smart&auto=webp&s=ef9571b34a352d066e0b0bca549c1d7f934aa7b0",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Isometric (Hex) map - City of Aletka",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rk82o2/isometric_hex_map_city_of_aletka/"
+}

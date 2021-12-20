@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4l0zpy6e",
+    "name": "BootsNMaps"
+  },
+  "date": {
+    "day": 1639872000,
+    "full": 1639956932,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rk8xos",
+  "picture": {
+    "filesize": 201645,
+    "fullUrl": "https://preview.redd.it/8xbk9g3d4l681.jpg?auto=webp&s=34559225a0555fe61806e43113f6aa02daa462b6",
+    "hash": "5f4220293a",
+    "height": 1066,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAAREhMhMUEFFBUiI1Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAABAEH/2gAMAwEAAhEDEQA/AM2fkR5IlTnu4alFoWSkjKeKUhKgANQbAcW23p4/VZ+Q3kx0pawjAFP2IFtL1MuUlqZ5dhwqnl1t1TDiElCjYjEAnj8tpzR+O6y/8ypzeJz3Purc6/VMjlOJt//Z",
+    "url": "https://preview.redd.it/8xbk9g3d4l681.jpg?width=640&crop=smart&auto=webp&s=4043ee5b7b4fdf4a6e325e8b583d3d78c447aaf7",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Frozen Bog",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rk8xos/frozen_bog/"
+}

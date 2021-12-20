@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dpmqd2ka",
+    "name": "DragonMapMaker"
+  },
+  "date": {
+    "day": 1639872000,
+    "full": 1639934488,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rk182s",
+  "picture": {
+    "filesize": 115400,
+    "fullUrl": "https://preview.redd.it/6ketsc379j681.jpg?width=4000&format=pjpg&auto=webp&s=2ccf5aa2f0c93cb96cd6557f4e118189cbf64eb1",
+    "hash": "6ad8f5bcf1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACcQAAIBAgQEBwAAAAAAAAAAAAECAwQRAAUTQQYSITEUIiNRcYHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDBCEi/9oADAMBAAIRAxEAPwDFoaWNcnp5ZUiapmqG0zq3LJ7EX6NsPjAaDLvHZk8xjkpaeMqdFpOrE/trjDHKeHYoJ1qKp/UV2cA9hv8ARxVzSmWlV1ih5xIC/KPMw2Nx3xHdlKPMNsZ//9k=",
+    "url": "https://preview.redd.it/6ketsc379j681.jpg?width=640&crop=smart&auto=webp&s=49b04c88c4b35402b539b6a4547497b621eb5a16",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Forest Cave         A cave in a forest with Desert and pine variants",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rk182s/forest_cave_50x50_4000x4000px_battlemap_day_night/"
+}
