@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a80o77cy",
+    "name": "Fair_Bike670"
+  },
+  "date": {
+    "day": 1639958400,
+    "full": 1640018263,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rkrbea",
+  "picture": {
+    "filesize": 93956,
+    "fullUrl": "https://preview.redd.it/z9usq4y16q681.jpg?width=1200&format=pjpg&auto=webp&s=7f1686d426ec34639c73b27212f38ed7bf7f8026",
+    "hash": "affe157cad",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAQMEAQUAAAAAAAAAAAABAgMEESEABRITQRQxUXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMiEf/aAAwDAQACEQMRAD8ASTV+2bo0lBS1UVNVm3WzKeLsM5AxfB/PrUHadtn2maTtqI5i7kMqSWTxkEjIGRj3vfRFZH9VEgdlVHkK8SVIPD5Gn5YtInKx400LjHm+gWYyhKjxH//Z",
+    "url": "https://preview.redd.it/z9usq4y16q681.jpg?width=640&crop=smart&auto=webp&s=48528b8bb841a4bc8951efa28cbcee9d3dc9f81e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 138,
+    "value": 138
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon Bridge.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rkrbea/dragon_bridge/"
+}

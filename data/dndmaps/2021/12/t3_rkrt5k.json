@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4yy8u",
+    "name": "SimpleRy"
+  },
+  "date": {
+    "day": 1639958400,
+    "full": 1640019625,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rkrt5k",
+  "picture": {
+    "filesize": 149050,
+    "fullUrl": "https://preview.redd.it/o3na3q5laq681.jpg?auto=webp&s=1adf4c7d4c437975d6fa4bd84b6595a0d92bb835",
+    "hash": "9cdde93814",
+    "height": 811,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQREiEFMXEGEyNBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/ANHPdSXFwepLMiyqTGBksrjbgEd/zPimdDmMslwZHjWUKmyh9cHLc4J4qTJDG81wrQOGT3RGAjM2hbnH0DkA4pnp8SvPdSyW7SyskYb4SuuNsd/NTYlt8HVLD//Z",
+    "url": "https://preview.redd.it/o3na3q5laq681.jpg?width=640&crop=smart&auto=webp&s=e3f0d84f1e8abc9d8e1342d82b7a21366c6839ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bruca's Leap Redoubt",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rkrt5k/oc_art_brucas_leap_redoubt_33x26/"
+}
