@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1zbjd31k",
+    "name": "ImGoogling"
+  },
+  "date": {
+    "day": 1640044800,
+    "full": 1640117944,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rln7te",
+  "picture": {
+    "filesize": 96512,
+    "fullUrl": "https://preview.redd.it/u8c4zuc5fy681.jpg?auto=webp&s=6fe7427c242710899a65fd353a84d60aefac7e49",
+    "hash": "aa5e36869a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACYQAAEEAAQFBQAAAAAAAAAAAAECAwQRAAUGIQcSEzFRYXGh0fD/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EACARAAEDAgcAAAAAAAAAAAAAAAEAAhEDEhMUISNRYZH/2gAMAwEAAhEDEQA/AMj09p+NMjNTnLUBSemDVn384fn2nIbEZ+e0FNBNjpLNg+KP77HD+ZlomNxprjiXHiSkE0jmA29LJ2xRxBVk0R5UKA66ZLJtaAQUdtt+3N84kNR+Zw5PPUJhm3fA91X/2Q==",
+    "url": "https://preview.redd.it/u8c4zuc5fy681.jpg?width=640&crop=smart&auto=webp&s=ec35d61f043c956f4cd30192826bab28ad69c36d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Hidden Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rln7te/a_hidden_temple/"
+}

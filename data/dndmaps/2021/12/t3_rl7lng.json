@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ahblf",
+    "name": "Arcyl"
+  },
+  "date": {
+    "day": 1640044800,
+    "full": 1640065857,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rl7lng",
+  "picture": {
+    "filesize": 70347,
+    "fullUrl": "https://preview.redd.it/rd9163ae1u681.jpg?auto=webp&s=8058cd24951eabfc720c331174ebb6578a137aaa",
+    "hash": "8885a42c7f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACEQAAEEAQQDAQAAAAAAAAAAAAECAwQRBQAGEiETMUFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwDI7fxUWM2JMltxgSIywjyPJF2ACQSmq7Hf7pe8DjVOLUxBId8RSFlwiuIA9CgeySD91XtrPMysenHypLMFmOwlslzk4XUgEqoXSfXwXoM/Px0mC6y5Ia8wjOKQ62sLLxtPEKNWFdHq/neg16jFRrs//9k=",
+    "url": "https://preview.redd.it/rd9163ae1u681.jpg?width=640&crop=smart&auto=webp&s=5c9bfa2abfb23f0be0f58ef37718823ccf32dbdf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Tomb of Diderius (Files in Comments)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rl7lng/tomb_of_diderius_files_in_comments/"
+}

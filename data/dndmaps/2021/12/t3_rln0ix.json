@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1zbjd31k",
+    "name": "ImGoogling"
+  },
+  "date": {
+    "day": 1640044800,
+    "full": 1640117385,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rln0ix",
+  "picture": {
+    "filesize": 150194,
+    "fullUrl": "https://preview.redd.it/8atq2augdy681.jpg?auto=webp&s=b354d2d3520fe503e191765fd420e8b99a88ec5f",
+    "hash": "77e0a08e60",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAIxAAAgICAgIBBQAAAAAAAAAAAQIDBBEhABIFE5EGMUFRgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRIjH/2gAMAwEAAhEDEQA/AMouGpPGKyGKKOKMKrSJhmYjLMeqknexnQAH75D6noUILlc0Ze8UldGLQIvrZtqSu/zj5zxDVuN4x7FCNfG+QlkqpB3sSdPRjZVCdHHYfbfDPm2kjsx14J65FeJY2ZMYd9sxH9Y/HGy47QKD0qZ//9k=",
+    "url": "https://preview.redd.it/8atq2augdy681.jpg?width=640&crop=smart&auto=webp&s=f5c3e39fcd91a5cdcea252ea7c3db7957e55da3a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bheur Hag Cavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rln0ix/bheur_hag_cavern/"
+}
