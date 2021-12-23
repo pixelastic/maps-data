@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4ie2smfu",
+    "name": "EightfoldPaper"
+  },
+  "date": {
+    "day": 1640131200,
+    "full": 1640186264,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rm7aeh",
+  "picture": {
+    "filesize": 121496,
+    "fullUrl": "https://preview.redd.it/avx85oam14781.jpg?auto=webp&s=a1b975d4165d1c83de0939512ae20fecbda2be9c",
+    "hash": "4009cbe768",
+    "height": 1056,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgID/8QAJBAAAQQABQQDAAAAAAAAAAAAAgEDBBEABQYSExUxQWEhIjL/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMRIVGx/9oADAMBAAIRAxEAPwAbpiSwzprNYL8VmwUxNykJRJQqhW+1+cB3stji8YpLhCiEqVvL49dsRIdaRib08jKGLl8hotKKfm0XG4lkW1OWTmXJX22tpV+a9YVcg4GpPVUtWzOM74PZ/9k=",
+    "url": "https://preview.redd.it/avx85oam14781.jpg?width=640&crop=smart&auto=webp&s=35002e3e0f435fd3e707c35f0296e0ceb9cc6710",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 128,
+    "value": 128
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Cavern of Frost Giants",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rm7aeh/cavern_of_frost_giants_part_03_20x33/"
+}
