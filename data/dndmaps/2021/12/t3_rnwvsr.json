@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4l0zpy6e",
+    "name": "BootsNMaps"
+  },
+  "date": {
+    "day": 1640304000,
+    "full": 1640386643,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rnwvsr",
+  "picture": {
+    "filesize": 80885,
+    "fullUrl": "https://preview.redd.it/ael51ez4mk781.jpg?auto=webp&s=f4cfaa30cbf8a0cdb5f3d1df3cc149bb4a128d2a",
+    "hash": "52d001fb96",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACQQAAEEAgEDBQEAAAAAAAAAAAECAwQRBRIAEyFBIzEyUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADEUH/2gAMAwEAAhEDEQA/AM7jTE4yInEvU/jw+6tLzZBtRVpd/Qodv3kuRhypcJkyZLLOKClW6lGiSQPkKvY32vzwsXKVDxWPLKGfUaUHNmwd7UoWSfc0eImx23XeqB0wWwC22aR5F1/BwrcisQRyTvUxw72f/9k=",
+    "url": "https://preview.redd.it/ael51ez4mk781.jpg?width=640&crop=smart&auto=webp&s=63260df05d35257e92254a91fdedb880df3ede5b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Waterfall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rnwvsr/waterfall/"
+}

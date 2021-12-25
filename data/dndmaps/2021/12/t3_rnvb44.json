@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_699mnu5g",
+    "name": "LIZARD_HOLE"
+  },
+  "date": {
+    "day": 1640304000,
+    "full": 1640381381,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rnvb44",
+  "picture": {
+    "filesize": 468884,
+    "fullUrl": "https://preview.redd.it/yu0agwfo5k781.png?auto=webp&s=d52c39b7639bb4b1fb65b9f0ae52eec858b7caac",
+    "hash": "9e38a383f2",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlElEQVQYlQXBWXOTQAAAYH6NvjjWXlM1EppmuGE5stzHLscCgUCKtCZpo2Mz+KCjjs6oT9bf6vdRbOiyic8RPEPhxLWuUEgH3lUcfPh8+PP4K1g3rx0LlClPkmnoMC6kGMdkXZ1tKum6nRc5jeJ5ReQ2/fH34fHfT3tdnXlBNiC4SoRVzRNMMZ51JArnjsXWJVsRdllqt325yQ5j/O1rWw+Bjs12q+BWnZFcLBJKyOITXT819Escn0GLrQr9Zn0Yi7udBys4/kbNADUskUZRcucCmpTWVnQU0b4/S+JJFE8w2nzad/f1S989Nk2ly8DQT3NiFLae20zkUWbfiFWmFonZFcZbwsT2l+9jftuAFADiSsvc60K8dtgq4UosLjMKrEq7Cd6Ni3oA/Z2x2yMlt5gM9Vv3/iN6/5Bt906/c/glugg9OrApGZtpKd/sbdRIVqryyDqF2pFtcQR32+J6E9LYmxP8xl884bkTTaZ4D6ihOoXq5UJmXO0pzz1XpFkW01GgEeyU4StDO1bFF0B+JnDnivAfL+Cac86VOLQAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/yu0agwfo5k781.png?width=640&crop=smart&auto=webp&s=542f7a6a48a101e8ef393734254dc40e640532f6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "A world map for my current campaign, feel free to use",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rnvb44/a_world_map_for_my_current_campaign_feel_free_to/"
+}

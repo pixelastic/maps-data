@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1640304000,
+    "full": 1640347356,
+    "month": 1638316800,
+    "week": 1639872000
+  },
+  "id": "t3_rnkytw",
+  "picture": {
+    "filesize": 115315,
+    "fullUrl": "https://preview.redd.it/o7sr8nlcdh781.jpg?auto=webp&s=e9b93fb8fca7bc694a394e16b10ad8e53817c0b4",
+    "hash": "705518b201",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQMCABEEBRIhYRMiQSMxUXHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIREnH/2gAMAwEAAhEDEQA/AMQ1MhgIsvZnXIPnwLUgYODoRaAy8gLxjud/jj3qcql1dasQCxR9UzBuIadu7gj8pGZ5wzMFIU1alJwqhFYXAwM+CQPvfipSz0GaewLV00cZ/9k=",
+    "url": "https://preview.redd.it/o7sr8nlcdh781.jpg?width=640&crop=smart&auto=webp&s=5cdc5d8ffeeb455bc2db0afee1e88f67148eb6e5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Road Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rnkytw/forest_road_camp_40x40/"
+}
