@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gpz47qcg",
+    "name": "AdequateCartographer"
+  },
+  "date": {
+    "day": 1640476800,
+    "full": 1640538087,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rp0war",
+  "picture": {
+    "filesize": 109699,
+    "fullUrl": "https://preview.redd.it/9p9mxzwf4x781.jpg?auto=webp&s=852a0eb86b4b146390f829d19a201b1d2c991bf0",
+    "hash": "88d8ef5b5b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAJhAAAgIBAwIGAwAAAAAAAAAAAQIDBBEABSESExQVIiMxcUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQASAgMjYf/aAAwDAQACEQMRAD8AuzbhYlv73CXeTsubCFmPp6XKlfog/H81oqCPSSCsvip+C72JZM4+MfnOP0NC7fZvSedwWYpSrTdqH2iMJ1EEjA540ruN27Wq0oq0IczziN2VCTEmRjj64zqRXmPsbra5Kz//2Q==",
+    "url": "https://preview.redd.it/9p9mxzwf4x781.jpg?width=640&crop=smart&auto=webp&s=2e6b007ee9804de097eb113420c85e9a9af454f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 184,
+    "value": 184
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Map of a small village with a ferry crossing nearby",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rp0war/map_of_a_small_village_with_a_ferry_crossing/"
+}

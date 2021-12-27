@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21v10kpq",
+    "name": "fantasymaps"
+  },
+  "date": {
+    "day": 1640476800,
+    "full": 1640523715,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rowimm",
+  "picture": {
+    "filesize": 84654,
+    "fullUrl": "https://preview.redd.it/50k2te9qxv781.jpg?auto=webp&s=eedb8b77b423df9161b69514cafe6a59fc681dc0",
+    "hash": "d5f968c423",
+    "height": 882,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAYH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAURIQAGBzETQVFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAwDAQACEQMRAD8AwGh0iBLfiobWgSEsLeeTIWEoskXJv6xc2zqfqb0V6UVxWihBAuOhf3b60leKuN6XL2gxUa3SX3ZM2F40vuJDgBVhCkoGQACM5JIJOANHbdtMFM3JUYbKFeNl4pSLHA+DjsdH80CLf//Z",
+    "url": "https://preview.redd.it/50k2te9qxv781.jpg?width=640&crop=smart&auto=webp&s=0fc359c519bdf46f43eb7e5660eeab29e158e29c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 313,
+    "value": 313
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Frost Giant's Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rowimm/frost_giants_cave_37x51/"
+}
