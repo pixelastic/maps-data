@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_vgp99",
+    "name": "TerTerro"
+  },
+  "date": {
+    "day": 1640563200,
+    "full": 1640628576,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rptdsb",
+  "picture": {
+    "filesize": 138581,
+    "fullUrl": "https://preview.redd.it/d2t9hdqjl4881.jpg?auto=webp&s=0c3a8f448143607fba6ce9b1257a80202d292c58",
+    "hash": "f093d3e4f8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURAAYhEhMUQSIxcVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAEFAAAAAAAAAAAAAAAAAAEAAhEhUf/aAAwDAQACEQMRAD8A3Nxz09Vuyp8+8RUlIrdJjimYyKoH8xgH6OP3RluNa256CpE1wWy08iAydOY+jHB+/krccn22ob1InnXDtW5EEwmgkVYC7NJk9tkcggZ4zgj3oWu2XWbcUBpI5AadYS7FO2rqAuQM8H894Ok4ya1TtAi8X//Z",
+    "url": "https://preview.redd.it/d2t9hdqjl4881.jpg?width=640&crop=smart&auto=webp&s=f54a6cafbc9aedb0a2d8dbe0f3c8ba2861ad21ec",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Floating Islands City",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rptdsb/floating_islands_city/"
+}

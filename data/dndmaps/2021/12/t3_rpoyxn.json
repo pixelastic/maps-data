@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1640563200,
+    "full": 1640616200,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rpoyxn",
+  "picture": {
+    "filesize": 87570,
+    "fullUrl": "https://preview.redd.it/zdkldgqpk3881.jpg?auto=webp&s=56247cdfcfb5ef69d14a61c0c2eec799b9972253",
+    "hash": "d450e00c67",
+    "height": 451,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACMQAAICAQMDBQAAAAAAAAAAAAECAwQRABIxBRMhBkFCUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhEhAxIx/9oADAMBAAIRAxEAPwDCsSL1NkhswJImdpdyc5x5CgfvudGzUSjUFPsMYm7m1XcE4HPHI886goSyPRjZnbd5XOcEjS+pLM0lcSvKxk3CPOfj9aIDLvBNKMuZHLX/2Q==",
+    "url": "https://preview.redd.it/zdkldgqpk3881.jpg?width=640&crop=smart&auto=webp&s=8dea035dea7fdbbb52cfeb20cc931c36626ac172",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Khorvaire Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rpoyxn/khorvaire_map/"
+}

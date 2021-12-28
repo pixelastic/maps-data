@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1640563200,
+    "full": 1640617265,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rppbju",
+  "picture": {
+    "filesize": 137935,
+    "fullUrl": "https://preview.redd.it/pu96p8ixn3881.jpg?auto=webp&s=99fb56a4c1b46694615cbc53b84214471c858c0f",
+    "hash": "25307cccb4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAIBAwMDBQAAAAAAAAAAAAIDAQQFEQAhQRIiMTJCYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EAB8RAAAEBwEAAAAAAAAAAAAAAAABETECEhMyM0Fxof/aAAwDAQACEQMRAD8Axex1lQFfTtSyBa1mC6owA+MTpq4VzQqriTRU0mTCiMYiefUM8eNp0QVJtKaGoTUoewSEhGN/nePvjUm4ubcn1b5FcSTO72xmd5xx+aK141O1vW4HjKXY/9k=",
+    "url": "https://preview.redd.it/pu96p8ixn3881.jpg?width=640&crop=smart&auto=webp&s=0475d03d6938cbcba2f457f9901661617547dcc5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Great Library",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rppbju/the_great_library_oc20x20/"
+}
