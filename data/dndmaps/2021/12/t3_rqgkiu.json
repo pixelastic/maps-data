@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1640649600,
+    "full": 1640700175,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rqgkiu",
+  "picture": {
+    "filesize": 45322,
+    "fullUrl": "https://external-preview.redd.it/81sHSZ3lXwZNyCWCottsDkjc4I7VWtZ-TeuPOXId_vw.jpg?auto=webp&s=96912a617d63a238d888a4fca403ef2cdfcb2a40",
+    "hash": "e6ad45108f",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDABExBBIhBRQiQXFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAhEBIf/aAAwDAQACEQMRAD8AwcL4bbAIvrhQL4tbNU8bssZkKmEeDAjgj39+0V0NO4gjV2YBWbB/KS1UZTQSMJJNyEqpvi9qqx1lgjXmn//Z",
+    "url": "https://external-preview.redd.it/81sHSZ3lXwZNyCWCottsDkjc4I7VWtZ-TeuPOXId_vw.jpg?width=640&crop=smart&auto=webp&s=98eed7148585c015b3f7635aa60e8b39f5e07bac",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Tidal Cavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rqgkiu/tidal_cavern_22x17/"
+}
