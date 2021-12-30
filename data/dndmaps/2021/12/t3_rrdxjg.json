@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1dslm3dd",
+    "name": "Mazuick"
+  },
+  "date": {
+    "day": 1640736000,
+    "full": 1640800015,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rrdxjg",
+  "picture": {
+    "filesize": 102430,
+    "fullUrl": "https://preview.redd.it/1tlze8n8ri881.jpg?auto=webp&s=0cbab20ec785e91bd27bcea803e8e15a72750413",
+    "hash": "e9d663b81c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIDBBEABRITITEGFUNRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAACEQMS/9oADAMBAAIRAxEAPwCv5PTSNmrGfaQ6BtCO7a1FwLn5/cEpIrVMcrR64iyq6qOTyLi3ZIvjQ1FLCczjhlQSxgkRhvbBbpSLcfRvg0+R03reX0zyTPGoaclmBLtqHZt1wOsS2zrUUukXk//Z",
+    "url": "https://preview.redd.it/1tlze8n8ri881.jpg?width=640&crop=smart&auto=webp&s=fb29e1ee2173749d40fee01a1eb820d9d692f32f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Region/World Map of Homebrew Setting",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rrdxjg/regionworld_map_of_homebrew_setting/"
+}
