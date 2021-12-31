@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gpz47qcg",
+    "name": "AdequateCartographer"
+  },
+  "date": {
+    "day": 1640822400,
+    "full": 1640888232,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rs89ai",
+  "picture": {
+    "filesize": 140780,
+    "fullUrl": "https://preview.redd.it/9z4eg2en1q881.jpg?auto=webp&s=4f60a8ebc11d7ba97150c347e6750ec7b5560def",
+    "hash": "1649ffdd51",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAIBAwIFBQAAAAAAAAAAAAEDAgQFEQASBhMhQVEiJDFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACIQNR/9oADAMBAAIRAxEAPwAxPDsF1EHvulRyZMMik5iDkkgCQkennvjT9z10lKyu5G9zDBcioyxL1AAAHoAO8gNZ5Yb1V0txahqWzt02TDdyZHbASJ3RIGcjsPOrC3XRLra02+TEMBEfcpkCRkfMR9E4I6fmNRj2hsVzaojk/9k=",
+    "url": "https://preview.redd.it/9z4eg2en1q881.jpg?width=640&crop=smart&auto=webp&s=72360eb29c5484e0f65b4c4a847da227868c2266",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Map of two villages on the confluence of two rivers. 1:10000 scale",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rs89ai/map_of_two_villages_on_the_confluence_of_two/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1640822400,
+    "full": 1640895981,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rsba10",
+  "picture": {
+    "filesize": 84380,
+    "fullUrl": "https://preview.redd.it/wiryj8y6oq881.jpg?auto=webp&s=e25c919f623cafb71f57d7e71a1eb4b9a736bccb",
+    "hash": "a717aa5413",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACUQAAEDAwMDBQAAAAAAAAAAAAIBAwQFERMABiESIjEyQVGB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHBEAAQMFAAAAAAAAAAAAAAAAAgABEQMEBTFR/9oADAMBAAIRAxEAPwAfE3XWEgsWqshREi5Q1MkW3uv7pC3xuGr1fM7Iqcp6G24rQIRdqqnqK3zq3bwBtZGNWg6UTJ4tz9azc2bkuPKyOEIK4R4xt0388alsCKoTlOkeQAhhur//2Q==",
+    "url": "https://preview.redd.it/wiryj8y6oq881.jpg?width=640&crop=smart&auto=webp&s=4d8c4db9b5c2cd437d11327828c4b3e3f9113c72",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "An adventure map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rsba10/an_adventure_map/"
+}

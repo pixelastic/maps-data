@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9c4689",
+    "name": "Raznag"
+  },
+  "date": {
+    "day": 1640822400,
+    "full": 1640896573,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rsbidc",
+  "picture": {
+    "filesize": 55495,
+    "fullUrl": "https://preview.redd.it/wfcpku8dqq881.jpg?auto=webp&s=e5f844a7173bee872d2e399bc6de3ac08fc5770e",
+    "hash": "9550593e8d",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDCP/EACIQAAICAQMEAwAAAAAAAAAAAAECAxEEABIhBRMxQSJh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDRfWo0xemSTMzM9Db2xSijYHHrT9Klhyk2QzFMpFHdiZT8T58er4PnnRLjJMkkRLopBB2MRfI/dTykGLtUFpNzbSZDZNCrNVZ+zoP/2Q==",
+    "url": "https://preview.redd.it/wfcpku8dqq881.jpg?width=640&crop=smart&auto=webp&s=0bc4b6232c134a9cd4461fadef6323d86659b282",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Kobolds' Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rsbidc/the_kobolds_lair/"
+}

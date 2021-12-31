@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dritcety",
+    "name": "Rmemmo"
+  },
+  "date": {
+    "day": 1640822400,
+    "full": 1640878303,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rs4f4c",
+  "picture": {
+    "filesize": 140119,
+    "fullUrl": "https://preview.redd.it/d58c71gz6p881.jpg?auto=webp&s=f1e8a59341d73bbe2c2835ef78cfa632524734f2",
+    "hash": "82a3818771",
+    "height": 549,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAAIBAgYCAwAAAAAAAAAAAAECAwQRAAUTISJBEjFRgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABwRAAIBBQEAAAAAAAAAAAAAAAECAAMREhMx8P/aAAwDAQACEQMRAD8AXo8xR4qhmjSRrL5S6p4ruCFB73t+WxZjBOVSRzUcsLQxnxjcrEkt72G5JIA5dbg4y4GjEEp+DpIzh/ZBsO+/QwdMwr6jXaSvqNUNZACApsbXb7+B6xJNPPkDcqrcjxn/2Q==",
+    "url": "https://preview.redd.it/d58c71gz6p881.jpg?width=640&crop=smart&auto=webp&s=636472fb5a8ef587d4fe321b15754a688a22cf3a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Little Path Through a Tangled Forest (35x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rs4f4c/a_little_path_through_a_tangled_forest_35x30/"
+}
