@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bu1y54ai",
+    "name": "boroughbound"
+  },
+  "date": {
+    "day": 1640908800,
+    "full": 1640974070,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rszoh3",
+  "picture": {
+    "filesize": 74927,
+    "fullUrl": "https://external-preview.redd.it/blClJSmMzjKXE-ExtxJdP2QD7Oggi8GeMXp25F-qADQ.jpg?auto=webp&s=b86952d5dfb4a602883f1f7bfd788a4e5aa09b91",
+    "hash": "569716020a",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAgEAEAAgICAQUAAAAAAAAAAAABAgMEEQAhBRITFFFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEQMRAD8AuTuyJ+TmfIsry/fVkWIiOgAN7evzla3Iuc62Jk2VZBdOUWc9aT1B19vT1xxw5Kv/2Q==",
+    "url": "https://external-preview.redd.it/blClJSmMzjKXE-ExtxJdP2QD7Oggi8GeMXp25F-qADQ.jpg?width=640&crop=smart&auto=webp&s=afd4154d8342c1e8d465bd2a306f1b950b041a36",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 269,
+    "value": 269
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Great Dwarven Library - City Map Internals and Externals! (Part 1 of 4)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rszoh3/the_great_dwarven_library_city_map_internals_and/"
+}

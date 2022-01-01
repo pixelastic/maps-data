@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1640908800,
+    "full": 1640915870,
+    "month": 1638316800,
+    "week": 1640476800
+  },
+  "id": "t3_rsigl1",
+  "picture": {
+    "filesize": 101166,
+    "fullUrl": "https://preview.redd.it/kq316a2rbs881.jpg?auto=webp&s=1cad00c113a2169b724c04a8a9015de9e3a171bd",
+    "hash": "85a831844a",
+    "height": 588,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EAB8QAAICAgMAAwAAAAAAAAAAAAECAxEAEgQhMUFhof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAQf/aAAwDAQACEQMRAD8A1aVZAUZTalAaC+9Y3GJldV0LAizdWPu6/MrHrJx1QyHbor15g46vHuZBQN9D5wcJr//Z",
+    "url": "https://preview.redd.it/kq316a2rbs881.jpg?width=640&crop=smart&auto=webp&s=8693e7a52f1356756fc7e0f477e1c296e8526dde",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Isometric Projection of my version of the Xanathar's Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rsigl1/isometric_projection_of_my_version_of_the/"
+}
