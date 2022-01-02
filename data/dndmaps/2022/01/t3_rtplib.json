@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1640995200,
+    "full": 1641062873,
+    "month": 1640995200,
+    "week": 1640476800
+  },
+  "id": "t3_rtplib",
+  "picture": {
+    "filesize": 166461,
+    "fullUrl": "https://external-preview.redd.it/mI3Zjr8Ubl1HI3cDh7jnvG9igILvdURM0Nn_SBqkwKI.jpg?auto=webp&s=e0fc99eb020450761f5b4328fd4c2baf47f69476",
+    "hash": "009ef1ce04",
+    "height": 983,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAABAwMFAQEBAAAAAAAAAAABAgMEBhEhAAUSMUETgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB4RAAIBAwUAAAAAAAAAAAAAAAECAAMEETFRocHw/9oADAMBAAIRAxEAPwCrQ8yO4umZHKE2pYkfYMqAOeSc3PePfOr6FPptt2dJcBkkKcUq6CxY3J6z1qHUc3Y9w+k+PsEkcyGrIkJYQsj3iASP73jQS9TCjyTSE4JOQA4kgft86hNsjHKPjnuG9N6gCsuntp//2Q==",
+    "url": "https://external-preview.redd.it/mI3Zjr8Ubl1HI3cDh7jnvG9igILvdURM0Nn_SBqkwKI.jpg?width=640&crop=smart&auto=webp&s=e4e9152de36db90802812e7cf30a2ddd97ebb1ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Path to the River Stronghold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rtplib/path_to_the_river_stronghold_28x43/"
+}

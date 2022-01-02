@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1dlqkji",
+    "name": "DuelGrounds"
+  },
+  "date": {
+    "day": 1640995200,
+    "full": 1641067593,
+    "month": 1640995200,
+    "week": 1640476800
+  },
+  "id": "t3_rtr9q4",
+  "picture": {
+    "filesize": 77481,
+    "fullUrl": "https://preview.redd.it/wis57jquu4981.jpg?auto=webp&s=2072f232d6f08816fc4b3db70b00b184f378185c",
+    "hash": "e6dd88477d",
+    "height": 378,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAAEEAQQDAAAAAAAAAAAAAAECAwQRADEzQXESdMH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBv/EAB4RAAEDBAMAAAAAAAAAAAAAAAECAyEABBExUZHh/9oADAMBAAIRAxEAPwDKcEgLMR0lDDdEIcAFjW746xcOUGAhaXJ8Z1aSkrCSPEXpxXRwoO8nrIpmzI9z4MS4yQEJzs1D294HC6opkAYnzkdRX//Z",
+    "url": "https://preview.redd.it/wis57jquu4981.jpg?width=640&crop=smart&auto=webp&s=85f144fb18629439cf3778343f6797f80ba65658",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Just got my campaign world map completed!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rtr9q4/just_got_my_campaign_world_map_completed/"
+}
