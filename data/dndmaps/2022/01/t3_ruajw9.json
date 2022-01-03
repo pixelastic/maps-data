@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1qznp18x",
+    "name": "Zatnikotel"
+  },
+  "date": {
+    "day": 1641081600,
+    "full": 1641133248,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_ruajw9",
+  "picture": {
+    "filesize": 139951,
+    "fullUrl": "https://preview.redd.it/dhetepd1aa981.jpg?auto=webp&s=18d7d0d85e63f4427492e410573db0bad16d2fb4",
+    "hash": "96c47a0a98",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIRAyExAAQSEyJBQlGRocHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDM6NGX7UXgqr2gA3IzHppN5txSZkHT4oIPFgVxaCLTn21bJlNIKKih3A88i0SPg5zfSVRKtTDKCFhTIg+JA+/zU5H/2Q==",
+    "url": "https://preview.redd.it/dhetepd1aa981.jpg?width=640&crop=smart&auto=webp&s=1cf72867e3d42c8c67d6808c99bf439037874ed2",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 471,
+    "value": 471
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Deserted labyrinth-maze-dungeon-thing VTT version no grid",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ruajw9/deserted_labyrinthmazedungeonthing_vtt_version_no/"
+}
