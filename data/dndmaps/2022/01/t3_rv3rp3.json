@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1641168000,
+    "full": 1641222547,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rv3rp3",
+  "picture": {
+    "filesize": 139661,
+    "fullUrl": "https://preview.redd.it/32lkbnhqnh981.jpg?auto=webp&s=feb628ef7a01d98b56741e57cf56a48a0d34de31",
+    "hash": "09e720cb5d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQASIRMUcSIxMkFR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQEAAwEAAAAAAAAAAAAAAAERAAIDEv/aAAwDAQACEQMRAD8Azuy2azVTQh6i4RqUxIqbmHV5wQF9l4++dEZIaFSlprbkKqUhUbfhEB+QG7JPONT11lulut8btVoCzdUQpIQ5/PSQGGnrV1lIIWucHeClfJJbcwG4Eqp85x5Ok9PWsomE5xtc/9k=",
+    "url": "https://preview.redd.it/32lkbnhqnh981.jpg?width=640&crop=smart&auto=webp&s=07683bc1e4326b991ecf4accf95d7d3d7741cb81",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 97,
+    "value": 97
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Verdant Remnants",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rv3rp3/the_verdant_remnants_50x50/"
+}

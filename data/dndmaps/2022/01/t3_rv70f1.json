@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_l7qmi",
+    "name": "Terkontar"
+  },
+  "date": {
+    "day": 1641168000,
+    "full": 1641230959,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rv70f1",
+  "picture": {
+    "filesize": 55629,
+    "fullUrl": "https://preview.redd.it/usfxne8fci981.jpg?width=4340&format=pjpg&auto=webp&s=ac526b25879e6cba4c1a8f5df4b133f423f4927f",
+    "hash": "2f453485d2",
+    "height": 372,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAEDAwMEAwAAAAAAAAAAAAIBAwQABREGIUMiQVFhcXLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABERMx/9oADAMBAAIRAxEAPwCJA023d4TIyGwayy2ZjHUAxlOlVXzjtSuq7bCsVquEOO6xIcNQRFMRJwcJuuUTZM7e/dZzxh8JRg5fr+UeTvRtVJD/2Q==",
+    "url": "https://preview.redd.it/usfxne8fci981.jpg?width=640&crop=smart&auto=webp&s=9ad436d9ab3e2be3c59face504b0496aae420736",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 98,
+    "value": 98
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Warehouse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rv70f1/warehouse_31x18/"
+}
