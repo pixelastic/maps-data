@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4q5yyao7",
+    "name": "Brief-Issue-1473"
+  },
+  "date": {
+    "day": 1641254400,
+    "full": 1641306662,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rvvojm",
+  "picture": {
+    "filesize": 66590,
+    "fullUrl": "https://preview.redd.it/l8pmwekolo981.jpg?auto=webp&s=8c230953a22cb7470ddf02569e893060c603fddf",
+    "hash": "2ab7766d30",
+    "height": 575,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMECP/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQAEiEFERMxQWEUI0JRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0VE00K9KUxo/CW0KKlNIPxyPvfod/NE5MUmXHb05lPG2r3bEjNm+MdfyooesMx3W1WPXBpLS0gi1VuAfHenSdbjyGXkpjKDjqCi4kdxtUH//2Q==",
+    "url": "https://preview.redd.it/l8pmwekolo981.jpg?width=640&crop=smart&auto=webp&s=e3207ed3890b6c9e9d6ea6c97494f530f664ecde",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Ninja Pirates",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rvvojm/ninja_pirates/"
+}

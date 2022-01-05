@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12flox",
+    "name": "DanielHasenbos"
+  },
+  "date": {
+    "day": 1641254400,
+    "full": 1641329315,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rw4bu3",
+  "picture": {
+    "filesize": 169857,
+    "fullUrl": "https://preview.redd.it/95hrj20jgq981.jpg?auto=webp&s=39aea70b7de56f902222c823ee409cae1a5dc69a",
+    "hash": "b334aae6c0",
+    "height": 837,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAACAgEEAQUAAAAAAAAAAAABAgMRAAQFEiExQVFhkfH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAQACAwAAAAAAAAAAAAAAAAEAEQISMf/aAAwDAQACEQMRAD8AXBuxhVQ6K/JlbiwHlbrs/f5hn3KwlDkAtX74TQSvq2SGFI4dQXKcJaHd+e/TKbbNPGaVdPID3YcPXxeRzZLjbx4k/9k=",
+    "url": "https://preview.redd.it/95hrj20jgq981.jpg?width=640&crop=smart&auto=webp&s=bf46af39bc2b4ef178b506f71f2a2fd7139019a8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The City of Hofendal",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rw4bu3/the_city_of_hofendal/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1zbjd31k",
+    "name": "ImGoogling"
+  },
+  "date": {
+    "day": 1641254400,
+    "full": 1641330203,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rw4o14",
+  "picture": {
+    "filesize": 206255,
+    "fullUrl": "https://preview.redd.it/vs31xd9sjq981.jpg?auto=webp&s=78b159ffe774f7a49f7ce85d87a6f8b3f07c091c",
+    "hash": "2d1e9f3347",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAlEAABBAEDAgcAAAAAAAAAAAACAQMEBSEAERIGQRMUIlFhcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EAB0RAAIBBAMAAAAAAAAAAAAAAAECAwARIXFRgbH/2gAMAwEAAhEDEQA/AJCrjHGra92qCM8ggSyXHm+TTykuB2+Mpy7Z0m1alx57jUCt6b8qPHhntsnvnQIt9GOurSeF0I67hKBpEBCNEwo/aIirqamWFW7JcNiKTTar6Q8cl2/dtR44ZHclxz7sUTIMW7vuv//Z",
+    "url": "https://preview.redd.it/vs31xd9sjq981.jpg?width=640&crop=smart&auto=webp&s=14e09b27d662b3a90670c37ab0713b92ed426326",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Forgotten Grotto",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rw4o14/the_forgotten_grotto_70x50/"
+}

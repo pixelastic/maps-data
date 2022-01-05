@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c4fply8g",
+    "name": "Divinity_CV"
+  },
+  "date": {
+    "day": 1641254400,
+    "full": 1641328221,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rw3x0c",
+  "picture": {
+    "filesize": 71706,
+    "fullUrl": "https://preview.redd.it/j85yso6ldq981.jpg?auto=webp&s=64b5d0f9ee7ae68e94cd0effe78da159e92d0fad",
+    "hash": "5a139d89af",
+    "height": 405,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDERIxAAQFBhMhUSIyQv/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREBAQADAQAAAAAAAAAAAAAAAQIAAyFB/9oADAMBAAIRAxEAPwDScxFuNtLu32N3bnWk5j+oZTUiv5NCM6M4yOaa/uPI7EFyApckem8+BpTkYYjLETElZGjZzaPkTkn2dXjVYOn0aBREzubigtLZzTOlai9iHPcjm0kz/9k=",
+    "url": "https://preview.redd.it/j85yso6ldq981.jpg?width=640&crop=smart&auto=webp&s=0e126bfe23cf0cdeb5af4f6ff462729d1ea2253a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Faerûn Continent Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rw3x0c/faerûn_continent_map_3e/"
+}
