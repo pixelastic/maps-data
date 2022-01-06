@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4002w4e9",
+    "name": "logan_btw"
+  },
+  "date": {
+    "day": 1641340800,
+    "full": 1641401988,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rwrh1g",
+  "picture": {
+    "filesize": 65497,
+    "fullUrl": "https://preview.redd.it/ixzjdhhxgw981.jpg?auto=webp&s=a991c3ce4e1bd7e8300eeccab2bc55c58780468c",
+    "hash": "397caf1591",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAICAAYCAwEAAAAAAAAAAAEDAhEABAUSITEGQRMUFVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAAIDAAAAAAAAAAAAAAAAAAACAREx/9oADAMBAAIRAxEAPwDQfJdMk3MrCCt8vkZuqVmZEb3VXXB5Hux/MCafkWPirL5eP2JsIWGKWTGB2gkEn3RvDfx0foKW3NymxiMxFazuIqJmAbrvjizik0NEHaqybSyZgmUIiTJEAbpDq6ugOe8TVL0ZY//Z",
+    "url": "https://preview.redd.it/ixzjdhhxgw981.jpg?width=640&crop=smart&auto=webp&s=c0049ba9b4d68b0f6f042aafbda2435bb0fad294",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Astral Mountain Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rwrh1g/oc_astral_mountain_temple/"
+}

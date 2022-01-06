@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_67y4w69v",
+    "name": "mik_wewa"
+  },
+  "date": {
+    "day": 1641340800,
+    "full": 1641383745,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rwl8gk",
+  "picture": {
+    "filesize": 158627,
+    "fullUrl": "https://preview.redd.it/b4i0vpfiyu981.jpg?auto=webp&s=8d34f134619e12e96d6a7456599fd89548e6b91b",
+    "hash": "e78d1379b4",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIhAAAgECBQUAAAAAAAAAAAAAAQIDAAQFERIhIhMxUYGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB0RAAEDBQEAAAAAAAAAAAAAAAEAAgMRMVGRodH/2gAMAwEAAhEDEQA/AJFhtLjA1w1VIMPJiAyrrII9D5tStCG0jgwFrWzumkMi9NXmXVqYb8ssswPHalFEDhYdRGzxZpvxf//Z",
+    "url": "https://preview.redd.it/b4i0vpfiyu981.jpg?width=640&crop=smart&auto=webp&s=c6cfd3aa5848f82543ef0eb48d9871771612d8c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Adventurer's Retirement",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rwl8gk/adventurers_retirement_20x40/"
+}

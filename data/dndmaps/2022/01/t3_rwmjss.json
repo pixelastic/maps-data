@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1641340800,
+    "full": 1641388142,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rwmjss",
+  "picture": {
+    "filesize": 165122,
+    "fullUrl": "https://preview.redd.it/h1dwqv84cv981.jpg?auto=webp&s=326c30524dde6cd81516a32ac92734b12275597e",
+    "hash": "ec61141baf",
+    "height": 873,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDEQQABRIhMVEycYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIDETNxkf/aAAwDAQACEQMRAD8AgR42+QJDA2XkWJVRuEaULvz1ddefrQd323cDmXJmy8ioNkqL/mtKuArImRJNIZSOMyjkW+NhQx9aFmwTxTlOaGgPEjA/vY796gVKltib6jnLma8b6T//2Q==",
+    "url": "https://preview.redd.it/h1dwqv84cv981.jpg?width=640&crop=smart&auto=webp&s=f69d3193630b79b08a45a40a248aae2229326fc8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 223,
+    "value": 223
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dhakaani Ruins Entrance",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rwmjss/dhakaani_ruins_entrance_22x30/"
+}
