@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_99lci2ae",
+    "name": "dl_long"
+  },
+  "date": {
+    "day": 1641427200,
+    "full": 1641504916,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rxpmm5",
+  "picture": {
+    "filesize": 56486,
+    "fullUrl": "https://external-preview.redd.it/4rDsgJnFPRnIuy-VAoCzNaAH90shW47Y0owMPh7e32Q.png?format=pjpg&auto=webp&s=566ecc6e836d802e095d17b50b68334267f7e3d7",
+    "hash": "50b9efcf26",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBEFBjETIXMiNEGxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMSE9H/2gAMAwEAAhEDEQA/AJXSNhzXSzSXjC3ZMHpyusXoOQScnPYj4HNKXse2dDR4UuFvZ5I+mot0JhQtgFix7sRzSe9eZPCn21RWp+0i8q/mqpxgNZMF11WlHs//2Q==",
+    "url": "https://external-preview.redd.it/4rDsgJnFPRnIuy-VAoCzNaAH90shW47Y0owMPh7e32Q.png?width=640&crop=smart&format=pjpg&auto=webp&s=113cb11740b2a7732850cef80cbaa91c5e37ab0e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Animated Map - Desert Island",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rxpmm5/animated_map_desert_island/"
+}
