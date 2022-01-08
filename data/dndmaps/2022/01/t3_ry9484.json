@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1641513600,
+    "full": 1641567111,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_ry9484",
+  "picture": {
+    "filesize": 181500,
+    "fullUrl": "https://preview.redd.it/qgd4arn44aa81.jpg?auto=webp&s=81af8128bcc830f079f85ff19119222e44e75af6",
+    "hash": "dc19fcc643",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACQQAAIABgIABwAAAAAAAAAAAAECAAMEBQYRITESExRxgaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAIDAQEAAAAAAAAAAAAAAAIDAAFBBBH/2gAMAwEAAhEDEQA/AKMaxK0SrfI9TSLPecASTwRsbHtAXHErfIMtKE+SuiW2ACxPP5Gli91pLnY6eaJ6pORFLpvrY7+viEZDeqTxU+mZtKQSvW+IK/odRkPuwdLWK6LZ/9k=",
+    "url": "https://preview.redd.it/qgd4arn44aa81.jpg?width=640&crop=smart&auto=webp&s=8109f28d1c71fc1639cce79a37c213185438cadc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Featherwind City",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ry9484/featherwind_city/"
+}

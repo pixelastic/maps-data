@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1641513600,
+    "full": 1641556931,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_ry5wh3",
+  "picture": {
+    "filesize": 106473,
+    "fullUrl": "https://preview.redd.it/nldc75b1a9a81.jpg?auto=webp&s=2a6480d2978a315db9db2421d8a0f3dc83c8d728",
+    "hash": "8ac8ac8ff0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAgEDBAAFERIhMQYUUSIkYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EAB4RAQACAQQDAAAAAAAAAAAAAAECAxIABCFRMYGx/9oADAMBAAIRAxEAPwDLoHRV+lg9ohxgEd1J0gxnwi6qDdbFc4EknJcN1pvgkH1AXyhcUe23WZbpXszeZwWUQETUu3CJv+1Q23qeV3UoryUmRClAQPNiWSRFTlPrxRdjva5MjGUegR+ukKzZ2GLlF74T341//9k=",
+    "url": "https://preview.redd.it/nldc75b1a9a81.jpg?width=640&crop=smart&auto=webp&s=9dc75de75b9df785e9a291cf1eb434e1719ebe10",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lava River",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ry5wh3/lava_river_40x40/"
+}

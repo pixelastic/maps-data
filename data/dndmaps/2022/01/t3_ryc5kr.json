@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1641513600,
+    "full": 1641574970,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_ryc5kr",
+  "picture": {
+    "filesize": 102149,
+    "fullUrl": "https://external-preview.redd.it/K9sBNzQWtxZBaPkDYXMCjMopSc1l1bxaSxUuY3k6TMI.jpg?auto=webp&s=a1b1aaf16141bafa2b565227ad49abfcdbd3208f",
+    "hash": "76794c4198",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhAAAgICAgEFAQAAAAAAAAAAAQMCBBESACEFFSIxQXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDda51fzLrrbG+kN4IdKcoEYAIHXWMg5wBk4HKrk0STO15S3BUBHURrMEQIjGsSR2QB+fA43naFWp6xaUomddqFqiWSEYhgBlgAj+cGuhNOrYtRWG2ajKoVNpMtQwAy9udfvA66HDgn/9k=",
+    "url": "https://external-preview.redd.it/K9sBNzQWtxZBaPkDYXMCjMopSc1l1bxaSxUuY3k6TMI.jpg?width=640&crop=smart&auto=webp&s=715b4e42785867cb0ec581eb42859203703535e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Snowy Paths",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ryc5kr/snowy_paths_44x34/"
+}

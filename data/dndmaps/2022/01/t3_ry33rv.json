@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1641513600,
+    "full": 1641545878,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_ry33rv",
+  "picture": {
+    "filesize": 83726,
+    "fullUrl": "https://preview.redd.it/l2fnulb5d8a81.jpg?auto=webp&s=7131760b87f43d56d5068cae956021bd1f99d5ce",
+    "hash": "143a314ead",
+    "height": 696,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEI/8QAIhAAAgICAQMFAAAAAAAAAAAAAQMCEQAEEgUTIRRBUWHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAASIhMf/aAAwDAQACEQMRAD8AzvPQUtKnrnz41NkCbsfAAxOzrq9POcUQgKBjYF0TlR2unaJkSJllSIoX5Ht9YfY6it6ytGvPmR5N/mNS9JuuH//Z",
+    "url": "https://preview.redd.it/l2fnulb5d8a81.jpg?width=640&crop=smart&auto=webp&s=0bc27477507edeff6eb4a875d8c3cca0ff25a581",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 273,
+    "value": 273
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ancient Tombs Battle Map 23x25",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ry33rv/ancient_tombs_battle_map_23x25/"
+}
