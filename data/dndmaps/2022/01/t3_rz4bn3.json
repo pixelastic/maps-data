@@ -4,12 +4,12 @@
     "name": "Czepeku"
   },
   "date": {
-    "day": 1641340800,
-    "full": 1641408469,
+    "day": 1641600000,
+    "full": 1641661172,
     "month": 1640995200,
     "week": 1641081600
   },
-  "id": "t3_rwtyx7",
+  "id": "t3_rz4bn3",
   "picture": {
     "filesize": 72132,
     "fullUrl": "https://external-preview.redd.it/sT2oGGGu2WxsAT3LTmfUJgmlAQaBHTUuDRXcKNecaeE.jpg?auto=webp&s=4351215cf7f7dc54368a7f8bf80605484c0b08bb",
@@ -20,18 +20,18 @@
     "width": 640
   },
   "score": {
-    "comments": 5,
+    "comments": 1,
     "downs": 0,
     "isCurated": true,
-    "ratio": 0.96,
-    "ups": 49,
-    "value": 49
+    "ratio": 0.87,
+    "ups": 10,
+    "value": 10
   },
   "subreddit": {
     "id": "t5_3isai",
     "name": "dndmaps"
   },
   "tags": ["Encounter"],
-  "title": "The Pirate Lord's Lair! (Map 1 of 3)",
-  "url": "https://www.reddit.com/r/dndmaps/comments/rwtyx7/the_pirate_lords_lair_map_1_of_3_74x71/"
+  "title": "Epic Pirate Base! (Map 1 of 3)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rz4bn3/epic_pirate_base_map_1_of_3_74x71/"
 }

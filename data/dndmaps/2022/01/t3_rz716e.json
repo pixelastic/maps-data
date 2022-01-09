@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641668255,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rz716e",
+  "picture": {
+    "filesize": 63351,
+    "fullUrl": "https://preview.redd.it/vwiesla0hia81.jpg?auto=webp&s=7f907c2b656c83329bfc62ad6b65d3c3f84fca6c",
+    "hash": "b5d91e27d1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECB//EAB0QAQACAgIDAAAAAAAAAAAAAAECEQAhAxIxQaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oADAMBAAIRAxEAPwDCJsSEENtm3zv5kxkx5CUGqwAjs7D2vWIFjRK7pQ9U5KWP/9k=",
+    "url": "https://preview.redd.it/vwiesla0hia81.jpg?width=640&crop=smart&auto=webp&s=64648399d6f34579acfc82e2aa32c89694e8ad07",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Kobold Lair of Myrkdurn",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rz716e/kobold_lair_of_myrkdurn_120_x_120/"
+}

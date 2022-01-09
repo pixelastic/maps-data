@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_b3f4vzr7",
+    "name": "Fustyy"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641651153,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rz0q9i",
+  "picture": {
+    "filesize": 65713,
+    "fullUrl": "https://preview.redd.it/s6cogspg1ha81.jpg?width=2048&format=pjpg&auto=webp&s=76061e2a7da1c617b5e4f4c8b683dc28ffba7be5",
+    "hash": "981fe4d2b0",
+    "height": 370,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDAAQRBQYSITEyN0Jic7Pw/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAACMgH/2gAMAwEAAhEDEQA/AL2jcSnUbvm1lIUtgYUVuKg5Bycgkt7aYWF2URJhIUuUKmMLDhu/VgMDJI7r1wDWW6d4J/3rNOtm+Z8HxR/VQJWCtJ//2Q==",
+    "url": "https://preview.redd.it/s6cogspg1ha81.jpg?width=640&crop=smart&auto=webp&s=e1d740e4481fb1743d5f30eaced4c985dba95acc",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Svardborg Battle Maps (Storm King's Thunder Spoilers!)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rz0q9i/svardborg_battle_maps_storm_kings_thunder_spoilers/"
+}

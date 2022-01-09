@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1m19i46e",
+    "name": "RedWolfDoctor"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641686031,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rzdu2q",
+  "picture": {
+    "filesize": 336105,
+    "fullUrl": "https://preview.redd.it/vvcaf9buwja81.png?auto=webp&s=a34dba5a5aac9453395b6b6247efe23a7c02d48d",
+    "hash": "571a34a250",
+    "height": 905,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAIAAABP3xIpAAAACXBIWXMAAAsTAAALEwEAmpwYAAACFUlEQVQokRXO609SYQDH8edVm4w4z+Wc53COiHIz407ggSM7XCIPYAqEgim+oVYNmRRTA50b1ZjQZjcxmWyt3FpWq7aWrbbW+tca73/7/L7A47WrqlIsl9uDt72v5/3zP4dffuw8e5nMZZNJRQp6QSGrNB8U1Xyh+ep15/P3zrefrdOz8sOGTw7XKvlMWgbimDEaC96vrZW2G5Vev9I7Lj16klgqbFRXApIXczyAhPP7HY16YalcSlc3UuvVmeLNTDG7s7Vmm5wYLjBLiGBIX482NlddscSUolj909ubpZDsuaC5iFkCGAgJ5SeslqnpwGRItkqSLRgyOxxUryeUMhgDBiFECOI4arKM+65YpqUJt4c1jGGOQowhIQBizEAIWY4zW8SZiHEhL15LcWYr4XlICIMQQBhTUeSN48JMRO4eZD58dD/u6CWZjhpYnqeCAHTDDiqazOJcJt7p3n1+4G8/FSQZ0eELp9cDBmOIMR0zGsORS/VtZ3Pv8p11we6ELKtDaGhQQdAhxBCilm+7c4um1HxoeYUdHSWUIkKGBmJZLaMb0WgcSkTOL7ricYs/MKLVQjI0IMbAbLM5vL5ANCZnb/jm5u1XE75U2hOJ2ZxOThB0EAIlkajtNd6cnbT7L+Krq2FV3eq2j94d3duqh5SIy+sD0dnZ3f3W31+D95+Oc7fKC8uFk9PDf78Hu/utqJr0S9J/tYeBs3ORNUAAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/vvcaf9buwja81.png?width=640&crop=smart&auto=webp&s=a4382766f48328569e60d110ddce761b56e184de",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lair of Kuur Drinn",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rzdu2q/lair_of_kuur_drinn/"
+}

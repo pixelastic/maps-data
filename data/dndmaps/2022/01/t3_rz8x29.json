@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641673105,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rz8x29",
+  "picture": {
+    "filesize": 101271,
+    "fullUrl": "https://preview.redd.it/gt16i98gvia81.jpg?auto=webp&s=34d9e51f316f96026e58feba4889a4d603acb633",
+    "hash": "cac615fa27",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDEQASIQQFMUETIlEU/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AwL0Lf5FsKdctcykhUWx8+jE57k90WraDp9KpG3JU86pZKlu+sqIOSRxz1TzQnWsMz6uIJJgEi1IgCrjxC5JVc5fMniE4gcVPUzAgqtq82f/Z",
+    "url": "https://preview.redd.it/gt16i98gvia81.jpg?width=640&crop=smart&auto=webp&s=c68ae4d9d2f180e54666588161d718411b65cc40",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Lima 1880",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rz8x29/lima_1880/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641637327,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rywukh",
+  "picture": {
+    "filesize": 114006,
+    "fullUrl": "https://preview.redd.it/zqwuu2l1xfa81.jpg?auto=webp&s=766a8d9c41e8fc2392156011443685095031c7bd",
+    "hash": "30cfd956ed",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFB//EACEQAQACAQMEAwAAAAAAAAAAAAECAxEABTEEEiFxBlHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAbEQABBAMAAAAAAAAAAAAAAAARAAESEyExQv/aAAwDAQACEQMRAD8Ax7a9th080hbXY5HJPwZ+s6bc+gjfZ3zuK0WTJs594/edTNitsTLNRRw8HrR+QTnEGM2OHuwcLooPMHKpw9U+Tor/2Q==",
+    "url": "https://preview.redd.it/zqwuu2l1xfa81.jpg?width=640&crop=smart&auto=webp&s=78c19141902328517dea2013d2681afc6aa15915",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Amber Sarcophagi",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rywukh/amber_sarcophagi_20x15_squares/"
+}

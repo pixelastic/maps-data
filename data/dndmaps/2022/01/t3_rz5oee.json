@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1641600000,
+    "full": 1641664708,
+    "month": 1640995200,
+    "week": 1641081600
+  },
+  "id": "t3_rz5oee",
+  "picture": {
+    "filesize": 64812,
+    "fullUrl": "https://preview.redd.it/ibwso3426ia81.jpg?auto=webp&s=982c709b23fda9190ad210755ba1635df33ee221",
+    "hash": "8683410b7f",
+    "height": 708,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxABAAICAgIDAAAAAAAAAAAAAQIDESEABBIiQVHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAb/xAAYEQADAQEAAAAAAAAAAAAAAAAAASECEf/aAAwDAQACEQMRAD8Axqia4lhzLRHTj988XFOvTHyiTlLeROF6dRm26y0a5PoJuLjYcrdONgSMgeoP1yP1YMiXT//Z",
+    "url": "https://preview.redd.it/ibwso3426ia81.jpg?width=640&crop=smart&auto=webp&s=c9ad70f5a67e84bcb719cd1800e4a7f120d27545",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Caravan",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rz5oee/caravan_19x21/"
+}
