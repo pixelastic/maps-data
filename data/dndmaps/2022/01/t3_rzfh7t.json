@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1641686400,
+    "full": 1641690552,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_rzfh7t",
+  "picture": {
+    "filesize": 111169,
+    "fullUrl": "https://preview.redd.it/1pbi69icbka81.jpg?auto=webp&s=cb999269b84ae278cc125ad920de55f5be728a2c",
+    "hash": "744b9ad52c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIhAAAgIBBAMAAwAAAAAAAAAAAQIDBBEABSExEhNBFVGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAVEQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEQMRAD8A0WCo8242ImvqsrRmMJ5A4b7gA8cZ1P3fjrrbfK09guuC5GQpA7GecH96Tg2uvDZecexp3lkbzLYIJY9YwNF2KgqbeVimm4tEgluu/wC/dSoTjf/Z",
+    "url": "https://preview.redd.it/1pbi69icbka81.jpg?width=640&crop=smart&auto=webp&s=8ec9037ef430145f8895400465a58ae9f779daa2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Darklingtown's \"Frog Tower\" (Sixth neighbourhood map of this underdark trading community)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rzfh7t/darklingtowns_frog_tower_sixth_neighbourhood_map/"
+}

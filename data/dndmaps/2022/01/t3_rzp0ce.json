@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_153kmu",
+    "name": "someonespecial135"
+  },
+  "date": {
+    "day": 1641686400,
+    "full": 1641724816,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_rzp0ce",
+  "picture": {
+    "filesize": 95187,
+    "fullUrl": "https://preview.redd.it/ljhn0foi4na81.jpg?auto=webp&s=9a9a8bf8d12bf1bf4a1120b3ad06c24aea2f3059",
+    "hash": "657b11128c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMF/8QAHRAAAgIDAQEBAAAAAAAAAAAAAQIDEQASISIyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDYjA2sgBRjkVGDMVVvJrncnDr9M63qCbOORo9T7UHq0P3BCz//2Q==",
+    "url": "https://preview.redd.it/ljhn0foi4na81.jpg?width=640&crop=smart&auto=webp&s=0eedfb1a1eac7e741a33f6de92d99f0b311ff714",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 300,
+    "value": 300
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "A wasteland map that I have been working on",
+  "url": "https://www.reddit.com/r/dndmaps/comments/rzp0ce/a_wasteland_map_that_i_have_been_working_on/"
+}
