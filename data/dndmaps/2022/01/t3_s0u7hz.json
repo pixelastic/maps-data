@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7rw440ul",
+    "name": "CozyMaps"
+  },
+  "date": {
+    "day": 1641772800,
+    "full": 1641847900,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s0u7hz",
+  "picture": {
+    "filesize": 94555,
+    "fullUrl": "https://preview.redd.it/21zw1kzz7xa81.jpg?auto=webp&s=57e5cee0c0e7c56ab070ff980ab2c11234f54829",
+    "hash": "c7bffc8686",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDEQAEEyExEkFRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAwADAAAAAAAAAAAAAAAAAAECERJR/9oADAMBAAIRAxEAPwDOG85/Ixx7hscIKWx3x99iu8Gm0xjkjqKXcYsyoQKP51lSzacq0bmlIYA1V94ZNdNsoLFMaIqgefgyLDUj1S3S4f/Z",
+    "url": "https://preview.redd.it/21zw1kzz7xa81.jpg?width=640&crop=smart&auto=webp&s=5149ad6d6b4a4d1c92fac9b526517c5137a5e7fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Small Town Square",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s0u7hz/small_town_square_40x30/"
+}

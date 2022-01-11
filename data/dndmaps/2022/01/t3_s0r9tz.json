@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1641772800,
+    "full": 1641840472,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s0r9tz",
+  "picture": {
+    "filesize": 42380,
+    "fullUrl": "https://external-preview.redd.it/gBv3ebtIavTm88X6xbG88h09zD8cU_K3djoubqxtD28.jpg?auto=webp&s=1dd5f6b3be614bdee6274e1f262de32362ac6f5b",
+    "hash": "ea39741ad9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEBREhMRITFCJB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAEEAwAAAAAAAAAAAAAAAAEABBExEyEj/9oADAMBAAIRAxEAPwDK8tlp2ubppLlkCAsNnvnqoYTNXLXMJ9rlWYaPl2N0ZzGSfLm0hPkSD9d8UuExM4uYQkL6DAcJ+Uv1y3pEANC0oTC//9k=",
+    "url": "https://external-preview.redd.it/gBv3ebtIavTm88X6xbG88h09zD8cU_K3djoubqxtD28.jpg?width=640&crop=smart&auto=webp&s=31ad13a9778e1832b7dc5c7809236495904daa19",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.8,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Kraken Aftermath!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s0r9tz/kraken_aftermath_50x50/"
+}
