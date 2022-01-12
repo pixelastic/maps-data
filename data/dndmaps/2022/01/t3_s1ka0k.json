@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1641859200,
+    "full": 1641926870,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s1ka0k",
+  "picture": {
+    "filesize": 103709,
+    "fullUrl": "https://external-preview.redd.it/Gl6JyL5GEETFJxZu5oJxTpZC-aBNV194EGyVVYy7MoA.jpg?auto=webp&s=7ce3109e2a2d14ae5f1c6eb4156559ec985d07a9",
+    "hash": "d15f7c2446",
+    "height": 889,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQAEBRIUwUFS8P/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQISUf/aAAwDAQACEQMRAD8Axfc1UXS1TqrUnULI5qgfxyc3CokevXfuYwXv7WfVY+zRvxksBeNkkUFUVapveDo6TIvlRuZUHQkg/GBVUNpTldP/2Q==",
+    "url": "https://external-preview.redd.it/Gl6JyL5GEETFJxZu5oJxTpZC-aBNV194EGyVVYy7MoA.jpg?width=640&crop=smart&auto=webp&s=6daa9cdaf9b9b3dd2406b6a18bfedefde31e5089",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 146,
+    "value": 146
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon Guardian Crash Site!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s1ka0k/dragon_guardian_crash_site_36x50/"
+}

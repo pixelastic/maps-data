@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1641859200,
+    "full": 1641914027,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s1f6ca",
+  "picture": {
+    "filesize": 69760,
+    "fullUrl": "https://preview.redd.it/8f1wxx6wp2b81.jpg?auto=webp&s=88af1f7c96e5594305617e8cb0001602a63a4800",
+    "hash": "8aa05ebf1f",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQMCBAURABIhMRNhUXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDIRESIv/aAAwDAQACEQMRAD8AL2e322kgk1SSx/RiABkd5ySPetN6bQNSydHTQpzGf7nOMfA+9Thf3OoFSCEranO2cY54kCCCD3o028P8bobRskMbQSBx0fZ1bDJoX7Z5S0TZX//Z",
+    "url": "https://preview.redd.it/8f1wxx6wp2b81.jpg?width=640&crop=smart&auto=webp&s=b60210c92091f5dd7a993254f3ec673d5c3e8751",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.72,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Solis Arcana - behind the portal",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s1f6ca/solis_arcana_behind_the_portal/"
+}

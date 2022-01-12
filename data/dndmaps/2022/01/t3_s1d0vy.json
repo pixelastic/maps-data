@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1641859200,
+    "full": 1641908057,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s1d0vy",
+  "picture": {
+    "filesize": 38303,
+    "fullUrl": "https://preview.redd.it/9y4q670u92b81.jpg?auto=webp&s=f21e35ba23d02d67e0b052ee9dccf8f4e87818bb",
+    "hash": "f4674ee50f",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAACAQQCAgMAAAAAAAAAAAABAwIABBEhBQYHEjJRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAQf/aAAwDAQACEQMRAD8AmvGPG9VvuNky4ZFvMRJkVMZ6hawdSgMfLY2cjRGqme6JtIX9y58kWr2syLLGWRic7IAxD8Oz9UpQpv/Z",
+    "url": "https://preview.redd.it/9y4q670u92b81.jpg?width=640&crop=smart&auto=webp&s=7ff8142cd527e15e0fc11538b01b70c3098a8695",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Spook's Dodo Island",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s1d0vy/spooks_dodo_island/"
+}
