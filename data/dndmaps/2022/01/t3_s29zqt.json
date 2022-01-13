@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1641945600,
+    "full": 1642004055,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s29zqt",
+  "picture": {
+    "filesize": 109054,
+    "fullUrl": "https://preview.redd.it/60crraje6ab81.jpg?auto=webp&s=22ac51dade1f31ec4cc823e8bcb08c3fc1f5ce15",
+    "hash": "1fc66306c2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAYRIQAFEhMUQSIjMXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBQEBAAAAAAAAAAAAAAABAAIFERJBcf/aAAwDAQACEQMRAD8AZ2Wk9lVG6SapmSXEWDqClAznIBSSB85vrVvtP01C7Jtc6e0ZBKGWYq+ZdPlVgk4H5oultrd2KM6wHLyF8luOFQ9w3xcjIIHjUmDJeqWPPC2XwmPxRwKkhPqJVc2tc4v9ahEWNWShMqzJpnh4v//Z",
+    "url": "https://preview.redd.it/60crraje6ab81.jpg?width=640&crop=smart&auto=webp&s=d124a4e3d6dec86035ae153c5765b88c7045a35c",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wereshark Birthing Ritual",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s29zqt/20x20_wereshark_birthing_ritual/"
+}

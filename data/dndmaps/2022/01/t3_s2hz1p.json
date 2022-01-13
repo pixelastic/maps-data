@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a4fxzfcj",
+    "name": "arsenico13_rdt"
+  },
+  "date": {
+    "day": 1641945600,
+    "full": 1642024212,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s2hz1p",
+  "picture": {
+    "filesize": 250341,
+    "fullUrl": "https://preview.redd.it/y0xcfd06vbb81.jpg?auto=webp&s=72dee187482b30b7f85e6db669598e14132aa63f",
+    "hash": "b95beea0ce",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIxAAAgECBAcAAAAAAAAAAAAAAQIDABESEyGSFFNkcbHh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAMG/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIDEQAhElFx/9oADAMBAAIRAxEAPwDLxsljIMIlcakjXtUsXTx7PdHzYgqlpTZBZhYkA/eKNxLcs7TU/LElKYzZrfuOjMSefes//9k=",
+    "url": "https://preview.redd.it/y0xcfd06vbb81.jpg?width=640&crop=smart&auto=webp&s=608e4299fc6a0af018c7b1d6bfb6c52bd78dc0c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Blackstone Pond  - wilderness battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s2hz1p/the_blackstone_pond_20x35_wilderness_battlemap/"
+}

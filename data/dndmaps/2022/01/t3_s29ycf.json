@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_515jd9j8",
+    "name": "Miridar"
+  },
+  "date": {
+    "day": 1641945600,
+    "full": 1642003953,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s29ycf",
+  "picture": {
+    "filesize": 194378,
+    "fullUrl": "https://preview.redd.it/9bveu0tg6ab81.jpg?width=1536&format=pjpg&auto=webp&s=73aea7adc74678452c4b6052d4f46e7014c486d0",
+    "hash": "280598106e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDB//EAB0QAAICAwADAAAAAAAAAAAAAAECABEDIWEiI1H/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oADAMBAAIRAxEAPwDPwGy2LsKL8jWuQDI1nISTfY3D4/Ww0DrsmoNb+whyRNv/2Q==",
+    "url": "https://preview.redd.it/9bveu0tg6ab81.jpg?width=640&crop=smart&auto=webp&s=67eb5629324a016342ccc73481142ae630e02880",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A couple of encounter maps I created. Any critique is welcome!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s29ycf/a_couple_of_encounter_maps_i_created_any_critique/"
+}

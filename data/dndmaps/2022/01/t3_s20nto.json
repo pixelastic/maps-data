@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1641945600,
+    "full": 1641973529,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s20nto",
+  "picture": {
+    "filesize": 100012,
+    "fullUrl": "https://preview.redd.it/xrnx69asn7b81.jpg?auto=webp&s=77ae75e4a2f2f64f2e5de68263714dbcd56de420",
+    "hash": "1e81251b59",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIDBBEABRITMVEGITJBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAECMf/aAAwDAQACEQMRAD8AyGgyZaxYaCgjpzUtEFaSeIKNKhWNhcsGu3z4034xD8oME+YpPPDZpoxIBHKpUKSdI9Dq2EMtfSHxWKTfaWbRCHSasvyLNZCTxbr19WwSzszVFcWiL1MQUKk2xt7g7t+3wldUS//Z",
+    "url": "https://preview.redd.it/xrnx69asn7b81.jpg?width=640&crop=smart&auto=webp&s=532d9d4ffbe6d3c3cf610b260ce016398d31158f",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 92,
+    "value": 92
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dwarven dwellings",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s20nto/dwarven_dwellings_32x44/"
+}

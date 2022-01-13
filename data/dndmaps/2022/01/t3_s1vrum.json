@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1zbjd31k",
+    "name": "ImGoogling"
+  },
+  "date": {
+    "day": 1641945600,
+    "full": 1641957273,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s1vrum",
+  "picture": {
+    "filesize": 197698,
+    "fullUrl": "https://preview.redd.it/4ockjznec6b81.jpg?auto=webp&s=2c60a0e8ad5705b860eccc50e843e557b5f7f875",
+    "hash": "a0ca2c8779",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABBAAFAwUAAAAAAAAAAAABAgMEEQAFBhIhFDEyIkFCgaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHREAAQMFAQAAAAAAAAAAAAAAAwECBAARMVGxof/aAAwDAQACEQMRAD8AkNCwVpiLzMRVvGQ8IjaUrUN3qClKseNbavtgTVj7aNU5uIinUN9SokK4O75ft/VYX0JnM+FIegJW6Y6I7z2yh5VYNGuAfa+cSRflzHXpL5CnXVla1KAsk98CRAFSeV5LY3vHiUrIINYrGs3zPa//2Q==",
+    "url": "https://preview.redd.it/4ockjznec6b81.jpg?width=640&crop=smart&auto=webp&s=3228628a6c902598d0c6c773e6c8a7a6cbfe3b41",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Entrance to Ashenfall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s1vrum/entrance_to_ashenfall_30x40/"
+}
