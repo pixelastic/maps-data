@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642075562,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s2xyzo",
+  "picture": {
+    "filesize": 212655,
+    "fullUrl": "https://preview.redd.it/wi58ld454gb81.jpg?width=2160&format=pjpg&auto=webp&s=a23270e590f7b765d6a5903f043cf28de8faef2e",
+    "hash": "00ed117a15",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAKBAAAgEDAgILAAAAAAAAAAAAAQIDAAQRBQYSQRMVFjJUVWGSlNHS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQACAwAAAAAAAAAAAAAAAAAAAhEhQf/aAAwDAQACEQMRAD8AoHbsMW1J1i0y3acxghTxB2wMHiGe9zxRv1Enlt18KT7pPXd2lXttNaG4uH6MqplGVKtgYU+pw3OsX2h0rx+o+5vzUFkVaf/Z",
+    "url": "https://preview.redd.it/wi58ld454gb81.jpg?width=640&crop=smart&auto=webp&s=5a00a1c8f1c9c98d4bc0e716351a09be101cb17b",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 571,
+    "value": 571
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Frozen Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s2xyzo/frozen_temple_20x36/"
+}

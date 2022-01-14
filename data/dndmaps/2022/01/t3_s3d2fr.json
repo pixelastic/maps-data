@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642116985,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3d2fr",
+  "picture": {
+    "filesize": 154045,
+    "fullUrl": "https://preview.redd.it/paj6tpbcjjb81.jpg?auto=webp&s=698503984c869fd932849edc3c5e233b99e05f6b",
+    "hash": "bfecee87f2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIxAAAgICAQQCAwAAAAAAAAAAAQIDBBEhBQASInETMUFRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8A0+09mnYtwxskFQKMFPIBmyW8iTvSn6/P8Xg5rPH8lxxlvvNUmDxj5W7m78ArjW9A+sD99FUpJPfkawJUgLmRe0gq2GJBHvO89VWuEkmrNLW7ZZ1cFVsdmVOR5qV+vR3ob6gle5f/2Q==",
+    "url": "https://preview.redd.it/paj6tpbcjjb81.jpg?width=640&crop=smart&auto=webp&s=c6ba0fe825114eb78228e4be350e4f0a66e8c9af",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Oceanwatch",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3d2fr/oceanwatch/"
+}

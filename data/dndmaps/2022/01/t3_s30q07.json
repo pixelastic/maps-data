@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3rkuvu66",
+    "name": "GimmiePig"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642084169,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s30q07",
+  "picture": {
+    "filesize": 105982,
+    "fullUrl": "https://preview.redd.it/f3lgsg6mtgb81.jpg?auto=webp&s=8ddfab29c557af015a1216b55fe447665986b1d3",
+    "hash": "c2f1ef1c49",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAIxABAAEEAgIBBQAAAAAAAAAAAQMCBAURACESMRQjJGGx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8Ax+cz+Sy+Qporh+4lrfGIArEASrrR6DrhYsxkbHIvzZLnyjl+rAaHTt60G+/7rk39rk4L8yEkVdrcSLJRWU+IO9NKP7OJwdhd32QkullnmamGSUBDZqp176H3+eNdpNSys2H/2Q==",
+    "url": "https://preview.redd.it/f3lgsg6mtgb81.jpg?width=640&crop=smart&auto=webp&s=3af700154eb5570b08290665097dd47751b6467f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Sunken Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s30q07/the_sunken_temple_24_x_24/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1642032000,
+    "full": 1642075403,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s2xxc4",
+  "picture": {
+    "filesize": 102917,
+    "fullUrl": "https://preview.redd.it/9045vodu2gb81.jpg?width=6400&format=pjpg&auto=webp&s=25b882b4ac273648b9380aaeb60a2fc46989b27f",
+    "hash": "391e178e67",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQQABRIhIlETMUFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAMAwEAAhEDEQA/ADojG+OIMRANt4AEq9y+oy0QR4APQA6zW2xtDLHg4rtJmY+WyoZCFiUniiHj0N13X5GlRu2THJl58zmZ4EcRQkARDjXHtr4/dW35Y87aBuQiSPLkh72qwRSmvuz0PuK1LVT0HYf/2Q==",
+    "url": "https://preview.redd.it/9045vodu2gb81.jpg?width=640&crop=smart&auto=webp&s=3c648d99ad72141e60ed2e8a11ddfe4441be8ce4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Two generic encounter maps for ambushes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s2xxc4/two_generic_encounter_maps_for_ambushes_25x20/"
+}
