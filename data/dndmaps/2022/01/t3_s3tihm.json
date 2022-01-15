@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642170135,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3tihm",
+  "picture": {
+    "filesize": 101875,
+    "fullUrl": "https://preview.redd.it/dh0paq48xnb81.jpg?width=2048&format=pjpg&auto=webp&s=43738379a776d8e6fa3481ddbf9424d74fc3fa26",
+    "hash": "53293b5a59",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAgIBBAEFAQAAAAAAAAAAAQMCESEABAUSgRMUIlFx4f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAQUAAAAAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwDMW8dIbpydw/02KIzHIkKwfw6sfxCppFOn0A7GUqERQ+q0jILZwMOQkhPuZTjZ64+d2K8X50Bu985sSthEgGdLrJA/mNTTNoCc0spo1f/Z",
+    "url": "https://preview.redd.it/dh0paq48xnb81.jpg?width=640&crop=smart&auto=webp&s=c2be332e2e38ead68ab5d3ac7feb5fabb8ae56f3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Tavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3tihm/forest_tavern_free_assets_only/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_lfpzj",
+    "name": "sie42"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642137171,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3k4vs",
+  "picture": {
+    "filesize": 104141,
+    "fullUrl": "https://preview.redd.it/6jopqqay6lb81.jpg?width=2870&format=pjpg&auto=webp&s=8c1ddd79f4629cf93b8389ef18965c367c151eaf",
+    "hash": "3c5fe6a9f5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAIhAAAgICAgEFAQAAAAAAAAAAAQIDEQQhADFREhMUQXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDXTtiw4UcqX8s+gSgliKs9DzvfA5KyqMfJV4n9xgFUNtRsbXye+VkRSPIjFlc22mWgo6q67+7/ADhxhyF0YTvK9BnQLQRrOrPet/3khX//2Q==",
+    "url": "https://preview.redd.it/6jopqqay6lb81.jpg?width=640&crop=smart&auto=webp&s=31544343117350ffd919c65e2cbb0912889dc454",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Old school map - The Chambers",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3k4vs/old_school_map_the_chambers_41x41/"
+}

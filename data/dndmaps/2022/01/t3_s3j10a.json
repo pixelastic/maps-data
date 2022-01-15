@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642133776,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3j10a",
+  "picture": {
+    "filesize": 111759,
+    "fullUrl": "https://preview.redd.it/doisbt89xkb81.jpg?auto=webp&s=5f3cd14e711b9c71ba952d53dc6e46992d9973c3",
+    "hash": "cb4960ba47",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACQQAAIBAwMDBQAAAAAAAAAAAAIDAQQRIQAFMRITUSQyQaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQABBAMBAAAAAAAAAAAAAAADAAEEEQITIUH/2gAMAwEAAhEDEQA/AMfUN9OligBpwczI9WOfbe3F7fekN+epS2JWAw8z7jLDMyRzPH5jOhTbi+jAmPIWMmJKF5kZGC+ZjHjMalnXw2pCrr2GKGkzuSu3WzMYHxGedQyzvJLsrjIwiYOFer//2Q==",
+    "url": "https://preview.redd.it/doisbt89xkb81.jpg?width=640&crop=smart&auto=webp&s=7147e8b6257cf3ef1a4c87919c342602291204b7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Seaside Road Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3j10a/seaside_road_encounter_40_x_40/"
+}

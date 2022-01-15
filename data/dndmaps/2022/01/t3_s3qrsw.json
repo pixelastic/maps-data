@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642161738,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3qrsw",
+  "picture": {
+    "filesize": 144852,
+    "fullUrl": "https://preview.redd.it/wamg78xf8nb81.jpg?auto=webp&s=6c2f4f1b6dc601d63c8b302825bdfb82678adc3d",
+    "hash": "405190874d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAjEAACAQQBAwUAAAAAAAAAAAABAwIABRESBAYTMRQhIoGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABYRAAMAAAAAAAAAAAAAAAAAAAABMf/aAAwDAQACEQMRAD8Ad1Q2fqZJjN65lZmCge4OcDJ+qtWRkI2rjCbgTp528/tT7zw3TuLGRhutq+18TgxIJwafagzj29Cm6GcY4J2xRJwUKn//2Q==",
+    "url": "https://preview.redd.it/wamg78xf8nb81.jpg?width=640&crop=smart&auto=webp&s=cdb0bf835a14c3b2c37ed2e67704242325f9d558",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Lonely Obelisk",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3qrsw/the_lonely_obelisk_24x32/"
+}

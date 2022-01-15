@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642179694,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3x5iz",
+  "picture": {
+    "filesize": 130290,
+    "fullUrl": "https://preview.redd.it/rku5ylxtpob81.jpg?auto=webp&s=79ba166f79494327fae9a63adbbd70543a01bfc0",
+    "hash": "3458135487",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACMQAAICAQMDBQAAAAAAAAAAAAECAxEABAUhEhNBFCJRYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACITH/2gAMAwEAAhEDEQA/AMTuskuiRpFU9bNfuFlB+eBk47j6zRsEHaZGYyMrEC65oebGCLEise7DSmq5Wvo456kSR2dFYUHBHEinjqr5wgANjjZtyf/Z",
+    "url": "https://preview.redd.it/rku5ylxtpob81.jpg?width=640&crop=smart&auto=webp&s=f1d081ffde6b785e9b6f976ecdfbef6130dd5fdc",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Anarchist's Windmill",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3x5iz/the_anarchists_windmill_oc24x24/"
+}

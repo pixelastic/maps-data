@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642163153,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3r6cb",
+  "picture": {
+    "filesize": 191221,
+    "fullUrl": "https://preview.redd.it/6f4fduigcnb81.jpg?auto=webp&s=5a01cde8d201a455b073501bc75b69d6ef101a0d",
+    "hash": "d0a00b1f53",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAgECBgMBAAAAAAAAAAAAAQMCBBEABRIhMWETQUKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQABAwUAAAAAAAAAAAAAAAABAAIDBAUREhP/2gAMAwEAAhEDEQA/ANDVmz0+NRaZxjI6CY69+RY9cWxXyxQzOjEokBsJyLCfok3uObe9vVsHqdDK5sUljYg2BUAQQd+u+cKIVMaNME+QFguZlewJ4H4BgaAOJBaoLlJDx1kOV//Z",
+    "url": "https://preview.redd.it/6f4fduigcnb81.jpg?width=640&crop=smart&auto=webp&s=30eaf260c0a637ebf2103cac902a3d08474e9612",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Castra Solis City by Rustymaps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3r6cb/castra_solis_city_by_rustymaps/"
+}

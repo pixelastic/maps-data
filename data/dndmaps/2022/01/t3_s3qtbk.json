@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1642118400,
+    "full": 1642161870,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s3qtbk",
+  "picture": {
+    "filesize": 200909,
+    "fullUrl": "https://preview.redd.it/weh57cki8nb81.jpg?auto=webp&s=991edfc36ee652b355ac5bb3d99279ba151b8141",
+    "hash": "60aefe30d4",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACEQAAIABQQDAAAAAAAAAAAAAAECAAMEERITITFRImHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAMf/aAAwDAQACEQMRAD8AzWVMnUsyajqrs/g2RDABrWI6PsQTVumxRqpVKnEg32tEeRUHYg27JA34+QtmQMQUbnuIBR//2Q==",
+    "url": "https://preview.redd.it/weh57cki8nb81.jpg?width=640&crop=smart&auto=webp&s=89d4632db85e3ad5b9e157200c0a460f0aae2be0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Guide your heroes through this jungle with narrow paths and countless dangers",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s3qtbk/guide_your_heroes_through_this_jungle_with_narrow/"
+}
