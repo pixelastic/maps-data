@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3phw1x2s",
+    "name": "Depolys"
+  },
+  "date": {
+    "day": 1642204800,
+    "full": 1642245691,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s4iahj",
+  "picture": {
+    "filesize": 137597,
+    "fullUrl": "https://preview.redd.it/jk6615zw5ub81.jpg?auto=webp&s=6a085366e01655b7f7b8252b57d3ac58a54e8aa3",
+    "hash": "935dc863f4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAlEAACAQIFAwUAAAAAAAAAAAABAgMEEQAFBhIhEzGhM0FRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAQACAwAAAAAAAAAAAAAAAAEAEgIRMf/aAAwDAQACEQMRAD8AmJpI4oV6bAyOm1hYENx7foHOHND5YtRrDJUVkCpPvKEWtsG5r4FpaaoioxNP6juq2PJAPYjz4w/pikkkz6KBZSjtSzhJObglD8Hv94g1XIHsYbCk/9k=",
+    "url": "https://preview.redd.it/jk6615zw5ub81.jpg?width=640&crop=smart&auto=webp&s=ecdc85215f5cdf0c15abfd5cf420f5f426abf2cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Temple (40x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s4iahj/jungle_temple_40x40/"
+}

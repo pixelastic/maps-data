@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2spiurpo",
+    "name": "mask39"
+  },
+  "date": {
+    "day": 1642204800,
+    "full": 1642245242,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s4i6c7",
+  "picture": {
+    "filesize": 75406,
+    "fullUrl": "https://preview.redd.it/sgkr58b04ub81.jpg?auto=webp&s=4b70b48152523ef5718ffa54888672eb2bc8ec50",
+    "hash": "ae6edb033f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAF/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIDBAAREiExUQUTYZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAb/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECIYH/2gAMAwEAAhEDEQA/AMmCu1O4YYfdFdgDtgOWwNcQMUlO1ZmZaSusQBYoRsbHfp8789MvS55LcYkkchgCu1PfWtfpxXYDXXlXnniEp5MqOQPH1i1HCbVounp//9k=",
+    "url": "https://preview.redd.it/sgkr58b04ub81.jpg?width=640&crop=smart&auto=webp&s=dee48dd9ee91954285ec5d418754420196df57d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battle Map - Underwater",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s4i6c7/battle_map_underwater/"
+}

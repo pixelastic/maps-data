@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3bpb6al7",
+    "name": "MirisDor"
+  },
+  "date": {
+    "day": 1642291200,
+    "full": 1642292377,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s4yjbn",
+  "picture": {
+    "filesize": 130804,
+    "fullUrl": "https://preview.redd.it/211os48u0yb81.jpg?auto=webp&s=3e5e37f9a8888c453750b09c6bdebc5f861a187e",
+    "hash": "f05994966b",
+    "height": 737,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDBBEhMQAFEhMiI0Gh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANpqHmhmnBqnK+qwCK5+mI1fZsM7zxnpY4RLI81MWBGQ0Qka5N8kDlVNAJO5eCBljB+YgpcXO/3O+M0HiGlWNSEDG3tsOB//2Q==",
+    "url": "https://preview.redd.it/211os48u0yb81.jpg?width=640&crop=smart&auto=webp&s=d3d0cc3e673602f9c663c7b018133494ca792c30",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Isometric Map - Planar Tower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s4yjbn/isometric_map_planar_tower/"
+}

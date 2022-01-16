@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1642204800,
+    "full": 1642242574,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s4hjce",
+  "picture": {
+    "filesize": 222027,
+    "fullUrl": "https://preview.redd.it/8jg48ykqwtb81.jpg?width=2160&format=pjpg&auto=webp&s=ff3e0d609ad44d7c0917bb20091a6fcc2ba4cf0f",
+    "hash": "06b5bb2550",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAApEAABAgIGCwAAAAAAAAAAAAABAgMABQQhMkFRVAYREhMUIjFxkpPh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRA//aAAwDAQACEQMRAD8AnblAaZkLrbVGCgtIKlA8yF3gV9dex3EBeDmuVV6vsOHtIJcZc4yptBst2FBRqJJJuOGMEd9K81TPExL4NzdIik//2Q==",
+    "url": "https://preview.redd.it/8jg48ykqwtb81.jpg?width=640&crop=smart&auto=webp&s=0b42acc92175f90e62350ffe9728580690322d58",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 546,
+    "value": 546
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Overgrown Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s4hjce/overgrown_temple_20x36/"
+}

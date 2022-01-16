@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1642204800,
+    "full": 1642247950,
+    "month": 1640995200,
+    "week": 1641686400
+  },
+  "id": "t3_s4iunj",
+  "picture": {
+    "filesize": 73967,
+    "fullUrl": "https://preview.redd.it/zlxbedvocub81.jpg?width=4096&format=pjpg&auto=webp&s=34bdbb6bd66a032cd09e46be8e3368faa4ff9e16",
+    "hash": "44866776f8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIRAAAQQBBAMBAAAAAAAAAAAAAQIDBBESAAUhQQYxURP/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACIRIxcf/aAAwDAQACEQMRAD8AyDwqFDMAOPxIOS08qktlZWn0cRVCuyNHb/4/GixnX0rQoUrD8myKrognr7eg4W6yI6bRhbTdJJHNH2LGpubrLbYBDpUHQQoLGQr5zp7yXvIatAVDfZ//2Q==",
+    "url": "https://preview.redd.it/zlxbedvocub81.jpg?width=640&crop=smart&auto=webp&s=e0e12173735778063d0e114562cb6d839c0bd733",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Roaring Reefs",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s4iunj/the_roaring_reefs_40x30_squares_4k_resolution/"
+}
