@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dienyocb",
+    "name": "Observation_Protocol"
+  },
+  "date": {
+    "day": 1642291200,
+    "full": 1642330431,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s59gua",
+  "picture": {
+    "filesize": 567598,
+    "fullUrl": "https://preview.redd.it/huf4x8wu51c81.png?auto=webp&s=8b3acafa075a68b7f5a533905117b345624af40d",
+    "hash": "a28bbd6003",
+    "height": 484,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAIAAADkharWAAAACXBIWXMAAAsTAAALEwEAmpwYAAACAUlEQVQokRXN6VKbQAAAYJ7AGc1idBoTNXcIG2BZWJYrAeQKkmASrhxWZ2yrvWb6q4/f6fcCH/OjjL48BV+33qkWdpvxoZzuK3ja88WWO1XwUPHpcvhy4qucO9bcNhszb5lb+PJbtvC8ThR24ujOcVt+cFPv4HGj70tYF5O6nJY5X+wmdTlj3vMwT/Vd6jh2l9KWIAOdti06jOZSsZ7VBaz/J5NNOvj8LK5XHPP3Zf37sPpWLTNXix2amEKgQhdxaexmqbpbwcflsHgap6Xx8qqkcZ/5nke/qvh94yULzRBGEZpQvm/B+8y1sgit/Glg3BSVc/jzcSi41xPPfFT+KbU2Hl0YKjEUE88SQ5qr0OI7C9h5kAePLn7wjFDt1Q+9ak0YSpu22Q7sWTKn29j9mSd5ZPuaELlasFB9G80tosGuzd+vPL4uZoyEzyV8geSGice+xGVoFFIpUOByoceO7hA5NIhPUWDMjoW8ycYM0VlCWUk6G95fo0HbHLRcDI+hXfrm0sYhlSJLMMhdEt/WObdORoyisQidUfHKFXsB6hPYhf1bZTp0iUilsSp3qAFk9Zzq13HUe97zjKxcWKQZm13XbFOtpZFPWGwJ8ApJrIgaKgWYNBAGIj5XCKjyEUPIpUabKmWxBlQKiAEUDSgUUJPFpCGiBiYAyUAhgFDWtK/+AZemiPFPTqnjAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/huf4x8wu51c81.png?width=640&crop=smart&auto=webp&s=bbedc919b7236d91125ca35d836db15a4d50e4df",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Dragonfair Specific Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s59gua/dragonfair_specific_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dienyocb",
+    "name": "Observation_Protocol"
+  },
+  "date": {
+    "day": 1642291200,
+    "full": 1642330313,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s59fty",
+  "picture": {
+    "filesize": 702450,
+    "fullUrl": "https://preview.redd.it/rzu8wxrm51c81.png?auto=webp&s=aecac98e0c33280ccd344d1f74bdc95435a100b4",
+    "hash": "a8c5f8793d",
+    "height": 644,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAACoklEQVQokQXB6W4aRwAA4H2GqEoUxxx7zDL3zM7u7OzFgsFgHKgXCDhACL5k2qRy3KiNkqgiUv80UlWpL9EH7fdZ72fJdhTfz4t9ld3P858X3Zsq34z0p9vz779M/tifrabD22n51/3wvz9XH3YTa37eJkJmqe6WxXGtabsgzQoeFXf7u8OXx48PNzwwQBRv18u/v/02Hg2t07JQ2hRGvtZO13tiqM8oTJWKOWcqxVzPZvMgTHbbN4fD4XzQt9JYHwPhQ6YIYwgRiFqIAayJymwUHtk0LfvaZL//tD58/vhmUVmDdvTClS7VzxvwWc1vuAzRsOFLG8qmL10aO1C5OOwV5nq7mC2W1kkR12HUChIsjI0CjxtXJh5WDSgavnBoxFRuI9XJzftf3203r6xOnkKZQZFAGiISoDADYQ6IAjj0SOggCUjoMTPupR/eLXbXWytOCxuqJqCuBwghEBEbIMBjKLNmSxw5BHgsAHy2We+/fbraLa2X48kLm2JK22VWnnSX60WghAe5i8OGy+pItWzU+aG2mnTuH9erzdhqd08bvqCMTqpJ3u283q6KMvMhc6muA16HEpLA9tlocXm3ny+nAyvLChwklPPqVTWZTlQUccG9FiMyATTySaAEa1F9/fjw5d9/bq9W1lkvdbD2IeGCCcE9AOseRkyjIHexigOGmYIixybqnA3n0x+tUvNjV7okrDm47qK6Sx0c2ShiUq8GMlG0CbVHlUP8l+D5pp9YF6Oy5isYpIjHNgqaUAJhiMoJV1VJqJA0KLjGvkQXraO3g9TqdU+AzG2qm8jYOLFp4rG4RbVHjMeSGtYO0l8v24yp6PjpeRpaD8t8PR2OT9vrYXhVlduLjomNSsv+aXd3ka8G8eXQfL/p7af59Uhuqv7/l+KuHWrmDZsAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/rzu8wxrm51c81.png?width=640&crop=smart&auto=webp&s=95b4667063dcabde5416ca6fa4699bc34c1ce2de",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Experimental Shop Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s59fty/experimental_shop_map/"
+}

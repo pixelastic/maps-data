@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1642291200,
+    "full": 1642357510,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s5hz2q",
+  "picture": {
+    "filesize": 133663,
+    "fullUrl": "https://external-preview.redd.it/ifH5hvpqQVgWoyFQoLjfngxm0BjnfkQsNu3U-A94u1A.jpg?auto=webp&s=0a6a03b15356363eea2b3cf39503ed19a141c2c5",
+    "hash": "0742849ba1",
+    "height": 899,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAICAQMDBQAAAAAAAAAAAAECAwQRAAUhEzFREhQVMmH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMRIf/aAAwDAQACEQMRAD8Az47Nta7dSWtJ1JSgawqRkmMjunOAWxk+BpG5QqWbUkqrFCpPCLGMADjz+aLt+5CD3aTqbFk5CMA32JySoHkc6s7UvV2+J/lLNb1ZJhjjcqpyc476rxs69SHU3p//2Q==",
+    "url": "https://external-preview.redd.it/ifH5hvpqQVgWoyFQoLjfngxm0BjnfkQsNu3U-A94u1A.jpg?width=640&crop=smart&auto=webp&s=5c3cecfcc27e2619c7ca1a0bdd3e1e1d5ea48bc1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Underworld Fortress",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s5hz2q/underworld_fortress_42x59/"
+}
