@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4okvg507",
+    "name": "BorkBorkAmDog"
+  },
+  "date": {
+    "day": 1642377600,
+    "full": 1642438106,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s68h54",
+  "picture": {
+    "filesize": 153763,
+    "fullUrl": "https://preview.redd.it/dmp4she62ac81.jpg?auto=webp&s=19fa2236e283959cc3cc028d21a94d01f826c9dd",
+    "hash": "0ad4543ab4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBf/EACIQAAIBAQgDAAAAAAAAAAAAAAECAwAEERIUIjFRgSFBof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIABBH/2gAMAwEAAhEDEQA/AMKViSBGmEel4oxMSHD6iB1VDZLRlsxejIdyjg/N6WDRFI5AvPJ8Dqp+UirBydLRD5v/2Q==",
+    "url": "https://preview.redd.it/dmp4she62ac81.jpg?width=640&crop=smart&auto=webp&s=c21eae2adca4e8c2d32bce16e153bb66cefcefbe",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 558,
+    "value": 558
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Saiqra'a: A desert port city map I made for my campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s68h54/saiqraa_a_desert_port_city_map_i_made_for_my/"
+}

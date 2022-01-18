@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1642377600,
+    "full": 1642424118,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s63f1i",
+  "picture": {
+    "filesize": 113948,
+    "fullUrl": "https://preview.redd.it/32alqcfgw8c81.jpg?width=2048&format=pjpg&auto=webp&s=93d429f63abfc54975c0192a7c8a63dab0d4a115",
+    "hash": "aa9b2df8cd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAhEAACAgICAQUAAAAAAAAAAAABAgMRBEEAEiEGIlFhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIDEiH/2gAMAwEAAhEDEQA/AIsIiyIGjhACuQzCwCteKoav73vh5uMVMrRko8jBgGKrR+VOq/ON6YQZMcuTKSWh6kJfta12N8GSW8kiSOKSj47rdcHTHuciG4M//9k=",
+    "url": "https://preview.redd.it/32alqcfgw8c81.jpg?width=640&crop=smart&auto=webp&s=4d5dcd14fc299102e5a8e070b6c02fa4d68e0d33",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Freedom Port",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s63f1i/freedom_port_inkarnate_free_assets_only/"
+}

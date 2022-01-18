@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5fhxp",
+    "name": "AngrySnail"
+  },
+  "date": {
+    "day": 1642377600,
+    "full": 1642437420,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s687hx",
+  "picture": {
+    "filesize": 36668,
+    "fullUrl": "https://preview.redd.it/ltedfluvz9c81.jpg?width=7000&format=pjpg&auto=webp&s=588d27ea881cd32d5af7a4078e5dfb6483da1d99",
+    "hash": "1f7691df72",
+    "height": 274,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHRAAAgEFAQEAAAAAAAAAAAAAAQIAAwQRISISMf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDAry5QVyRgEv2vnPMi9S3ZVC013v5ERC//2Q==",
+    "url": "https://preview.redd.it/ltedfluvz9c81.jpg?width=640&crop=smart&auto=webp&s=98e9a59f023a35b9ad9cfd64f52a7260104dca51",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Maps for \"Tales from the Yawning Portal: The Forge of Fury\" redone in Inkarnate",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s687hx/maps_for_tales_from_the_yawning_portal_the_forge/"
+}

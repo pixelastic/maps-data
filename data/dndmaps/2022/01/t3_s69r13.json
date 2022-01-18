@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1642377600,
+    "full": 1642441188,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s69r13",
+  "picture": {
+    "filesize": 145681,
+    "fullUrl": "https://external-preview.redd.it/FBqEUUJPtknECeJSLGQJXKpKO_mfs7K5T9KN3KShKkI.jpg?auto=webp&s=22cadd5e2b663dfe5502b1763fb4c7c1a1365a16",
+    "hash": "31f699c85a",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACYQAAIBAwMBCQAAAAAAAAAAAAECAwAEEQUSE5EUFSFUVWKSk9H/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EAB4RAAIBAwUAAAAAAAAAAAAAAAECAwAEESExQXHB/9oADAMBAAIRAxEAPwDJ2tbCHSri3FoXkjbiEjRDeysVyT7huwpFO9w6P6dF8j+1DGsrIQh5XViGkKeLbsqc9VHWg9ufy5+qhDFM43Iq1SWzhY5UHvXk+Yr/2Q==",
+    "url": "https://external-preview.redd.it/FBqEUUJPtknECeJSLGQJXKpKO_mfs7K5T9KN3KShKkI.jpg?width=640&crop=smart&auto=webp&s=2706e1bdcc970ddf66af3441f6aeff93518cda21",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Entrance to the Tomb - Lava Flooded",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s69r13/entrance_to_the_tomb_lava_flooded_32x46/"
+}
