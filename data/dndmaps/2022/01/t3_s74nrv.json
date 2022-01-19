@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642531671,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s74nrv",
+  "picture": {
+    "filesize": 53039,
+    "fullUrl": "https://external-preview.redd.it/5Uv656aRTxu0r3ZJqpXIQ-8MaJE9j2E8P4Z0wmcfZg0.jpg?auto=webp&s=abf5e28e94dcfc24cb43a05a8ee5a9c70cdb910b",
+    "hash": "1686e0f7e1",
+    "height": 763,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQMCEQAhBBIFEzFB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEv/aAAwDAQACEQMRAD8AwXxfCQyR97IdTHts1gOSmMJXGQIJOhiuG1UNthcaIq9k19rIeh0mGksv9IF3gg6nUzf/2Q==",
+    "url": "https://external-preview.redd.it/5Uv656aRTxu0r3ZJqpXIQ-8MaJE9j2E8P4Z0wmcfZg0.jpg?width=640&crop=smart&auto=webp&s=08240c73063ab4c3098a1ff9a277f7a62e325f47",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Grand Tomb - Main Floor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s74nrv/the_grand_tomb_main_floor_26x30/"
+}

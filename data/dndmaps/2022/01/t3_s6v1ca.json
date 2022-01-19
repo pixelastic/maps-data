@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642503919,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s6v1ca",
+  "picture": {
+    "filesize": 148397,
+    "fullUrl": "https://preview.redd.it/dyaugw2vhfc81.jpg?width=4500&format=pjpg&auto=webp&s=284ac0d0b64d76c367b95b8f33031ae7b95b50ab",
+    "hash": "2027d303a6",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIDBBEhABMxQQUSIlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAQACAgMAAAAAAAAAAAAAAAEAAhEhEjGh/9oADAMBAAIRAxEAPwDEqAMcSWIjEGeIL03g7nGsfHWc8n7lSRbc6s8YYOwICDW/3j8NiosUqp1EYV6/uaR1CI2MZx3++2eB+oSSG/ZIrMB1G0JMgbPnzw1TeT2JsocbbDrE/9k=",
+    "url": "https://preview.redd.it/dyaugw2vhfc81.jpg?width=640&crop=smart&auto=webp&s=67d1dbf67b7f2364ff24bb55813048425707ea17",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Cannith Research Facility",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s6v1ca/cannith_research_facility_50x80/"
+}

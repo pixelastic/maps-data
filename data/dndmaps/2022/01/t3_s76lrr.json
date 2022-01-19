@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ipzpb1hy",
+    "name": "Kaenella"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642536699,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s76lrr",
+  "picture": {
+    "filesize": 88805,
+    "fullUrl": "https://preview.redd.it/nztfny1q6ic81.jpg?auto=webp&s=ca6f834902e2189f497fd649cea36f6e20716092",
+    "hash": "6c29ebb211",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAHxAAAgIDAAIDAAAAAAAAAAAAAQIDEQASIRMiQXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDPcMDzI3jiRtANrNYV+kDaiOEcGJilaFCBZDD2A+efuSdIzRZTuRbfeQf/2Q==",
+    "url": "https://preview.redd.it/nztfny1q6ic81.jpg?width=640&crop=smart&auto=webp&s=a694e316e7792592a47ec08754e22108ea0d7d80",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Mega Dungeon Floor 1 (45x60)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s76lrr/mega_dungeon_floor_1_45x60/"
+}

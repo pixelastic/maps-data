@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_67y4w69v",
+    "name": "mik_wewa"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642522107,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s70yg2",
+  "picture": {
+    "filesize": 48873,
+    "fullUrl": "https://preview.redd.it/mt0w6uoszgc81.jpg?auto=webp&s=597cf20856cd32ad925178e4a250b95b9e817e96",
+    "hash": "4930776d75",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQj/xAAsEAAAAggCCgMAAAAAAAAAAAABEQACAwQFEjFxFCETFRYiIyQlMjOBQ1GR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AnHkdV/LjfUlf2iInDdnZ9AxxBl5OJelDzsjbJWFNXNV0ZMGK72s75M1SE92fuv7NAwhnRxVGGvePADFeQZQz+rJNpf/Z",
+    "url": "https://preview.redd.it/mt0w6uoszgc81.jpg?width=640&crop=smart&auto=webp&s=132c7af264be36d5aa546bdbc64a13c30db41eeb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Crypt. Modular and generic.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s70yg2/crypt_modular_and_generic_25x25/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bbp6uq1m",
+    "name": "Hick2015"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642519497,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s700aa",
+  "picture": {
+    "filesize": 82211,
+    "fullUrl": "https://preview.redd.it/wkfgmmm7sgc81.jpg?auto=webp&s=e514f490f8203e2b09908f673e51e4acd1bbd55a",
+    "hash": "7826674aef",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAEMUESIYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQACAwEAAAAAAAAAAAAAAAABEgACAyL/2gAMAwEAAhEDEQA/AFtzXjQAoCG9WwPHzvJ6zqoHiwpuqF8Zt2JmaMKQKqsNSopoigovd/uTtOCwi8i9VM//2Q==",
+    "url": "https://preview.redd.it/wkfgmmm7sgc81.jpg?width=640&crop=smart&auto=webp&s=1123ad68758946923c3100b7095aadf93b41dbf2",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "The Shores of Missella - A Continent Sized Map. Looking for feedback and constructive criticism. Thanks!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s700aa/the_shores_of_missella_a_continent_sized_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1642464000,
+    "full": 1642469659,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s6kzfw",
+  "picture": {
+    "filesize": 162046,
+    "fullUrl": "https://preview.redd.it/zab3j0k0occ81.jpg?width=6800&format=pjpg&auto=webp&s=199f98c4a860f13fda22bff15eebbe54dcfff544",
+    "hash": "ecfac5cd6b",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwQREgAFITETUZFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQADAQEAAAAAAAAAAAAAAAAAASECEf/aAAwDAQACEQMRAD8Ay7blianK+FVljyVMsrFvZP5x81M39Y2q1SpzWVEAOHXvi+mZ55KeKnmuvkdMmxHLOOiAe/ui3qWjLU0sUgeeSINNgmRDXtYn3qDNQuPh/9k=",
+    "url": "https://preview.redd.it/zab3j0k0occ81.jpg?width=640&crop=smart&auto=webp&s=0ff008473d8d7e61157a9c94a2320575ebdcaaa6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Ravine & Modular Caves",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s6kzfw/forest_ravine_modular_caves_80_x_100/"
+}
