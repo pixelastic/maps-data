@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1642550400,
+    "full": 1642618069,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s7x9k3",
+  "picture": {
+    "filesize": 153498,
+    "fullUrl": "https://external-preview.redd.it/2f46rnPfNvuMyJPp7i09at-ykExxlh-ZOI0irS4Gjpo.jpg?auto=webp&s=a70e643eda7c8ab96b979dd00ea1a53b7515468d",
+    "hash": "ba59941ed4",
+    "height": 899,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIRAAAgEEAwEAAwAAAAAAAAAAAQIDBAUREgAhMRMVQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAEDAAIhBPD/2gAMAwEAAhEDEQA/ANbcqIagWUx1ciorQHPZboHBAHeNfO/13wS9XP4XKWEtNmMKh1jLDpQPQePTVi0l2EU8cUiPPrUTfUb6eAnAAKgjOq9+ZPJfkbijMlLcqSKBGKxo9DllUHABOf5yGtLL5QRr+patNt8Z/9k=",
+    "url": "https://external-preview.redd.it/2f46rnPfNvuMyJPp7i09at-ykExxlh-ZOI0irS4Gjpo.jpg?width=640&crop=smart&auto=webp&s=c9d7dc036f85a9c2c420847c0c0cb33bb2a8aedc",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Oasis Town",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s7x9k3/desert_oasis_town_47x66/"
+}
