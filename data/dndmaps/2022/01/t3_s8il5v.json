@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bvyuvmlu",
+    "name": "StrigunArt"
+  },
+  "date": {
+    "day": 1642636800,
+    "full": 1642684087,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s8il5v",
+  "picture": {
+    "filesize": 186620,
+    "fullUrl": "https://preview.redd.it/u7ykl4t0duc81.jpg?width=6996&format=pjpg&auto=webp&s=f14c8b7905e9f747d0dde709bf7d18a0043a4697",
+    "hash": "e21dd62b78",
+    "height": 909,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAfEAABBAIDAQEAAAAAAAAAAAABAgMEEQUhABMxEsH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEx/9oADAMBAAIRAxEAPwC0xMfCjNQ3ehtSOtBNpT87A/bu+DZuDFRlHwltBGjYATdpB8GuNYh7FiG28HYyHXWUJWftCSAABWze9k64Dnp0dWXkdT7JQCAKN+AD0GuE7j//2Q==",
+    "url": "https://preview.redd.it/u7ykl4t0duc81.jpg?width=640&crop=smart&auto=webp&s=7faabddcc262f398ea82bf538191b674bb368866",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.57,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Continent of Zadreth (homebrew D&D)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s8il5v/continent_of_zadreth_homebrew_dd/"
+}
