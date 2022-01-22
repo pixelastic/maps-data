@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1642723200,
+    "full": 1642782108,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s9egsx",
+  "picture": {
+    "filesize": 89505,
+    "fullUrl": "https://preview.redd.it/e0vx14wrg2d81.jpg?auto=webp&s=781be4e47c65ace77849ee20a4b4505cac72266c",
+    "hash": "f804cc8fa3",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEB//EACAQAQACAQQCAwAAAAAAAAAAAAECEQMAEyExEhRBwfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAyLh/9oADAMBAAIRAxEAPwDNMe3LJ4ZIlkrJVwWdOhtxmXvEbktDxX40vs4EYqmSRfLfXzqXJJxPjIs7ED70eYWDBjBBW2+T/9k=",
+    "url": "https://preview.redd.it/e0vx14wrg2d81.jpg?width=640&crop=smart&auto=webp&s=d3679dd4d9f4cb5e6c3a2dde4fc8fcb592fa2d1d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The High Ground",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s9egsx/the_high_ground_24x30/"
+}

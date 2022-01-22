@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1642723200,
+    "full": 1642766531,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s9983l",
+  "picture": {
+    "filesize": 88638,
+    "fullUrl": "https://preview.redd.it/ndclwxus61d81.jpg?auto=webp&s=e51537e81c742bf9c891ef701397d8bb75626453",
+    "hash": "1583b1f00c",
+    "height": 943,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQj/xAAhEAACAQQBBQEAAAAAAAAAAAABAwIABBEhBRIUM0FRof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AnjibRDLVnVAtJkYmUTjWM0QUQB88P2l+Mejs1gPjbyRmTFkkl+/WBrVEXZi26axSjBcpExjvQ+VJf//Z",
+    "url": "https://preview.redd.it/ndclwxus61d81.jpg?width=640&crop=smart&auto=webp&s=a90ab3b7cef7d17cdb4ef05a93f168fa555abcc1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dark Cathedral",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s9983l/dark_cathedral_19x28/"
+}

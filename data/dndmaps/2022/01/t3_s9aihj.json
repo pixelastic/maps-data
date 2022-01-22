@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1642723200,
+    "full": 1642770967,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s9aihj",
+  "picture": {
+    "filesize": 266734,
+    "fullUrl": "https://preview.redd.it/0p9dmmb9i1d81.jpg?auto=webp&s=f2c6762c681881cdcfd73c8dd0644ba6dc7a3309",
+    "hash": "47cbd98f99",
+    "height": 1522,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAfEAACAgICAwEAAAAAAAAAAAABAgMEABEhMRITIkH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIDMf/aAAwDAQACEQMRAD8AjlyCFaiJ4QRiP726AbJ71+Yw00HrAjnamRWiR2tMSSV4OgvPZxgdT4WWzBq2H//Z",
+    "url": "https://preview.redd.it/0p9dmmb9i1d81.jpg?width=640&crop=smart&auto=webp&s=b52ed994e08025a1cdb7a0611ab758aec2831e75",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "King’s Cavern 96x27",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s9aihj/oc_kings_cavern_96x27/"
+}

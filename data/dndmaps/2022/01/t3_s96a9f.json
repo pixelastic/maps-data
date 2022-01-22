@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1642723200,
+    "full": 1642754514,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s96a9f",
+  "picture": {
+    "filesize": 191758,
+    "fullUrl": "https://preview.redd.it/wzg8deu170d81.jpg?auto=webp&s=2df4ce9293a861465a489054b137e820f67e7c8c",
+    "hash": "8db7e690c0",
+    "height": 1371,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHhAAAQQDAAMAAAAAAAAAAAAAAQIDBBEABSETYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBAhL/2gAMAwEAAhEDEQA/AMElQ3VaJprxMhYq132vnvGQdlRTq2qjHqiAAroIqzjEVyGz/9k=",
+    "url": "https://preview.redd.it/wzg8deu170d81.jpg?width=640&crop=smart&auto=webp&s=a0e9a661bef138555569607d53ecaf13bafb1385",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.91,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gold Vaults Battle Map 14x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s96a9f/gold_vaults_battle_map_14x30/"
+}
