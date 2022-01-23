@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pou0u",
+    "name": "Chaouleon"
+  },
+  "date": {
+    "day": 1642809600,
+    "full": 1642883536,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_sabenr",
+  "picture": {
+    "filesize": 66371,
+    "fullUrl": "https://preview.redd.it/zuinu39iuad81.jpg?width=2048&format=pjpg&auto=webp&s=b925997b0147af59b72a488f09f65597ae6cb356",
+    "hash": "2561ef662b",
+    "height": 610,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwj/xAAfEAABAwUBAQEAAAAAAAAAAAABAgMEAAUREiExE1H/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAAMBAAAAAAAAAAAAAAAAAAARIWH/2gAMAwEAAhEDEQA/AJ4tMATmX1uqJUVFKSFHYHncfnaKbDlwkpUfoGuDZadTmkgzY9v2LKn2JninQeAg55g5p7vf5t8YZZeL7pQvYqefU4e4wBnzyrV4ER//2Q==",
+    "url": "https://preview.redd.it/zuinu39iuad81.jpg?width=640&crop=smart&auto=webp&s=f17c59e650f39b94340aee1c16b81114ea8e5c76",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Castle Ravenloft: Larders of Ill Omen (42x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sabenr/castle_ravenloft_larders_of_ill_omen_42x40/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1642809600,
+    "full": 1642846984,
+    "month": 1640995200,
+    "week": 1642291200
+  },
+  "id": "t3_s9zkyl",
+  "picture": {
+    "filesize": 65618,
+    "fullUrl": "https://preview.redd.it/i9q23jazt7d81.jpg?auto=webp&s=4b37d208ee654968c4ddaf97c8346de9915e5c56",
+    "hash": "b8c170ef33",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAHxAAAgEFAQADAAAAAAAAAAAAAQIDAAQFERIhMkFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIDEjH/2gAMAwEAAhEDEQA/AMVx9ssUkio4AjXr5AA615S8dh5MteR2yMZjM3CrGej9en88qTgyZSrOzHogkb8pk1xNinaWxkaKQAjoHR0aWRZNgSvZ/9k=",
+    "url": "https://preview.redd.it/i9q23jazt7d81.jpg?width=640&crop=smart&auto=webp&s=42765aa6c9d93dd44fc8d7f0e0126eb876116a5d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Curse of Strahd - Castle Ravenloft - Floor 2 : Court of the Count",
+  "url": "https://www.reddit.com/r/dndmaps/comments/s9zkyl/curse_of_strahd_castle_ravenloft_floor_2_court_of/"
+}
