@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1642896000,
+    "full": 1642921385,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sanplh",
+  "picture": {
+    "filesize": 68354,
+    "fullUrl": "https://preview.redd.it/33ir71soydd81.jpg?auto=webp&s=2bb7303b9af876ced0e6f25b18aae529a054c55b",
+    "hash": "7e6ae53e2d",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAIBBAICAwAAAAAAAAAAAAEDAgQFESEAEgYTMWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABIRH/2gAMAwEAAhEDEQA/AMFtqE01lbVtpYtZkCIYNHPA+QWqNPVJ9bIAMRBhAAiASN43sffKCfJGyoWxpWKt73dYtMI5Eoj4wDnr+cQvk53BtKx8ZNkungqM0q6RlEZxoa42uDRH/9k=",
+    "url": "https://preview.redd.it/33ir71soydd81.jpg?width=640&crop=smart&auto=webp&s=0f0c85913b6dcd381bb44cd670f7318f0ad9e640",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 126,
+    "value": 126
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dwarven mine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sanplh/dwarven_mine_32x44/"
+}

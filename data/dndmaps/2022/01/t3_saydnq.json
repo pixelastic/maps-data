@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ry5fn",
+    "name": "Richard_Lebeda"
+  },
+  "date": {
+    "day": 1642896000,
+    "full": 1642957901,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_saydnq",
+  "picture": {
+    "filesize": 272865,
+    "fullUrl": "https://preview.redd.it/mg7kkmmtzgd81.jpg?auto=webp&s=841caddd939d740b3450b41d12b929e2d874a377",
+    "hash": "fb1d938c94",
+    "height": 1128,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAmEAABAgQEBwEAAAAAAAAAAAABAgMABAUREhMxkhQVIlFUY4HR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAgQAAyEi/9oADAMBAAIRAxEAPwA1RrCsxuVDTAYbs2omX6iNCe4+Q7l8v4o3q/IA/TXmp1ydxLUkKLreWnGb30IuNYt8V6XtkNexuGXtO5BZhBIoDzP/2Q==",
+    "url": "https://preview.redd.it/mg7kkmmtzgd81.jpg?width=640&crop=smart&auto=webp&s=f72a7a69b9ea9e7da2d68373fd6d815f00cf5b22",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Hex World map (inspired by Haven)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/saydnq/hex_world_map_inspired_by_haven/"
+}

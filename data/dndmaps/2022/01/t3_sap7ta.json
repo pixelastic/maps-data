@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4l0zpy6e",
+    "name": "BootsNMaps"
+  },
+  "date": {
+    "day": 1642896000,
+    "full": 1642927346,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sap7ta",
+  "picture": {
+    "filesize": 120616,
+    "fullUrl": "https://preview.redd.it/tpn30yqxged81.jpg?auto=webp&s=102099af6f44163128add8494032218754dd0903",
+    "hash": "ecc547db78",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABSFBEjEUYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESMf/aAAwDAQACEQMRAD8Az3aYYrTkkSNGrswT2SPRz+89aXvdShGjmFAhwGKq5bCns/fWNSa80lCy3x2IIlOCTzpV23NZnghnbziRSQp75GomW5WuD2lE/9k=",
+    "url": "https://preview.redd.it/tpn30yqxged81.jpg?width=640&crop=smart&auto=webp&s=d06dda1fa21a96801de03ef1510b899fea3575b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Elven Tree",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sap7ta/elven_tree/"
+}

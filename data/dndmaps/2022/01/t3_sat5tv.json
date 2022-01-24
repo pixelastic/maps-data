@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3c9z46g4",
+    "name": "GoAdventureMapsEx"
+  },
+  "date": {
+    "day": 1642896000,
+    "full": 1642942847,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sat5tv",
+  "picture": {
+    "filesize": 145022,
+    "fullUrl": "https://preview.redd.it/6ygeqo50qfd81.jpg?auto=webp&s=b0250f6efda939e8e02879d1d4d2f133f2eaa313",
+    "hash": "f4b65021aa",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAIxAAAQMDAwUBAAAAAAAAAAAAAgEDEQQFIQASMQYTFEFRIv/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHREAAgIBBQAAAAAAAAAAAAAAAQIAAwQFERIhof/aAAwDAQACEQMRAD8AGXsHLRRW2lZIkbnvusONNyIKsSPopyufmqrenyKqcJh2qbZNdwClAqogrlIWOM6NeSZW2qdebEHUdF2HIQ1/OERPip61qG73YAAaW5GLG0doo8Y7ccROI41KTIcE7xrdNr4qEYgj3uf/2Q==",
+    "url": "https://preview.redd.it/6ygeqo50qfd81.jpg?width=640&crop=smart&auto=webp&s=343d01debf4105c0af2e07a6cd4684dc256c2dd4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lighthouse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sat5tv/lighthouse_25x35/"
+}
