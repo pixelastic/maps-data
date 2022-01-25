@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1642982400,
+    "full": 1643050072,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sbta2o",
+  "picture": {
+    "filesize": 136163,
+    "fullUrl": "https://external-preview.redd.it/qzpexA1ol21X4hJB2dBP-mK0WdWBEWRNQsf9D7EVpU0.jpg?auto=webp&s=99f0af84b93097205c0545aa64d16325ff43e97c",
+    "hash": "eac5428501",
+    "height": 764,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJBAAAQMCBgMBAQAAAAAAAAAAAQIDBAURABIhIjFBBhNhUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBv/EABwRAAIBBQEAAAAAAAAAAAAAAAECAAMREiExgf/aAAwDAQACEQMRAD8Ae8TahyGXpLVHZZi5Q624WySVEbtx7H4OMY6tSkv1qbkeWyELy7ypsK/luucN0qr1GKssQFNwmXEX9i3QQq4GVIHzdfS/3FJ3iDdZk+yYHUJbSEoIsSvklVuhc6a6/MTQxpuWc99iuGYWQbn/2Q==",
+    "url": "https://external-preview.redd.it/qzpexA1ol21X4hJB2dBP-mK0WdWBEWRNQsf9D7EVpU0.jpg?width=640&crop=smart&auto=webp&s=36b23cc06c28cfee25a7645bf710043ce8311422",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Farmland Plains - RPG Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sbta2o/farmland_plains_rpg_battlemap_36x43/"
+}
