@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1643068800,
+    "full": 1643134165,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_scjxi8",
+  "picture": {
+    "filesize": 154273,
+    "fullUrl": "https://preview.redd.it/e1g7q4fkgvd81.jpg?auto=webp&s=c2b160664f102b12803855e00b45dae57d0125ab",
+    "hash": "78c8b26343",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIxAAAgIBAgcBAQAAAAAAAAAAAQIDBBEABQcSEyEiMXEUMv/EABUBAQEAAAAAAAAAAAAAAAAAAAYH/8QAHBEAAQQDAQAAAAAAAAAAAAAAEQABAgQDITEi/9oADAMBAAIRAxEAPwDPR3Fp15d13wB45JOnlQG5WY5KoD6AznOdItxKgrt0oZomjTxUtKASNXeKv46UdWwiWZHQSR9ZPBWwBjlH9eu/3SVPh9tluuk7tWDyZJAg7A5+6QEbU/sSqP7zxcPwcC//2Q==",
+    "url": "https://preview.redd.it/e1g7q4fkgvd81.jpg?width=640&crop=smart&auto=webp&s=a59172541d78e2f60fdfc6e69d8de31c68013f39",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mother of the Sea",
+  "url": "https://www.reddit.com/r/dndmaps/comments/scjxi8/oc_mother_of_the_sea_28x42/"
+}

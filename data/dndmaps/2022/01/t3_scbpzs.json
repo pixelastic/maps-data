@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1643068800,
+    "full": 1643110591,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_scbpzs",
+  "picture": {
+    "filesize": 195585,
+    "fullUrl": "https://preview.redd.it/8hj4n11ultd81.jpg?auto=webp&s=086af31d98863baccb0c20509755ce6348b0473e",
+    "hash": "ff4bc4b2ef",
+    "height": 840,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACMQAAIBBAIABwAAAAAAAAAAAAECAwAEESEFEhQxMmFxkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAECABEDQVH/2gAMAwEAAhEDEQA/AMvYt4W1CrEqYwxAIAOt/FBfRQNcszRJ2Oz20fw0zwvFyci9wyyqgijATPpZiT5/VTbmdIJTHeMizjTKwGV9qmbHSBuwGF0NT//Z",
+    "url": "https://preview.redd.it/8hj4n11ultd81.jpg?width=640&crop=smart&auto=webp&s=286dfddddf808c99535903d96c223abe95de4e77",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 768,
+    "value": 768
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Zobeck, Homebrew version of it",
+  "url": "https://www.reddit.com/r/dndmaps/comments/scbpzs/zobeck_homebrew_version_of_it/"
+}
