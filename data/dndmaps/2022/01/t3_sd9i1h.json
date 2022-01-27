@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g69w1j1t",
+    "name": "Relizaton"
+  },
+  "date": {
+    "day": 1643155200,
+    "full": 1643213455,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sd9i1h",
+  "picture": {
+    "filesize": 82904,
+    "fullUrl": "https://preview.redd.it/e4z8h57e32e81.jpg?auto=webp&s=352e52d0726ef531df64da10f0bafd7d6eca3499",
+    "hash": "926f8d0fcb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACAQAAMAAQMFAQAAAAAAAAAAAAECAxEABCEFEiIxQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAQACAwEAAAAAAAAAAAAAAAECEQADMSH/2gAMAwEAAhEDEQA/AMUbmVNmkUgC6Ke7wzk/oxzpEZPGQvZKT7kLTI+n5nOj0yzz3SzQ4WrBWx796q68Qu4SSKFUDPBPJydHbDcQOPuT2Mbe5//Z",
+    "url": "https://preview.redd.it/e4z8h57e32e81.jpg?width=640&crop=smart&auto=webp&s=b9fd5463e709f9230776e5f820d8f2499be52a9e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "My new D&D map, any advice will help.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sd9i1h/my_new_dd_map_any_advice_will_help/"
+}

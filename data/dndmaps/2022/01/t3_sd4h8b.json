@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_67y4w69v",
+    "name": "mik_wewa"
+  },
+  "date": {
+    "day": 1643155200,
+    "full": 1643198788,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sd4h8b",
+  "picture": {
+    "filesize": 91721,
+    "fullUrl": "https://preview.redd.it/67kjkwuav0e81.jpg?auto=webp&s=eb8b6e8dec512ded3c9f79f8a865befddd0aaae2",
+    "hash": "25cdf924d2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDBBEABQYxEiETQYFi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIRIv/aAAwDAQACEQMRAD8Az7auOSybWBXWSxZnJZmEoUFlbonORpzvjxbBsbrUcVLduNbE8jtkqQoAGD7IHoevs51Su6cf40rwUWrvaBZR4p0e/Ef0To5y3dLF2qzwqXkKfL4SxMGbPSfn4c41N6zY0AdN/9k=",
+    "url": "https://preview.redd.it/67kjkwuav0e81.jpg?width=640&crop=smart&auto=webp&s=02b444f6c8f9f84c28a59309e83d2415c2e30803",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 300,
+    "value": 300
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Road for all your random encounter needs",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sd4h8b/forest_road_for_all_your_random_encounter_needs/"
+}

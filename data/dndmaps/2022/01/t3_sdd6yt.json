@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1643155200,
+    "full": 1643222871,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sdd6yt",
+  "picture": {
+    "filesize": 125610,
+    "fullUrl": "https://external-preview.redd.it/zuh_GbA1CTPHOl3EiQrxMzWsP39WReDLzu7eF2TzVWI.jpg?auto=webp&s=434f18a75989a2ad7a17054361b9749c747b7625",
+    "hash": "47a92d6df9",
+    "height": 889,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQQAAEEAQIGAwAAAAAAAAAAAAECAwQREgAFBhQhMUFhI3HR/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABoRAQEAAgMAAAAAAAAAAAAAAAIBAAQDIUH/2gAMAwEAAhEDEQA/ADbJCgxYPDEZ6GJqtzcW67ghys0mxnXi7vp4HcHTe+CRtG7yYm0vDlkKBxyyxUUglI+jq7tE2c3wfOkQIDKUpe+ChakpwCVqSO4Ni61j3OalOrfdcfdW4ci51tXs+/zRnZJQkkxFoFnmba68mf/Z",
+    "url": "https://external-preview.redd.it/zuh_GbA1CTPHOl3EiQrxMzWsP39WReDLzu7eF2TzVWI.jpg?width=640&crop=smart&auto=webp&s=b78489a037c8f2f252eecf819bf2b093225595f1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Ruins - Another new map!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sdd6yt/desert_ruins_another_new_map_36x50/"
+}

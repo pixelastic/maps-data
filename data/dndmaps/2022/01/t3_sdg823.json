@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_14eiz4",
+    "name": "Panlytic"
+  },
+  "date": {
+    "day": 1643155200,
+    "full": 1643230639,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sdg823",
+  "picture": {
+    "filesize": 146119,
+    "fullUrl": "https://preview.redd.it/qfj3i26ki3e81.jpg?auto=webp&s=aebd439ca4c95e7cbb418de758fb260936bf0f0a",
+    "hash": "be34e15eb0",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAlEAABBAEDAgcAAAAAAAAAAAABAgMEEQUAEiEiMQYTQmFxgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwArsHJYLH5CSJin/O6UgAqAv1KvtX7p/heJMYw7QkrSlS+tKSvskgV8amZPBTJmcfbbmJUhaC8ColOwE1tr6rjV6Fi5ERgNuTnnSaIPHAoCh7cajLa//9k=",
+    "url": "https://preview.redd.it/qfj3i26ki3e81.jpg?width=640&crop=smart&auto=webp&s=fd7b11b9760d7420016be78e8a02cd382efaafff",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "University Cellar - Scriptorium and Bindery",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sdg823/university_cellar_scriptorium_and_bindery/"
+}

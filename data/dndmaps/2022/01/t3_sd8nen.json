@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a7vcx4b8",
+    "name": "ZadenBrewer"
+  },
+  "date": {
+    "day": 1643155200,
+    "full": 1643211197,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sd8nen",
+  "picture": {
+    "filesize": 142845,
+    "fullUrl": "https://preview.redd.it/0ipl1p4yw1e81.jpg?auto=webp&s=e8478ac563144990dfc1a9733bfaee1c64ea949d",
+    "hash": "c2799ef672",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAkEAACAgECBQUAAAAAAAAAAAABAwIEEQAFEhMhIlEUQWGRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAwADAAAAAAAAAAAAAAAAAQIDAAQx/9oADAMBAAIRAxEAPwBLaBCnsy7r1rDMcwiJyD4/NENd6l2XwhFjO4+M+wGlrV6rWQsAJcGAds+oAHxqCNegyRcu0FqyJcnhyYY64B+9SZ6dRMOw7jqbkzQop5n/2Q==",
+    "url": "https://preview.redd.it/0ipl1p4yw1e81.jpg?width=640&crop=smart&auto=webp&s=f06f05d013868dd75efaefa8e0a751f3ab74d240",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 394,
+    "value": 394
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Desert city for my homebrew campaign. (Hex grid 40x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sd8nen/desert_city_for_my_homebrew_campaign_hex_grid/"
+}
