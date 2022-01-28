@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1643241600,
+    "full": 1643309269,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_se5ic5",
+  "picture": {
+    "filesize": 187100,
+    "fullUrl": "https://external-preview.redd.it/cvBJ9RtcyXUoHc141SoA4FVindhdHbZFRRJLJFbUIdA.jpg?auto=webp&s=1b17eb4e1607cf5922db7be31f7a4d9ee3602d85",
+    "hash": "55a342459a",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIBAAAgICAgMBAQAAAAAAAAAAAQMCEQQhAAUGEjFhIv/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQACAgIDAAAAAAAAAAAAAAABAgARAyFBUfD/2gAMAwEAAhEDEQA/AMt0PjMcrGc9ZapCqiGEULkBQP4dbOt8Vx/D+1mkGOEto2PYOGze+Q9W443WZUmuZUUxaEh4qZBAH8nZr7X4OJ4UO2biwZPIIM7kPRTCKJsfBXzguVmG7Fe6iyKDxP/Z",
+    "url": "https://external-preview.redd.it/cvBJ9RtcyXUoHc141SoA4FVindhdHbZFRRJLJFbUIdA.jpg?width=640&crop=smart&auto=webp&s=7cee5f7e640dd8c17c14153a9c3058569574df64",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 423,
+    "value": 423
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Woodland portal to another realm!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/se5ic5/woodland_portal_to_another_realm_34x51/"
+}

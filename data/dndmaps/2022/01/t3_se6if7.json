@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_vgp99",
+    "name": "TerTerro"
+  },
+  "date": {
+    "day": 1643241600,
+    "full": 1643311845,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_se6if7",
+  "picture": {
+    "filesize": 189685,
+    "fullUrl": "https://preview.redd.it/je4vid6a8ae81.jpg?auto=webp&s=d2be4832e18e2ec5397d8168e44390233d9d2b4d",
+    "hash": "5e0546dece",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBv/EACEQAAIBAwMFAAAAAAAAAAAAAAECAwAREgQhMSJBYYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oADAMBAAIRAxEAPwDHqAqMoDFmPfan1OolmZnkJaQ8k7X8fKM05lxZgudgMhsbAWqN7ZDqYHnHn1UrwSU//9k=",
+    "url": "https://preview.redd.it/je4vid6a8ae81.jpg?width=640&crop=smart&auto=webp&s=223f954239034daa11a0d4c6836715dbb8318dbc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Maze and the City (Commission I've done)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/se6if7/maze_and_the_city_commission_ive_done/"
+}

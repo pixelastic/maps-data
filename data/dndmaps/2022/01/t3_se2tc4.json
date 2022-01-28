@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4vyp45g",
+    "name": "hypermuffins"
+  },
+  "date": {
+    "day": 1643241600,
+    "full": 1643302316,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_se2tc4",
+  "picture": {
+    "filesize": 61741,
+    "fullUrl": "https://preview.redd.it/3jmwwzxwf9e81.jpg?auto=webp&s=f8d5a7e4d5df39aa76d5dfa78445ed1e225929ba",
+    "hash": "1509022b4f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMECP/EACAQAAICAgICAwAAAAAAAAAAAAECAxEAIQQxEhMiYeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAADH/2gAMAwEAAhEDEQA/AM8O59YQmTslgx1eWQ8t1YyRoAAwUCuvsXg8YcsA9k/K2sEHWsTyJmn5COkYIFAL40Br87wUo//Z",
+    "url": "https://preview.redd.it/3jmwwzxwf9e81.jpg?width=640&crop=smart&auto=webp&s=5a3e8dc7bf09e470d7c9a4a36608d54acd3ee1dc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Cave Encounter 50x50",
+  "url": "https://www.reddit.com/r/dndmaps/comments/se2tc4/cave_encounter_50x50/"
+}

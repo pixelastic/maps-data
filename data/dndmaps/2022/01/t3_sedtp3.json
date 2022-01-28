@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1643328000,
+    "full": 1643331247,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sedtp3",
+  "picture": {
+    "filesize": 99691,
+    "fullUrl": "https://preview.redd.it/9e7159hytbe81.jpg?auto=webp&s=3ed872d04f9d16f67dbc07f1c5741d7e4b6cb454",
+    "hash": "ad7e8c9907",
+    "height": 315,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQIDBBEAEjEhI//EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESL/2gAMAwEAAhEDEQA/ANIQEhyO5KQPo9q4RWyUgm/O8ySVFbp1thK6SolB1FgWQAQOXWMZKp5I+V0f/9k=",
+    "url": "https://preview.redd.it/9e7159hytbe81.jpg?width=640&crop=smart&auto=webp&s=4df4a14b8eb4be77911e31e8d1a3f497460bf4df",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Vault of the Shadow Lich",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sedtp3/vault_of_the_shadow_lich/"
+}
