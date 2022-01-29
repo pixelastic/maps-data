@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1643328000,
+    "full": 1643387464,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_seunl1",
+  "picture": {
+    "filesize": 25557,
+    "fullUrl": "https://preview.redd.it/f70it5b5hge81.jpg?auto=webp&s=7d21922a6d95a80627f049820be16d19f4ef3bc4",
+    "hash": "76eebb56fe",
+    "height": 376,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAHxAAAAUEAwAAAAAAAAAAAAAAAAERIYECAwQzEjJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AMCJy7U+SDWvkjuhOCxdlyBTxNV6AmJX/9k=",
+    "url": "https://preview.redd.it/f70it5b5hge81.jpg?width=640&crop=smart&auto=webp&s=699be02bef881e10f82188773d8e81425e011e74",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Skullport – The Venter – Dungeon of the Mad Mage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/seunl1/skullport_the_venter_dungeon_of_the_mad_mage/"
+}

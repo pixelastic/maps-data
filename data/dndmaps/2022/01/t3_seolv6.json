@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1643328000,
+    "full": 1643368977,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_seolv6",
+  "picture": {
+    "filesize": 79895,
+    "fullUrl": "https://preview.redd.it/ydowo9crxee81.jpg?auto=webp&s=d0506f34c97df1c490cad717e3866059e1a840fe",
+    "hash": "e5a98d4e3c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBAURAAYSISNBUTH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBv/EABoRAAICAwAAAAAAAAAAAAAAAAECABEDEiH/2gAMAwEAAhEDEQA/AB7WsdHYZpIzHPIwYhqhj40ycrqdw0toupoa+No3eFiirzGeIOR+adsm9STWKOevMLGRTyQnIA9ZHvrWBdkmFyYUsNHM8j8FhUAkHGRxHWOvnzUtqzZi19EYCCtT/9k=",
+    "url": "https://preview.redd.it/ydowo9crxee81.jpg?width=640&crop=smart&auto=webp&s=82e0f0844b609bad46d63b9ec1ce70b7f5edd1b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Statue",
+  "url": "https://www.reddit.com/r/dndmaps/comments/seolv6/swamp_statue_20x20_oc_battlemap/"
+}

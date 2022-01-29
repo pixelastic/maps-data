@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1643328000,
+    "full": 1643406840,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sf1skj",
+  "picture": {
+    "filesize": 71831,
+    "fullUrl": "https://preview.redd.it/7x0eot8q2ie81.jpg?auto=webp&s=5b9d12ad47e1482e41bd7b67109f465967861c90",
+    "hash": "838db308fe",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEDBAEEAwAAAAAAAAAAAAECAwQABREhBhIiMVFBUnH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAQEAAQMFAAAAAAAAAAAAAAIBAAMREzFBUYHw/9oADAMBAAIRAxEAPwDMY1ug3dLSYLDrLmlLCjns9jPndHS+KBqM48ApIJ6ACNhXnQxk6qWtN3mwnA4w8QpCOgZ+vqmK+Q3CS28hx0AKSNgbH4fimUa9RUUhnWZAPECgt6u18fe8/9k=",
+    "url": "https://preview.redd.it/7x0eot8q2ie81.jpg?width=640&crop=smart&auto=webp&s=ccf7702d122e453d75ece9340cf52975bb4ee84a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Nonestica Oz Land!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sf1skj/nonestica_oz_land/"
+}

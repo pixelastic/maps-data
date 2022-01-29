@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1643328000,
+    "full": 1643371003,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sep52h",
+  "picture": {
+    "filesize": 136529,
+    "fullUrl": "https://preview.redd.it/v8v2hj764fe81.jpg?auto=webp&s=3ed9bbe64724ab6bbe8c61d564ac47f5f289204a",
+    "hash": "5723f8b2d7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIH/8QAIxAAAgECBgIDAAAAAAAAAAAAAQMCBBEABRITMUEUITJRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhI//aAAwDAQACEQMRAD8AxhKEOpMsk9I3JJltyKtvSQQdQPZsOMFc4Joq1jIvMFXRCcI6l8XIP6ecD3VLabJ0S8eUULM7wPv4WBxedNlPKamLGqSrVtC8DKfuOo2A6J7+sCq9YN6RH//Z",
+    "url": "https://preview.redd.it/v8v2hj764fe81.jpg?width=640&crop=smart&auto=webp&s=bc096f4de999dcc3428c10c3c1e1327edc8e4099",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 637,
+    "value": 637
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Elven Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sep52h/elven_dungeon_50x50/"
+}

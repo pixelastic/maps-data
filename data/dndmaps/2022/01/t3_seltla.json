@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1643328000,
+    "full": 1643357789,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_seltla",
+  "picture": {
+    "filesize": 130541,
+    "fullUrl": "https://preview.redd.it/d6k3hg6w0ee81.jpg?auto=webp&s=5a96d4bf8f365fe23419a3dd35d763bb3d4ff2ef",
+    "hash": "8500377aa7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAH/8QAIhABAAIBAgYDAAAAAAAAAAAAAQIRAwASEyExQVGBBCIy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwDNPjQJZBySZRSuHGW1PFX16mkxYIzwcRyOyMtv5oSyuffvpMJsUauU+YhFidRv3Xo1BjrEjGt8n7WxaBJVyrxqO6egH//Z",
+    "url": "https://preview.redd.it/d6k3hg6w0ee81.jpg?width=640&crop=smart&auto=webp&s=e7ec640560fc2cff08874bacf5af50fb94046ca3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Labyrinth Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/seltla/battlemap_31x31_forest_labyrinth_ruins/"
+}
