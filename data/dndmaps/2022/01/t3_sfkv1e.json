@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1643414400,
+    "full": 1643471525,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sfkv1e",
+  "picture": {
+    "filesize": 176302,
+    "fullUrl": "https://preview.redd.it/37qfo3owene81.jpg?auto=webp&s=3f2318ef0300ea202dab25ab6ccab694a4b238e0",
+    "hash": "9dd0aaca49",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAHxAAAgEFAAMBAAAAAAAAAAAAAQIDAAQREiExQZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAbEQABBQEBAAAAAAAAAAAAAAARAAECAyHwIv/aAAwDAQACEQMRAD8Az8F1eTzFFaK2t2CrIWiy0zAcYk+D4HKkywkSuDAG6e7L36aQ3Wsa52Lk7BSxLMMD4PdC1yNjlIyc9yR+VIsnZMOM4oq/BY7wX//Z",
+    "url": "https://preview.redd.it/37qfo3owene81.jpg?width=640&crop=smart&auto=webp&s=7048aeb4452868e4762c6c8179ae39337001a026",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Waterfall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sfkv1e/jungle_waterfall_24x40/"
+}

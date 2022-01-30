@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1643414400,
+    "full": 1643484409,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sfpkiy",
+  "picture": {
+    "filesize": 64055,
+    "fullUrl": "https://preview.redd.it/dfjm3foyfoe81.jpg?width=1190&format=pjpg&auto=webp&s=64ed666ac8c2c23bd6d96545d6108092a632f3ef",
+    "hash": "76b645d323",
+    "height": 828,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIEAwURAAYSMRMhIlHB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQEAIf/aAAwDAQACEQMRAD8Axzbmz0u1rWa8+nHp4blyx7Sv16jUvcYwizKtFXDhDjkOjpq136hEszwzGY1mBAqqfk9EZ/Z0TIgzkceWNX5EZGVPWlHrr0Jv/9k=",
+    "url": "https://preview.redd.it/dfjm3foyfoe81.jpg?width=640&crop=smart&auto=webp&s=f3796edac1148752d34c02566b3b7ef4481a68e5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Basement of a house",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sfpkiy/basement_of_a_house/"
+}

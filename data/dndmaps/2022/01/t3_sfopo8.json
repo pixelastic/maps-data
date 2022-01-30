@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1643414400,
+    "full": 1643482071,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sfopo8",
+  "picture": {
+    "filesize": 193504,
+    "fullUrl": "https://external-preview.redd.it/i_vsmuUz_J92sICcMqwlB5y6rjPY_AKMiYH05dq0e88.jpg?auto=webp&s=49abb61496a461627f6d82e8b00bf735bab50506",
+    "hash": "d744ece66a",
+    "height": 888,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhAAAgEEAgIDAQAAAAAAAAAAAQIDBAUREgAhBhMxMlFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAbEQEAAQUBAAAAAAAAAAAAAAABIQACAyIxYf/aAAwDAQACEQMRAD8AjuIt0viyPTUIcbKN5GkBkO2B+EDr54tzozDcJUp7N7UwhLU9WUXYopYEfw5J5kzTGXwuKVameTWRY1k9eEHYI6yc5x+DjXueliuc2xgZnCO2xlyCUGfqcHvPJtuNu1ZZ6NBkVk84hX//2Q==",
+    "url": "https://external-preview.redd.it/i_vsmuUz_J92sICcMqwlB5y6rjPY_AKMiYH05dq0e88.jpg?width=640&crop=smart&auto=webp&s=5c8ce6c2f53697d920b3e97ddd0d5e90175bf45e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 336,
+    "value": 336
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "New map alert! Floating Canal Market",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sfopo8/new_map_alert_floating_canal_market_31x43/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1643414400,
+    "full": 1643477084,
+    "month": 1640995200,
+    "week": 1642896000
+  },
+  "id": "t3_sfmvnf",
+  "picture": {
+    "filesize": 41220,
+    "fullUrl": "https://external-preview.redd.it/uuAYm77fywRPIplQbzqmNArrsqHikB3VGYKw7OFAdts.png?format=pjpg&auto=webp&s=5da5f9e54c25515ce195129678bca55d572bbe2c",
+    "hash": "37b87e9c5c",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAKRAAAQIEAwcFAAAAAAAAAAAAAQIDAAQFERMxQRIhIjIzNWFzdIGxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEBAAEFAQAAAAAAAAAAAAAAAQACAxEiMUH/2gAMAwEAAhEDEQA/AM+qUoG6TS8NTbincAuJHTCrggE23HO5vr4i81LTDzc446hvbLzrq0Np4EqFwADrlf5BgiW7DL+6b/YhqpclU9df2IhRLXfYbVvgJ//Z",
+    "url": "https://external-preview.redd.it/uuAYm77fywRPIplQbzqmNArrsqHikB3VGYKw7OFAdts.png?width=640&crop=smart&format=pjpg&auto=webp&s=f09dd12413dfec4c185f66ade3b4e9eb3f45b224",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Stone Bridge Animated Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sfmvnf/stone_bridge_animated_battle_map/"
+}
