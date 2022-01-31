@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643544122,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sg7swt",
+  "picture": {
+    "filesize": 39099,
+    "fullUrl": "https://preview.redd.it/q9lt273zete81.jpg?auto=webp&s=1029c678ba771c5949def6725a290a486892cdb1",
+    "hash": "b7b4cf3d8f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAHxABAAEEAQUAAAAAAAAAAAAAAQIAAxESIRMUMTKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMxROlZ31jNmeV9flQVk5XLSFs9oECbcHnLwUagv/9k=",
+    "url": "https://preview.redd.it/q9lt273zete81.jpg?width=640&crop=smart&auto=webp&s=b6653e034ef05ec25d44ee6a845a0ca7cb6756e7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Caves of Erythnul",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sg7swt/caves_of_erythnul_30x40/"
+}

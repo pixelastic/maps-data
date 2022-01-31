@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643509106,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sfya7b",
+  "picture": {
+    "filesize": 105867,
+    "fullUrl": "https://preview.redd.it/w0z0jcvriqe81.jpg?auto=webp&s=d803ef2f271a4e95875a3c3045b5d755fa461aa3",
+    "hash": "4a0cc74f6a",
+    "height": 384,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACIQAAIBAwMFAQAAAAAAAAAAAAECAwQFEQAhMQYTIkFRof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQABEv/aAAwDAQACEQMRAD8AZ6pgR65oqxkBCr5RFm7Rz6XI3wRnn7tqdbJlguMZSoZyFLANSleSPzHvga2hhilvdwEsSOMRnDKDyN9As9PDLUO0sUbsjEIWUEqBwB81LM5Jjrf/2Q==",
+    "url": "https://preview.redd.it/w0z0jcvriqe81.jpg?width=640&crop=smart&auto=webp&s=81f725b6fa1f0356b68ed82ba2a3390e3a603409",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Kobold Tombs",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sfya7b/the_kobold_tombs_lore_vtt_notes_and_a_wave_of/"
+}

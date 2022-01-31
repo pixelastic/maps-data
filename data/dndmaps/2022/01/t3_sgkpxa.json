@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_18wlm4cr",
+    "name": "GM_Odinson"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643581426,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sgkpxa",
+  "picture": {
+    "filesize": 56564,
+    "fullUrl": "https://preview.redd.it/217r3zxuhwe81.jpg?auto=webp&s=1ba099f9812bf21f8e362c3f24c0e4a56a3a188b",
+    "hash": "9321d6a813",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBBEABQYSQSExMhMUUYGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAACERL/2gAMAwEAAhEDEQA/AMDyfKYjRQVEoV3kbohB8Rzf8wnU+nhQwSuVRZUCsyodwUMLi5+e3TFdGZxsaCBQvuFV0TdH6nkLWC9gb84PqSvWlhmoVdmkYjfe6/RHNjzgq2oNFzT/2Q==",
+    "url": "https://preview.redd.it/217r3zxuhwe81.jpg?width=640&crop=smart&auto=webp&s=859782df6ab3b7a4b7e0c6c9789de214a74578d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "25x25 Kill Chamber",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sgkpxa/25x25_kill_chamber/"
+}

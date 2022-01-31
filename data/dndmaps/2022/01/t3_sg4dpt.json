@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3c9z46g4",
+    "name": "GoAdventureMapsEx"
+  },
+  "date": {
+    "day": 1643500800,
+    "full": 1643530100,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sg4dpt",
+  "picture": {
+    "filesize": 78394,
+    "fullUrl": "https://preview.redd.it/hm5mgg5f7se81.jpg?auto=webp&s=13bc3652f7fd0ce30fdeed60393f6aae61daffb9",
+    "hash": "56be52ea07",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAH/8QAJRAAAgIBAgUFAQAAAAAAAAAAAQIDBAUAERIhMUFhBhMiQoHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAEESH/2gAMAwEAAhEDEQA/AMPxOFkFdJUVZfcBJ3G6j97Hn01TYJ7ciV6leSS3ITwpGOfTz1/mm+XyTT4e7A2EiS/NGOKxCjpvsQdyg+IY9yNI6Ocnb0/RiaetFC1ZIGOORTaXl932BQDud/A1O1wdiGsIF4J//9k=",
+    "url": "https://preview.redd.it/hm5mgg5f7se81.jpg?width=640&crop=smart&auto=webp&s=bf3f45e9002bf516657535807d85ddc8bc991480",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.88,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Secret Entrance",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sg4dpt/the_secret_entrance_30x30/"
+}

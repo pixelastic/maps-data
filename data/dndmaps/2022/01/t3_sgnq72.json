@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9c4689",
+    "name": "Raznag"
+  },
+  "date": {
+    "day": 1643587200,
+    "full": 1643589933,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sgnq72",
+  "picture": {
+    "filesize": 49142,
+    "fullUrl": "https://preview.redd.it/ju6hk4547xe81.jpg?auto=webp&s=31b0d58572d666ebd6ee82b4771783d490b3a2d1",
+    "hash": "3e07c6fffa",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFCP/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERIhMQUGUSJBgZHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANF9wXczFIbCUpJG2ZGzgcHC+T8UFna3dzAWLIMAgM7GQlvcA+Bv9mq0thBIXYJodm1Fl5J/E0qRj0+2iWH1BiSde/O9B//Z",
+    "url": "https://preview.redd.it/ju6hk4547xe81.jpg?width=640&crop=smart&auto=webp&s=f543129f9374d1bbe3bf96a33f9aba7af519d626",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "The Mushrooms Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sgnq72/the_mushrooms_cave/"
+}
