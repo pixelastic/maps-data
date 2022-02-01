@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1643587200,
+    "full": 1643625104,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sgy8c4",
+  "picture": {
+    "filesize": 196401,
+    "fullUrl": "https://preview.redd.it/56m5qj7q30f81.jpg?width=2160&format=pjpg&auto=webp&s=93da4d4f5dbdb51ceeeddf0d45dbe7a72dad360e",
+    "hash": "105e683947",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJhAAAgAFAgUFAAAAAAAAAAAAAQMAAgQFEQYiEhMVFlRRcZKT0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAGREAAgMBAAAAAAAAAAAAAAAAAhEAAQMS/9oADAMBAAIRAxEAPwCq0aXrVaR6copkQEBTqadW8zzjJ3eo4hBV2HqDwW/WfyEmhvF7fpWoK6m385r1sVOx2JyvG8znOROCDj2jLdy3Hzrt8jEyB6g+VEnQ2nP/2Q==",
+    "url": "https://preview.redd.it/56m5qj7q30f81.jpg?width=640&crop=smart&auto=webp&s=99d3ac24274006fe45c41a0c57eeccbade594e9c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Temple of Li'Za",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sgy8c4/temple_of_liza_20x36/"
+}

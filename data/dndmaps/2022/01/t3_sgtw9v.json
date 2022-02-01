@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dienyocb",
+    "name": "Observation_Protocol"
+  },
+  "date": {
+    "day": 1643587200,
+    "full": 1643608598,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sgtw9v",
+  "picture": {
+    "filesize": 122964,
+    "fullUrl": "https://preview.redd.it/7x6znndaqye81.jpg?auto=webp&s=ea94f288a92d44b18a5dd21184a29938a3e655d9",
+    "hash": "5392160a3b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACIQAAIBAwQCAwAAAAAAAAAAAAECAwQRIQASE1EFMRUyYv/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAERL/2gAMAwEAAhEDEQA/AMPQxVTUpqmkjIeP7LGqtn9Ae9C8fGtG3CVk3yq213jxvAuBe/q2L9m+nwODxtOiE7b8ees6kVDsfkIFJSGPjdI0JCqb2wOs6ja9PMVBAJv/2Q==",
+    "url": "https://preview.redd.it/7x6znndaqye81.jpg?width=640&crop=smart&auto=webp&s=220658daec0db71481e317737bca5bf1c3bde297",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 216,
+    "value": 216
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Riverside City Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sgtw9v/riverside_city_map/"
+}

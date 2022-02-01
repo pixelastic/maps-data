@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1643587200,
+    "full": 1643638659,
+    "month": 1640995200,
+    "week": 1643500800
+  },
+  "id": "t3_sh29qz",
+  "picture": {
+    "filesize": 123570,
+    "fullUrl": "https://preview.redd.it/bvcczcxl71f81.jpg?width=2800&format=pjpg&auto=webp&s=947ba417964f20a8901f9473f5152a504ca5f07e",
+    "hash": "13ab3b1f8a",
+    "height": 1040,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJRAAAgICAQEJAQAAAAAAAAAAAQIDBQQRACIGEhMhQVFhYnGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABoRAQEBAAMBAAAAAAAAAAAAAAEDAgAhMXH/2gAMAwEAAhEDEQA/ALW2TVWdzTVuFUY8IgVI3aeHumQgqNqQda9dnhbmCuFvnBqyvJE77IX7H44TOtcS4lxMfGyMfxYcPqZAAXJUEqG/mv08yp+02A80jSMgdmJbrB89+/DNWtTBpejz68QxnKTpyevP/9k=",
+    "url": "https://preview.redd.it/bvcczcxl71f81.jpg?width=640&crop=smart&auto=webp&s=fbc262de728668118d722955375f0d1018f62891",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 527,
+    "value": 527
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dam Explosion Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sh29qz/dam_explosion_phased_battle_map_40x65/"
+}
