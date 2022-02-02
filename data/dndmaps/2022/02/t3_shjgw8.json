@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1643673600,
+    "full": 1643682210,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_shjgw8",
+  "picture": {
+    "filesize": 145573,
+    "fullUrl": "https://preview.redd.it/6icp83aft4f81.jpg?auto=webp&s=e05b1e5a0e1ca5280c33af99fe087d0d94697dfc",
+    "hash": "b400471966",
+    "height": 823,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAJRAAAgIBAgQHAAAAAAAAAAAAAQIDEQQAIQUSE0EjMTJCYXHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhAv/aAAwDAQACEQMRAD8Ayzg8a4SNLLGokR7VOmF6YT3ufV3qvMnT40a5qtKmQYU5iojWVYuX7BO5u9xtoA2XhTYyRTiSaStzRamujRvazZHxqsjI4qkzjGgiG56ngqLfua7fmpTV26KvlRH/2Q==",
+    "url": "https://preview.redd.it/6icp83aft4f81.jpg?width=640&crop=smart&auto=webp&s=5ad10be781cd2a04ce9d24b6baab29981290958f",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Pass with Waterfall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/shjgw8/forest_pass_with_waterfall_70_x_90/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1643673600,
+    "full": 1643712080,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_shs1du",
+  "picture": {
+    "filesize": 107994,
+    "fullUrl": "https://preview.redd.it/c3ej7nkf57f81.jpg?width=2100&format=pjpg&auto=webp&s=a272f9bdd21f1db50bd7340574e8f154f3de814a",
+    "hash": "a3a80aa960",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACUQAAIBAwMCBwAAAAAAAAAAAAEDAgAEERITMQUhIjJBcYGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAwDAQACEQMRAD8Aw6429lVstbRcTYRCGkGJI8P3QNZcR6fJKHNZarYQYyHbPGR+VZbKiEwuZ5fojNRSnEpAmXnAPp35FLfcNm5SxbTj062lp28GJGefn3qVwG6f/9k=",
+    "url": "https://preview.redd.it/c3ej7nkf57f81.jpg?width=640&crop=smart&auto=webp&s=2993b1c6cdadb515ce9d7998184cf6884477ce46",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dark Forest Tutorial-Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/shs1du/dark_forest_tutorialmap_30x30/"
+}

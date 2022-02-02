@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g996f5pu",
+    "name": "StoneGrounded"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643761309,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sia627",
+  "picture": {
+    "filesize": 95211,
+    "fullUrl": "https://preview.redd.it/8ndsic87cbf81.jpg?auto=webp&s=6af61e7db67acbc931c9d775854573b23354ea3f",
+    "hash": "ffd3abdc0c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAIBAAAQQCAwADAAAAAAAAAAAAAgEDBBEFIQASEyJRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/ACaK0r0xsRJsexovofxrfEnAORYmXApzoiJgQCbqKFLVLf3zHDCxZsiPLd9BdVxULoqIhUmr1+crHb9sji2HiJxpxeyiW6td1yY5Tl6Jh9P/2Q==",
+    "url": "https://preview.redd.it/8ndsic87cbf81.jpg?width=640&crop=smart&auto=webp&s=2c3ace656c3cd7e9c55eb7695ceec61c9a792844",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Savage Frontier Overworld Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sia627/savage_frontier_overworld_map/"
+}

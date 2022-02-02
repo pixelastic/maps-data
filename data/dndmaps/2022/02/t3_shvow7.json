@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1643673600,
+    "full": 1643724172,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_shvow7",
+  "picture": {
+    "filesize": 277351,
+    "fullUrl": "https://external-preview.redd.it/PQQZJRajNDj3LQy9Pw9EWwu-xnLcy29HvwbqfSmeqk0.jpg?auto=webp&s=365fb7749487d41e1e65bf883d3a32f45c29cef8",
+    "hash": "88a32b40c8",
+    "height": 1656,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQIDBBIAESExQdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESQf/aAAwDAQACEQMRAD8AzWZHcnRGUpXALSNVBaNuvSTsnnkk+4yqE2ZKlrjuBNU1Jod67BG+Poxk2qG5Lp//2Q==",
+    "url": "https://external-preview.redd.it/PQQZJRajNDj3LQy9Pw9EWwu-xnLcy29HvwbqfSmeqk0.jpg?width=640&crop=smart&auto=webp&s=00b13c148b3da1e461c3b575953c9f5d490a353d",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 229,
+    "value": 229
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Nephrite Mines",
+  "url": "https://www.reddit.com/r/dndmaps/comments/shvow7/nephrite_mines_34x88/"
+}

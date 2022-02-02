@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pvz4inx",
+    "name": "RPGScenery"
+  },
+  "date": {
+    "day": 1643673600,
+    "full": 1643715287,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_shswmu",
+  "picture": {
+    "filesize": 109136,
+    "fullUrl": "https://preview.redd.it/v73qhutqj7f81.jpg?auto=webp&s=79b04461ec151d71bc0211d1f99a2156c6c09aa0",
+    "hash": "0e9126a8fe",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAiEAACAgEEAgMBAAAAAAAAAAABAgMEEQAFEiEigRMxUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAgMRACH/2gAMAwEAAhEDEQA/AA+zbTEdsLJXd5PjSCKNiePJifIFe+uONILdC3ItSe1WgCwjlCqIWYvjOChy3s9DGptokEGwXLEcYSVI5BVMkZJmTo5fkcDHfv60Eub6tC/YmiZprzkMHI8VP4B/NHWkm2czDYK5d//Z",
+    "url": "https://preview.redd.it/v73qhutqj7f81.jpg?width=640&crop=smart&auto=webp&s=862dca00cf33363a6ad9217afac61081504a2c94",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dungeon Island Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/shswmu/oc_dungeon_island_battlemap48x48/"
+}
