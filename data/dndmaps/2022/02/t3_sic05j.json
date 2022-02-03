@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643766299,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sic05j",
+  "picture": {
+    "filesize": 129978,
+    "fullUrl": "https://preview.redd.it/3stfiemhrbf81.jpg?auto=webp&s=298b0c196dd1399dd89720c3ac563f105b0133ad",
+    "hash": "106a227ff4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDBAURITEAEgYiQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARISL/2gAMAwEAAhEDEQA/AHFmSvmrtbLraKiupVbFSUsi742YyNkKe1315Zs5ZVZEntRX4XgWJRVUhpZ/0sw+qDY4G/0968y/O1pcV8pq53BZW3dBWRskzRCNZQp7AUAElVfvk+m9+M61XFz4KWwcZFl8pNJKPSxtifVtaXj6gKFIUa/vPi8S4Toan//Z",
+    "url": "https://preview.redd.it/3stfiemhrbf81.jpg?width=640&crop=smart&auto=webp&s=6f4e4871212b3ad7f2d1af436a795db27d564b2c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Arctic Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sic05j/20x20_arctic_battlemap/"
+}

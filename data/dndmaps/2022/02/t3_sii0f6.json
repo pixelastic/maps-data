@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9fqj8mg",
+    "name": "EpisodicMaps"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643784728,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sii0f6",
+  "picture": {
+    "filesize": 47367,
+    "fullUrl": "https://preview.redd.it/q32e695dadf81.jpg?auto=webp&s=4494c4bfc8417b5e485ebe1ed0ac5666e8771d47",
+    "hash": "499549b725",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACIQAAIBBAIBBQAAAAAAAAAAAAECAwQFERIAIUEGMWFxof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQACAwAAAAAAAAAAAAAAAAABAgADYf/aAAwDAQACEQMRAD8AzPqGyNXST1DukQ22MzSE6R64I1x98fa7ez2uhp4QIWiAcSHIdcjGR8nyD0eVr1HG1E4dSUkKhlBx56P5waVisxHv1jJ4A1rFRkcWpQTs/9k=",
+    "url": "https://preview.redd.it/q32e695dadf81.jpg?width=640&crop=smart&auto=webp&s=73a75d2b4346d9897acb780c5bd250657fbeebb3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Season 7: Desert Water Silo",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sii0f6/season_7_desert_water_silo/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643814050,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_siqqkj",
+  "picture": {
+    "filesize": 203394,
+    "fullUrl": "https://preview.redd.it/xmrsz2qhpff81.jpg?auto=webp&s=15a712497b2d8f7a80559faa7ee256b5d49d786e",
+    "hash": "47bf77b2a0",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwQFEQASITEGE0FRgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAAMAAAAAAAAAAAAAAAEDAAIRITFR/9oADAMBAAIRAxEAPwDfgslFQxCKKlUJsVkbAJbjI+/fnT6+1UlaUnQKFbPHwcDOipZxNRwTx1KsgjVlX1BhTt6I/dQ3Dyy3WyUx7RM7MSxDDjoDQFLWGwG6PZGWrqB1zP/Z",
+    "url": "https://preview.redd.it/xmrsz2qhpff81.jpg?width=640&crop=smart&auto=webp&s=2b89c2f3673f8447713d4f04f66dcaffa9e42f0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Longdale Town",
+  "url": "https://www.reddit.com/r/dndmaps/comments/siqqkj/longdale_town/"
+}

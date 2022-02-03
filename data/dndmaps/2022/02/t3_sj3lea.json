@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7gs2rwc0",
+    "name": "SuperSilentSecret"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643844986,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sj3lea",
+  "picture": {
+    "filesize": 83433,
+    "fullUrl": "https://preview.redd.it/c9op9hfd9if81.jpg?auto=webp&s=da998ecda7af09748feba36da9f91c5ceaf7a89c",
+    "hash": "8b32a55597",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIhAAAQQCAgEFAAAAAAAAAAAAAQIDBBESIQAxEyJCUXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAbEQABBAMAAAAAAAAAAAAAAAARAAITQQEDEv/aAAwDAQACEQMRAD8AzArjyHIzbvhjuYlOWFg7vJVkbPXfAUqjOSBcZ5sgoQUAHIH3Cica+/zk5Tq0uijtPpGh0OOLKeBcQHFBLiaUBqx8cjiflwNpn18EUv/Z",
+    "url": "https://preview.redd.it/c9op9hfd9if81.jpg?width=640&crop=smart&auto=webp&s=e2b99fb5d24f21ee17262f83997b52efcc833ea3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rumble in the Jungle PvP-Map (KotH, CtF, Team Deathmatch, Battle Royal, Mage Tower,...)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sj3lea/rumble_in_the_jungle_pvpmap_koth_ctf_team/"
+}

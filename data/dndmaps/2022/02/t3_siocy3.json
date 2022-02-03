@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bvyuvmlu",
+    "name": "StrigunArt"
+  },
+  "date": {
+    "day": 1643760000,
+    "full": 1643807535,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_siocy3",
+  "picture": {
+    "filesize": 59101,
+    "fullUrl": "https://preview.redd.it/gn2nkq206ff81.jpg?width=3264&format=pjpg&auto=webp&s=5844021fecdd07a0f911e17a75469e74cdacfee9",
+    "hash": "f65633aaa5",
+    "height": 302,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQADBAIFEhMGESEx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQABBQAAAAAAAAAAAAAAAAAAAQMEIjL/2gAMAwEAAhEDEQA/AN55FsNrlOttSsgaQKWyeyM+/AFESG5ey3gtTKchkSTV82E+oilkpUZjR//Z",
+    "url": "https://preview.redd.it/gn2nkq206ff81.jpg?width=640&crop=smart&auto=webp&s=29c1c1edf45f2dafe6db2645a742049bb11d11b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.79,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Maps for D&D campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/siocy3/maps_for_dd_campaign/"
+}
