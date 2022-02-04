@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dritcety",
+    "name": "Rmemmo"
+  },
+  "date": {
+    "day": 1643846400,
+    "full": 1643898931,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sjkq2b",
+  "picture": {
+    "filesize": 142535,
+    "fullUrl": "https://preview.redd.it/1zghzx2nmmf81.jpg?auto=webp&s=75907e0a090684ce2aedc3d943e7347a6694f3a6",
+    "hash": "0433824b88",
+    "height": 549,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAjEAACAgEDBAMBAAAAAAAAAAABAgMRBAASITFBUWETInGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAMAwEAAhEDEQA/ACZVyZp45HhVoRsDy1t+IUePJU9+vNaqXNB+jSxybkVIpW4KlR47ijYu/wCaHJXEGWqz4qGTfe+MUSerA3fBrj9OoJciE5eQscAGKr2gZtzoL4o+q6e9SguGgXf/2Q==",
+    "url": "https://preview.redd.it/1zghzx2nmmf81.jpg?width=640&crop=smart&auto=webp&s=570af710b1abb4a3649ba21ea8fcad2719949ddf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Entrance to hunting grounds",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sjkq2b/entrance_to_hunting_grounds_35x30/"
+}

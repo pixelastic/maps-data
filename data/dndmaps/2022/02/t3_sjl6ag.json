@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1643846400,
+    "full": 1643900026,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sjl6ag",
+  "picture": {
+    "filesize": 24003,
+    "fullUrl": "https://preview.redd.it/rxk0dm55tmf81.jpg?width=4096&format=pjpg&auto=webp&s=39f4de6798edc2035ceac412657bbf6789385764",
+    "hash": "8eb7f66a76",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgj/xAAiEAABAwIGAwAAAAAAAAAAAAABAAIRBTEDBBITITIicXL/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AJtpZgzuaRY8ShUcTzcGucWTHWAjTezfpHOXf7KayUWj/9k=",
+    "url": "https://preview.redd.it/rxk0dm55tmf81.jpg?width=640&crop=smart&auto=webp&s=2ebcae0f5486cf4e7914157fbbce60149bdb69ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: swampy swamp3- bridge in the swamp (40x25)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sjl6ag/battlemap_swampy_swamp3_bridge_in_the_swamp_40x25/"
+}

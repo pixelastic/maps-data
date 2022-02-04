@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1643846400,
+    "full": 1643895578,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sjjflh",
+  "picture": {
+    "filesize": 108567,
+    "fullUrl": "https://preview.redd.it/rh187ivdfmf81.jpg?width=2100&format=pjpg&auto=webp&s=12fd508b29b5a1e04e831b4b75a6930e9b7f3629",
+    "hash": "bdc34013eb",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACIQAAEDAwQDAQAAAAAAAAAAAAECAwQFETEAEhRBEyEiMv/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/AMvGqDc2kTakfI+hSyymO4D8JJ/W7JNhjAvplHrTb0+LTeIHEtq3JfSAAbDd2L+8Z0c2e3SmpkXiKXSXUlSnkKtx1k3KSrv6PWL21LSW249SjpgvR48190ANPIJ8jYHvav3ZVj3qXg1VIuNGf//Z",
+    "url": "https://preview.redd.it/rh187ivdfmf81.jpg?width=640&crop=smart&auto=webp&s=0a35be023d13a78cafeeae8dd90fbab2184c40e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "A normal Herbalist",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sjjflh/a_normal_herbalist_30x30/"
+}

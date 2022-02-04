@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gk8avjxo",
+    "name": "Gamkit"
+  },
+  "date": {
+    "day": 1643846400,
+    "full": 1643884647,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sjg1dq",
+  "picture": {
+    "filesize": 51255,
+    "fullUrl": "https://preview.redd.it/1nz9vtkijlf81.jpg?auto=webp&s=8db64d13c830127b349c1d816dd2de911872ca30",
+    "hash": "40996535ba",
+    "height": 410,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAQQCAgEFAAAAAAAAAAAAAQIDBAURIQASBhMxMnGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABwRAAICAgMAAAAAAAAAAAAAAAECAAMEERIxQf/aAAwDAQACEQMRAD8AmL6VOXZ3TMSZ2lNzClDa3z1DI0OozjH1wrw6TZq8lnM1rzboSwVLYfdWts7HxVvB3zXI1TXGuslGBEKkzXEpPopyBhOhrgNhFjw+xiMNME+5aQE5/OHcBpm8I6g4tTLbvlP/2Q==",
+    "url": "https://preview.redd.it/1nz9vtkijlf81.jpg?width=640&crop=smart&auto=webp&s=9e4743037adf9779d1f45d9228545ec59b6feb5e",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.57,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Isle of Litter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sjg1dq/isle_of_litter_battle_map/"
+}

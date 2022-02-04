@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kcdgm",
+    "name": "Zifenoper"
+  },
+  "date": {
+    "day": 1643846400,
+    "full": 1643897854,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sjkaqk",
+  "picture": {
+    "filesize": 87561,
+    "fullUrl": "https://external-preview.redd.it/ZVARzw9HfkoNb0I2slvvAouVuzkF3mlleNsiF_FO3gU.jpg?auto=webp&s=a40066bf14eeb24baee49deef3fb101caa4bb265",
+    "hash": "be3fcc74c0",
+    "height": 720,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQIDBBEAEiJBBTFRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAAMAAwAAAAAAAAAAAAAAAAABAhIhUf/aAAwDAQACEQMRAD8Ay9nyTiJEkOcklXHrWvvERJ0iTNcTYS0EkpATfY7wbar8qwhTS0I2PPWyLPZ+L9fuVix3Y01wIVaNSNifZsYqukaxWj//2Q==",
+    "url": "https://external-preview.redd.it/ZVARzw9HfkoNb0I2slvvAouVuzkF3mlleNsiF_FO3gU.jpg?width=640&crop=smart&auto=webp&s=bb39cbac36adf1885cf2bbe97c786b78658d3a5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dungeondraft map dump from a recent campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sjkaqk/dungeondraft_map_dump_from_a_recent_campaign/"
+}

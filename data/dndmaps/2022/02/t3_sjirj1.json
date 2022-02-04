@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1643846400,
+    "full": 1643893701,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sjirj1",
+  "picture": {
+    "filesize": 89654,
+    "fullUrl": "https://preview.redd.it/og01qrlu9mf81.jpg?width=8192&format=pjpg&auto=webp&s=6f180af562378995d360307500a3e0862a5abea0",
+    "hash": "cf5e527486",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDBAURAAYSITETFEEjMlFSYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAwEBAAAAAAAAAAAAAAABEQACIQNB/9oADAMBAAIRAxEAPwAcsrYg5FTHVR6fVHdOrqutBYBIuAFW8fuMtLzAzUcuOxE0qExPcQpQ7aKGkti/uO1raR88nE5FafhCnU6G22zBfi+sylSylw/YgqO/PFhvxgKjU1Loj0dqNFjt6lKPRb0k3Ftze5A8DAjpYaS2chWqih5P/9k=",
+    "url": "https://preview.redd.it/og01qrlu9mf81.jpg?width=640&crop=smart&auto=webp&s=ada08cc6b8bd76fa046c939bc8806b5653a2ca28",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Pro version of the Free Only World map I made some time ago",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sjirj1/pro_version_of_the_free_only_world_map_i_made/"
+}
