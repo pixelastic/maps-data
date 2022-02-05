@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_14eiz4",
+    "name": "Panlytic"
+  },
+  "date": {
+    "day": 1643932800,
+    "full": 1643986966,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_skfd7k",
+  "picture": {
+    "filesize": 68008,
+    "fullUrl": "https://preview.redd.it/xtlfhcnpztf81.jpg?auto=webp&s=96c931d283b8865d3dc06a2ea1e75c101f2b0a28",
+    "hash": "d9423708ab",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAhBAUSE1Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAQRH/2gAMAwEAAhEDEQA/AMR4hSKRohGvsTbFiAAPzEcvhxzQs5rY0dG8D1UzOjq4VgaBsfTWTsZ3QOiHxUCgBk9Hsf/Z",
+    "url": "https://preview.redd.it/xtlfhcnpztf81.jpg?width=640&crop=smart&auto=webp&s=6b17416093c78658f3b2cb9230890a6200566bfd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.82,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wrecked Farmstead",
+  "url": "https://www.reddit.com/r/dndmaps/comments/skfd7k/wrecked_farmstead/"
+}

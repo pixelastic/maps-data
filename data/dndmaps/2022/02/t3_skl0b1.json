@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1643932800,
+    "full": 1644000472,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_skl0b1",
+  "picture": {
+    "filesize": 205932,
+    "fullUrl": "https://external-preview.redd.it/Pj2VaFd_B-0uOZEyR91kwFHbfpTPf99VvLTZOzk42dI.jpg?auto=webp&s=2efe388703a4079e0190e2277a4c58ec2efdd7b0",
+    "hash": "68c92709db",
+    "height": 1234,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAJBAAAgAFBAEFAAAAAAAAAAAAAQIAAwQFERIhIjEGE0FDUbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAwQRIf/aAAwDAQACEQMRAD8AnrrEbjQos+QeLsgZBgMGGynf2PLGM/kI0NF5NbXvU64odVM0j0ZcvT8gGck9Anr7hAWuzIr2FEVuyMemf//Z",
+    "url": "https://external-preview.redd.it/Pj2VaFd_B-0uOZEyR91kwFHbfpTPf99VvLTZOzk42dI.jpg?width=640&crop=smart&auto=webp&s=f4bff5cb6d0eb9fc9593fffa46f2f918ff34ca3a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Cursed Desert Temple touched by Midas!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/skl0b1/cursed_desert_temple_touched_by_midas_28x54/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1643932800,
+    "full": 1643987446,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_skfjtq",
+  "picture": {
+    "filesize": 30938,
+    "fullUrl": "https://preview.redd.it/lr0ddgc21uf81.jpg?width=5601&format=pjpg&auto=webp&s=2617d97c17a15f0b1c82fdddaa5b85a4b2c6d397",
+    "hash": "e306d34f6f",
+    "height": 376,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACEQAAECBAcAAAAAAAAAAAAAAAEAAgMEEjERITNBYXHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AMPM6w0GIZioHZ2WHCie9oJAqugg6Q79T4F3JImv/9k=",
+    "url": "https://preview.redd.it/lr0ddgc21uf81.jpg?width=640&crop=smart&auto=webp&s=e9613cec6b1f5c5cafc748d570abe43ee4cdaa82",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Skullport - Dungeon of the Mad Mage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/skfjtq/skullport_dungeon_of_the_mad_mage_160x94/"
+}

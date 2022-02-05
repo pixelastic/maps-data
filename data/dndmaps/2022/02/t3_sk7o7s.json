@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1643932800,
+    "full": 1643960876,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sk7o7s",
+  "picture": {
+    "filesize": 82922,
+    "fullUrl": "https://preview.redd.it/vaix38s6urf81.jpg?auto=webp&s=a6b688720ddb522fc1cc6eb16f5e1077edd0e02f",
+    "hash": "fc122f6600",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAI/8QAJRAAAQMDAgYDAAAAAAAAAAAAAQIDBQAEERIhFCIyUZGhcbHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAIxITYWL/2gAMAwEAAhEDEQA/AM8xcAb5lpCAS65vkHpH4+apOAFlbrGoF1PNnuO3rzRGznCMNqCiHEDTgZ3pkZwXjK9IJdWNATuT8+/qmXHSR1nJ/9k=",
+    "url": "https://preview.redd.it/vaix38s6urf81.jpg?width=640&crop=smart&auto=webp&s=cbac727e4849ad0dc7910208578c3303c136cf15",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Resurrection Chamber Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sk7o7s/resurrection_chamber_battle_map_30x30/"
+}
