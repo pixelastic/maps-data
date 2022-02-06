@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1644019200,
+    "full": 1644086923,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sldrtt",
+  "picture": {
+    "filesize": 113398,
+    "fullUrl": "https://external-preview.redd.it/dLQzyI-p1wyRhSOODRhcGr_5VA-I5GMU68_N4ROWnZ0.jpg?auto=webp&s=55872279bdfda9d515f8b27a3f00f87305db8c6c",
+    "hash": "5c97dace19",
+    "height": 1000,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACIQAAIABgEFAQAAAAAAAAAAAAECAAMEBREhEiIxQWGhUf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxEhMf/aAAwDAQACEQMRAD8AxWy3CW1vV5pUOoClphOGx78QD3rqPGn5LnTA9/cNVtoRbXNkUq9S7VW0zZ/B9iSFHocpjKfI4Nr5AAKeiVmsuTQbE//Z",
+    "url": "https://external-preview.redd.it/dLQzyI-p1wyRhSOODRhcGr_5VA-I5GMU68_N4ROWnZ0.jpg?width=640&crop=smart&auto=webp&s=6d45475e71f13da9f8adc469774f8020f94461a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Bloodlands!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sldrtt/the_bloodlands_32x50/"
+}

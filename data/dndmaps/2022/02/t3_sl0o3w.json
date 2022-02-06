@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1644019200,
+    "full": 1644044099,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sl0o3w",
+  "picture": {
+    "filesize": 83007,
+    "fullUrl": "https://preview.redd.it/3fpiy5ympyf81.jpg?auto=webp&s=23068b2a947473a2dfa2bee42d21b31d0b67fa98",
+    "hash": "f31d1a9b1d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EAB8QAAICAQQDAAAAAAAAAAAAAAECAxEAEyExQQQS0f/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGBEBAQADAAAAAAAAAAAAAAAAAQARITH/2gAMAwEAAhEDEQA/AMljJEdyDSVjQ2uz8xIomaYrqWbJ2275GG5DH6gswQkjrLeMwLCMMbDdDnJq4NTwv//Z",
+    "url": "https://preview.redd.it/3fpiy5ympyf81.jpg?width=640&crop=smart&auto=webp&s=b89b79b316277e17c84b12bbc83b55ff8c10451f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Old Forest Path Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sl0o3w/old_forest_path_battle_map_30x30/"
+}

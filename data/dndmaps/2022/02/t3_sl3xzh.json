@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1644019200,
+    "full": 1644056951,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sl3xzh",
+  "picture": {
+    "filesize": 32309,
+    "fullUrl": "https://preview.redd.it/r98ayuporzf81.jpg?width=4096&format=pjpg&auto=webp&s=b7207a63687526225033192f733a74ca95a8ff78",
+    "hash": "67bb14712b",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwj/xAAgEAABAgUFAAAAAAAAAAAAAAABAAIDBAURMRIzUXKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAARIUH/2gAMAwEAAhEDEQA/AJypE0WBx0AgcoKhMuc4B9nDJthBJbcTqfEMTKEWOv/Z",
+    "url": "https://preview.redd.it/r98ayuporzf81.jpg?width=640&crop=smart&auto=webp&s=19095caae674b893c90360ee16a71f15b0d2b6e1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: swampy swamp4 (another) hut in the swamp (35x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sl3xzh/battlemap_swampy_swamp4_another_hut_in_the_swamp/"
+}

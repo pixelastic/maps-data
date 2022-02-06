@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1644019200,
+    "full": 1644085994,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sldh23",
+  "picture": {
+    "filesize": 37584,
+    "fullUrl": "https://preview.redd.it/eel1aedy52g81.jpg?auto=webp&s=f2065f4ab9896fbb81d0b3f0a5d7ed3528abc348",
+    "hash": "a44e64eee0",
+    "height": 584,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgICAQIHAAAAAAAAAAAAAQIDEQAEBQYhEhMiMUFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHxEAAgECBwAAAAAAAAAAAAAAAREDAAISFCExUcHh/9oADAMBAAIRAxEAPwDGQazbFrCUtACxLge/6cV5c2u8ERCOZOyqrhvEbqux+8lbPW25v8LAHjieZGHpMSqtD5sUbxXH9c7+hwxMUEKbAcsqBAVIJBsk2bxjNNi2CXPnVSZaA26kt1//2Q==",
+    "url": "https://preview.redd.it/eel1aedy52g81.jpg?width=640&crop=smart&auto=webp&s=ab2a36c0292b24a9c08355cb293aed382fc94c0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dam Fortress",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sldh23/dam_fortress_23x21/"
+}

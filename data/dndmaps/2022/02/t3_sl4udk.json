@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1644019200,
+    "full": 1644060342,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sl4udk",
+  "picture": {
+    "filesize": 83039,
+    "fullUrl": "https://preview.redd.it/wca4np7w10g81.jpg?auto=webp&s=b09a334befd6c74b026e2530c300abd1d0a6d52e",
+    "hash": "5f8f7fb42d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQAERIFBiFRFDEyQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAIBBQAAAAAAAAAAAAAAAAABEgIDERMi/9oADAMBAAIRAxEAPwDKttxmYLof1F9RaKT8hkbffHdIbphs4+fFlsrhSVXSi2Kh3xURmQ6/FQVrUC2MhY+z+0L2pPPaUplaWsBciyLHuoVYq2zkNYfJ/9k=",
+    "url": "https://preview.redd.it/wca4np7w10g81.jpg?width=640&crop=smart&auto=webp&s=101d5c6c370a0bb26d890e5202f6bc827058fdf8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Throne of the Fen",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sl4udk/throne_of_the_fen_4k_60x45_squares_gridless_swamp/"
+}

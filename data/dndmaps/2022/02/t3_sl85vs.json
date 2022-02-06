@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1644019200,
+    "full": 1644071223,
+    "month": 1643673600,
+    "week": 1643500800
+  },
+  "id": "t3_sl85vs",
+  "picture": {
+    "filesize": 38603,
+    "fullUrl": "https://preview.redd.it/slw3vgo6y0g81.jpg?width=4096&format=pjpg&auto=webp&s=d9389c95bcec027ff6c48700cd8fe39e301dc9f7",
+    "hash": "3e1e970a52",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECCP/EACEQAAEEAQMFAAAAAAAAAAAAAAEAAgMRBBIhMSM0coGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAASJB/9oADAMBAAIRAxEAPwDP0Us+mmOOi+CU850bz0QAK3u91WFyzzCMvuH+/qg3QNP/2Q==",
+    "url": "https://preview.redd.it/slw3vgo6y0g81.jpg?width=640&crop=smart&auto=webp&s=52e2dcf0d52899c10e3c0be362b558f741900b0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: swampy swamp5- ruin in the swamp (40x22)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sl85vs/battlemap_swampy_swamp5_ruin_in_the_swamp_40x22/"
+}
