@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_otwv4",
+    "name": "PDRA"
+  },
+  "date": {
+    "day": 1644192000,
+    "full": 1644219392,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_smkgrh",
+  "picture": {
+    "filesize": 159761,
+    "fullUrl": "https://preview.redd.it/eg0ekczp6dg81.jpg?width=2048&format=pjpg&auto=webp&s=bf9468a6887e2468f237c4cd46ea216c1f9d3f4f",
+    "hash": "f113a2be4a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACYQAAEDAwIFBQAAAAAAAAAAAAECAwQAERIhURMUIzHBMmFxsfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAERAxIjMXH/2gAMAwEAAhEDEQA/AMxisNyWFZpUgJ9KgQdPj93q0pqO3FD0RXB0CFAk3vqfIFval5hReTHSpl1nsDjbLYfVEqYiQ2UHp8PEKTp1ADtv4oXIqinXRNWwf//Z",
+    "url": "https://preview.redd.it/eg0ekczp6dg81.jpg?width=640&crop=smart&auto=webp&s=04f26e445b923ad6eb9a64d0c4da204e6d33bca3",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 275,
+    "value": 275
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Plane of Innovation 1-3 40x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/smkgrh/the_plane_of_innovation_13_40x40/"
+}

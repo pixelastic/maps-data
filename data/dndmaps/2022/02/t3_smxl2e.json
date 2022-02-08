@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1644192000,
+    "full": 1644259671,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_smxl2e",
+  "picture": {
+    "filesize": 190717,
+    "fullUrl": "https://external-preview.redd.it/hgtGVHBmum3576iaOngjzUGAozaBRhPc-8p6LcvQSGE.jpg?auto=webp&s=dbcd8536717b90cd0525702be1c50c964cfa17f8",
+    "hash": "7eb7095f51",
+    "height": 1434,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIEAAMRBRIhQQYVsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxEx/9oADAMBAAIRAxEAPwDOYsNfXpceHFGnthQw3i4WAHJODnkt1ilSD5BDlKBbtkWl5fLY29AfKVJdc94IV0D/2Q==",
+    "url": "https://external-preview.redd.it/hgtGVHBmum3576iaOngjzUGAozaBRhPc-8p6LcvQSGE.jpg?width=640&crop=smart&auto=webp&s=38718dd16c292ff85f254e242d9120cb03824c8a",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 259,
+    "value": 259
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Entrance to the Clockwork Dragons Lair! (Internals posting tomorrow)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/smxl2e/entrance_to_the_clockwork_dragons_lair_internals/"
+}
