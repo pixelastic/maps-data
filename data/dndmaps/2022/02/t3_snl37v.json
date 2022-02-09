@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1644278400,
+    "full": 1644329239,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_snl37v",
+  "picture": {
+    "filesize": 139439,
+    "fullUrl": "https://preview.redd.it/qfrbujpe9mg81.jpg?auto=webp&s=22e3cd131fb346110c41fa46b1f716c82732171e",
+    "hash": "44204d6d29",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAjEAACAQQBAwUAAAAAAAAAAAABAgMABBEhEhNBUQUiMXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADBCEx/9oADAMBAAIRAxEAPwCd2Ya6t36QjLsQnJh7QTvt3pBYlkS6hRRKbiHmCCMjA8eNUR6SgSGJSrsqt1GCPjDfVJJctFZxxCCWIxjTI+yP35qZ1J0IOTQbaio7P//Z",
+    "url": "https://preview.redd.it/qfrbujpe9mg81.jpg?width=640&crop=smart&auto=webp&s=ef1c6541b2a3a01093a91fc90f1ba3cb538ef3bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The Dust-yard (Fantasy City Dump) 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/snl37v/the_dustyard_fantasy_city_dump_30x30/"
+}

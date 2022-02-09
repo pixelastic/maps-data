@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_oudsxx",
+    "name": "Hoffline"
+  },
+  "date": {
+    "day": 1644278400,
+    "full": 1644312736,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sng8k0",
+  "picture": {
+    "filesize": 196214,
+    "fullUrl": "https://preview.redd.it/vt2b89q5wkg81.jpg?auto=webp&s=3ac7c4350b55a964629c850beca6e8eae54db5a9",
+    "hash": "24f74ce8f0",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAlEAACAgIAAwkAAAAAAAAAAAABAgMEABEFISISMTJBUWFxkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EAB0RAQABAwUAAAAAAAAAAAAAAAEDAALhESEiYZH/2gAMAwEAAhEDEQA/AGW79khnaeZ0XpdE8gTru5fmV+FzWzXYRhLKK5AeQ89eg9sPd4bPXNmUSgo0g0NeLfx9YGo/Q4MZHZYjTITrIwins4ho9ZKa3xO6+4r/2Q==",
+    "url": "https://preview.redd.it/vt2b89q5wkg81.jpg?width=640&crop=smart&auto=webp&s=2c5759e0cedda499ccc676d73dd845235a9884ce",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Blue Dragon Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sng8k0/blue_dragon_cave/"
+}
