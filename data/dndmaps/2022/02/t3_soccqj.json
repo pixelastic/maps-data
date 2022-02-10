@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644409445,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_soccqj",
+  "picture": {
+    "filesize": 129681,
+    "fullUrl": "https://preview.redd.it/gedfkdrzvsg81.jpg?auto=webp&s=1982abb2608e6228cd0a4bda9b9d4bc4113e361d",
+    "hash": "b5a6e0ea57",
+    "height": 1005,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQMCAAQREiFREzJBgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEAAwAAAAAAAAAAAAAAAAABAAIx/9oADAMBAAIRAxEAPwDDbZUEWk4si1Y1JIMeJGj5KOxwrIz3SD3NamMNImR9wescftR5rMcFNwD9pKVyEG2z/9k=",
+    "url": "https://preview.redd.it/gedfkdrzvsg81.jpg?width=640&crop=smart&auto=webp&s=041cea4b06559a58cad9f5240c46f06e906944a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forbidden Forest",
+  "url": "https://www.reddit.com/r/dndmaps/comments/soccqj/ocforbidden_forest_48x36/"
+}

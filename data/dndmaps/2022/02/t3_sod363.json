@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644411771,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sod363",
+  "picture": {
+    "filesize": 170913,
+    "fullUrl": "https://external-preview.redd.it/FTiIxi1_aUIkNnBVMiVqorHTv3ktybH_KN2_-KPAAkg.jpg?auto=webp&s=84e7ebd0d242fd2be25d1a4ee9dd4b540e466bb5",
+    "hash": "538cf5765c",
+    "height": 989,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMG/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDEQAEEiEFIhOBMUGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDITH/2gAMAwEAAhEDEQA/AMByFh4n3bhm0C7hELTJkTqR7E/hoS1y60hYtX+wnTxFQZcbhoZIU7gCEZTIH3Sq5eyPe6O/lLhj1uoHXLi0c//Z",
+    "url": "https://external-preview.redd.it/FTiIxi1_aUIkNnBVMiVqorHTv3ktybH_KN2_-KPAAkg.jpg?width=640&crop=smart&auto=webp&s=d30eb328f005a4b358dee4b29efe4deabac95e3a",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 127,
+    "value": 127
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Orc Stronghold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sod363/orc_stronghold_44x68/"
+}

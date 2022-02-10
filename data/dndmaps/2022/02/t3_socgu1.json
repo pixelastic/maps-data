@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644409846,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_socgu1",
+  "picture": {
+    "filesize": 144981,
+    "fullUrl": "https://preview.redd.it/3kpvrmx6xsg81.jpg?auto=webp&s=74f5558c5759efed514a8b3e3aa159e03a7c9504",
+    "hash": "a099b232c4",
+    "height": 792,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJhAAAQQBAwEJAAAAAAAAAAAAAQIDBBESAAUhMRMUFSIjYXGR0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARAxMx/9oADAMBAAIRAxEAPwDMZ24RY21xu67WqU4mg5kAkE10sc9a+dSUTBJaR4i0zFcQKT2KLCx+jTYsiFK8sb0igZLStZORquPrRJT8aOpIweeyF0Bwn240pgQ6SbZbQT//2Q==",
+    "url": "https://preview.redd.it/3kpvrmx6xsg81.jpg?width=640&crop=smart&auto=webp&s=95a592b7585d3c66cb6211d3646071d779f7873d",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 652,
+    "value": 652
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Trescanta the Cursed City, night version",
+  "url": "https://www.reddit.com/r/dndmaps/comments/socgu1/trescanta_the_cursed_city_night_version/"
+}

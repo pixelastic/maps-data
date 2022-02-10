@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644432469,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_soksf1",
+  "picture": {
+    "filesize": 219486,
+    "fullUrl": "https://external-preview.redd.it/GZjJgVIZGhfb9wQBXftrOR5j4aK4RIDmcJiiv_a8PrI.jpg?auto=webp&s=55ec289f71adb17b27fa0da085e9188a59cccf26",
+    "hash": "5d6a524052",
+    "height": 1256,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIE/8QAIhAAAAQGAgMAAAAAAAAAAAAAAQIDEQAEBRITISIyI0FR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAcEQABAwUAAAAAAAAAAAAAAAABAAIRAxMikfD/2gAMAwEAAhEDEQA/AM1VmVF6UYyktKBJkDGkfAYFG7ht+zemZxeEUevKLU+/xnG+zZHbjoW+wiLfeIx7SE1TK//Z",
+    "url": "https://external-preview.redd.it/GZjJgVIZGhfb9wQBXftrOR5j4aK4RIDmcJiiv_a8PrI.jpg?width=640&crop=smart&auto=webp&s=566ac7e15b7809314b3155d2ccdc76417abadb9b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.88,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Graveyard of the Fallen Heroes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/soksf1/graveyard_of_the_fallen_heroes_27x53/"
+}

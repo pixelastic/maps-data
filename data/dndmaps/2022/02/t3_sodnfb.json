@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9954q31h",
+    "name": "Connect-Ad-7804"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644413401,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sodnfb",
+  "picture": {
+    "filesize": 123245,
+    "fullUrl": "https://preview.redd.it/eo4wsa3q7tg81.jpg?auto=webp&s=5a83597e0cd7b259673a319f95296c7e04bd68f3",
+    "hash": "800b522928",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIxABAAEEAQIHAAAAAAAAAAAAAQIAAxIhEQQyBRMiQVGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIBITH/2gAMAwEAAhEDEQA/AMrn4h1Nzp8CZEAQkd3FEYm7h6nfx9Udmz5trKMgkvYR5V1sqi9bJyHCYgDojy++v2ghYVco/9k=",
+    "url": "https://preview.redd.it/eo4wsa3q7tg81.jpg?width=640&crop=smart&auto=webp&s=4d84e9c1235c4133209a509a96543b87824f4e12",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Water Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sodnfb/water_cave/"
+}

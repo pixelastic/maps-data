@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1644364800,
+    "full": 1644417956,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sofack",
+  "picture": {
+    "filesize": 126817,
+    "fullUrl": "https://preview.redd.it/9csgjmrpktg81.jpg?auto=webp&s=1210c3d7a3d0fcd8ad75d0bb506b805d535496ec",
+    "hash": "bf624a79ba",
+    "height": 467,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMEERIAISIxQVFhBQYTgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQJB/9oADAMBAAIRAxEAPwCthooaPFcE+YIouEtitt7EdPH7oJpI1WWNTxMuRJbbtuSdr99+VuemjqJJPVYUZuBaF5ceha5Fz9aj/cVdVUCE0tRKskwyZyxLDwOw5beNSE+iYVh//9k=",
+    "url": "https://preview.redd.it/9csgjmrpktg81.jpg?width=640&crop=smart&auto=webp&s=09010b3ff6f7c5f75f4653ab75247201f69a7a35",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Duskendale - RPG map (Fall version)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sofack/duskendale_rpg_map_fall_version/"
+}
