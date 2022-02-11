@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1644451200,
+    "full": 1644518873,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_spdsdb",
+  "picture": {
+    "filesize": 154761,
+    "fullUrl": "https://external-preview.redd.it/65XrnUtY0BPeye9-X6XqGJwdIjkNLDgRK99eTRqBhio.jpg?auto=webp&s=58d05f2613215b280cee28df3a7534df295c841f",
+    "hash": "3493c55c46",
+    "height": 1631,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIhAAAAUEAgMBAAAAAAAAAAAAAQIDBBEABQYSMUETFSFh/8QAFQEBAQAAAAAAAAAAAAAAAAAABgf/xAAeEQABAwUBAQAAAAAAAAAAAAABAgMEABESMWEhMv/aAAwDAQACEQMRAD8AzVhWWv8AklztTlIDNGGxkvM22jYwciMz3H5SpWM5UW4PXfuhKz3TTEp09tRMQBKIfJ5kBjqlBJsaW27ihJSABoEjXpuO1QYEqI61mt1NyT9AX301/9k=",
+    "url": "https://external-preview.redd.it/65XrnUtY0BPeye9-X6XqGJwdIjkNLDgRK99eTRqBhio.jpg?width=640&crop=smart&auto=webp&s=b45027d64f62aa706438abe22c61119f9b4a9e37",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lighthouse in Hell",
+  "url": "https://www.reddit.com/r/dndmaps/comments/spdsdb/lighthouse_in_hell_31x79/"
+}

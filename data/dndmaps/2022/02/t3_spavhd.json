@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5asgpv4m",
+    "name": "Rhineglade"
+  },
+  "date": {
+    "day": 1644451200,
+    "full": 1644511399,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_spavhd",
+  "picture": {
+    "filesize": 116108,
+    "fullUrl": "https://preview.redd.it/yu44lgz0b1h81.jpg?auto=webp&s=08267f282b7d86dc84ba39bf7fabc5f75d2670ae",
+    "hash": "3d2b94bbf8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACAQAAIBBAIDAQAAAAAAAAAAAAECEQADBAUSEzFBUbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhJBAxEx/9oADAMBAAIRAxEAPwDKbLLutdMM3WGKKoMTHun12W6XUUsxtseJVjMH6KMzH47JkFtyxHNQVjz5ipeTs8PTZiDZtcQhe0IqcjHr8NTIsOOIFctI2v/Z",
+    "url": "https://preview.redd.it/yu44lgz0b1h81.jpg?width=640&crop=smart&auto=webp&s=5fc5bdbefce13e849e342ce71162b13d26913501",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Castle Greyhawk, Tower of War, Surface level ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/spavhd/castle_greyhawk_tower_of_war_surface_level_ruins/"
+}

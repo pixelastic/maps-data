@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ps00x",
+    "name": "SimonTVesper"
+  },
+  "date": {
+    "day": 1644451200,
+    "full": 1644511008,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_spaq50",
+  "picture": {
+    "filesize": 98198,
+    "fullUrl": "https://preview.redd.it/tbj9bzjv81h81.jpg?auto=webp&s=d3407e2db703468b4cf6d08030eddb3dca905fbe",
+    "hash": "2283c03f07",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACAQAAMAAgEEAwAAAAAAAAAAAAECAwQRAAUSIUFRcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABYRAQEBAAAAAAAAAAAAAAAAAAABMf/aAAwDAQACEQMRAD8AyM2gcdsiiHb68uw3MfA3xKpizmpeCKWIHao72++FbEdNzKdqlphAN7O/Pvk3H6pZZuGnGh9FlOx+HkO0jX//2Q==",
+    "url": "https://preview.redd.it/tbj9bzjv81h81.jpg?width=640&crop=smart&auto=webp&s=06adad7c013ae6365945894eff917afdf851f2dd",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "First time working with Inkarnate, made a map for the Village of Hommlet, looking for feedback (details in comments).",
+  "url": "https://www.reddit.com/r/dndmaps/comments/spaq50/first_time_working_with_inkarnate_made_a_map_for/"
+}

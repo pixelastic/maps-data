@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1644451200,
+    "full": 1644498170,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sp64s3",
+  "picture": {
+    "filesize": 125366,
+    "fullUrl": "https://external-preview.redd.it/ZTr4uibkXgipAqg59JLYk4taOBlTwFhtEvyWMzVDyy8.jpg?auto=webp&s=cf4cb3fdc4cd7c355c61fcbf31be3d7fd5d95375",
+    "hash": "16a8d596af",
+    "height": 870,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHxAAAgIDAAIDAAAAAAAAAAAAAQIDBAARMQUSIWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADFEFR/9oADAMBAAIRAxEAPwAqs3krSvJYtvWZeRoASB95sgs3Xj2bSsebKd/cGtm5RfW0m9gQGZtHe+5CO3biUBnQk/PAMFajhMktlE6E/9k=",
+    "url": "https://external-preview.redd.it/ZTr4uibkXgipAqg59JLYk4taOBlTwFhtEvyWMzVDyy8.jpg?width=640&crop=smart&auto=webp&s=a4b5112eae80ff2120e572559ddb70358d7bfdc1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wayward Pool",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sp64s3/wayward_pool_25x34/"
+}

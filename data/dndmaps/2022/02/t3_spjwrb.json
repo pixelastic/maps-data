@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9c4689",
+    "name": "Raznag"
+  },
+  "date": {
+    "day": 1644451200,
+    "full": 1644535885,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_spjwrb",
+  "picture": {
+    "filesize": 83045,
+    "fullUrl": "https://preview.redd.it/rslr2oaxb3h81.jpg?auto=webp&s=3bc0cb5fbdcbcac2c8c693aebc85c574d96a14dd",
+    "hash": "199cd48cf4",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDBBEABRIhYRMiMUEyobH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0PMppaaoq44WkltLpV2LDpkP8RbgfuG0tfVSGmeaWolBdRK0Y0hmbawNvVtjwdreU1eWJHP0o56hYzK0hXUCCSyjwRzioMqgTMqWItIw13JLWJI7r7W9qPvAf//Z",
+    "url": "https://preview.redd.it/rslr2oaxb3h81.jpg?width=640&crop=smart&auto=webp&s=14ce4ad989a05c5c6b0b541965b9c55192ef141e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dungeon That Never Ends - Level 16",
+  "url": "https://www.reddit.com/r/dndmaps/comments/spjwrb/dungeon_that_never_ends_level_16/"
+}
