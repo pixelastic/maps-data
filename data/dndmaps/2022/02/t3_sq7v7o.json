@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1644537600,
+    "full": 1644608881,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sq7v7o",
+  "picture": {
+    "filesize": 64602,
+    "fullUrl": "https://preview.redd.it/68wlxtb1d9h81.jpg?auto=webp&s=701a4283cc2b6808e286ca14876965dce7d018e6",
+    "hash": "a4d73ea868",
+    "height": 420,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIRAAAgIBBAMBAQAAAAAAAAAAAQIDBBEAMUFRBQYhEhP/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMREiFB/9oADAMBAAIRAxEAPwBW8q2rHjZqtOp5DPx7bjBLqeBuAMcZ1P3me9FcilhnntMJFkRPzkR7bAb896YpQxxSWXjUK4ZiG5U4x86+dazvrDv5CWg9x2lf+CnJOOR1qErNa2SeLEsYV2a46fZ//9k=",
+    "url": "https://preview.redd.it/68wlxtb1d9h81.jpg?width=640&crop=smart&auto=webp&s=529240cb96e4ab381c90e49d8cf34295230d333d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Druid Hut",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sq7v7o/oc_druid_hut_32x21/"
+}

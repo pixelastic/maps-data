@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1644537600,
+    "full": 1644600172,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sq4m6p",
+  "picture": {
+    "filesize": 123170,
+    "fullUrl": "https://preview.redd.it/ztka4j6ym8h81.jpg?width=2800&format=pjpg&auto=webp&s=52a482b6897432fb8e91a05a264c3987b3f4281d",
+    "hash": "f5d230e876",
+    "height": 1040,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJBAAAQQCAQIHAAAAAAAAAAAAAQIDBAUAERIiQQYhUWFicYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQMCACExcf/aAAwDAQACEQMRAD8AtbSaqzuaathVMdkMJQ2tT7PEuEFI2kg6132cNcsVwt5wVWV5IfXshPyPtg51rEuHYkeNIjh1mH1KQACslIJSFfmvs5lP+J4C3nFOKRzUolXWD579e+GatamDS9Hn14hjOcnTk9ef/9k=",
+    "url": "https://preview.redd.it/ztka4j6ym8h81.jpg?width=640&crop=smart&auto=webp&s=6684efd2876185b34a1d0a9fb0ff947a5c2c0264",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Breaking Dam Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sq4m6p/breaking_dam_phased_battle_map_40x65/"
+}
