@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644673818,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqrzed",
+  "picture": {
+    "filesize": 76997,
+    "fullUrl": "https://preview.redd.it/drv6x2uhpeh81.jpg?width=1000&format=pjpg&auto=webp&s=916e2af4c7930372d886aa9105ae28b29aa4d49d",
+    "hash": "277371f452",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EAB8QAAMAAgIDAQEAAAAAAAAAAAECAwQRACESMVEiQf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oADAMBAAIRAxEAPwDECXycq6qzrIMEYoQpPXtjxeAkpX8ArF1JcUQaJA9A7+8szMbJgksyBhJ7z28hkTLKAOiV3sdfwjglEFFtiDbaJd6N+/L4RwuRiZjf/9k=",
+    "url": "https://preview.redd.it/drv6x2uhpeh81.jpg?width=640&crop=smart&auto=webp&s=b91c0cfda6d3819b5f58af17a933431bd68b6e9b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gallows Hill",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sqrzed/gallows_hill_30x30/"
+}

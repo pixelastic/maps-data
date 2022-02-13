@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644651638,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqm46p",
+  "picture": {
+    "filesize": 91172,
+    "fullUrl": "https://preview.redd.it/90dmula5wch81.jpg?auto=webp&s=856a659c7b4d709f53743e39a26c8bb934b2c23f",
+    "hash": "15b7436ebd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQRQRIxISIyUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAwDAQACEQMRAD8AzK6Dq7wfHGPIbOfH1VrbiK0xIE5sfXiNUV26kpKJgX4kkjvOvzVJHI4kjeWUtKekHQG6ktQmWUJv/9k=",
+    "url": "https://preview.redd.it/90dmula5wch81.jpg?width=640&crop=smart&auto=webp&s=8f1c62f9dde34f500a991b4b54c3d356e4e67c4d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Spring Forest Path Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sqm46p/spring_forest_path_battle_map_30x30/"
+}

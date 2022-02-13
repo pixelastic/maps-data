@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644680653,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_squ9j9",
+  "picture": {
+    "filesize": 105368,
+    "fullUrl": "https://preview.redd.it/k1lwokmeafh81.jpg?auto=webp&s=b99cef3711dc7cf23777a3306bddd4fe192a6fca",
+    "hash": "3c459bf45b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRIQAFMRITQYEiQlH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESYf/aAAwDAQACEQMRAD8Axm2NSJW7yo0OY82AlISoVSRgqAB5q/HvGhNgvQpRE+Q+ogFK1FFi+EHHgnF6lYWnbS2yx3XOpKltlDYCg4fqVXlNDTTp0jcZcNW5xXldF0lS/jQAomvw55zj3Mqe+DlhwP/Z",
+    "url": "https://preview.redd.it/k1lwokmeafh81.jpg?width=640&crop=smart&auto=webp&s=ab21873b5237758b01c50a468b4470dc94aff1cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 157,
+    "value": 157
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Adventurers playing M&M (Money & Managers) on a Battlemap of The Office",
+  "url": "https://www.reddit.com/r/dndmaps/comments/squ9j9/adventurers_playing_mm_money_managers_on_a/"
+}

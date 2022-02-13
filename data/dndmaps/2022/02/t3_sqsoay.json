@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3phw1x2s",
+    "name": "Depolys"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644675941,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqsoay",
+  "picture": {
+    "filesize": 170116,
+    "fullUrl": "https://preview.redd.it/ekvk2r6wveh81.jpg?auto=webp&s=5fb4e1117f3038015317d51e7ba3412e1e8497e2",
+    "hash": "0e3a36351e",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBAURABIhQTFRImGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAaEQACAgMAAAAAAAAAAAAAAAABEQACAzFR/9oADAMBAAIRAxEAPwC/f7pfIJWeyV1LGkEW6RXCSb3PvPj5YGMjrrSFSSLUU0UsciurqDuQ5UnvH7ooREiorgKunlkSSmhKxykq3JGMt74PGtJbYhU0MMrVEsRK42LOQBjjwB9amstUFyN1CsS9z//Z",
+    "url": "https://preview.redd.it/ekvk2r6wveh81.jpg?width=640&crop=smart&auto=webp&s=088195cb1657edd74fd96ef83764fa4aa276c070",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 507,
+    "value": 507
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Oasis Village (40x60)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sqsoay/oasis_village_40x60/"
+}

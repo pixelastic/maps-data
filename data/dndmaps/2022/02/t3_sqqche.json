@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1644624000,
+    "full": 1644668412,
+    "month": 1643673600,
+    "week": 1644105600
+  },
+  "id": "t3_sqqche",
+  "picture": {
+    "filesize": 40411,
+    "fullUrl": "https://preview.redd.it/76ov4q0z9eh81.jpg?width=4096&format=pjpg&auto=webp&s=905bc2bffedeccc7aae8fed2b555d4cc80aacda0",
+    "hash": "7199f63c8d",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACkQAAAEBAQFBQAAAAAAAAAAAAECAwQABREhBgcSMRMUNVFyIzJCYbL/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAIDAQAAAAAAAAAAAAAAAAACAQQRMf/aAAwDAQACEQMRAD8AM9zrM5ZmSw4k5RSEnqTJ5pKcg1+KZRENu/eFuGM/HEvdcjOSKzFrfS6A3DU2sHtpSoXEQrf6jN8T9EaeBYmVemr+Zf0EJbLthHHT/9k=",
+    "url": "https://preview.redd.it/76ov4q0z9eh81.jpg?width=640&crop=smart&auto=webp&s=9abe93916acb025ecf9cdedb583c8ec6c3f8fd81",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: castle on a hill (preview and variants 46x26)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sqqche/battlemap_castle_on_a_hill_preview_and_variants/"
+}
