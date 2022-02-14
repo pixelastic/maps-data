@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644755036,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_srhjen",
+  "picture": {
+    "filesize": 70605,
+    "fullUrl": "https://preview.redd.it/mkz3g1psdlh81.jpg?width=2060&format=pjpg&auto=webp&s=3f5822e9633fef271592a5139dbadfde32a4bd87",
+    "hash": "51ccc8e467",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACQQAAEDBAEDBQAAAAAAAAAAAAIBAwUABBEhMRITQSIzUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQADAQEAAAAAAAAAAAAAAAAAESExQf/aAAwDAQACEQMRAD8AyWNjbGQhsNG4CA6pl3OeMbVNJ8UJGPsLSKP3Cb6xMSAt5XXnSprmnjb+PsoRcG+bLjituMmKLnWfH1VZSRsZKF6QRW2wJABppv1a3yv6qrTWT190/9k=",
+    "url": "https://preview.redd.it/mkz3g1psdlh81.jpg?width=640&crop=smart&auto=webp&s=76e3654d2410e65097c07a7adea80638b55736d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 903,
+    "value": 903
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Build Your Adventure! 20 rooms to assemble your own dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/srhjen/build_your_adventure_20_rooms_to_assemble_your/"
+}

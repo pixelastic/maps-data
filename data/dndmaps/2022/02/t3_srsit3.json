@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_84yhqsva",
+    "name": "Arctic_Trooper"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644785194,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_srsit3",
+  "picture": {
+    "filesize": 127098,
+    "fullUrl": "https://preview.redd.it/371ibkcbxnh81.jpg?auto=webp&s=3b80dae6be94e1d449f6f556195827bb3831af41",
+    "hash": "cd3e593150",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEG/8QAIhAAAwACAQIHAAAAAAAAAAAAAQIDABExBBMFEiFBYXGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAQf/aAAwDAQACEQMRAD8AziuE8T7UbVsAW2jceYnjLejp1kozuZhApKu3ozcfmFYO3VOyOQUozaSJBP2eMPXcqrqlmqpQF2UEEH417YtTv//Z",
+    "url": "https://preview.redd.it/371ibkcbxnh81.jpg?width=640&crop=smart&auto=webp&s=6c0c3292798aa7c5697bf6cc2a9ba67bf343b5bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A Flooded Basement",
+  "url": "https://www.reddit.com/r/dndmaps/comments/srsit3/a_flooded_basement/"
+}

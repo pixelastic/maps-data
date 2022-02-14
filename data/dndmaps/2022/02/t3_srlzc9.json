@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644768365,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_srlzc9",
+  "picture": {
+    "filesize": 95237,
+    "fullUrl": "https://preview.redd.it/yrna45v7jmh81.jpg?width=5600&format=pjpg&auto=webp&s=053c7cbd84501446e280c25b31e3ddc0b2049687",
+    "hash": "f2b453fcd0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACQQAAMAAQMCBwEAAAAAAAAAAAECAxEABCEFYRITIiMxcYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADERIi/9oADAMBAAIRAxEAPwDBz2mWlRVRpmQHPJzjR1hRZVPsrIJkArk5x/MDUvpHUK7rz1okg0pmgdE8JPY44I/NPRcU2+7aiI7T9Skjt8fXGo7MoupiLcrdAT//2Q==",
+    "url": "https://preview.redd.it/yrna45v7jmh81.jpg?width=640&crop=smart&auto=webp&s=0b4417e10dbe978f5bc6894b22bc52980b52150d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Strixhaven - The Biblioplex",
+  "url": "https://www.reddit.com/r/dndmaps/comments/srlzc9/battlemap80x605600x4200_strixhaven_the_biblioplex/"
+}

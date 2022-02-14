@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5s8ro3y",
+    "name": "stelliadi_isometric"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644746370,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_srfc5e",
+  "picture": {
+    "filesize": 64435,
+    "fullUrl": "https://preview.redd.it/efpfsu01okh81.jpg?auto=webp&s=8a8d632ae7d943f2e72009638f5d87fb94197b62",
+    "hash": "60c6b25a33",
+    "height": 437,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAANhEyExFCIjgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8Ax/jtWVJRVcrwWmd+cVUdO9o3Cr6hBkTxnM/M0AqAwgAQdqTq3DbPefW1Bwqt/9k=",
+    "url": "https://preview.redd.it/efpfsu01okh81.jpg?width=640&crop=smart&auto=webp&s=1d1faa114f87d72e12e7d53c0ab6f67dabf775bc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A soldiers' camp in the ruins of a village",
+  "url": "https://www.reddit.com/r/dndmaps/comments/srfc5e/a_soldiers_camp_in_the_ruins_of_a_village/"
+}

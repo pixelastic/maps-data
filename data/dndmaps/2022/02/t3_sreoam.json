@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pou0u",
+    "name": "Chaouleon"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644743558,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_sreoam",
+  "picture": {
+    "filesize": 127545,
+    "fullUrl": "https://preview.redd.it/mp4pmv4fhkh81.jpg?width=1702&format=pjpg&auto=webp&s=796e2b527b6d0ad044e5d1580bbd227346e1246e",
+    "hash": "67732736ad",
+    "height": 770,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwME/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEhAAcSQQVRBhUy/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AAGBGQIJW9HC1O8qUbsJ95Nawym3osp1hwkFBxnrrT2xstBTDhj7pxQ5JQsBsCnD+qzkX71eVtT8RiBI8nOlSZqiS4tt0Njqhx60Y9lUTL//2Q==",
+    "url": "https://preview.redd.it/mp4pmv4fhkh81.jpg?width=640&crop=smart&auto=webp&s=573e9af6bb0cf2eaaafe9f422cab958bb2927c21",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Amber Temple Upper Floor (64x77)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sreoam/amber_temple_upper_floor_64x77/"
+}

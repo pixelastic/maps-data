@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3bpb6al7",
+    "name": "MirisDor"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644785837,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_srsrmk",
+  "picture": {
+    "filesize": 60416,
+    "fullUrl": "https://preview.redd.it/orpmtte6znh81.jpg?auto=webp&s=f5a04c4c9e604e8dd278fb21455d21bc5119a597",
+    "hash": "36670eee14",
+    "height": 452,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACEQAAICAgEEAwAAAAAAAAAAAAECAxEABCEFBhIxInGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN87j6pMu4+qVAjQigE8ieLuyPzGu2+oy7DCFdVVVbLuvxX7qveX5oIZ6E0SSAevNQcCJFSVwihRS8DgYH//2Q==",
+    "url": "https://preview.redd.it/orpmtte6znh81.jpg?width=640&crop=smart&auto=webp&s=932f6ad293ca9f755256d725f3c5eb08d0b59f17",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Isometric map - Temple of the Furies",
+  "url": "https://www.reddit.com/r/dndmaps/comments/srsrmk/isometric_map_temple_of_the_furies/"
+}

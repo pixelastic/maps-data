@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_868rtyp7",
+    "name": "windofwall"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644768768,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_srm4t1",
+  "picture": {
+    "filesize": 192919,
+    "fullUrl": "https://preview.redd.it/3kvno97hkmh81.jpg?auto=webp&s=d87c00da4eed51b3b88476c986fed56572ea384e",
+    "hash": "424ac47829",
+    "height": 958,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQH/xAAmEAACAQMDAgcBAAAAAAAAAAABAwIEBREAEiExYQYTIkJRYpHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAb/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDEpEy/9oADAMBAAIRAxEAPwA5oeLlcKR1RKGW7krkN0Wx2+g88bf6Tz11EXOjKo+fThbfdGDjEA9hg4/dLW+vD3texQnS0lNKSoyiBmIJEcn7fHbjro423w5V4fcHthVsALIxAxnUxYOFSMR0VuTq/9k=",
+    "url": "https://preview.redd.it/3kvno97hkmh81.jpg?width=640&crop=smart&auto=webp&s=5d50c6c8771195e7eae9a8e83240cd720142510f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Druidic Circle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/srm4t1/druidic_circle_24x35/"
+}

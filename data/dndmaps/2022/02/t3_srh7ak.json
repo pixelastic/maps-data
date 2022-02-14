@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1644710400,
+    "full": 1644753773,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_srh7ak",
+  "picture": {
+    "filesize": 105489,
+    "fullUrl": "https://preview.redd.it/nljb595wblh81.jpg?auto=webp&s=0a45c4bc0e80f22e6152729c22800229b33a0599",
+    "hash": "191ae156f3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAIxAAAgIBAwQDAQAAAAAAAAAAAQIDESEABAUTMVFhEiJBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADERIBQfD/2gAMAwEAAhEDEQA/AMlxbdKWJ9ozRvYDkLShvfgZ7XqbyTATiXao6wGYyK6fVcNmvP8AM6BDbSbYGB2HWb5tec0T+6PLwLt9xCsTOoYGSr7GrFes6RJ6wxCnganNu2v/2Q==",
+    "url": "https://preview.redd.it/nljb595wblh81.jpg?width=640&crop=smart&auto=webp&s=cc85f994430a6fa904f12a61e14abb3b83ffe6c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Pool of The Ancients",
+  "url": "https://www.reddit.com/r/dndmaps/comments/srh7ak/pool_of_the_ancients_oc28x21/"
+}
