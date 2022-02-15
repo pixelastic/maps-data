@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1644796800,
+    "full": 1644838243,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ss8ive",
+  "picture": {
+    "filesize": 214016,
+    "fullUrl": "https://preview.redd.it/yp7woiefash81.jpg?auto=webp&s=764f11d78a8a7de66ef939a30e35360e6a9923f1",
+    "hash": "cc5f0de47e",
+    "height": 1180,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQIFAwUAAAAAAAAAAAAAAgEDAAQFESESFFMxMpGT0f/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERUVL/2gAMAwEAAhEDEQA/AMUZB5+lK66ybohhCUbrpt9gbRK8LvmKqWrs21RTlCBpCcsSY7kzZekDb1/lH0xc0KWj/9k=",
+    "url": "https://preview.redd.it/yp7woiefash81.jpg?width=640&crop=smart&auto=webp&s=614b4c3c19b98b2f67dfbc1b37cf3780f9e9b714",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 583,
+    "value": 583
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Celestial Conduit 48x48",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ss8ive/oc_celestial_conduit_48x48/"
+}

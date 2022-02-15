@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1644796800,
+    "full": 1644812562,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ss1p6a",
+  "picture": {
+    "filesize": 157342,
+    "fullUrl": "https://preview.redd.it/trfeva1n6qh81.jpg?width=8000&format=pjpg&auto=webp&s=fbf5d14d2c18faa2d77574ab6375141d040a1f9a",
+    "hash": "131b714df0",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMEBREAITESIiNRMkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAhEDQf/aAAwDAQACEQMRAD8Amqihhq6OOYxOYyysvd0dTDnOR2rnHHOpu5BKW4VEKVpIVzyq5znf70pPdwaNJzMyI0Y8bsA2c+zsPYGP3QF1uVM1wnJdyc8qAAdufjqRmrdDSH//2Q==",
+    "url": "https://preview.redd.it/trfeva1n6qh81.jpg?width=640&crop=smart&auto=webp&s=39394679c287191eadf645dce97c1357d8a9f9e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 161,
+    "value": 161
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Random Encounter Maps along the same Forest Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ss1p6a/3_random_encounter_maps_along_the_same_forest/"
+}

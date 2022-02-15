@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1644796800,
+    "full": 1644860618,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ssgh53",
+  "picture": {
+    "filesize": 188474,
+    "fullUrl": "https://preview.redd.it/xq3cgpni5uh81.jpg?width=2160&format=pjpg&auto=webp&s=789372a302406ba31dc3264efd71f51d1d05f543",
+    "hash": "6a0c4de10f",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAsEAABAgMDCwUAAAAAAAAAAAACAQMABBEFFiEGEhMUJDFBUVJUYZGTodHS/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EAB0RAAECBwAAAAAAAAAAAAAAAAIAEQEDBDFBgdH/2gAMAwEAAhEDEQA/AJcNgN6A5bZVdQVQHSEkz/NN9ccMOEA3NmO+k/UvzCBZSG7Zk7Otauk2Jg2jfNCRaqKeKfMB3wtbrZ9kfqDgGfhMEdI8X1fq/9k=",
+    "url": "https://preview.redd.it/xq3cgpni5uh81.jpg?width=640&crop=smart&auto=webp&s=77c1d943227c59b5d0caa931e5e192527823668e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The way of the forge (20x36)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ssgh53/the_way_of_the_forge_20x36/"
+}

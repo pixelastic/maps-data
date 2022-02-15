@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3wokm6k3",
+    "name": "fire_logs"
+  },
+  "date": {
+    "day": 1644796800,
+    "full": 1644802078,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_sryd98",
+  "picture": {
+    "filesize": 112417,
+    "fullUrl": "https://preview.redd.it/rbzihc25bph81.jpg?width=2048&format=pjpg&auto=webp&s=6a403394ec33be6c653039c3e3243c1b59d29c38",
+    "hash": "cc590fe809",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAABAwMEAQUAAAAAAAAAAAABAgMRBAUSAAYhQQcxUXGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAS/9oADAMBAAIRAxEAPwBJsvaNDuG0O1lTV1SKjJTMNgICUzIJBHMyT7fWiO4bY/Yr0qjStaksKSjMCMgQMSOZkjgxHHXeqV4hYQ1argpAIDjyFFPQOHQ60D324RvGscIBWp4jI+oAOIj9+dPT0MDf/9k=",
+    "url": "https://preview.redd.it/rbzihc25bph81.jpg?width=640&crop=smart&auto=webp&s=cd5f73b4f1d549e7d3324b30d8f7d220a64522e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Cave entrance in a snowy forest . Gridless and grid versions.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sryd98/cave_entrance_in_a_snowy_forest_40_x_30_gridless/"
+}
