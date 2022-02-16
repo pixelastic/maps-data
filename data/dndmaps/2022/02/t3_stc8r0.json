@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6hp90a1z",
+    "name": "Tak3ABow"
+  },
+  "date": {
+    "day": 1644883200,
+    "full": 1644956237,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_stc8r0",
+  "picture": {
+    "filesize": 109393,
+    "fullUrl": "https://preview.redd.it/tg7pv1oy02i81.jpg?width=1750&format=pjpg&auto=webp&s=ff4e138d2bdc105755e6694fe8be705c7f6f2a55",
+    "hash": "46480f9ecf",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACAQAAICAQQDAQAAAAAAAAAAAAECAwQFABESIRMiQTL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAQABBAMAAAAAAAAAAAAAAAEAAgMREiGRof/aAAwDAQACEQMRAD8Aw+Rhx0mFosPKNgyJYJPFip7AGpaTYtKRU1drTK6s0jlvbf1Kj51oguGfHY/GssbwV3aRCP0/I/dJ2oQbKqsfBjuzITqS0G3KdkUXQMh5P//Z",
+    "url": "https://preview.redd.it/tg7pv1oy02i81.jpg?width=640&crop=smart&auto=webp&s=1984e4475c5bed319c9c2d6556304517963d9cce",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 74,
+    "value": 74
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mill Encounter Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/stc8r0/mill_encounter_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1644883200,
+    "full": 1644909553,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_ssx7ea",
+  "picture": {
+    "filesize": 153586,
+    "fullUrl": "https://preview.redd.it/w1znu6iz5yh81.jpg?auto=webp&s=92911f3390fd493a9043f9cded9f426b9d10f567",
+    "hash": "a4f21f7f7c",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACEQAAIBBAAHAAAAAAAAAAAAAAECEQADEiEEE2GBodHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwDGZYAoRCKDAjc6+70vNrpLWbTBJ1r1R5jMociTEbER1qhF4hFEWGIO5IPiDUJnrIt//9k=",
+    "url": "https://preview.redd.it/w1znu6iz5yh81.jpg?width=640&crop=smart&auto=webp&s=a75f95affd8e559e4fc7caa07d7c800ba1ad549a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 128,
+    "value": 128
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ssx7ea/swamp_32x44/"
+}

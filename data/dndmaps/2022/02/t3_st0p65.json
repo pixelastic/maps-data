@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1644883200,
+    "full": 1644923873,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_st0p65",
+  "picture": {
+    "filesize": 186115,
+    "fullUrl": "https://preview.redd.it/jluac3midzh81.jpg?auto=webp&s=d5fa926b095c5605634af9c76a37204a63202071",
+    "hash": "c74fdf9212",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAgEEAAQHAAAAAAAAAAAAAQIDAAQRIQUSExQxQVFhgaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIREyEx/9oADAMBAAIRAxEAPwDPoSGsldVR1wRIZDgKd+vkde9HM5hbkhijmjHg4jJB+/ijLSRpsDulUnBCjZqpuP3tqxht71+kmlxGMflHFJcJO26P/9k=",
+    "url": "https://preview.redd.it/jluac3midzh81.jpg?width=640&crop=smart&auto=webp&s=5c0df06f2e390d08e85b050f3f07961ed29bb44f",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 233,
+    "value": 233
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Swamp Hag's Shack - Battle Map (30x45)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/st0p65/the_swamp_hags_shack_battle_map_30x45/"
+}
