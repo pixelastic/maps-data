@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_tn3dr",
+    "name": "golkon"
+  },
+  "date": {
+    "day": 1644969600,
+    "full": 1644974468,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_stj44s",
+  "picture": {
+    "filesize": 92184,
+    "fullUrl": "https://preview.redd.it/25ok2y3sj3i81.jpg?auto=webp&s=c3a108cfb8b1b1c6f390810108ee3b64811a0cd2",
+    "hash": "1e15d284cc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIxAAAQMCBQUAAAAAAAAAAAAAAQIDEQASBBMhMUEiMlFx0f/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQACAwAAAAAAAAAAAAAAAAAAASExYf/aAAwDAQACEQMRAD8AyEZIbJdCg71C9sTAO0jk/KmddaRiMpLtyk6ykdxjb3SqEFBBIN06c0Rw6EupdTIXdqfNDLRpxR//2Q==",
+    "url": "https://preview.redd.it/25ok2y3sj3i81.jpg?width=640&crop=smart&auto=webp&s=bb7ec569cf052dde45d7abc87b53fa0367278fdf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Campsite near ruins (OC)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/stj44s/campsite_near_ruins_oc/"
+}

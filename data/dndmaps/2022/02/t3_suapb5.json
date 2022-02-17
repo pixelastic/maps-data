@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcftr",
+    "name": "Galemp"
+  },
+  "date": {
+    "day": 1645056000,
+    "full": 1645056904,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_suapb5",
+  "picture": {
+    "filesize": 112708,
+    "fullUrl": "https://external-preview.redd.it/Xb7AjyfR82IqO9P3uqzXHhulD-nCthi-hNf7DYEtsqY.jpg?auto=webp&s=32a967f1e088992f507b6a6be4accc218f642d56",
+    "hash": "62ffe85fa2",
+    "height": 858,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABP/EACMQAAICAgICAQUAAAAAAAAAAAEDAgQFEQASIXETIjFBQmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAIRESMf/aAAwDAQACEQMRAD8AdZyDMRVxxfjRC1KK1uKVgbmYgEHe/ufxvg83dYbcfmlZWeg6mogGMh58y1+29j0BwdyxYytO4lz5pkuaZrnY0DIif1dAP4OLqY2wtZipTivsTHtCZIB9D3wrqcm4tNV6Kn//2Q==",
+    "url": "https://external-preview.redd.it/Xb7AjyfR82IqO9P3uqzXHhulD-nCthi-hNf7DYEtsqY.jpg?width=640&crop=smart&auto=webp&s=f8012c59f1d433733cc37015074b9b2a5f4aceed",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Does anyone have a good scan of the Tu'narath poster map from Dungeon Magazine #100?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/suapb5/does_anyone_have_a_good_scan_of_the_tunarath/"
+}

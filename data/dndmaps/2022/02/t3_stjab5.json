@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_tn3dr",
+    "name": "golkon"
+  },
+  "date": {
+    "day": 1644969600,
+    "full": 1644974931,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_stjab5",
+  "picture": {
+    "filesize": 108820,
+    "fullUrl": "https://preview.redd.it/gc3ossbgl3i81.jpg?auto=webp&s=2d8bc7ed34bd3c98ccf5fd6ef263584907848e78",
+    "hash": "50b469aacb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACQQAAEDAgQHAAAAAAAAAAAAAAECAxEAIQQFEmETIjEyQpHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQEAAwAAAAAAAAAAAAAAAAAAERIh/9oADAMBAAIRAxEAPwDPxge1HhagCOoEgbmhg1OF5QcVIi1onep85ASkueSQIva5+U+B5MwW0nsDYI91OeuS/9k=",
+    "url": "https://preview.redd.it/gc3ossbgl3i81.jpg?width=640&crop=smart&auto=webp&s=13cc46210e0016c5f0b27a727e2a80a26d13ff89",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Drunken Owl Tavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/stjab5/the_drunken_owl_tavern/"
+}
