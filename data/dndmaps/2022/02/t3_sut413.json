@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_xop80",
+    "name": "Brylock_Delux"
+  },
+  "date": {
+    "day": 1645056000,
+    "full": 1645116053,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_sut413",
+  "picture": {
+    "filesize": 86214,
+    "fullUrl": "https://preview.redd.it/2tb8v58x8fi81.jpg?auto=webp&s=1c7c20b2d60df6a58977a49c7dc68748bf5ca114",
+    "hash": "a8c052343e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBAURABIhYRMiMUH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAAMBAAAAAAAAAAAAAAAAAAACIQH/2gAMAwEAAhEDEQA/AM9udVWVcSeRdsfJCqpGD3oNqus9LURqsjFHbDLu4Or1urZxaXBfcImKjPOR3pEdqolo2nNOjuyGT2/DkfOudSLRtJp//9k=",
+    "url": "https://preview.redd.it/2tb8v58x8fi81.jpg?width=640&crop=smart&auto=webp&s=041fd0b84cfc9c5c04810b5ee390429bd0ff38e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Dragonspear Castle 80x60",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sut413/dragonspear_castle_80x60/"
+}
