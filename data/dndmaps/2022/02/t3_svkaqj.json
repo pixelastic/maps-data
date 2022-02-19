@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1645142400,
+    "full": 1645197213,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_svkaqj",
+  "picture": {
+    "filesize": 43565,
+    "fullUrl": "https://preview.redd.it/0vf7nxjfyli81.jpg?auto=webp&s=f63db181c36741071f8384d63fb08254d93d49e9",
+    "hash": "2821b99689",
+    "height": 595,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACAQAAEDAwUBAAAAAAAAAAAAAAECAxEABBIFIjFBgXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMtdv2EANktzJkiZH2glZTKDuniKT0ttV1mp6CjL3LvyrLVqdzqQT0STxUH/2Q==",
+    "url": "https://preview.redd.it/0vf7nxjfyli81.jpg?width=640&crop=smart&auto=webp&s=c21ebb198d4a5a21644c3aba035c83d21c5f4973",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Complete Level 3 + Skullport – Dungeon of the Mad Mage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/svkaqj/complete_level_3_skullport_dungeon_of_the_mad/"
+}

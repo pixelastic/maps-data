@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5eem2q65",
+    "name": "Run-Write"
+  },
+  "date": {
+    "day": 1645142400,
+    "full": 1645147530,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_sv55pt",
+  "picture": {
+    "filesize": 76926,
+    "fullUrl": "https://preview.redd.it/9oi8so0quhi81.jpg?auto=webp&s=b4ef091c62735799e32ae26d85221ce0671fe272",
+    "hash": "7c7569fb1b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMF/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQREhMhMQVRQmHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQEAAwEAAAAAAAAAAAAAAAABABIhIv/aAAwDAQACEQMRAD8Az4tp7jVuRssZxgZ4I+6s7vBK0iwmeRyNKLwBnvHr3QsZIrcJbxkSlQ2GUdZJOKPkruW3aKWJdcqgAxr8vzsc1IdawvJpP//Z",
+    "url": "https://preview.redd.it/9oi8so0quhi81.jpg?width=640&crop=smart&auto=webp&s=62331467bf4cda094e8537f1b2a842408bc244c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.82,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Runes Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sv55pt/runes_road/"
+}

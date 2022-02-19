@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1645142400,
+    "full": 1645168107,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_svbqa2",
+  "picture": {
+    "filesize": 131483,
+    "fullUrl": "https://preview.redd.it/g81asnutiji81.jpg?auto=webp&s=42f645953d5a6fa4715ce808d3c8881880ef0011",
+    "hash": "a63d7c61fb",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMREgAEBSExQRMUUXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIEQRH/2gAMAwEAAhEDEQA/AJrBtpH2yxOiR4RAZPGq2WognG/Hz1s6J81tfbcjJEzBytEsARd9fP3papC8eNyRFGPTVxExyzGOGVXYYEE1XTvonvYtw85keGQlwCDXcdgfzVM4qvI9LXwr2f/Z",
+    "url": "https://preview.redd.it/g81asnutiji81.jpg?width=640&crop=smart&auto=webp&s=2f5f95eb627aa91b794200d665ac05ec75ff3749",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 864,
+    "value": 864
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Red lanterns",
+  "url": "https://www.reddit.com/r/dndmaps/comments/svbqa2/red_lanterns_32x44/"
+}
