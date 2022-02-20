@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1645228800,
+    "full": 1645279300,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_swar8f",
+  "picture": {
+    "filesize": 75053,
+    "fullUrl": "https://preview.redd.it/gvmonfthqsi81.jpg?width=3375&format=pjpg&auto=webp&s=0c0ef1acd87ffb451c99f8479fbf120c77efab4f",
+    "hash": "45963ed3cb",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDEQAEEiExQWFx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEAAwAAAAAAAAAAAAAAAAAAABEh/9oADAMBAAIRAxEAPwDIJpyHKIFYUObNCvWVppWeZQwjojdYHf78w5dPI0itEAEbrxWJHBsmMim0HV8N9oZTEFEf/9k=",
+    "url": "https://preview.redd.it/gvmonfthqsi81.jpg?width=640&crop=smart&auto=webp&s=091f47269a09bc43558c0064de9398114b0e493c",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Abandoned Ruins Battle Map | 30 x 30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/swar8f/abandoned_ruins_battle_map_30_x_30/"
+}

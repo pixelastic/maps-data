@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7nhpxfrs",
+    "name": "natwuns"
+  },
+  "date": {
+    "day": 1645228800,
+    "full": 1645295387,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_swgj8v",
+  "picture": {
+    "filesize": 102309,
+    "fullUrl": "https://preview.redd.it/7eis3kfb2ui81.jpg?auto=webp&s=ee2d3765108e639be98e9cc04909f98fe4abab5f",
+    "hash": "0a61bed06f",
+    "height": 869,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAHxAAAgAHAAMAAAAAAAAAAAAAAQIAAwQREyExEiJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAbEQACAwADAAAAAAAAAAAAAAABEQACAwQhMf/aAAwDAQACEQMRAD8AxiTRXp2WYFLMgVeaihl0YC3zFrbxoCARrp+Qpyy0/stmK9G4DMl5W8i4QEaBNocWXScl8a+mhVyQF7P/2Q==",
+    "url": "https://preview.redd.it/7eis3kfb2ui81.jpg?width=640&crop=smart&auto=webp&s=02f6e75ed942f1f96f89274a332cb2eb3886429b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sinister Graveyard",
+  "url": "https://www.reddit.com/r/dndmaps/comments/swgj8v/sinister_graveyard_25x34/"
+}

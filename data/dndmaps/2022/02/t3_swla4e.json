@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7u8inme",
+    "name": "battosey"
+  },
+  "date": {
+    "day": 1645228800,
+    "full": 1645308620,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_swla4e",
+  "picture": {
+    "filesize": 88735,
+    "fullUrl": "https://preview.redd.it/lpg84m0qvui81.jpg?auto=webp&s=14db964a53f7682eecc2f51c44ff492ebf0983e8",
+    "hash": "a992ec7320",
+    "height": 450,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAKBAAAQMCBQEJAAAAAAAAAAAAAQIDBAARBQYHEhNBFBYhIjFScbHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQACAgMAAAAAAAAAAAAAAAAAARIhERNB/9oADAMBAAIRAxEAPwAWpj8xOY1sOzStkAFsJHGG0nofd8+P5VkLHZsee3hjDfbOd8Hcp4gpFrEi/qLC9L1Cjs98sJZ408W1sFHQgum/3WUOBGhaptx4rQbYbknYgE2T5VGp6jqSa5ke5Uf/2Q==",
+    "url": "https://preview.redd.it/lpg84m0qvui81.jpg?width=640&crop=smart&auto=webp&s=3ff6da6f435a082a1fb4ecc765650d649ec3374c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Zeantis City",
+  "url": "https://www.reddit.com/r/dndmaps/comments/swla4e/zeantis_city/"
+}

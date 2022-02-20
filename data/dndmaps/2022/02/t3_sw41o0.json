@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1645228800,
+    "full": 1645254474,
+    "month": 1643673600,
+    "week": 1644710400
+  },
+  "id": "t3_sw41o0",
+  "picture": {
+    "filesize": 101388,
+    "fullUrl": "https://preview.redd.it/ynxn6nqpoqi81.jpg?auto=webp&s=7dff17d2be872876b1e218b88b4ec465034a244f",
+    "hash": "99fa466108",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAgAGAgEFAAAAAAAAAAAAAQIAAwQFERIhYZExQVGB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAF/8QAHxEAAgAGAwEAAAAAAAAAAAAAAQIAAwQRIUETMWGR/9oADAMBAAIRAxEAPwAdLjSW2WKZmkFhIVipTZixBPP1jjuK3lLcttnzlVNdN1GvscYx1+9RjrNRzq65zqmsqUSjnTNzkZK8E8+MeIfutVTJSmRIY6NsoHqSSc56IPxCUk/nfux9wDqIlSlOiSgpud4+x//Z",
+    "url": "https://preview.redd.it/ynxn6nqpoqi81.jpg?width=640&crop=smart&auto=webp&s=41e4249da1d3e8dfac0501ed6bf5368fc6acdaca",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wizard's Tower Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sw41o0/wizards_tower_battle_map_30x30/"
+}
