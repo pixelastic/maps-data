@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1645315200,
+    "full": 1645363494,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sx17k6",
+  "picture": {
+    "filesize": 96192,
+    "fullUrl": "https://preview.redd.it/aztfr14uozi81.jpg?auto=webp&s=171c7093fd892492623a186aea12e366fcca0259",
+    "hash": "8a56277395",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAgEAACAgICAwEBAAAAAAAAAAACAwEEBREAEiFRYQax/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIRA1Gx/9oADAMBAAIRAxEAPwASB4ix+RQqthmnle4qlsAU9zn799cNsxxpqWGWKz1ks5CdxqBn1McQ1Tx1ethiHJvFpvArKxZ1hcR47R6nXKGrx2UXlaSMpZfedZI6qOvaGQO5jZT43Mfzi0Bk293jcBdTt8n/2Q==",
+    "url": "https://preview.redd.it/aztfr14uozi81.jpg?width=640&crop=smart&auto=webp&s=e9a925092233bdf499af2a154d5ff5058af8dc37",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Hydromancer's Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sx17k6/hydromancers_lair_17x17_oc_battlemap/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1645315200,
+    "full": 1645360996,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sx0gmh",
+  "picture": {
+    "filesize": 99633,
+    "fullUrl": "https://preview.redd.it/0ebgpc4ehzi81.jpg?auto=webp&s=6e8c0bd40d4c4f63690844d44eea36ac7d608208",
+    "hash": "7e7e264c24",
+    "height": 768,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGCP/EACEQAAICAQQDAQEAAAAAAAAAAAEDAgQRAAUhMRITQSNh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRA//aAAwDAQACEQMRAD8Az/UoR3F/hmpKQQZBkYkjGOsA9jrnQe7fgpFcVqxKJTWXJ6bgjnnVBtYfeZVr0KvofCrJTGrlEhkok4IBHGRgHSvcKXuUuXqsxtFjC4ymPH5gRxj75ZP91MHTSE6VVqM//9k=",
+    "url": "https://preview.redd.it/0ebgpc4ehzi81.jpg?width=640&crop=smart&auto=webp&s=8510cf8df71f0fb2333ecf1238760fb90bbc1f50",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Echo Blue Colony (50x60)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sx0gmh/echo_blue_colony_50x60_level_1_of_yiarmans_folly/"
+}

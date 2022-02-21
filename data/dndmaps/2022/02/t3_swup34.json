@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aoqu4z3",
+    "name": "TwelveCage"
+  },
+  "date": {
+    "day": 1645315200,
+    "full": 1645338270,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_swup34",
+  "picture": {
+    "filesize": 67577,
+    "fullUrl": "https://preview.redd.it/k4gy6d5wlxi81.jpg?auto=webp&s=18ead823bc66918c71500a60a3e331fef1fc5734",
+    "hash": "5cb230afb8",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAURBBITITFBUeH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQADAAAAAAAAAAAAAAAAAAARIUH/2gAMAwEAAhEDEQA/AC7ZGDBCrKdnEuMHzkDsijryyK+yKRiAcsB891TokC6GMksxC5BYnrqs9c5XTlJbdhSRn8pmka//2Q==",
+    "url": "https://preview.redd.it/k4gy6d5wlxi81.jpg?width=640&crop=smart&auto=webp&s=3f3b854cc407f068c6f7c2bf038a465a0ed01095",
+    "width": 640
+  },
+  "score": {
+    "comments": 41,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 799,
+    "value": 799
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "My first dnd map! Sorry for poor quality, I drew it by hand.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/swup34/my_first_dnd_map_sorry_for_poor_quality_i_drew_it/"
+}

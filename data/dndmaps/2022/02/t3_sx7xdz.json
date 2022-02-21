@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1645315200,
+    "full": 1645382114,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sx7xdz",
+  "picture": {
+    "filesize": 111844,
+    "fullUrl": "https://preview.redd.it/2c3ks78981j81.jpg?auto=webp&s=f0b05ac3717fb0ad0513ba6be0e8418f4459f7c3",
+    "hash": "a4e8ddcf7d",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAhEAACAgIBBAMAAAAAAAAAAAABAgQRAAMhBQYSExQxYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAIDAAAAAAAAAAAAAAAAEQACAxIT/9oADAMBAAIRAxEAPwCN6ocN4kX5WjSSutW5UWeBhfdmiOjRWGpVZg1+Iq6rFOgbY+3pUb1mwihWDUSGH3hPenn7IgWyArHgfowKuxLshyZ//9k=",
+    "url": "https://preview.redd.it/2c3ks78981j81.jpg?width=640&crop=smart&auto=webp&s=b7686c97f9f35a09056fed7245f80800dc480b86",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Strixhaven - Furygale Repository",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sx7xdz/battlemap3200x400032x40_strixhaven_furygale/"
+}
