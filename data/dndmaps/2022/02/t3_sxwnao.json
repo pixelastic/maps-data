@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1645401600,
+    "full": 1645458472,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sxwnao",
+  "picture": {
+    "filesize": 112309,
+    "fullUrl": "https://external-preview.redd.it/F2ROZypStGMbD8q5IhjM7oQJrzrg0kqbshsYI5vY6VU.jpg?auto=webp&s=3b7e95231d217b34fd31137576ad13b547af05a7",
+    "hash": "f47820bdd7",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDBBEABRIhYRQiMUHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIhEf/aAAwDAQACEQMRAD8AwnbNvF7b7Icxqlat6nkqLk+CfzRNqkEmIRX44B9y4PYB0vV3BrMMiQzRxl4kjKFiDgnB+u/jONW6mbLFZpHGAA3ffQ8aKt90hPT/2Q==",
+    "url": "https://external-preview.redd.it/F2ROZypStGMbD8q5IhjM7oQJrzrg0kqbshsYI5vY6VU.jpg?width=640&crop=smart&auto=webp&s=0df1f2b2c76886e8ccb76d396a25d9851d5fef9d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 253,
+    "value": 253
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Temple of the Merfolk",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sxwnao/temple_of_the_merfolk_36x34/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_j42dtt07",
+    "name": "disco_dinos"
+  },
+  "date": {
+    "day": 1645401600,
+    "full": 1645463439,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sxyof9",
+  "picture": {
+    "filesize": 421708,
+    "fullUrl": "https://preview.redd.it/rct43fhyx7j81.png?auto=webp&s=9797616c131b88ecd783d7b68e69593982752d4e",
+    "hash": "adf6cd2f77",
+    "height": 427,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACBklEQVQokRXC226aYAAAYK5232RXy7Is6c36DrtoM6N1iucDngDh12oR1IqiIKKCYJ1WAdOqrRWnrbOuS19hb7bsywdFaI/YQ9622b0FtkuwuSf2FnhZgacHcj1L7y1wsMBuSW4XxP6B2K8A5MueM6xnZeCLYdLUEFGKFDmEbkQpNkxXo8X6/6VGjGrh4zn5+5GEbk20WfWvKbSdcFExm8L5p0r8uodUih5RCDda0TrlmF3HInWMNsDrkoSerYwuhIZkQASwgDonrZBWC8pikOf8mhJdP+Zlxr7R4+ku8LHBtZ6A1neYWQ+3MZjHnELZVqu6M5jnIuXgrgIUFeQq8a4QGqvxUjOeoeCpGoWezRRLfKNS9i6Aa6StyXoFzivW/F0+XGFCJTpGoTbmAi7kPIWMK5tyQL/maa0M15IOKeMS8e+zfkLg3a0Opg+TfSW6s9Iy49joCbpHVEZYi4WhpxXo8/5c6JRN2nkcnnbCPSU0vMlORglNQf7M2YGE3N8kAxX00gC7uzR0WOc1LlAHTinn6zJ4lQkIUkRWE10VkZr439Fh2q6Bgg8tx5Rb8nVFQoOxYzC2GyY8MdyG4dUnaL+PqRrWVpKqim7M4mSIN6XYYky8/cy+rDLQV+Ldef4owHx0Xb53FY6y0idaPq5qJ1fqF1o+znc+Y/yHinoyMM/6+ukP8+wfusrqzT7An+sAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/rct43fhyx7j81.png?width=640&crop=smart&auto=webp&s=86f1739361e004a7fe77c25ee88c4731cc81369a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.73,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Herbalist's Hut",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sxyof9/herbalists_hut/"
+}

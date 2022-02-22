@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1645401600,
+    "full": 1645480971,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sy5vec",
+  "picture": {
+    "filesize": 88686,
+    "fullUrl": "https://external-preview.redd.it/dFn8q0ywHUIpS3SinhuHIUbOByWS6XvKFMfEZTuMP6Q.jpg?auto=webp&s=605b446166f4b63dfb879f8748b364809eeef9e6",
+    "hash": "16462e176d",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAEEAgEFAQAAAAAAAAAAAAECAxEhAAQFEhMkMUGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIxEf/aAAwDAQACEQMRAD8AwXjNJ1x1wutqhCSYNXFDKFxnbU4pQ09aCSaarB+D2AvTUHHld0LJAIETUX9xgt1XWrx0qv3Bv9yZsmQDuz//2Q==",
+    "url": "https://external-preview.redd.it/dFn8q0ywHUIpS3SinhuHIUbOByWS6XvKFMfEZTuMP6Q.jpg?width=640&crop=smart&auto=webp&s=3a780be79736bd4c97cc9c26e0659b1b8bcc9942",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Fortress of the Sealed Magi",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sy5vec/fortress_of_the_sealed_magi_35x56/"
+}

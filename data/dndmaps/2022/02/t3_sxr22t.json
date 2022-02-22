@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ektg7b5d",
+    "name": "de-Zigner"
+  },
+  "date": {
+    "day": 1645401600,
+    "full": 1645441756,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sxr22t",
+  "picture": {
+    "filesize": 146557,
+    "fullUrl": "https://preview.redd.it/oreblfxh56j81.jpg?auto=webp&s=67d14abbc8aca30cb77ab6f1bb98757fe7eda52f",
+    "hash": "556f5a8979",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAQQABQQDAAAAAAAAAAAAAQIDBBEABRIhQRMUUWExMpH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEi/9oADAMBAAIRAxEAPwDNi4ifNazSSBqWsFY6BUHVUPqkcej4xWJESyJ0wqLigg6QG9KaUQBXg84Ny1xluJGblTkRUNPkArsgWk70PdfuFnM3DcQ9m/CcTp6ThG5rSLO4+b5xAtl8oe5VrKZ//9k=",
+    "url": "https://preview.redd.it/oreblfxh56j81.jpg?width=640&crop=smart&auto=webp&s=7d39e33f40c1aa278eeb0ed352ff0a0a8b2f3025",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Underhive / Wastelands detailed map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sxr22t/underhive_wastelands_detailed_map_20x20/"
+}
