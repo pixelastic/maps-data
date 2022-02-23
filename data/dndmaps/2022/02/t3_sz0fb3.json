@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1mf7q10",
+    "name": "darksidesam"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645568928,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_sz0fb3",
+  "picture": {
+    "filesize": 69455,
+    "fullUrl": "https://preview.redd.it/mfuzdbsqngj81.jpg?width=2048&format=pjpg&auto=webp&s=1d7431d1b4c244782de2e8f06be63a8906c00c3a",
+    "hash": "a690a4021e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACIQAAICAQMEAwAAAAAAAAAAAAECAwQRAAVBEhMhMSJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AyqltgTcHL2kBjCyZxlTnPjVMbXY3DcUq0O3YsWes+fiFAx+aSqzQhEcdsSsAJI0JDyYPPHrRYsGKUzV7DV54yxSPrYOpzx9+9SdeDP/Z",
+    "url": "https://preview.redd.it/mfuzdbsqngj81.jpg?width=640&crop=smart&auto=webp&s=2b2cf7d4d945c7bdb764689fe17d54355a7d85f9",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.72,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dungeon with Puzzle Rooms 40 x 40 with and without Grids",
+  "url": "https://www.reddit.com/r/dndmaps/comments/sz0fb3/dungeon_with_puzzle_rooms_40_x_40_with_and/"
+}

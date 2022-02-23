@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_idvk2",
+    "name": "MikeSchley"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645553486,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_syu5wq",
+  "picture": {
+    "filesize": 216102,
+    "fullUrl": "https://preview.redd.it/m0kfykfudfj81.jpg?width=864&format=pjpg&auto=webp&s=39db899041ae33557b901c5f01bb9afaa5508de6",
+    "hash": "73acec6413",
+    "height": 869,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACMQAAEEAAYCAwAAAAAAAAAAAAECAwQRAAUSEyFhMUEicZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhESIf/aAAwDAQACEQMRAD8A1MTJDjk9LEiJobaJYJApKvVd1fnjDeSTmnYCTmTrK5AURdAmvWquL+sSQmdA306ETG1tHZU2SmjfAP756wImUSQHVTZbCX1q1KSDwPiBXJ6xFbXHIgqz/9k=",
+    "url": "https://preview.redd.it/m0kfykfudfj81.jpg?width=640&crop=smart&auto=webp&s=0f3e62792a71f66ca2ee46e0081470713c78d860",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "My maps from the new D&D adventure collection ‘Strixhaven: A Curriculum of Chaos’",
+  "url": "https://www.reddit.com/r/dndmaps/comments/syu5wq/my_maps_from_the_new_dd_adventure_collection/"
+}

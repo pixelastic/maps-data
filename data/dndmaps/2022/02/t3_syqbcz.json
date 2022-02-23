@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_oi85v8v",
+    "name": "ChibbinGrove"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645543847,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_syqbcz",
+  "picture": {
+    "filesize": 45008,
+    "fullUrl": "https://preview.redd.it/prkjtjzxkej81.jpg?auto=webp&s=bcc85f99c3eb5e50d75a0d8538b03706a90b1d05",
+    "hash": "ed9719840d",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAeEAACAwABBQAAAAAAAAAAAAABAgADEQQSFDGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxExMv/aAAwDAQACEQMRAD8Aiq3p5CsHTGUbmdIaH3XBbDUlYtAHkHAPcRRiePd8haKvYK2DSxk6tVwWOhCsx5E//9k=",
+    "url": "https://preview.redd.it/prkjtjzxkej81.jpg?width=640&crop=smart&auto=webp&s=670eaaa1b392d8b56f2069ebe1e4f0519c56c73c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.77,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Grassmore",
+  "url": "https://www.reddit.com/r/dndmaps/comments/syqbcz/grassmore_36x24_5040x3360px/"
+}

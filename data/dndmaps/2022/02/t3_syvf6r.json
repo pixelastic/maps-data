@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645556572,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_syvf6r",
+  "picture": {
+    "filesize": 89070,
+    "fullUrl": "https://external-preview.redd.it/LicllEnZP9dJjrVLoF558IFRPP0l_QGZUQ3bXr9DD_Y.jpg?auto=webp&s=0a9a5fe89ac0675d9bfe3ca5df73299a80baa9ff",
+    "hash": "4563abd100",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAEDAwQABwAAAAAAAAAAAAECAwQFESEABhJBIiMxUWFxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEAIf/aAAwDAQACEQMRAD8AzkXZ0aXTg84llrzCklS8NJvggj1xfB70vuigUKLSZLsBTLbbKQWVgFSnjbN1fOc9aPuerSodfXDilLMZkJLaGxx44F7W+9QavMdmMTg/xPj6Fve35c6AtaEnOaDk3//Z",
+    "url": "https://external-preview.redd.it/LicllEnZP9dJjrVLoF558IFRPP0l_QGZUQ3bXr9DD_Y.jpg?width=640&crop=smart&auto=webp&s=e91d23d24f73ebcba1aa61735d6ede2825eab3b7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Nomad Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/syvf6r/nomad_camp_22x17/"
+}

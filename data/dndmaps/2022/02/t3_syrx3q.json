@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d8907p",
+    "name": "Moulkator"
+  },
+  "date": {
+    "day": 1645488000,
+    "full": 1645547969,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_syrx3q",
+  "picture": {
+    "filesize": 184647,
+    "fullUrl": "https://preview.redd.it/xgqxizfbxej81.jpg?auto=webp&s=bd36744eceb104e2ef226f928833a99f6632d40c",
+    "hash": "58bd2c3773",
+    "height": 914,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMAESIEIVGhE0Fxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAwDAQACEQMRAD8Ai6RDUpNHK8isLviRZRbv5R4IGSJVklcP7AW/dL0CofNlkUvuRsL80UJcY6lQOCV/ag6YSS//2Q==",
+    "url": "https://preview.redd.it/xgqxizfbxej81.jpg?width=640&crop=smart&auto=webp&s=da5fc0498c6c4ab6b51098222824a15261140f85",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Derelict Tower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/syrx3q/derelict_tower_21x30_256_ppi/"
+}
