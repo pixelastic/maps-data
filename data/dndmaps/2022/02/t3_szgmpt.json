@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1645574400,
+    "full": 1645620345,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_szgmpt",
+  "picture": {
+    "filesize": 123128,
+    "fullUrl": "https://preview.redd.it/zfgt476lvkj81.jpg?width=1000&format=pjpg&auto=webp&s=a8fadccac227202f42b0896aeee7a02de4a0f83c",
+    "hash": "3e8aa47738",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQQAAICAQQBBAMAAAAAAAAAAAECAwQRABMhQQUSMVFhcdHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIv/aAAwDAQACEQMRAD8Az5hlSSdTbnk35GdNzrGOM8cYzp+WtZ8OsS+QWu4tISPS4ckcAH5Dc+31qLegvoAbMK7LMSNpgvWeicY/ehUobMsySToCVUui2HYKFX89/wA1NaSzGLmQ/9k=",
+    "url": "https://preview.redd.it/zfgt476lvkj81.jpg?width=640&crop=smart&auto=webp&s=5be873942be3dc547b9e904791e8046a82abed8f",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 135,
+    "value": 135
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "King's Residence",
+  "url": "https://www.reddit.com/r/dndmaps/comments/szgmpt/kings_residence_90x84_gallery_free/"
+}
