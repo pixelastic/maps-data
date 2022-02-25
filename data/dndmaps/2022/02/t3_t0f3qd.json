@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1645660800,
+    "full": 1645720248,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_t0f3qd",
+  "picture": {
+    "filesize": 132438,
+    "fullUrl": "https://preview.redd.it/791hmbnn5tj81.jpg?auto=webp&s=29a6769301d22e7b55043d8be3229af1fcad5db7",
+    "hash": "bf86a4cf51",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAhEAACAgEEAgMAAAAAAAAAAAABAgMEEQAFEiEUQXGB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwCSjTrIlMGuJTMvLtsEgDvJ+/WhdxgiS9OoEaAOcAvp6q1W/wCOzWYkkjQYiGR37+B+Oht6jkG6WBEsbpkYbkBnoanfAklWH//Z",
+    "url": "https://preview.redd.it/791hmbnn5tj81.jpg?width=640&crop=smart&auto=webp&s=d098ad2aa3b146fac5a5d73e4df9ab61b9cf061d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Quarry",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t0f3qd/quarry_25x35/"
+}
