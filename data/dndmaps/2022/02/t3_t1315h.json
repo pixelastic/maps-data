@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_67y4w69v",
+    "name": "mik_wewa"
+  },
+  "date": {
+    "day": 1645747200,
+    "full": 1645792648,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_t1315h",
+  "picture": {
+    "filesize": 64196,
+    "fullUrl": "https://preview.redd.it/nd9pqbpz4zj81.jpg?auto=webp&s=e95431ee75590a5dc554ba5097c06aad98bc9f07",
+    "hash": "b048777849",
+    "height": 457,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQMCBCEABRExEkETUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AMgO3qKqM2KqTAmBP425kOuTn71Rue01Fhk111GcFSMgnIifUjn90bResrVFEGcKOPHgHvSyulZqxJiOWwMpn2Se86nl0VR//9k=",
+    "url": "https://preview.redd.it/nd9pqbpz4zj81.jpg?width=640&crop=smart&auto=webp&s=44aef5e85a4614ce749f5ed58d3fa9619e614232",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Necromancer's Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t1315h/necromancers_lair_35x25/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1645747200,
+    "full": 1645796619,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_t14coz",
+  "picture": {
+    "filesize": 179266,
+    "fullUrl": "https://preview.redd.it/lzsv0ielgzj81.jpg?auto=webp&s=e80d762fe2f6d3c62bbf8f936b974c357e0a4dc3",
+    "hash": "e7c40b3959",
+    "height": 867,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAABBAEDBQEAAAAAAAAAAAABAgMEEQAFIWEGBxJBURP/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAiESof/aAAwDAQACEQMRAD8An+kNb1RnTG4pnBxlpspQhF0kDk199Y4juZ1FFSGvFmk7DzWomht7PGAQ29MgQWlsutyC4k0C2tKhtZsEcYfKlwnHLckfiQKCUs7V9yVbFnl9ii0M2f/Z",
+    "url": "https://preview.redd.it/lzsv0ielgzj81.jpg?width=640&crop=smart&auto=webp&s=2fe09ebff71e10a2b6e41ce4c16dd831a71e0a38",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Temple Threshold 48x27",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t14coz/oc_temple_threshold_48x27/"
+}

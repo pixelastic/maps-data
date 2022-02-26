@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8g7hvowr",
+    "name": "spaghetties7"
+  },
+  "date": {
+    "day": 1645747200,
+    "full": 1645817769,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_t1cfj1",
+  "picture": {
+    "filesize": 192309,
+    "fullUrl": "https://preview.redd.it/2untn3jh71k81.jpg?auto=webp&s=78011bb4763e12b1f393f96418145bc6a5378543",
+    "hash": "2c229e0bfa",
+    "height": 828,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURAAYhEhMxQQdhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAxEx/9oADAMBAAIRAxEAPwDUdx3uoobrWrSVVVRGORlQSygxqTx1YPGDyfZyQNMNm081TZEe5yvU1AdlMxkYM4HGSM+f5oT8gd6zi43KZH7csxigaRT0dTHAL58Jn37I4AzqBbbrucQuLTdZK2nDYJoIwYY2AAKKSP0/ZOp62U3nWD//2Q==",
+    "url": "https://preview.redd.it/2untn3jh71k81.jpg?width=640&crop=smart&auto=webp&s=64a961f58715a98b4009ecbe02f39fcf8cfaac13",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Snake Mountain Stronghold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t1cfj1/snake_mountain_stronghold/"
+}
