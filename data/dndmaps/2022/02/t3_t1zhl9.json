@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1645833600,
+    "full": 1645889012,
+    "month": 1643673600,
+    "week": 1645315200
+  },
+  "id": "t3_t1zhl9",
+  "picture": {
+    "filesize": 144303,
+    "fullUrl": "https://preview.redd.it/wx9p2ubc37k81.jpg?auto=webp&s=2f6a7fb2181cd5fc9f3463a70a4dad1f81affea6",
+    "hash": "efd7c0a736",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAQIGAgIDAAAAAAAAAAAAAQIDAAUREiFBBCITFCNxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxEAAQIGAwAAAAAAAAAAAAAAAQADAhESE1GRITGh/9oADAMBAAIRAxEAPwDct+FUzf4jNtzQFbk4B+/yFGTcRRq5eHDlQGc7gTbKGp57hWz6XKT8lrnZIpkU3U0zFEzlFerKrddtRMOHqjA2ksmIg3MnU+PF/9k=",
+    "url": "https://preview.redd.it/wx9p2ubc37k81.jpg?width=640&crop=smart&auto=webp&s=17b1ac7d1a1f83756bb4668e21c6ef76b3240ae1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Oasis Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t1zhl9/oasis_ruins_24x40/"
+}
