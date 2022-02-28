@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1645920000,
+    "full": 1646004160,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t30rob",
+  "picture": {
+    "filesize": 129005,
+    "fullUrl": "https://external-preview.redd.it/nVPHIDhBJuwzaZt3kBBZ4UWexLB-EA8Lk_Ei5na_484.jpg?auto=webp&s=f481716387a2abc0dc03a9fc0a8ecb9c92233600",
+    "hash": "3ff514e8d7",
+    "height": 1002,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEBREAEjEhQVETFCIjMv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAMCERL/2gAMAwEAAhEDEQA/AKbParUlLRl4C6hAszGEEufHy/I69tA6uhQ1U2yeBU3nA9MjAzpNZ74vttquNxj6Z7BRjJzweONHZ6xXnkYRSYZiR9GO/jOh1GYrE2caBn//2Q==",
+    "url": "https://external-preview.redd.it/nVPHIDhBJuwzaZt3kBBZ4UWexLB-EA8Lk_Ei5na_484.jpg?width=640&crop=smart&auto=webp&s=46c777fc737a9a108b5d9352a0e8addec8165543",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A fine catshark haul for the townsfolk! Marketplace Map!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t30rob/a_fine_catshark_haul_for_the_townsfolk/"
+}

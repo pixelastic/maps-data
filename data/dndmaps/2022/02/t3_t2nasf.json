@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1645920000,
+    "full": 1645965215,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t2nasf",
+  "picture": {
+    "filesize": 171381,
+    "fullUrl": "https://preview.redd.it/rknpxbl1edk81.jpg?auto=webp&s=2ef2dc539d1148015a930c88f609fc2f6d477625",
+    "hash": "2bb3340d25",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAHxAAAwACAgIDAAAAAAAAAAAAAQIDESEABAUxEkFR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAAMBAAAAAAAAAAAAAAAAAAABITH/2gAMAwEAAhEDEQA/AM7x0QsVEnnErQ5cPr3ob+hxUkaAsOxJDneVJyf3PD6/cq8evOU3yrMhd9hj61rPJlK2GIoZlmJKn5Dh4hS0/9k=",
+    "url": "https://preview.redd.it/rknpxbl1edk81.jpg?width=640&crop=smart&auto=webp&s=87aa35eba7fe176bb4f5efc4a324c0e42bef5409",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 566,
+    "value": 566
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Guardhouse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t2nasf/guardhouse_32x44/"
+}

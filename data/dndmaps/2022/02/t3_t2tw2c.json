@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1645920000,
+    "full": 1645984988,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t2tw2c",
+  "picture": {
+    "filesize": 93873,
+    "fullUrl": "https://preview.redd.it/pfoyqyxv0fk81.jpg?width=4480&format=pjpg&auto=webp&s=36a1ecbb9bcef10bcccd3a42632dc4aafd754c1b",
+    "hash": "9ef3d6d312",
+    "height": 460,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgX/xAAhEAACAgEEAgMAAAAAAAAAAAABAgMEEQAFEiEGMUFhof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAISEf/aAAwDAQACEQMRAD8AjbBQRoDPKz/SjoAaHku2VnpGXjkd5JGf3UqvcnpPE1d+IcjK/HvRe5PudpxakJRGOEXoe9BlL70MccteJP/Z",
+    "url": "https://preview.redd.it/pfoyqyxv0fk81.jpg?width=640&crop=smart&auto=webp&s=cae449f55f9ac936c0824f3987c5626fe1e62daf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Strixhaven - Kollema Hall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t2tw2c/battlemap4480x322064x46_strixhaven_kollema_hall/"
+}

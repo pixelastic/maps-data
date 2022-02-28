@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9c4689",
+    "name": "Raznag"
+  },
+  "date": {
+    "day": 1645920000,
+    "full": 1645992678,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t2wo3n",
+  "picture": {
+    "filesize": 91920,
+    "fullUrl": "https://preview.redd.it/qsb4usrknfk81.jpg?auto=webp&s=84ad0b1315c92335cdbe3d9a6dd6a8f8f85d6176",
+    "hash": "355f1fdcbd",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACIQAAICAgICAgMAAAAAAAAAAAECAwQFERIxACEGIhNRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDNcM1ax8ehgElRbMUaqmoTtgWALBj6JA0db3+178VlcfQrYPJ2DWsngGX8sLfRQyhT6b1y2ACwHX97mY/O2rXxeTG2VikgF5EB0V+nBpOHFSF1zjVut96I2dlcztu7C7RiGpHFKsCRQptBGYywQ8+RZV3pQxIUde/fgf/Z",
+    "url": "https://preview.redd.it/qsb4usrknfk81.jpg?width=640&crop=smart&auto=webp&s=0c7d40ef8740ae8916e566320d65896a5681d891",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Wizards Domain",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t2wo3n/the_wizards_domain/"
+}
