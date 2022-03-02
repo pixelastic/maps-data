@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1646092800,
+    "full": 1646163500,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t4gath",
+  "picture": {
+    "filesize": 143905,
+    "fullUrl": "https://preview.redd.it/qqyrni3ertk81.jpg?width=2048&format=pjpg&auto=webp&s=0835d0ec61652b1901522cbf8909f930a8684904",
+    "hash": "c9d0729595",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQQAEiEFEyIxQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwC/qaZHeleHIKIoBa5K+zQvWJPl5SzQGPKlosp4kJBBPvSDq2a0OLKMdRJKEIUbN1Hj9sD40SKTz5kFYU6rHyZ6Co/lQ8b3A1z6rQca30as/9k=",
+    "url": "https://preview.redd.it/qqyrni3ertk81.jpg?width=640&crop=smart&auto=webp&s=b0b9979f9f3170a5342cb4da1cbac8af074d5c43",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "A pyramid map I made for a recent session. Comes with destructible boss room.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t4gath/a_pyramid_map_i_made_for_a_recent_session_comes/"
+}

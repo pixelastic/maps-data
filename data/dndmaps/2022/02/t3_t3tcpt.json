@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_42fqfoll",
+    "name": "ProfectaEsso"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646091380,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t3tcpt",
+  "picture": {
+    "filesize": 92595,
+    "fullUrl": "https://preview.redd.it/j4wluz20tnk81.jpg?width=2048&format=pjpg&auto=webp&s=568e98c9fa7e7225c40720b0112d774dfa5318d4",
+    "hash": "b37f51555a",
+    "height": 404,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIhAAAgECBQUAAAAAAAAAAAAAAQIRACEEEhMxUSJhcZKx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AMIT1IFYZg2ZVF9uPtLZNJkeAo2XwTHY34o1AAYAABQSBwYqMLfBPN4Ux71DSXcL/9k=",
+    "url": "https://preview.redd.it/j4wluz20tnk81.jpg?width=640&crop=smart&auto=webp&s=fa668a93e54c6cec113a3554c817819150dd35f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Treetop Bandit Hideout",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t3tcpt/treetop_bandit_hideout/"
+}

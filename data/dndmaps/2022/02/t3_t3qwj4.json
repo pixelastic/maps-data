@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3bpb6al7",
+    "name": "MirisDor"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646084909,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t3qwj4",
+  "picture": {
+    "filesize": 124500,
+    "fullUrl": "https://preview.redd.it/mp96gnnx9nk81.jpg?auto=webp&s=d60f33e90266897986d52e134323db342192c374",
+    "hash": "2e29486dbc",
+    "height": 905,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACMQAAICAAUEAwAAAAAAAAAAAAECAwQABRESIRUiMUJBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A21byCwFjqVpIYVCsPHgAk7hwSfrBmK157jyx1zGjBSFK6acD4xRUxl7VoS0kG1kVmQn20HP7hFnNuv1Kba6sO3kNr6jAf//Z",
+    "url": "https://preview.redd.it/mp96gnnx9nk81.jpg?width=640&crop=smart&auto=webp&s=88b7d25d171e21037affdfd109d9c0feb24e2487",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Isometric Map - Hanging Gardens",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t3qwj4/isometric_map_hanging_gardens/"
+}

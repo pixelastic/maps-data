@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dwi9st5d",
+    "name": "Ame_Kuma"
+  },
+  "date": {
+    "day": 1646092800,
+    "full": 1646132923,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t45j9b",
+  "picture": {
+    "filesize": 70478,
+    "fullUrl": "https://preview.redd.it/5orjfnsp8rk81.jpg?auto=webp&s=b142df5e05b8e36b72819fc7e4cd90fa597e4ffb",
+    "hash": "f1638815cd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAkEAACAQIFBAMAAAAAAAAAAAACAwEEEQAFEiFBEyIxcTJhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFB/9oADAMBAAIRAxEAPwCFomg5HQzJJALw0gSxiZGL+bx4iY4wqiiSlK2LFr6aLgBxOghmPlePXOEhrXUa4y4RCra/uLXG0cDHr7wswUqkMgqpaDe+xQU2nVHO+35iXCR//9k=",
+    "url": "https://preview.redd.it/5orjfnsp8rk81.jpg?width=640&crop=smart&auto=webp&s=39f83750aa66aa23bb87610956bc1b216fef9968",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.65,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dying Riverlands",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t45j9b/dying_riverlands_60_x_60_oc_hand_drawn/"
+}

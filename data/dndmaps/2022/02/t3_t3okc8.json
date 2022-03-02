@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646078831,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t3okc8",
+  "picture": {
+    "filesize": 78033,
+    "fullUrl": "https://external-preview.redd.it/zrhKHdVMr6kQWR-6OFFs9knTWpOFx6hzxz9ckZ7pT1Y.jpg?auto=webp&s=011b5700e69467cdb09aa1476f4439b3972e551f",
+    "hash": "0f4e13002c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBAURABIhIjFRBkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAABIQASAhFB/9oADAMBAAIRAxEAPwDKvjdAmTCp3jBEuVJIbYYLOEO7V8gq+zjSW9MxXRrJ0V6486OVtyWy1lpjccJSD7wfP5qKms4sOvrkPyEJf6uh5pRKmE7ucYPC8Z49aS7nRp1TIU06C6gkqWpfeSncSFKBPnGBqzG198hlMFz/2Q==",
+    "url": "https://external-preview.redd.it/zrhKHdVMr6kQWR-6OFFs9knTWpOFx6hzxz9ckZ7pT1Y.jpg?width=640&crop=smart&auto=webp&s=0f305c4a20548b1dac604f055869f063923cea13",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Portal room inside the Wizard's Lair!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t3okc8/portal_room_inside_the_wizards_lair_35x35/"
+}

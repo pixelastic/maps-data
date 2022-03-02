@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1646006400,
+    "full": 1646021247,
+    "month": 1643673600,
+    "week": 1645920000
+  },
+  "id": "t3_t36fvr",
+  "picture": {
+    "filesize": 123643,
+    "fullUrl": "https://preview.redd.it/j9d0ktxp0ik81.jpg?auto=webp&s=7373d63f7d915f8f63697b875b897c90853fa217",
+    "hash": "ab8525ea1a",
+    "height": 607,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDB//EACUQAAIBAwMDBQEAAAAAAAAAAAECAwQFEQAhMRITURQiQWGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAgABESH/2gAMAwEAAhEDEQA/AM5h9Dcpy6IlOkaxF1cbsRnqOF4HAH6caLpQ0ZjKUtFL2SnVESCyoxJGBuPd9HTt1VTotTTBTI1MoZGGQx3x5x8/3VLhIstokgaTuSQI7mIDO+cckDON+fGpiWra5E0Scn//2Q==",
+    "url": "https://preview.redd.it/j9d0ktxp0ik81.jpg?width=640&crop=smart&auto=webp&s=e6fcc741113e39688e858d4fc19c9e24ff8ee81f",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 292,
+    "value": 292
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Tower | Old Owl Well",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t36fvr/ruined_tower_old_owl_well_39_x_37/"
+}

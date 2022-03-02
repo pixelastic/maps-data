@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_l7qmi",
+    "name": "Terkontar"
+  },
+  "date": {
+    "day": 1646092800,
+    "full": 1646140075,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t47jey",
+  "picture": {
+    "filesize": 100882,
+    "fullUrl": "https://preview.redd.it/orvdavxctrk81.jpg?width=3220&format=pjpg&auto=webp&s=a187d2d0f2fa8dc6f34ec1ce259c11d878c2fc07",
+    "hash": "aad47d6c82",
+    "height": 668,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEhAAUSBhMxQSJhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAABIQD/2gAMAwEAAhEDEQA/AM/3J1l+D0+G9uiMKaFLKaPc+OLFZvyb0bujscJ4LhNC1GnEp40ffrI1I8wT24kdx5plTaghBF8jQrJvA0i9tzgiOKQ/GfCAFG1gkWR4+8/uiAC5qw3/2Q==",
+    "url": "https://preview.redd.it/orvdavxctrk81.jpg?width=640&crop=smart&auto=webp&s=bd2584d5822927a13546551ab68b50646f804d76",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Prison / Castle dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t47jey/24x23_prison_castle_dungeon/"
+}
