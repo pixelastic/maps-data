@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2o1heeql",
+    "name": "somapneumaticon"
+  },
+  "date": {
+    "day": 1646179200,
+    "full": 1646235220,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t52oxo",
+  "picture": {
+    "filesize": 75491,
+    "fullUrl": "https://preview.redd.it/rqfkbthfozk81.jpg?width=2048&format=pjpg&auto=webp&s=81598813f6aeee5c2f73179fcc259c82ba16beb1",
+    "hash": "0f02bfb7aa",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAACAgEDBAMAAAAAAAAAAAABAgMRBAASIQUTIjFxobH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABsRAQACAgMAAAAAAAAAAAAAAAIBAwARITFB/9oADAMBAAIRAxEAPwCTLC+CQrAp3o7Yoo3IpHiefRv89aPNNJPFHM7vKV8Q/C2KHuuT8nTeu5TSZMZRI4bWqiFDgkD6GoXT86aZMiN9tB9oIHNanpCerFPE+YWomJJjrP/Z",
+    "url": "https://preview.redd.it/rqfkbthfozk81.jpg?width=640&crop=smart&auto=webp&s=c8b0cb568b86f78b7016031118f8a36579fe5ff5",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "The continent for my upcoming campaign and zoomed in country maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t52oxo/the_continent_for_my_upcoming_campaign_and_zoomed/"
+}

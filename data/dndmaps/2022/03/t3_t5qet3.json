@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1646265600,
+    "full": 1646310246,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t5qet3",
+  "picture": {
+    "filesize": 239678,
+    "fullUrl": "https://preview.redd.it/kqcuajozv5l81.jpg?width=3429&format=pjpg&auto=webp&s=a1759d8b337f47f89d7f072a0d955cb4bce173f6",
+    "hash": "4567f7e0b0",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACcQAAEDBAADCQAAAAAAAAAAAAECAwQABREhEhMxFBVRVFVhk5Th/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAAIBBQAAAAAAAAAAAAAAAAAREgECAyEx/9oADAMBAAIRAxEAPwABbmIkdlm2uW+EYDiCt1JcKULJIIBVjRA177o/3ZavR43zKpbC7IYDIVdLQhzlFAzKQAnjGcHJ0d9OvhQrgY8+x9j9olst9HZIKiR//9k=",
+    "url": "https://preview.redd.it/kqcuajozv5l81.jpg?width=640&crop=smart&auto=webp&s=28e37c0bdb1bdea0514895607b63598f126c7547",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Imperial Palace (70x40, 3 floors)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t5qet3/imperial_palace_70x40_3_floors/"
+}

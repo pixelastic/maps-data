@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1646265600,
+    "full": 1646308702,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t5pyu9",
+  "picture": {
+    "filesize": 44110,
+    "fullUrl": "https://preview.redd.it/jwe57cmgr5l81.jpg?auto=webp&s=6a562c89fb318a8c85486ed8e4dc445c407419c3",
+    "hash": "d5919d8fbd",
+    "height": 465,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAhEAAABQQCAwAAAAAAAAAAAAABAgMEEQAFEjETcQYiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAABEhMf/aAAwDAQACEQMRAD8AhbYyAOUSuAHhkM8dxSt6IxQSxYKILpqFkBIHsXuddUDmIELqdTTPjDVO53i3snOXCuuBD4jAxA/apVYWH//Z",
+    "url": "https://preview.redd.it/jwe57cmgr5l81.jpg?width=640&crop=smart&auto=webp&s=5209592840036e8674f9bd9ae4febb2689ab1be4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Worm Corpse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t5pyu9/worm_corpse_22x16_battlemap_oc/"
+}

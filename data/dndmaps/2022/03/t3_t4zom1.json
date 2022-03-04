@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1646179200,
+    "full": 1646226176,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t4zom1",
+  "picture": {
+    "filesize": 173939,
+    "fullUrl": "https://external-preview.redd.it/lpz9WSKslBpxTgwHaPUhgHXvOjijo1Ovs_6Ok1sUWOc.jpg?auto=webp&s=f453e7130735421e5a0239477e6cdfef9d950265",
+    "hash": "c20822e72b",
+    "height": 947,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAAICAQQCAgMAAAAAAAAAAAECAwQRABIhQRMiBTEGUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECQf/aAAwDAQACEQMRAD8AxkFSOaOaexUmleQB2JiZt/t7cnv9Y61G+QpxRXJUhVkQEYVvICOP7pye6i108Vu1Hkkb9oIfjAIHR+uO+dHo/lFarUjhc7GXOVeorEc5+yMnQIrR9y2sP//Z",
+    "url": "https://external-preview.redd.it/lpz9WSKslBpxTgwHaPUhgHXvOjijo1Ovs_6Ok1sUWOc.jpg?width=640&crop=smart&auto=webp&s=7ec8eac2c8e18b20b579de80fde44f9f6496e4c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Gilded Dragon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t4zom1/the_gilded_dragon_22x32/"
+}

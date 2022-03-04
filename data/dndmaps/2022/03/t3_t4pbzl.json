@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1646179200,
+    "full": 1646188205,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t4pbzl",
+  "picture": {
+    "filesize": 63493,
+    "fullUrl": "https://preview.redd.it/wn19fco3tvk81.jpg?auto=webp&s=417381159d4dfcdd04c7e096db9a3aeef8f409e0",
+    "hash": "b41bb584ff",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQAEEiExQWFxsfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oADAMBAAIRAxEAPwDDzIUaVSzM18ceO8WlmWZbQoQaIY3f4+8csCPJZJG4cnx85YdLFp6ELBwo2bl6I+7wKZIHb//Z",
+    "url": "https://preview.redd.it/wn19fco3tvk81.jpg?width=640&crop=smart&auto=webp&s=21df96d206f17a026885e21a1129949f1f334f4a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 153,
+    "value": 153
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lair of the Black Spider",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t4pbzl/lair_of_the_black_spider_72_x_72/"
+}

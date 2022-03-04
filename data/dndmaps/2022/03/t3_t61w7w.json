@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_e9bk9j8b",
+    "name": "sherpaGM"
+  },
+  "date": {
+    "day": 1646265600,
+    "full": 1646342031,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t61w7w",
+  "picture": {
+    "filesize": 81976,
+    "fullUrl": "https://preview.redd.it/0xhuqnpki8l81.jpg?auto=webp&s=735d01cbd200227df76ed2b7d15fb3c763a92097",
+    "hash": "285311e6a9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhAAAQQCAgEFAAAAAAAAAAAAAQIDBBEAIRJBMQUGFVHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQABBAMAAAAAAAAAAAAAAAAAAQIREiExQf/aAAwDAQACEQMRAD8AClyFx3n0FfAlQ4FIskq2B40NG+/rKe10/IzERWEuKfdJsWQ2k3VjusyvtPurcUYqw6ysLbURyBok1qrBB/VivokyQiW3ILIYkNAGgCO9i+xoeMnfaFrsfMH/2Q==",
+    "url": "https://preview.redd.it/0xhuqnpki8l81.jpg?width=640&crop=smart&auto=webp&s=7482ca6925652d86ead24e40519b761291b689d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Mining Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t61w7w/mining_cave/"
+}

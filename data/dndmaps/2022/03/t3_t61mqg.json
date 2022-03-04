@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cu7v1q1k",
+    "name": "Bear_Gardner"
+  },
+  "date": {
+    "day": 1646265600,
+    "full": 1646341317,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t61mqg",
+  "picture": {
+    "filesize": 99159,
+    "fullUrl": "https://preview.redd.it/fne7hfxgg8l81.jpg?width=2048&format=pjpg&auto=webp&s=0530c1004e529c9f2b7daef9c212bc08525af94f",
+    "hash": "bcd57e3cc6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgIBAQcFAAAAAAAAAAAAAQIDBBEABRIhMUFRYQYiUtHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAbEQABBAMAAAAAAAAAAAAAAAACAAMEEgERMf/aAAwDAQACEQMRAD8AB7Q2WLtdi6skkpzHIFycjofH3oXO1mvK0Ds67vtK5/cNajXWMFHrOAYouAlZcqcYIHyycHvz7agertlV7UMFyk4FrdKyRAcAQSN0HryyD5xqfDl0Kh8RvMbxYV//2Q==",
+    "url": "https://preview.redd.it/fne7hfxgg8l81.jpg?width=640&crop=smart&auto=webp&s=5c5a9ab107ba3224463ba25da076a95e80fb35b3",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "What would you run with these?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t61mqg/what_would_you_run_with_these/"
+}

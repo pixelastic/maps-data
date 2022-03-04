@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5asgpv4m",
+    "name": "Rhineglade"
+  },
+  "date": {
+    "day": 1646179200,
+    "full": 1646243095,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t55ocj",
+  "picture": {
+    "filesize": 63499,
+    "fullUrl": "https://preview.redd.it/pjmcx0y8c0l81.jpg?auto=webp&s=0034431661e7a4b9d0afda3aa445917dfa5fc32a",
+    "hash": "31783db09d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBBEhAAUSBhMxFCNhofD/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAAAERABL/2gAMAwEAAhEDEQA/AMk2LbI/QUjxokQmWxkV1aQnGfjycZtofqOngp49wiW7NHUgJKoJ55IPI/s31PSFSe8aVY0S5v3UuJMkYuD4xozcauWSN4nJPunkxJu1ifObfWp8ttzU3//Z",
+    "url": "https://preview.redd.it/pjmcx0y8c0l81.jpg?width=640&crop=smart&auto=webp&s=129b6bc45348ccca24bb1468a9c39f3f665ccd45",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Kopru Ruins Battle Map, D&D Shackled City Adventure Path from Dungeon Magazine #98",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t55ocj/kopru_ruins_battle_map_dd_shackled_city_adventure/"
+}
