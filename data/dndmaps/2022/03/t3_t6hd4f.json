@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d54w8zdw",
+    "name": "gabmaps"
+  },
+  "date": {
+    "day": 1646352000,
+    "full": 1646395087,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t6hd4f",
+  "picture": {
+    "filesize": 115280,
+    "fullUrl": "https://preview.redd.it/5e7h1nuxvcl81.jpg?width=2048&format=pjpg&auto=webp&s=2c497f94f52de66f1b8d95b79e0236d0debd2696",
+    "hash": "1b54f6b738",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAEElEVIkGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8AzGD3AV6BBoWMTNqwFGZm4qBZIN2egO8U2rH5bYhBYRxAcRd/B3k7cldZ+CHiqGhX7khzYLYDJ//Z",
+    "url": "https://preview.redd.it/5e7h1nuxvcl81.jpg?width=640&crop=smart&auto=webp&s=50caf3e62713807c5d0922aa0e97d8db4511f6c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Village of Murkip",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t6hd4f/village_of_murkip/"
+}

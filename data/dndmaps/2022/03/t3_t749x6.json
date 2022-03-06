@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646465452,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t749x6",
+  "picture": {
+    "filesize": 82572,
+    "fullUrl": "https://preview.redd.it/jbooa6skpil81.jpg?auto=webp&s=24d7abbfb398aaa907003add4065ce6fdbf77e5f",
+    "hash": "f970fd5ef6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAH/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIAAxEhEhNBcSJRof/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEhIv/aAAwDAQACEQMRAD8AxHbC0yGuWA+xbQamDcjrGfUK1S6DPF+jKm7L4gamOQL8ybRqH//Z",
+    "url": "https://preview.redd.it/jbooa6skpil81.jpg?width=640&crop=smart&auto=webp&s=539b6472635c05ac1766e4cb529ed2678af37e1a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t749x6/battle_map_30x30_jungle_ruins/"
+}

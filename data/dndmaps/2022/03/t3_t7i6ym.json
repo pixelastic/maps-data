@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646512387,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t7i6ym",
+  "picture": {
+    "filesize": 99126,
+    "fullUrl": "https://preview.redd.it/vlmbwre2lml81.jpg?auto=webp&s=3c76906b1ec1afce672a47104eabc71a58fe73ae",
+    "hash": "434b406396",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgIBAwQDAQAAAAAAAAAAAgMBBBEABTEGEiEiE0Jhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAxGB/9oADAMBAAIRAxEAPwCVv/bVsueBExPZ8imzMzIDxIZ/P5jRjeLykbOF1JwqwsoJBAfsceM8fXnx+RxOnCaq9t6rHbFZZTZIwQOwWc6y27QSHVVin7TWW4oFcz4iO6Y1aY1q89g0URn/2Q==",
+    "url": "https://preview.redd.it/vlmbwre2lml81.jpg?width=640&crop=smart&auto=webp&s=fb0ad55797d427825380ef02377efa06342cb8ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Rockfort, a small society supported by magical constructs",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t7i6ym/rockfort_a_small_society_supported_by_magical/"
+}

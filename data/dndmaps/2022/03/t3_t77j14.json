@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646479592,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t77j14",
+  "picture": {
+    "filesize": 55169,
+    "fullUrl": "https://preview.redd.it/20ggthskvjl81.jpg?auto=webp&s=1de4d3ea4c0621c4cf2f921e9631bbfa5d3e0003",
+    "hash": "d6ada39645",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQQhABITMTLx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oADAMBAAIRAxEAPwDO8sLR5EUTlogzgdxsfVE691r1y6xIuW8KSiaOyoIUjsBdML/eMzsKJIceuxNkAk7Gr4SdRi34hsj6bZ42wlrP/9k=",
+    "url": "https://preview.redd.it/20ggthskvjl81.jpg?width=640&crop=smart&auto=webp&s=8889b157e93995869c7efdc7985ddfafcc557a1b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Meteor crash site",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t77j14/meteor_crash_site_4k_20x15_gridless/"
+}

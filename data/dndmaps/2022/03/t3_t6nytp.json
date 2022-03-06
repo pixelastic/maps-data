@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3m4uoh",
+    "name": "Gamaweb"
+  },
+  "date": {
+    "day": 1646352000,
+    "full": 1646414431,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t6nytp",
+  "picture": {
+    "filesize": 198970,
+    "fullUrl": "https://preview.redd.it/5r4lrlpphel81.jpg?auto=webp&s=a7f5fe8fa49c4c704d82eedc00d620def1da35e4",
+    "hash": "01c9e6297d",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQACAxEEIVEFBhIxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIRAxEAPwDGcZ0reiSiQgl7dO9kEbFfUVOIJM3tuSONjiYrLx404Chsc3Z0OEUZqRRzd//Z",
+    "url": "https://preview.redd.it/5r4lrlpphel81.jpg?width=640&crop=smart&auto=webp&s=b9174a6146973f41369f1d9323ceda6aef53f10d",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 716,
+    "value": 716
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Shelter in the Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t6nytp/shelter_in_the_swamp_battlemap_25x50/"
+}

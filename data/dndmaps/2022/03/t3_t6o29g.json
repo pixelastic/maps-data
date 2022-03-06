@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3m4uoh",
+    "name": "Gamaweb"
+  },
+  "date": {
+    "day": 1646352000,
+    "full": 1646414681,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t6o29g",
+  "picture": {
+    "filesize": 153261,
+    "fullUrl": "https://preview.redd.it/aghwguuhiel81.jpg?auto=webp&s=9ce0a8264dd00396a024edbd20ebe7ae4ad8f635",
+    "hash": "be9db68d44",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBAAFERIhBkFRYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAQACAgMAAAAAAAAAAAAAAAEAAwJBBBEx/9oADAMBAAIRAxEAPwClq3Zl0ebUY2WKmNhHWCjmCAN9z6Hf7jMd69R1HxCCGtPBUFVmZlZzyZWA6I+z7PxjI+NfUiuW32K1s7ANT//Z",
+    "url": "https://preview.redd.it/aghwguuhiel81.jpg?width=640&crop=smart&auto=webp&s=8927f86518dd742a637c951b9de55c856924e8d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 108,
+    "value": 108
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Cursed Headland",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t6o29g/cursed_headland_battlemap_25x50/"
+}

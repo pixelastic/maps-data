@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646521592,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t7l9bw",
+  "picture": {
+    "filesize": 145822,
+    "fullUrl": "https://preview.redd.it/q3pg7sydcnl81.jpg?auto=webp&s=2e5659c2e437fd1de7895ec02761bf114e73cedd",
+    "hash": "27ae8bdef8",
+    "height": 754,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAkEAABBAEDAwUAAAAAAAAAAAABAgMEERIABSEGMUETFFFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxETIf/aAAwDAQACEQMRAD8ABQ+jJcnoePvSRsobSw29kL9THKiDxjl3u9EGYzCnykNMp4JCaFgCh57/AHpTsiVSIkLbmpD0lJbGCHHUkIHxyQAmz586nrLY3tnERx32rS3MkKQzKS4pFBNAgcAVf5pR0LnR5IWuQ4oGGf/Z",
+    "url": "https://preview.redd.it/q3pg7sydcnl81.jpg?width=640&crop=smart&auto=webp&s=602c609ef89bf1b14cca3a13eacc3e622ca04d26",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Twilight World",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t7l9bw/twilight_world/"
+}

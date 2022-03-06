@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4w0js9am",
+    "name": "SLMumby"
+  },
+  "date": {
+    "day": 1646352000,
+    "full": 1646399347,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t6immw",
+  "picture": {
+    "filesize": 101802,
+    "fullUrl": "https://preview.redd.it/jkbdv1hg4dl81.jpg?width=4096&format=pjpg&auto=webp&s=cec486b0f5fe3cf5133eea3fedd514ba70c8e554",
+    "hash": "84c75e4652",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERIhMQUiMkFRYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAESFB/9oADAMBAAIRAxEAPwDHndhK4BBRS2ppD5Hnb2pbSbF9rkkKoQFOkng/FUu41jFsq57wHYn1OaPToUnmjSQZVCRttn7/ACqYhun/2Q==",
+    "url": "https://preview.redd.it/jkbdv1hg4dl81.jpg?width=640&crop=smart&auto=webp&s=da03e337ca8c6f9906e3dea114463c2af723d508",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 356,
+    "value": 356
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "The Crystal Caves",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t6immw/the_crystal_caves_40x30_4096x3072_battlemap/"
+}

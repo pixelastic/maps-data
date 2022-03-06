@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5asgpv4m",
+    "name": "Rhineglade"
+  },
+  "date": {
+    "day": 1646438400,
+    "full": 1646489165,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t7a5jb",
+  "picture": {
+    "filesize": 94960,
+    "fullUrl": "https://preview.redd.it/k8h5txutnkl81.jpg?auto=webp&s=06e605cf939da3cbc9ca9c127316c9661757a35f",
+    "hash": "f0d9485b73",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBRIhEzFBFEJRYcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAQEBAQEAAAAAAAAAAAAAAAECACFB/9oADAMBAAIRAxEAPwDN3M8kzekvFiYNGJQ0ZOFw3bP7Rgkm9Q8nU3o5jb3qV8Z8ihxFk0kzoxDwRrt+CG5Kn6zV9AupLrVnaXB2w5AA7ZPNSiUho8yFd3//2Q==",
+    "url": "https://preview.redd.it/k8h5txutnkl81.jpg?width=640&crop=smart&auto=webp&s=f52ab3e829acbb91705b05591bd79b2be7ad77e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Village of Redgorge, D&D Shackled City Adventure Path",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t7a5jb/village_of_redgorge_dd_shackled_city_adventure/"
+}

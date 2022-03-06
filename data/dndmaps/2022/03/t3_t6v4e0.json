@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1646352000,
+    "full": 1646434110,
+    "month": 1646092800,
+    "week": 1645920000
+  },
+  "id": "t3_t6v4e0",
+  "picture": {
+    "filesize": 81246,
+    "fullUrl": "https://external-preview.redd.it/RVWa4L2COfgCN_GMUYdI_t00wpr8gq9A-zzet3AAc0o.jpg?auto=webp&s=28f0bc8bac02b86a4cec3cd9c5c1a3f62b6596fe",
+    "hash": "dcb6d9d892",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACYQAAEDAwMCBwAAAAAAAAAAAAECAwQFESEAMUESExQiI1FhkeH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhES/9oADAMBAAIRAxEAPwDAUyJUWJDYap7DhCjZ8psm1rEFR4tx76JNIap6HnJz6CYxS92tuskmyQoHP5p0USoiJNQem9hbaCtuK8CpDh2zbAPOp6g545Cak1IS1MZv6qsdflulKU5AO/186q3K5xBpp6f/2Q==",
+    "url": "https://external-preview.redd.it/RVWa4L2COfgCN_GMUYdI_t00wpr8gq9A-zzet3AAc0o.jpg?width=640&crop=smart&auto=webp&s=0725a37f9cc2ca2017285623a52bbea243664867",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Enter the Realm of Dreams!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t6v4e0/enter_the_realm_of_dreams_30x30/"
+}
