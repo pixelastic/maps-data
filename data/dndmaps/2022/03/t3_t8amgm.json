@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1646524800,
+    "full": 1646606907,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t8amgm",
+  "picture": {
+    "filesize": 128100,
+    "fullUrl": "https://external-preview.redd.it/I7B6m75mWQKYRs_g5hBjnSq60UvempnMG2i4ASuJBMQ.jpg?auto=webp&s=05dd94e85e7feb85642ba6a024b955367a8f933b",
+    "hash": "5427cac171",
+    "height": 1102,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJRAAAQMCAwkAAAAAAAAAAAAAAQIDBAARBQZBEhUhIjFSVZGU/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ADYy8qLLRHkrEOQsAKakIulKQQDY9CLClO4cvdjfqp8ZgJbxRTDIfmsOK2nHFcpBNuCddL3NbF8L8bJ+lNRxyc63/9k=",
+    "url": "https://external-preview.redd.it/I7B6m75mWQKYRs_g5hBjnSq60UvempnMG2i4ASuJBMQ.jpg?width=640&crop=smart&auto=webp&s=bd878367ebebde38e4d1981c1a11b6aefa769367",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Woodland Monastery in flames!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t8amgm/woodland_monastery_in_flames_18x31/"
+}
