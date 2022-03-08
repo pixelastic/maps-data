@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1646611200,
+    "full": 1646679922,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t8wp30",
+  "picture": {
+    "filesize": 213219,
+    "fullUrl": "https://preview.redd.it/lvbg3veaf0m81.jpg?auto=webp&s=8d95ad693d4ae6b427772b9c9a7bf224699fe9d5",
+    "hash": "b5f6e2fc8f",
+    "height": 940,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIBAAAgMAAgIDAQAAAAAAAAAAAQIDBBEABSExEkFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDUbUXbmCyQYiEk+UKhTrLub4ObnnMziVRZo66JMzPIugspwe/0nkp2Ddib90RT3EqiwFVV3CMB+h63T4I9cdo9ZNBVVJTFJJpLO7EliSTpP95Ghkxf/9k=",
+    "url": "https://preview.redd.it/lvbg3veaf0m81.jpg?width=640&crop=smart&auto=webp&s=5e685c969c38df85cb0613ee3d3f1b97281544a0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Ruins of Shagunat Keep",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t8wp30/the_ruins_of_shagunat_keep/"
+}

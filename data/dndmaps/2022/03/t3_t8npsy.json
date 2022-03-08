@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1646611200,
+    "full": 1646654513,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t8npsy",
+  "picture": {
+    "filesize": 123041,
+    "fullUrl": "https://preview.redd.it/sv0nz9krbyl81.jpg?auto=webp&s=d7e526d521f30793d9cf67e6fa6d16bd24c941e5",
+    "hash": "babe30c4db",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAACAgECAwkAAAAAAAAAAAABAwIEEQBRBSGREhMiJDFBQmHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAgMxAAQRIf/aAAwDAQACEQMRAD8AlaCCJm2wy7CzkRkMcyMEHfO+jb0K97iqWlthfjjPvDMkiQIBHT801a8xw6S4uWrHtjIkfvp66Bml9Vy2rsqiQARgcokH47nOoetKqeg8asdNG0gHavP/2Q==",
+    "url": "https://preview.redd.it/sv0nz9krbyl81.jpg?width=640&crop=smart&auto=webp&s=454f954514da4e266e42bac98568037ee452095c",
+    "width": 640
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 623,
+    "value": 623
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wandering Mausoleum",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t8npsy/wandering_mausoleum_50x50/"
+}

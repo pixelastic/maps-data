@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1646611200,
+    "full": 1646669874,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t8std0",
+  "picture": {
+    "filesize": 104537,
+    "fullUrl": "https://preview.redd.it/949sdev7lzl81.jpg?auto=webp&s=a9023d8d2e91ef04888518ea84a785aff0f44338",
+    "hash": "3f8af43446",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAHhAAAgEEAwEAAAAAAAAAAAAAAQIRAAMEEjFBUdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AMffHC4od9QDyJnWpWUBiAtiJ7o1umCgcsDEgDuja8wYjd+fB8qbg12Cl//Z",
+    "url": "https://preview.redd.it/949sdev7lzl81.jpg?width=640&crop=smart&auto=webp&s=6d9d62e41640834c4aca0367fd578fe2ba907cd1",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Hut",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t8std0/swamp_hut_24x40/"
+}

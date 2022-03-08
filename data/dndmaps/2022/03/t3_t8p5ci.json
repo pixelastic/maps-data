@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1646611200,
+    "full": 1646659449,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t8p5ci",
+  "picture": {
+    "filesize": 138370,
+    "fullUrl": "https://preview.redd.it/ddd5tkikoyl81.jpg?width=1000&format=pjpg&auto=webp&s=fc013de9a9fd541c8ed449721cd3436dc259e471",
+    "hash": "53b199b3e2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACAQAAIBAwUBAQAAAAAAAAAAAAECAwQRMQAFEiFhE3H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhGR/9oADAMBAAIRAxEAPwDM7fSK+2zNCjK0jkIfmTydVuVBHVu72zjvRqupiZp46iBw7xlGiRFjLWUce7X7Iz57qZDHulDDTqzFAt3YLIGKqQLGwPRIzp3eZKQUDfeWeKaQrJTz8rt7yGQffzGNRtDTTVZvD//Z",
+    "url": "https://preview.redd.it/ddd5tkikoyl81.jpg?width=640&crop=smart&auto=webp&s=89c5f87a19460fb0f40cba933a1da1325e7dac91",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Roman Palace",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t8p5ci/roman_palace_50x50_free_gallery/"
+}

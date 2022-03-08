@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c84s828",
+    "name": "FreeCG"
+  },
+  "date": {
+    "day": 1646697600,
+    "full": 1646699414,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t93xc3",
+  "picture": {
+    "filesize": 225444,
+    "fullUrl": "https://preview.redd.it/wthjijp912m81.jpg?auto=webp&s=85796221def7f3299bf6753ed302a82b1b58781a",
+    "hash": "7d8a1e691c",
+    "height": 892,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIhAAAQQCAQQDAAAAAAAAAAAAAQIDBREABBIGFCJhMUJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQEBAQADAAAAAAAAAAAAAAABAgADBCL/2gAMAwEAAhEDEQA/AKXIzSi3NPaej2XtR9DV+N/UE17OZfqOP1nJnZWwzxaUUlIS3YA4j8xGjpCNf6X0+6U0+tlKSEFVUoCvL1h3NThfk33EpRxJAHE0KAA+LydySzSGTro+q3//2Q==",
+    "url": "https://preview.redd.it/wthjijp912m81.jpg?width=640&crop=smart&auto=webp&s=8c6b7f3cdadc1259376993242ee18330b65f8238",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Player friendly starting Sword Coast Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t93xc3/player_friendly_starting_sword_coast_map/"
+}
