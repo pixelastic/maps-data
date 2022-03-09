@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6p4u8h6h",
+    "name": "TereTox"
+  },
+  "date": {
+    "day": 1646697600,
+    "full": 1646745179,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t9gisq",
+  "picture": {
+    "filesize": 128456,
+    "fullUrl": "https://preview.redd.it/oq1ty8x8t5m81.jpg?width=3500&format=pjpg&auto=webp&s=302607f6f1f1e83b247353f7f8ea71dde00753fd",
+    "hash": "c0a1b9ce56",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEETEFIUESE1Fhof/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEDESExQv/aAAwDAQACEQMRAD8Akna3biY7W3jBDRA5T52c1l2nHIZiDJ7jKegPI+j+UzkIJIE9EAaPBCgtsdZI68aoYpZInZnbL42p63uokSpYYsldbP/Z",
+    "url": "https://preview.redd.it/oq1ty8x8t5m81.jpg?width=640&crop=smart&auto=webp&s=ec9b16953389351ed8a9616b5252ce009d0ff409",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Village Map (x3 versions)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t9gisq/village_map_x3_versions_35x35/"
+}

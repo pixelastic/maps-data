@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1646697600,
+    "full": 1646783351,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t9ucce",
+  "picture": {
+    "filesize": 95435,
+    "fullUrl": "https://preview.redd.it/2cn2av7uy8m81.jpg?auto=webp&s=37e278f54a6a2f6de82ce90f692de4005b322980",
+    "hash": "8ab6e22383",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAICAAYBBQAAAAAAAAAAAAECAwQABRESEyExBhVBgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAAEDBAMAAAAAAAAAAAAAAAIBAxEABCFxEsHw/9oADAMBAAIRAxEAPwDIYcsefKvcFiTiUrE+iAlnIHjr9wDNCsKzLLXVGUMCSuhHXgjFPl3q6Onk9ahBEIoOICV0lAcuR2wPxhFdvLegtNK/Nbl1O/dqfvAbc31IkcGBnGvdVQfBjgigUlGd1//Z",
+    "url": "https://preview.redd.it/2cn2av7uy8m81.jpg?width=640&crop=smart&auto=webp&s=c960c1a9fc29a6861499f260ce3b88567052c59c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fire Giant Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t9ucce/fire_giant_camp/"
+}

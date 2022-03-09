@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_abpkazqr",
+    "name": "fenfente"
+  },
+  "date": {
+    "day": 1646697600,
+    "full": 1646768204,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_t9oxp9",
+  "picture": {
+    "filesize": 70022,
+    "fullUrl": "https://preview.redd.it/ane56f6fm7m81.jpg?auto=webp&s=6ed03e0bcb91ac867cf5ed3e2f03c852802fc272",
+    "hash": "be5e0720f2",
+    "height": 384,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIRAAAgAGAgMBAAAAAAAAAAAAAQIAAwQREiEFMRVBUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAREAAmH/2gAMAwEAAhEDEQA/AMU82YvJE1CIuYChiCcdm4t9Ouvghi1EmozlO4mYMA0tmNta6iRUknmpKkkrgWt6vj3CaMDyvImwuGO/yDTVh5EBZFbP/9k=",
+    "url": "https://preview.redd.it/ane56f6fm7m81.jpg?width=640&crop=smart&auto=webp&s=092f8752c2adce310dfcdc9bd6ab8dd290df8aff",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Murktown, part of a flooded city district, now inhabited by unfriendly folk",
+  "url": "https://www.reddit.com/r/dndmaps/comments/t9oxp9/murktown_part_of_a_flooded_city_district_now/"
+}
