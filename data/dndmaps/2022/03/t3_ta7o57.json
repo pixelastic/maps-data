@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1646784000,
+    "full": 1646832141,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_ta7o57",
+  "picture": {
+    "filesize": 71893,
+    "fullUrl": "https://preview.redd.it/e0c9hx84ycm81.jpg?width=1000&format=pjpg&auto=webp&s=9fc67ce369f998d93f35bfa2139258be2e696146",
+    "hash": "0474d5d77f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFCP/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwQREgAUITFBBSNRcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8AzvEmbL7OBaK4BY2yt45vfvRV0zJHKJSAUjEiMsebFiALH4Bt2evvTVZSVEG3zjjIKgsVlQ48XHAPAsdTvUqsbF4i4LyMHAVwQF/PPHR0UdC0/9k=",
+    "url": "https://preview.redd.it/e0c9hx84ycm81.jpg?width=640&crop=smart&auto=webp&s=57d6a276459aec9cc678e132cca1ade31d36f2c9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Huge Sewer System with Settlement",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ta7o57/huge_sewer_system_with_settlement_100x100_free/"
+}

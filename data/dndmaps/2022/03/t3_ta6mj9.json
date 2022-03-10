@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1646784000,
+    "full": 1646828481,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_ta6mj9",
+  "picture": {
+    "filesize": 141250,
+    "fullUrl": "https://external-preview.redd.it/LM8a74B_o00zK6gn7CKWqwLCso6JcydBC4FbVx5EWhk.jpg?auto=webp&s=01513a8886a38b492adfdc82f673a30cec61e7c4",
+    "hash": "cf3a6a7750",
+    "height": 1152,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACkQAAEDAQQKAwAAAAAAAAAAAAECAwQABRESkxMUFSExQUJRVFWR0eH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBIQMRQf/aAAwDAQACEQMRAD8AC1Ds1yMvGrTIlXkKFySrnw+KzuqRPXNZi/uqjUBox2kuFwORyMAAJLd3SO++lNnWz4zuV+0VckFGztuj/9k=",
+    "url": "https://external-preview.redd.it/LM8a74B_o00zK6gn7CKWqwLCso6JcydBC4FbVx5EWhk.jpg?width=640&crop=smart&auto=webp&s=269ba009eaac0a222da3c71b69f61829ea8b6a12",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ancient Battlefield in Springtime",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ta6mj9/ancient_battlefield_in_springtime_25x45/"
+}

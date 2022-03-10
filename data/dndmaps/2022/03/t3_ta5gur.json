@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dritcety",
+    "name": "Rmemmo"
+  },
+  "date": {
+    "day": 1646784000,
+    "full": 1646823969,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_ta5gur",
+  "picture": {
+    "filesize": 144255,
+    "fullUrl": "https://preview.redd.it/gzc9ia8dbcm81.jpg?auto=webp&s=3234a4b660deae28559a507732f107c449bc2ed3",
+    "hash": "09d42cde99",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAJRAAAgIABAYDAQAAAAAAAAAAAQIDBAAREiEFBhMiQVExUnGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgb/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwCa8XDqtWTiCXGvW6sI0Lkc07l29Dz+bYfy1zNUipk9GClXlByhrrrdipJPcdyT5z97YxrtRhV6CSoKhhawlNSGdn0fLH7Hcj5/mC8q04nuxSy9GWvEhndEk0vq0ePee34TiTcTUN2wY8P/2Q==",
+    "url": "https://preview.redd.it/gzc9ia8dbcm81.jpg?width=640&crop=smart&auto=webp&s=f125e6daf086bcf3410baa5cdfd7ac297c6c942a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Just a Random Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ta5gur/just_a_random_road_25x25/"
+}

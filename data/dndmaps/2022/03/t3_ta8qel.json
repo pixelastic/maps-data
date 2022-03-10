@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5asgpv4m",
+    "name": "Rhineglade"
+  },
+  "date": {
+    "day": 1646784000,
+    "full": 1646835347,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_ta8qel",
+  "picture": {
+    "filesize": 98461,
+    "fullUrl": "https://preview.redd.it/hjwfswhd9dm81.jpg?auto=webp&s=3844107fd36c0ea93cd844af891b2ec5042aaeeb",
+    "hash": "2b72499480",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAHxABAAEFAAIDAAAAAAAAAAAAAQIAAxEhMRITYZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8Axl32RZkZRjNRyoa4GDu6a3ODdG65ia8Q7p2/OcfVAWi/KBOUwiRwRcBjf7VJZG9gnMEePKjaVDcij2f/2Q==",
+    "url": "https://preview.redd.it/hjwfswhd9dm81.jpg?width=640&crop=smart&auto=webp&s=ac02dad916807211da5730563a59f1450e3cda85",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Umber Hulk Attack Battle Map; from D&D Shackled City Adventure Path; city of Cauldron",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ta8qel/umber_hulk_attack_battle_map_from_dd_shackled/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1646784000,
+    "full": 1646827885,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_ta6gmy",
+  "picture": {
+    "filesize": 60688,
+    "fullUrl": "https://preview.redd.it/72b6ajc7ncm81.jpg?auto=webp&s=89ff5a7d008986643f19ee3440d7c6237367eee8",
+    "hash": "9502ca1442",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAkEAACAgEDAgcAAAAAAAAAAAABAwIEEQAFEhMhBiIxUWGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAITFh/9oADAMBAAIRAxEAPwCAwQZbdXvhyTem3hxmwciAOx4n39M6Gy7OoySq6lrgD3jIcjn5J/PrTvDu411ORCynboxX5upYTKXLBzgkaPv1R0t3tMTXBU1hZDpRxDiTkY0mHi3/2Q==",
+    "url": "https://preview.redd.it/72b6ajc7ncm81.jpg?width=640&crop=smart&auto=webp&s=5b75f816c61f99032ade3fef249ddc3c2cd88e9b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Dungeons",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ta6gmy/dungeons_32x44/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mxpd8",
+    "name": "alexzinger123"
+  },
+  "date": {
+    "day": 1646784000,
+    "full": 1646837670,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_ta9ip1",
+  "picture": {
+    "filesize": 118444,
+    "fullUrl": "https://preview.redd.it/wjowei3bgdm81.jpg?auto=webp&s=63f3c26d35bc6dd54ae58c848d07478f3fea4717",
+    "hash": "c55266dc6d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAkEAACAgEDAwUBAAAAAAAAAAABAgMEBQARMQYhURITFCJBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAhEA/9oADAMBAAIRAxEAPwCdfMmLEZKzXx6S2qsscS7RfVVKDZmHHP8ARozGNlbti7FOvyAsDMVYLGV2H6Bx3409gctJjMfI1WtV3t+l5g6FgxHbgnQfUfUVu3TyZeKuhktJG3toV3ULv586GipTM5elTe//2Q==",
+    "url": "https://preview.redd.it/wjowei3bgdm81.jpg?width=640&crop=smart&auto=webp&s=4789a3d4a2f9e2b25defdbf6fe57045a6acaf0ee",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Final Map of my Homebrew World!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ta9ip1/final_map_of_my_homebrew_world/"
+}
