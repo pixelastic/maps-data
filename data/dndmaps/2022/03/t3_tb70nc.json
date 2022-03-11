@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pou0u",
+    "name": "Chaouleon"
+  },
+  "date": {
+    "day": 1646870400,
+    "full": 1646941443,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tb70nc",
+  "picture": {
+    "filesize": 63188,
+    "fullUrl": "https://preview.redd.it/vaype15g0mm81.jpg?width=2048&format=pjpg&auto=webp&s=2377163495e538ecf1a0f315afdc284ecf70e4c4",
+    "hash": "50a97c0377",
+    "height": 610,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEI/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIEAyExABESE0FRYRRCsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEAAwAAAAAAAAAAAAAAAAAAABEh/9oADAMBAAIRAxEAPwDO8KIqV6LyAzcl6nFlLAg4tnzfQlx2p/IeMzilTYEgptZsex3zqQZNMbpWdkdRxUj7DsPW3m+dGbISozUYpNQMRyY2xgAH996FZSI//9k=",
+    "url": "https://preview.redd.it/vaype15g0mm81.jpg?width=640&crop=smart&auto=webp&s=b8ff80c9652d9df42f554b2dad3950948f8ebb20",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Curse of Strahd: Amber Temple Lower Level (64x61)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tb70nc/curse_of_strahd_amber_temple_lower_level_64x61/"
+}

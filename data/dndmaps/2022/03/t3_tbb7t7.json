@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1646870400,
+    "full": 1646952419,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tbb7t7",
+  "picture": {
+    "filesize": 38753,
+    "fullUrl": "https://external-preview.redd.it/OKORGpiMTmzQ4enBC38dbA9Lqt1Cv4QrijMRLg2qxus.jpg?auto=webp&s=d88f74433dfb8d0f9ab9808fc8565c062b6db108",
+    "hash": "4352a71a85",
+    "height": 475,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACEQAAIBBAICAwAAAAAAAAAAAAECAwAREjEEIgUTIUFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwDEeLxWdSYPX1W5D/f5SfJIkUJXBci1r218A1PBPIYcgxBBAFqNpGeCTPsb7O9UCmmsP//Z",
+    "url": "https://external-preview.redd.it/OKORGpiMTmzQ4enBC38dbA9Lqt1Cv4QrijMRLg2qxus.jpg?width=640&crop=smart&auto=webp&s=0848719fcd546f38ce027d45383be476fddb0697",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Vampires Mansion",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tbb7t7/a_vampires_mansion_35x26/"
+}
