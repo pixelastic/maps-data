@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1646956800,
+    "full": 1647038820,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tc29cb",
+  "picture": {
+    "filesize": 131406,
+    "fullUrl": "https://external-preview.redd.it/ilKG-8i2whBvL_8ejdeN3gh9MPGTlVmL9zofmBBNFUs.jpg?auto=webp&s=4feca614cc6cd32421fee527b07a1ebc12d0ff75",
+    "hash": "42ab10e2b9",
+    "height": 1034,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAACAQIEBgMAAAAAAAAAAAABAgQDEQAFEiEGExRBYXExMlH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAgMx/9oADAMBAAIRAxEAPwA7k2UQ5GVKyxVI5YLvY2Jt8Hvf1gfJhx1kVQAwAcgDQNt/eKxw6tRMno6qV3C7DSRp/TfubeMDZcFXl1m6dt3Y/TziJlbdUN8R/9k=",
+    "url": "https://external-preview.redd.it/ilKG-8i2whBvL_8ejdeN3gh9MPGTlVmL9zofmBBNFUs.jpg?width=640&crop=smart&auto=webp&s=661f8a889b5bb488e2d67bb4af84e24a4698b34d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Take a break and have some fun at the Monster Festival!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tc29cb/take_a_break_and_have_some_fun_at_the_monster/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5o4sgbgu",
+    "name": "manseyful"
+  },
+  "date": {
+    "day": 1646956800,
+    "full": 1646962806,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tberf8",
+  "picture": {
+    "filesize": 76880,
+    "fullUrl": "https://preview.redd.it/x0fewpffsnm81.jpg?auto=webp&s=29a6a7f82939d41c677e275d9231963dc14a022a",
+    "hash": "7032cb2424",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAjEAACAgEDBAMBAAAAAAAAAAABAgMEBQARIRITMVEGJHGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQISA//aAAwDAQACEQMRAD8ALy5yAytr7MpWOQqpMjdJPgAfm381fg8vmKeUpxLlHkiZgjRWGZ1cEgdJHrT+a+LrYvzXksiNZIe92uyCFLcHbkAfu2hK+IOOvy3RZMrU0EyB0B34PHO4Hj1qbm+dJsLNVTln/9k=",
+    "url": "https://preview.redd.it/x0fewpffsnm81.jpg?width=640&crop=smart&auto=webp&s=5c78f57d4d6a09f339b2e1c01fc9fc731e863a33",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Feywild - Spring",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tberf8/feywild_spring/"
+}

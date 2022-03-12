@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1647043200,
+    "full": 1647045429,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tc4eft",
+  "picture": {
+    "filesize": 89760,
+    "fullUrl": "https://preview.redd.it/4x7nh0a5mum81.jpg?auto=webp&s=25826182adc5b7a2723f8037a6029a3a8ef14618",
+    "hash": "b1af94fc1d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAmEAACAgIABQMFAAAAAAAAAAABAgMEBREAEiEiMQZBYRMyUXHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABoRAAMAAwEAAAAAAAAAAAAAAAECIQAREjH/2gAMAwEAAhEDEQA/ADvVuLzNdq2Sxd2VrkcpLKj8iLGB2bXwT7Hp16cKoczJjFrZeaSG3YZdS1tK1ca+fu8df3xBVsfSyE9OqCYnKjlnlYoXUBuUMQdKdDf9PDNmW7JlIaWTSB4+czJLAWQoFIPdv27tfP44FOzcqpAl8usUqBsm3P/Z",
+    "url": "https://preview.redd.it/4x7nh0a5mum81.jpg?width=640&crop=smart&auto=webp&s=300dd341cf0a80301d7c9bef550456b8e66798fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Mine Entrance Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tc4eft/desert_mine_entrance_battle_map_30x30/"
+}

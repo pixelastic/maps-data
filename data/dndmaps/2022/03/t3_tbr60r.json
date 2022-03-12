@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1646956800,
+    "full": 1647008444,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tbr60r",
+  "picture": {
+    "filesize": 73209,
+    "fullUrl": "https://preview.redd.it/3r9t3dbyjrm81.jpg?width=2800&format=pjpg&auto=webp&s=98f88f357354bc6d842c04203880baf9a4bf38f6",
+    "hash": "a84a0375c9",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACQQAAEDBAEDBQAAAAAAAAAAAAECAwQABRESBhMhMUFhcYHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEQMRAD8Aya18dkvlZlMIYEWN1CjXVRBCsEA+e4PvT63cTZmQWZCZ9taDidghbgSR8jHmpaXcXZtw6i5SkPrTqkE5KsZ7H8BoqZU5wbliSSfVtKtfqkEIE03/2Q==",
+    "url": "https://preview.redd.it/3r9t3dbyjrm81.jpg?width=640&crop=smart&auto=webp&s=ddac06885a3e97a7f89bad0c499dd434a4899f0a",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bender's Folly Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tbr60r/benders_folly_phased_battle_map_40x60/"
+}

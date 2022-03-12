@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1646956800,
+    "full": 1647006213,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tbqf4j",
+  "picture": {
+    "filesize": 50867,
+    "fullUrl": "https://preview.redd.it/gfcv2ybnbrm81.jpg?width=1000&format=pjpg&auto=webp&s=979136bf5b4da21405c50fc6391cdca8703727cd",
+    "hash": "aa171d7886",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDBBEhABJRBRMjMWFB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMKlqu01RG0ZZkc7SWsB+eh751M1q7VBiUvY7rkm/wB+Y0l1jpFbRiWol7LxyWYqsitbA4PFtEhPJuSnlAtkMhznNhoP/9k=",
+    "url": "https://preview.redd.it/gfcv2ybnbrm81.jpg?width=640&crop=smart&auto=webp&s=9fd3f9775ec3fb23d335372df75246095bb98e54",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Ruined Keep with Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tbqf4j/ruined_keep_with_dungeon_50x50/"
+}

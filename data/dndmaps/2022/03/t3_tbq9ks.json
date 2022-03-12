@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5asgpv4m",
+    "name": "Rhineglade"
+  },
+  "date": {
+    "day": 1646956800,
+    "full": 1647005708,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tbq9ks",
+  "picture": {
+    "filesize": 105181,
+    "fullUrl": "https://preview.redd.it/6nh4866zbrm81.jpg?auto=webp&s=9edfc91b13efe0db729f01d72a2b669e3d90fda6",
+    "hash": "fb46f66b29",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMG/8QAIxAAAgIBAwQDAQAAAAAAAAAAAQIDBAUAESESMUFhFBUiwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACAyEFEjFhkf/aAAwDAQACEQMRAD8AyQp2LthfhU5ZZHXkQjfxuefGx/mjIY+1jx03aksT9JKxysASO42AO505DKXcbYWhjrElWJkZ3aJirvtuQCfI9at9fDDjpMgpkawAkv7csCzcHvz776GPGkDeR1dKR87DwLPi/9k=",
+    "url": "https://preview.redd.it/6nh4866zbrm81.jpg?width=640&crop=smart&auto=webp&s=ddcb1b1fcc330d1f0682ac9b432b22de5d6b21d4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Headless Demon Encounter Map; D&D Shackled City Adventure Path",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tbq9ks/headless_demon_encounter_map_dd_shackled_city/"
+}
