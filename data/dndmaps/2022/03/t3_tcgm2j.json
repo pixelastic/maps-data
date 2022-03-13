@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3f6mig",
+    "name": "Welume"
+  },
+  "date": {
+    "day": 1647043200,
+    "full": 1647092461,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tcgm2j",
+  "picture": {
+    "filesize": 60279,
+    "fullUrl": "https://preview.redd.it/8l2m81bggym81.jpg?auto=webp&s=855ecdd72503c64adb7e7aae74b1ec7e0392c41a",
+    "hash": "701a6de073",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBBEhAAUSMRRBYSL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAIDAAEhMf/aAAwDAQACEQMRAD8AyDbKmKMvFYKXUjOLH4fWmNBudHuMUi17I9Sn5Ksb8haxbPYAsRY4Oh1ZtdR5LpCGZw3ELi59i322oRLIVMcnJXU99EHTBhBWcuRcgHZfZ//Z",
+    "url": "https://preview.redd.it/8l2m81bggym81.jpg?width=640&crop=smart&auto=webp&s=ce77e1cc6aa47f2caafb45c4b391040023c83e51",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Simple, gridless Underdark map, recommended size",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tcgm2j/simple_gridless_underdark_map_recommended_size/"
+}

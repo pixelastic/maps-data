@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1647043200,
+    "full": 1647095346,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tchix5",
+  "picture": {
+    "filesize": 36698,
+    "fullUrl": "https://preview.redd.it/xuhjxo1hqym81.jpg?width=3990&format=pjpg&auto=webp&s=9fe06376c07ecc4e8b0967cb25279ba1e5314312",
+    "hash": "a00a990aef",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIGB//EACEQAAEDAwQDAAAAAAAAAAAAAAIAAQMREjEEBRMhBlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAARATFh/9oADAMBAAIRAxEAPwDFtk8o1m3Bx6KaOJq3E8sfJc/33hT08xFKZUsYicqC3Xb1QjwnbDoQ1YNP/9k=",
+    "url": "https://preview.redd.it/xuhjxo1hqym81.jpg?width=640&crop=smart&auto=webp&s=7ba1dce763f5e1a02e1cd9374f14949aa2e6ace1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: town plasa (21x12)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tchix5/battlemap_town_plasa_21x12/"
+}

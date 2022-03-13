@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1647043200,
+    "full": 1647114458,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tcp9fj",
+  "picture": {
+    "filesize": 124393,
+    "fullUrl": "https://preview.redd.it/9yj91mjeb0n81.jpg?auto=webp&s=adda2851f00c69e687fc3455a50b4f4a7df5ecb4",
+    "hash": "3861c282f0",
+    "height": 747,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQRAAUSEzEUISJBUWGBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADERMxQf/aAAwDAQACEQMRAD8AzkMW/I8RWNoVt4hVv8eQGCiBpHjqNkhbWsiLx9d8NlM0dXCk1My75Qb0bN31DkgH0xPmVf0YK0jK9W7an0nUEW3Hte/5g5RYbCPIi7V68js//9k=",
+    "url": "https://preview.redd.it/9yj91mjeb0n81.jpg?width=640&crop=smart&auto=webp&s=155119c79633bb39640829d4542506c9a2ff1f81",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.85,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ballroom Battle Map 30x35",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tcp9fj/ballroom_battle_map_30x35/"
+}

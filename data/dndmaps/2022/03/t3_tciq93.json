@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kjidv34r",
+    "name": "Sushi-DM"
+  },
+  "date": {
+    "day": 1647043200,
+    "full": 1647098957,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tciq93",
+  "picture": {
+    "filesize": 39926,
+    "fullUrl": "https://preview.redd.it/8v1dcjo90zm81.jpg?auto=webp&s=92baac62be14b257ac420eea72527bbe0e8f1be7",
+    "hash": "a11ba9f067",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACAQAAICAQMFAAAAAAAAAAAAAAECAxEABCExEjJBYcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDBn1EsquthI67a4GIiNBVJAAPnBmIKqDQr7luhhjfT9boGZttxwPWHnhrf/9k=",
+    "url": "https://preview.redd.it/8v1dcjo90zm81.jpg?width=640&crop=smart&auto=webp&s=325aaf2a8a7a01d707719f1be3ab3a575f42dfb5",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hellish Encounter Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tciq93/hellish_encounter_map_40_x_30/"
+}

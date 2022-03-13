@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1647043200,
+    "full": 1647100919,
+    "month": 1646092800,
+    "week": 1646524800
+  },
+  "id": "t3_tcjevo",
+  "picture": {
+    "filesize": 272162,
+    "fullUrl": "https://external-preview.redd.it/JsltlELyNKNMhL0AAIdM08gl-yOZomUCHmZEJ49xy78.jpg?auto=webp&s=f57bf227e3b48c31c0c3343b9fcde7bc7de8ee5a",
+    "hash": "bef6f940e7",
+    "height": 1484,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIRAAAgEDBQADAAAAAAAAAAAAAQIDAAQRBRIhMWEGcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAzFR/9oADAMBAAIRAxEAPwCk2pvJNMHihnRlWMIEGFKhckN+98d+UrM5/kNyujreWl5ZPfuqjYqYJICbm9GDx90oJqZsiVtA7P/Z",
+    "url": "https://external-preview.redd.it/JsltlELyNKNMhL0AAIdM08gl-yOZomUCHmZEJ49xy78.jpg?width=640&crop=smart&auto=webp&s=2b2ef9d16bb3dd296ad8bc1a864b8df7984435a7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 154,
+    "value": 154
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Water Temple Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tcjevo/water_temple_battlemap_44x112/"
+}
