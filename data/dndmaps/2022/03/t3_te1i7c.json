@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gk8avjxo",
+    "name": "Gamkit"
+  },
+  "date": {
+    "day": 1647216000,
+    "full": 1647275469,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_te1i7c",
+  "picture": {
+    "filesize": 110203,
+    "fullUrl": "https://preview.redd.it/oblbk7j6mdn81.jpg?auto=webp&s=5cac2766ceec498021d0ac0821659ccf3897b92f",
+    "hash": "d47d57b9f0",
+    "height": 862,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAlEAABBAECBQUAAAAAAAAAAAABAgMEBREAIQYSI0FRIjEygZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAERIh/9oADAMBAAIRAxEAPwA/ey7uhuLOXTvBtqTNfY5VdQDlxuE9iCoY86b8J8SM2lKy9JcIlN9J7mQQSsd/buMH70avWJUoyRY1ts00JzryVxWxn14GNxv8c7edWuEqytcrFrdgzUOqdJWZiSFqOBuAMDGMfh0AouaMWrm+T//Z",
+    "url": "https://preview.redd.it/oblbk7j6mdn81.jpg?width=640&crop=smart&auto=webp&s=32c91d00ea8c60b9e63f28a629007fea8fcf0cda",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Tails Tavern Building Design #Building Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/te1i7c/tails_tavern_building_design_building_maps/"
+}

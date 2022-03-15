@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1647216000,
+    "full": 1647287485,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_te64cz",
+  "picture": {
+    "filesize": 162756,
+    "fullUrl": "https://preview.redd.it/80no7epplen81.jpg?auto=webp&s=0f8bb67f5d87d1e86ad5f1276d5a4a5136298d1f",
+    "hash": "a554891002",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAICAAUEAwAAAAAAAAAAAAECAxEABAUhMRITFCJBUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAQUBAAAAAAAAAAAAAAAAAgABAxESBP/aAAwDAQACEQMRAD8ALoOq9ErRyvL2UChQH6SzOTTUd6+zXxh1lc7kmgXyPaQAWzKLNi9wODvxjJ4dTniSMxmeW2BLCYg+lqACu4qz+4rMtqcuTj7anMPfsXMjAseCdwbuucA9sJ70zpuAgIKpf//Z",
+    "url": "https://preview.redd.it/80no7epplen81.jpg?width=640&crop=smart&auto=webp&s=ef17411a064748b0062ef9035a1eb1900408e30e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Fire in Dark alleys",
+  "url": "https://www.reddit.com/r/dndmaps/comments/te64cz/fire_in_dark_alleys_32x44/"
+}

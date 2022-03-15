@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3561vj",
+    "name": "skullfungus"
+  },
+  "date": {
+    "day": 1647216000,
+    "full": 1647253471,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tduc3x",
+  "picture": {
+    "filesize": 205024,
+    "fullUrl": "https://preview.redd.it/90f2kuwrsbn81.jpg?auto=webp&s=d54f9d294ca0e1d2d5d334b06e74a67213e57c73",
+    "hash": "73faf24f44",
+    "height": 1100,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAACAf/xAAjEAABAgUEAwEAAAAAAAAAAAACAQMABAUGEhEhMWEHQVGS/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKT4/q8zLW7bMw4ao03S5VjAUyHFGw509wOMh7hb2KrrVr2+Yy5qwtOlU2AkJVVsOD326gk6F8X9QH//2Q==",
+    "url": "https://preview.redd.it/90f2kuwrsbn81.jpg?width=640&crop=smart&auto=webp&s=a7984be60819c65a84a23eec86b5931a4dfa08fc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Tower of the Hermit (Crab)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tduc3x/tower_of_the_hermit_crab/"
+}

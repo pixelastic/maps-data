@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1647216000,
+    "full": 1647248801,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tdt6i6",
+  "picture": {
+    "filesize": 43018,
+    "fullUrl": "https://preview.redd.it/73rk253tebn81.jpg?width=4080&format=pjpg&auto=webp&s=70e6b30d05e7db68b71f4a2ca97f78d6552df0cd",
+    "hash": "7a6f357ee4",
+    "height": 364,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAnEAACAAUCBAcAAAAAAAAAAAABAgADBAUhBhEHEhM1MWFzdaGxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAEQMhMf/aAAwDAQACEQMRAD8AklkTUJtQFFdJ0ihV8K77L5hRn4xAN9oLyK/rVrTGaceeXMCkBhvgrsPCKXcO2UnpL9Q3xU7Pon2sfoxIdqC3Bxrs1yf/2Q==",
+    "url": "https://preview.redd.it/73rk253tebn81.jpg?width=640&crop=smart&auto=webp&s=cca4f3ced13ae3c49ef853d5cc9c6e48499a9e63",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: bridgeton- town by the river-random encounter (51x29)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tdt6i6/battlemap_bridgeton_town_by_the_riverrandom/"
+}
