@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gc28h",
+    "name": "jerem200"
+  },
+  "date": {
+    "day": 1647302400,
+    "full": 1647314011,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tefcf8",
+  "picture": {
+    "filesize": 125926,
+    "fullUrl": "https://preview.redd.it/auj7qotisgn81.jpg?auto=webp&s=e030e2b7ae674b86ee50c0b0801ead9a887c7e92",
+    "hash": "c48f7525ad",
+    "height": 576,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIhAAAgECBgMBAAAAAAAAAAAAAQIRABIDEyExUcEUIkGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AM7XHwvIyIIcpcJHzmlmuzOTZcDKdijmIuMXKBisA3b68H8qqn1LtBZjERtGndACOZVR/9k=",
+    "url": "https://preview.redd.it/auj7qotisgn81.jpg?width=640&crop=smart&auto=webp&s=5ff78d897bc120ee857af0a965ad5d91ab4c7440",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap - Forest with downed tree 20x18",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tefcf8/battlemap_forest_with_downed_tree_20x18/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1647302400,
+    "full": 1647353290,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_teptp1",
+  "picture": {
+    "filesize": 193798,
+    "fullUrl": "https://preview.redd.it/lc6pv56h1kn81.jpg?auto=webp&s=c6d4efd391282a128b3565b0388b4fa5090bce29",
+    "hash": "9033bee861",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQMCBAURABITIVEGBzEzQWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADEQQS/9oADAMBAAIRAxEAPwCNrprZeYiTn8rN2yIGNoGM5H0O51vuNlTS8cEwXHocnABl2J0Z8qVKpqZj2pjzSmAlsvXHyAf0aUeJmLiyn9mU9pEgSJEde4zo+pFrs8pJPOVNZNmbuT//2Q==",
+    "url": "https://preview.redd.it/lc6pv56h1kn81.jpg?width=640&crop=smart&auto=webp&s=2c78a2a1c99c1911b9ee9517294a4489139f59c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Skystead City - D&D map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/teptp1/skystead_city_dd_map/"
+}

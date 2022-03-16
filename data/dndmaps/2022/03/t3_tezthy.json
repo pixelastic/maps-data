@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1647302400,
+    "full": 1647376950,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tezthy",
+  "picture": {
+    "filesize": 109084,
+    "fullUrl": "https://preview.redd.it/220watlxzln81.jpg?auto=webp&s=74b51e505e4c0027f604794fd14ff1b7be3bfc3d",
+    "hash": "d4f4b1b7c8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQMCBBEAEhMhURQxYSNBcdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AMwpVQctMWLhawJOUXNxz+98JUrVoNjoKEgoyPpAbGI7ffzzipoo0VsNUgWhGViwd9vOGqdLpXCLlMOSUo5Gg3uOL+MAuqMf/9k=",
+    "url": "https://preview.redd.it/220watlxzln81.jpg?width=640&crop=smart&auto=webp&s=24a6d8e3e309c57e302574260aacae58e4f697b0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "# Brenour's Rusty Pick - A Duergar Tavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tezthy/brenours_rusty_pick_a_duergar_tavern/"
+}
