@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1647388800,
+    "full": 1647470818,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tfvda1",
+  "picture": {
+    "filesize": 61919,
+    "fullUrl": "https://external-preview.redd.it/QOzgdlUE5y02Sd7KhwRvndrp8W2jS1kv3j2IVk0FD6k.jpg?auto=webp&s=183c2fe073d6713e87c653360ccfc61047d68175",
+    "hash": "310f6efde7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEF/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIEAAMFEVESEyExFSJx/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EABgRAAIDAAAAAAAAAAAAAAAAAAAREiEi/9oADAMBAAIRAxEAPwDDw2Lh/FiVJjtc2AFRQAXY8HiizWPxzY65djR2Rl8MrgfU/o9iiwWbsCOkeYGa2NDW9EEeiDVzkxbuN7URSE2fPV1bPJNKqQe1I//Z",
+    "url": "https://external-preview.redd.it/QOzgdlUE5y02Sd7KhwRvndrp8W2jS1kv3j2IVk0FD6k.jpg?width=640&crop=smart&auto=webp&s=831b6287361ef527f081bc0467b7c60a473e14df",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon flight around the legendary runes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tfvda1/dragon_flight_around_the_legendary_runes_45x45/"
+}
