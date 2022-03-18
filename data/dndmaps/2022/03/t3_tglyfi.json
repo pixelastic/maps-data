@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d7y0a6b0",
+    "name": "dreadmaps"
+  },
+  "date": {
+    "day": 1647475200,
+    "full": 1647555602,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tglyfi",
+  "picture": {
+    "filesize": 73372,
+    "fullUrl": "https://preview.redd.it/ne3h1zb4r0o81.jpg?auto=webp&s=5f797f13f9883a22eb08bde85fc3f1e026fc5795",
+    "hash": "42e6c3386b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEI/8QAIxAAAgEDAgcBAAAAAAAAAAAAAQIEAAMRQmEFEhMhIjEycf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAHREAAgIBBQAAAAAAAAAAAAAAAQIAAxIEERMxQf/aAAwDAQACEQMRAD8AzzEgm4LQBHlpGo5wBTpcBrcBiiKrnAbm9gbVIUhryIpVSQQzOvY/g2pnFp2Iy2Qw6igFSB85o2QYY9SumWiys852YeT/2Q==",
+    "url": "https://preview.redd.it/ne3h1zb4r0o81.jpg?width=640&crop=smart&auto=webp&s=d7fee68aeff1ab0476beaa1e922489a04178ad85",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "DreadMaps - Druid Circle 40x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tglyfi/dreadmaps_druid_circle_40x40/"
+}

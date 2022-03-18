@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1647475200,
+    "full": 1647523153,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_tga2ch",
+  "picture": {
+    "filesize": 119198,
+    "fullUrl": "https://preview.redd.it/fjzgqpfp1yn81.jpg?auto=webp&s=3930754534c93fa31c3176f05b6a66e11574f617",
+    "hash": "dd22716dde",
+    "height": 931,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgICAQIHAAAAAAAAAAAAAQIDBAURAAYhEjFBYXGBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAcEQABAwUAAAAAAAAAAAAAAAAAAQIREhMhIjH/2gAMAwEAAhEDEQA/AM8wOLr5a7HDOpdliDKvkNA9wT29OHs+kMeZtpSRVrLIQgG9AfZP7xNiYJ4J681e/Sid4mQCQgEfPsd65DkenMhPdllsT0zK58TFZRrh3Gz0SnREjJ//2Q==",
+    "url": "https://preview.redd.it/fjzgqpfp1yn81.jpg?width=640&crop=smart&auto=webp&s=edd068e2b6d6ee245fcfa88bf6c7da24cd2cb7ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Thieves Guild basement",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tga2ch/thieves_guild_basement_22x32/"
+}
