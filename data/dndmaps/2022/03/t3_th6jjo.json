@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1647561600,
+    "full": 1647623018,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_th6jjo",
+  "picture": {
+    "filesize": 55906,
+    "fullUrl": "https://preview.redd.it/0t5pcvxib6o81.jpg?width=4096&format=pjpg&auto=webp&s=42eea44752b5653a275ffd5e84e1ba508a9c7e10",
+    "hash": "e63da8a66a",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACIQAAIBAgYDAQAAAAAAAAAAAAECAwARBCFBYXOxMTM0Qv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oADAMBAAIRAxEAPwDEUIUuASC65BmsRf8AWxtRPh5zEojjQogL3XyFvmbnfTSk4j6Z+aToVXw3pHFN2KjRmP/Z",
+    "url": "https://preview.redd.it/0t5pcvxib6o81.jpg?width=640&crop=smart&auto=webp&s=7b11690fa05d49c48c6d825f4a0634dbb5691b41",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Battlemap: town-random encounter (64x36)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/th6jjo/battlemap_townrandom_encounter_64x36/"
+}

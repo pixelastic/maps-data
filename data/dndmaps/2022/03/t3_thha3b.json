@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1647561600,
+    "full": 1647643619,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_thha3b",
+  "picture": {
+    "filesize": 131908,
+    "fullUrl": "https://external-preview.redd.it/E8fqIeGkb_xtTETcHKhJ1WhGbvo6ztCABMSCKWkY4Yo.jpg?auto=webp&s=e3513a68913bf30d650fd7c787ae7f91c6c27232",
+    "hash": "2ecd1f0879",
+    "height": 1152,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQIFAQkAAAAAAAAAAAAAAgEEAAMFESIhFBYxUVSBlNHw/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABsRAQABBQEAAAAAAAAAAAAAAAEDAAIREiFh/9oADAMBAAIRAxEAPwDH6VMEm0o2DclcycjI00Qr6WhDvJVuibeCPqBlLeEjVJWaIOV0TIlvxWKe0sObr7vDYJCLOq9pBePLkweV/9k=",
+    "url": "https://external-preview.redd.it/E8fqIeGkb_xtTETcHKhJ1WhGbvo6ztCABMSCKWkY4Yo.jpg?width=640&crop=smart&auto=webp&s=7fc16ce58baada0198d06c122914081305bdcbbf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Enter the Feylands at your peril.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/thha3b/enter_the_feylands_at_your_peril_25x45/"
+}

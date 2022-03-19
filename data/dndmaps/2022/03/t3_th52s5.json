@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1647561600,
+    "full": 1647620284,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_th52s5",
+  "picture": {
+    "filesize": 130372,
+    "fullUrl": "https://preview.redd.it/6mym66jg36o81.jpg?auto=webp&s=a1c83e828b3101b6c5e7b78b1dbd9361d1e49225",
+    "hash": "67c906fcff",
+    "height": 1152,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACYQAAEDAgQGAwAAAAAAAAAAAAECAwQAERITFSEFMUFRVNGSobL/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAERJx/9oADAMBAAIRAxEAPwDTRnkx4zCmY0dxSGW0IGDe+EYjfpsdqTIb8Nn5p9UGY0jUIM0Ot5CGEFTKl3STYAchY2B+qr1Pgnb8+6HsooYHYnRmskz/2Q==",
+    "url": "https://preview.redd.it/6mym66jg36o81.jpg?width=640&crop=smart&auto=webp&s=9e9dff7f4677dbb23651734b2443e90ac94bfb31",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 392,
+    "value": 392
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon Skull Monument",
+  "url": "https://www.reddit.com/r/dndmaps/comments/th52s5/dragon_skull_monument_30x54/"
+}
