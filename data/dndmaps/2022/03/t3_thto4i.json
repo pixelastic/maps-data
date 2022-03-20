@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1647648000,
+    "full": 1647691015,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_thto4i",
+  "picture": {
+    "filesize": 85563,
+    "fullUrl": "https://preview.redd.it/lq7002czsbo81.jpg?width=2940&format=pjpg&auto=webp&s=1c8110543109ccb02caf9e7885baa726f58ac9ab",
+    "hash": "3405e6ce4e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIhAAAgIABgMBAQAAAAAAAAAAAQIDBAAFERIhMRMiQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAaEQABBQEAAAAAAAAAAAAAAAACAAESITER/9oADAMBAAIRAxEAPwDCZfQlvXIY4E8DPJtaVvbYWP5910xTMcusUkljtK06KxTyKu3cwJ9dPh4wercNMw2vM5VW0kjI5LjrrofhwPMs3ntXpHRnVGPCtyVJ7/nZODhuVYpxCGWv/9k=",
+    "url": "https://preview.redd.it/lq7002czsbo81.jpg?width=640&crop=smart&auto=webp&s=b7502b7febad4412f1fad81c109d7fa53c55d395",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Field Hospital Battle Map | 20 x 20",
+  "url": "https://www.reddit.com/r/dndmaps/comments/thto4i/field_hospital_battle_map_20_x_20/"
+}

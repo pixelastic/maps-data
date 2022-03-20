@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1647648000,
+    "full": 1647714924,
+    "month": 1646092800,
+    "week": 1647129600
+  },
+  "id": "t3_ti1nf5",
+  "picture": {
+    "filesize": 69432,
+    "fullUrl": "https://preview.redd.it/ycvrcw04wdo81.jpg?auto=webp&s=9a7fbaaa53e419a188eb0709447d89aa14b338e4",
+    "hash": "a9eaaadc3e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIRAAAgEDBQADAAAAAAAAAAAAAQIDBAURABITITEGInH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAQACAgMAAAAAAAAAAAAAAAEAEQIDEhNB/9oADAMBAAIRAxEAPwC9FcZrVY0qqWniPOu2mj49y7iCcHJycY1ht015uWKqpnMqMh3xLAFwuAMgHG0k7vOz75op8HvVYElVmV9i8kZYE8bZHa99aT3671UdpikYrLIYgxaUFj9iwPv5qdmdWxALfY6uRc//2Q==",
+    "url": "https://preview.redd.it/ycvrcw04wdo81.jpg?width=640&crop=smart&auto=webp&s=dca888e86dac0771ed191cd4e9dde8e2b4e84a73",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "The Cloudcaves Regional Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ti1nf5/the_cloudcaves_regional_map/"
+}
