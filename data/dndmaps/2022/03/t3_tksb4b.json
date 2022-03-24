@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1647993600,
+    "full": 1648036803,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tksb4b",
+  "picture": {
+    "filesize": 381064,
+    "fullUrl": "https://external-preview.redd.it/aE0Gh6XwM5Bdnczznu1EjUXxP59HLVG61lvlUHx4O5o.jpg?auto=webp&s=de58650a36abdb825db745466299b9c34ff39648",
+    "hash": "1fcdf4c08b",
+    "height": 1980,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAUDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQIDBBEABRITITFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQACESKxwdHh/9oADAMBAAIRAxEAPwC3eTtclbJkNPBZSbc6XFKzdUki7A8d8ZnO23suJD1zsadAK5DRW4lUJTgBv0LPEXYr5jJrKhIsdJ7oaYz1f//Z",
+    "url": "https://external-preview.redd.it/aE0Gh6XwM5Bdnczznu1EjUXxP59HLVG61lvlUHx4O5o.jpg?width=640&crop=smart&auto=webp&s=1720a987f443c20eb960dfd85c66e1fca0bef01f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Fire Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tksb4b/fire_temple_32x99/"
+}

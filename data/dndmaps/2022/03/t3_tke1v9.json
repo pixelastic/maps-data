@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1647907200,
+    "full": 1647985623,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tke1v9",
+  "picture": {
+    "filesize": 113136,
+    "fullUrl": "https://external-preview.redd.it/ZtJB32iUcXTxc2B8tTAtOUexjODSSsbZHa34g2mxLnA.jpg?auto=webp&s=b1ee8ae178284bcd91c2f443055b17ffec3e06b7",
+    "hash": "58cfd150bc",
+    "height": 914,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIH/8QAIBAAAgEEAwADAAAAAAAAAAAAAQIDAAQREgUhMUFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAIDAAAAAAAAAAAAAAAAAQAREiEx/9oADAMBAAIRAxEAPwDGrGVYLmOSW1jmSNlYowBDAfv1TzUqXvKXFyLe2txK2wijwFTrwVKQ7Nuq7SDB8znr4oMbDrRjgemKreVG4IXk/9k=",
+    "url": "https://external-preview.redd.it/ZtJB32iUcXTxc2B8tTAtOUexjODSSsbZHa34g2mxLnA.jpg?width=640&crop=smart&auto=webp&s=961cebd4ae7cdc069e462a50224b407c3531b790",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 137,
+    "value": 137
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Can you find your way through the Cultist Caves?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tke1v9/can_you_find_your_way_through_the_cultist_caves/"
+}

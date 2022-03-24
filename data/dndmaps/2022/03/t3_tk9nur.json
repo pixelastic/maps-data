@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1647907200,
+    "full": 1647973875,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tk9nur",
+  "picture": {
+    "filesize": 58477,
+    "fullUrl": "https://preview.redd.it/bg09qycvazo81.jpg?width=4095&format=pjpg&auto=webp&s=621ff03741396f670b9ee39ae7c2ac4e6965a4b2",
+    "hash": "aa6dd2641f",
+    "height": 356,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJhAAAgEDAgQHAAAAAAAAAAAAAQIDAAQRBSEGEjF0EzI0QWGywf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBEAAQIFBQAAAAAAAAAAAAAAAQIhAAMRMVEEEmGB8P/aAAwDAQACEQMRAD8AyBZkVrW8ju7sLDHyQiRgxikG4X4U5OD1xV2n3WvW7G4SdRM6mNfEIxggg9djgHOd/ajOJ/Nc92fs1L8S+vTtovygpyRQAitcv68VmgQmfOWhTbcEjvAs3DR//9k=",
+    "url": "https://preview.redd.it/bg09qycvazo81.jpg?width=640&crop=smart&auto=webp&s=7fccc9212f3ba98a801ff8192cdc7d60995b34c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: devil's path (65x35)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tk9nur/battlemap_devils_path_65x35/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_e9bk9j8b",
+    "name": "sherpaGM"
+  },
+  "date": {
+    "day": 1647820800,
+    "full": 1647887030,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tjid6f",
+  "picture": {
+    "filesize": 38879,
+    "fullUrl": "https://preview.redd.it/z7810byi4so81.jpg?width=9000&format=pjpg&auto=webp&s=d4f3e08ef401f49ec878f0ac6f30dbf998560cec",
+    "hash": "34112848ba",
+    "height": 256,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQRIQUxE0HB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAcEQABAwUAAAAAAAAAAAAAAAAAAQIEESExUfD/2gAMAwEAAhEDEQA/AImS4g4a5eWcSgMowUA7PeflZHjZbuZSR6OiTs7JpSp0dc9oMWrrn//Z",
+    "url": "https://preview.redd.it/z7810byi4so81.jpg?width=640&crop=smart&auto=webp&s=b816b5f5a76b43dfe87a05c5f199408694c911cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Small Temple with Secret Room",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tjid6f/small_temple_with_secret_room/"
+}

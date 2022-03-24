@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1647734400,
+    "full": 1647796876,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tipyzv",
+  "picture": {
+    "filesize": 103326,
+    "fullUrl": "https://preview.redd.it/mh78pa1joko81.jpg?width=4096&format=pjpg&auto=webp&s=aded2a7f39b6aad166f4bf35527e63843b6990dd",
+    "hash": "ba12afef77",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAG/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQQAEjEFIZETFEFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQACAQUAAAAAAAAAAAAAAAAAERICEyKR8P/aAAwDAQACEQMRAD8Az6TrhQwJiRRxUCN6xgs55JJ/e2nFlLPBlQ5MCymQUGCKro1GipryNXS397g7ZlW4obDKO7c8+NHqUpw8JfQCh5AF3kWVBBJr4H3zoxZR7YhKi00f/9k=",
+    "url": "https://preview.redd.it/mh78pa1joko81.jpg?width=640&crop=smart&auto=webp&s=1721a910a6df5f1ee7f31907e408fdc27d985155",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Strixhaven - Lorehold Dean's Wing",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tipyzv/battlemap32x244096x3072_strixhaven_lorehold_deans/"
+}

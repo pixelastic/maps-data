@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c0a4rmn5",
+    "name": "oixxo"
+  },
+  "date": {
+    "day": 1647993600,
+    "full": 1648046173,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tkvceq",
+  "picture": {
+    "filesize": 79947,
+    "fullUrl": "https://preview.redd.it/n6j40t8u95p81.jpg?auto=webp&s=18744b97819145e49ca74521173cfb186dd8189c",
+    "hash": "662fc5c8ae",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBv/EACIQAAICAQMEAwAAAAAAAAAAAAECAwQRAAUSEyExkSQyQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgEFAAAAAAAAAAAAAAAAABEBAiFBYfD/2gAMAwEAAhEDEQA/AM6lqCLaqNxIGhhMMSdMNAQcghnwULeQPekqy27lAvBEsXKKVfl9AMGUAg/UZyD+A+NV6213K1KOzWpMI69RS6ygBS3IMWIIwwIHvQntbfTgrrLVp3rawyEiSXkE7ee2RnCjGpyjFN+2Gf/Z",
+    "url": "https://preview.redd.it/n6j40t8u95p81.jpg?width=640&crop=smart&auto=webp&s=5b3f8c1c7a0970e99cd701cf1d8edc25752b83ce",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.72,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Hand-drawn Plague Sewers map for medieval adventures",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tkvceq/handdrawn_plague_sewers_map_for_medieval/"
+}

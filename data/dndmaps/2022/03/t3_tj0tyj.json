@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5kbyqtro",
+    "name": "Briskberd"
+  },
+  "date": {
+    "day": 1647820800,
+    "full": 1647828096,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tj0tyj",
+  "picture": {
+    "filesize": 81919,
+    "fullUrl": "https://preview.redd.it/9aw6xajf9no81.jpg?auto=webp&s=f7c90f016a5e48c8c82a4d9d5229f901075a243f",
+    "hash": "2ab82d3398",
+    "height": 313,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHRAAAgIDAQEBAAAAAAAAAAAAAQIDBAAREgVBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQADAAAAAAAAAAAAAAAAAAAAESL/2gAMAwEAAhEDEQA/ANWpWYBShR5a/SbHEiL0CWP6NnKWZ/PXypkWSsbDEIioq9b2D8G9YxiKhFR//9k=",
+    "url": "https://preview.redd.it/9aw6xajf9no81.jpg?width=640&crop=smart&auto=webp&s=249578f0fc83803e23460e6cf67f9fc1fe21a573",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Magic American Suburbs",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tj0tyj/magic_american_suburbs/"
+}
