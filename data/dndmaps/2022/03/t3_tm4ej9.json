@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648123503,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tm4ej9",
+  "picture": {
+    "filesize": 94787,
+    "fullUrl": "https://external-preview.redd.it/naHTkISYJeh-XeOT8Xk982IFxjQAtPJ3HiiMtF_IRW4.jpg?auto=webp&s=59e62a7a293fff9b42a0bf8576ecc4f244f4e4b6",
+    "hash": "0c81f6c68b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACMQAAICAgECBwAAAAAAAAAAAAECAwQFEQASYRMVIjFRUoH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AMBks155lI7LRMIUB6VYnbH59+FGWSplkerJEolk10sdBSO5OuTKdWWKusXhlpNBSQp0f3tx2RrzSVFgELoWIA2vpB+3JVqjRQ//2Q==",
+    "url": "https://external-preview.redd.it/naHTkISYJeh-XeOT8Xk982IFxjQAtPJ3HiiMtF_IRW4.jpg?width=640&crop=smart&auto=webp&s=6a26c26ed4148b8271f8c4ffd52a284066cd56b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Grand Souk Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tm4ej9/grand_souk_battlemap_60x60/"
+}

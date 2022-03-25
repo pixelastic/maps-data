@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648126974,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tm87l7",
+  "picture": {
+    "filesize": 118770,
+    "fullUrl": "https://preview.redd.it/zdyv7tyivbp81.jpg?width=1000&format=pjpg&auto=webp&s=3d712b64d99fb9214e5c1eb600573f3973dc8bcb",
+    "hash": "10a250bc8a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACEQAAIBAwQDAQAAAAAAAAAAAAEDAgQREwASIUEFMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAwACExRBof/aAAwDAQACEQMRAD8AwqjI+iLl7KhLFgiUpCJIHy/ri4507vI0sqQSbLGkgTfCENxO2UbR5HYH7qJ/iKtS4TFIrG2F8imxOMkXG4dEg9/NA09TlEpqilL2kKa6QjvlxYC1/fV/moihXbwtp5qTi9n/2Q==",
+    "url": "https://preview.redd.it/zdyv7tyivbp81.jpg?width=640&crop=smart&auto=webp&s=80b2a15309322faba9042408df0a978b39a701c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Town of Celduin",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tm87l7/town_of_celduin_50x60_free/"
+}

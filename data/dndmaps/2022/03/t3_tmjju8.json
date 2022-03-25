@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648137723,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tmjju8",
+  "picture": {
+    "filesize": 181044,
+    "fullUrl": "https://preview.redd.it/b190gwu3ucp81.jpg?auto=webp&s=457fb28339d106ec92a70d2947c618dc46834115",
+    "hash": "92a41c4f55",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAmEAACAgAEBAcAAAAAAAAAAAABAgMEAAUREhMUMUEGISJhgZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAIBBQAAAAAAAAAAAAAAAAECAAMREiFR/9oADAMBAAIRAxEAPwCTyLJqdyvEBXrqOXDOXUtqxOoIA7gfmJzxFSrwZjthrIqMitt66feEObkkUVZBsjg9ZSQDz00PfrgXpLDPFxGhLiMAnjAn598GorLULZa5EyVKgWn/2Q==",
+    "url": "https://preview.redd.it/b190gwu3ucp81.jpg?width=640&crop=smart&auto=webp&s=d670b15b0d5625dd4e2d4b62545602675d8c97a9",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Square",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tmjju8/city_square_oc30x40/"
+}

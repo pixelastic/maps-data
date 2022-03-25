@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648144546,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tmrk8z",
+  "picture": {
+    "filesize": 39468,
+    "fullUrl": "https://preview.redd.it/ny7m74fbedp81.jpg?width=4092&format=pjpg&auto=webp&s=217e989d82611ab57df7d24a0b97143e6b4888d9",
+    "hash": "faeb3d41f9",
+    "height": 351,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFCP/EACIQAAEDBAEFAQAAAAAAAAAAAAECAwQABRESMRMhNENywf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhUf/aAAwDAQACEQMRAD8AztCucuOqYuI4uOuUgoe6J0SpBIOuBwMjNPuVyXc3UO3SRJckABOylb9gMDmp3qc+vyg55B+aNV1mM7f/2Q==",
+    "url": "https://preview.redd.it/ny7m74fbedp81.jpg?width=640&crop=smart&auto=webp&s=5261cd3cf0307dd8bc01ea280e8e808a2e22805e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: at the edge of the forest (31x17)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tmrk8z/battlemap_at_the_edge_of_the_forest_31x17/"
+}

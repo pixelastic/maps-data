@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648122302,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tm422l",
+  "picture": {
+    "filesize": 173883,
+    "fullUrl": "https://preview.redd.it/hex9c0u7kbp81.jpg?auto=webp&s=92da0637a24126d3414bdd85a694386bf048234d",
+    "hash": "3ed8d58926",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBRITFCEiIzFBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAESFR/9oADAMBAAIRAxEAPwDEGtY49Lt7zpXS5nZ0N5dleP00wUUL7kk5yfqlRYNPpkk8ZhWIru4hLt3eBGQD89sk/gpQovYa2Ca2f//Z",
+    "url": "https://preview.redd.it/hex9c0u7kbp81.jpg?width=640&crop=smart&auto=webp&s=d48b869070fe1a4e50b9991486bc5a31477a2ba3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Fetid Grotto (40x80)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tm422l/the_fetid_grotto_40x80_level_2_of_yiarmans_folly/"
+}

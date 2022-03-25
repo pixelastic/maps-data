@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_60bkr422",
+    "name": "IOFrame"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648111545,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tm1dzb",
+  "picture": {
+    "filesize": 65250,
+    "fullUrl": "https://preview.redd.it/bdc81gvgv9p81.jpg?auto=webp&s=0ffb44e6f2165ae001d568c80f9274702ce883f3",
+    "hash": "84c8b08cf7",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAEDAwQBBQAAAAAAAAAAAAECAwQABREGEiExcxQyNXHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8AnLLqyTKt1otEl11EN9AD01hra8spBOwKwOuNysnIpHdrtAkWuQ0/Nltriv7Y75cc9RJa6BIUQkYHOfrjutlt/wAXF8f7ROsvYPFT4oNDp7f/2Q==",
+    "url": "https://preview.redd.it/bdc81gvgv9p81.jpg?width=640&crop=smart&auto=webp&s=bcb71dbdee9efb424e0f40da9041ec3903c913e1",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.74,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Avallon (My Setting) Political Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tm1dzb/avallon_my_setting_political_map/"
+}

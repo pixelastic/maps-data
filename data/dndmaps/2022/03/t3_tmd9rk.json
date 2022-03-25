@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648131660,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tmd9rk",
+  "picture": {
+    "filesize": 192561,
+    "fullUrl": "https://preview.redd.it/27pmja0ybcp81.jpg?auto=webp&s=69a6f76ebf93e01d62b3396d82dcd38e6b2c7a39",
+    "hash": "6b05f30b4c",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAQMEAgMBAAAAAAAAAAAAAgEDEQAEBSETMRJhcRT/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMRITH/2gAMAwEAAhEDEQA/AC1nbP8AD+u2LmR1yTbM1FdrqN9fPtYj2UK3eNpzRCSyirMepqjGZB4LMRB8BEO/JU1r3RnJOKd88QqRIqzMTNKh2DnfJKFWjs//2Q==",
+    "url": "https://preview.redd.it/27pmja0ybcp81.jpg?width=640&crop=smart&auto=webp&s=b6caf25a153cca7e54bd2e4c9cc82d216d39bd63",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 817,
+    "value": 817
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Secret Garden Battle Map - (30x45)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tmd9rk/the_secret_garden_battle_map_30x45/"
+}

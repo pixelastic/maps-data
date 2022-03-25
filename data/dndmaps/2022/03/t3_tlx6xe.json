@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3rkuvu66",
+    "name": "GimmiePig"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648094539,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tlx6xe",
+  "picture": {
+    "filesize": 53476,
+    "fullUrl": "https://preview.redd.it/2rz3hf8l99p81.jpg?width=3840&format=pjpg&auto=webp&s=e406cc02fd6a73e3c0d8b4d8b926b79a68fcaa99",
+    "hash": "942dc0b508",
+    "height": 353,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDEQAEEhMxUSEycYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAERIhQf/aAAwDAQACEQMRAD8AzWzQwvIPqM5bzEdOKd61ahgLZehzVKcYJJHPFTK3HkUme/2r5RC2yMR//9k=",
+    "url": "https://preview.redd.it/2rz3hf8l99p81.jpg?width=640&crop=smart&auto=webp&s=905e3b38d440555d034b8942397b46a36f627fbd",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 362,
+    "value": 362
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Curious House of the Brothers Balefire Revisited",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tlx6xe/the_curious_house_of_the_brothers_balefire/"
+}

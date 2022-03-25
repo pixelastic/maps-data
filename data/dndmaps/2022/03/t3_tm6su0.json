@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2gq2vohs",
+    "name": "Tavern_Tales"
+  },
+  "date": {
+    "day": 1648080000,
+    "full": 1648125797,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tm6su0",
+  "picture": {
+    "filesize": 97983,
+    "fullUrl": "https://preview.redd.it/hyb2aa96ubp81.jpg?auto=webp&s=c9e6db2ea0459baf2a92151745a9820a50d5c818",
+    "hash": "8d322a7c34",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMH/8QAHxAAAwABBAMBAAAAAAAAAAAAAQIDEQASIUEEEzFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABwRAAEDBQAAAAAAAAAAAAAAAAEAESECEmHB8P/aAAwDAQACEQMRAD8AzdfHmDRZLNqIwU0qPaaMfoA/BzpVozoS3jicl2CqyYgURsjkHvI0VYK3NdrO5rN3GFdXAzz0RqkRPeXvSTru3lIt7HZvg57xpPEIkC5qi2o7JX//2Q==",
+    "url": "https://preview.redd.it/hyb2aa96ubp81.jpg?width=640&crop=smart&auto=webp&s=a6e663f43515388231a4415e70e4e32213472d71",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Strixhaven Mana Snarl",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tm6su0/strixhaven_mana_snarl_34x34/"
+}
