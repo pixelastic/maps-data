@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1648166400,
+    "full": 1648195995,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tnh60q",
+  "picture": {
+    "filesize": 108909,
+    "fullUrl": "https://preview.redd.it/e4qgyncdnhp81.jpg?auto=webp&s=92b3a2ddf2d858372c62482f7d1693c998673b06",
+    "hash": "eb6fd854df",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACUQAAEEAgECBwEAAAAAAAAAAAECAwQRBRIAITEGExRBUYGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACESEDMTL/2gAMAwEAAhEDEQA/AMx8LvoYxk+L6WOp2QhJK3EEllSFEivv+cROZZcxj2sJqnVhaJTZ0T73fa+pI4Maa075aUqWAGw2gOJ11+Ddm7/eXJGcdx+Diw42TEkakpb1BDSh3FEUbvpwmF1zoKdk6ECzC//Z",
+    "url": "https://preview.redd.it/e4qgyncdnhp81.jpg?width=640&crop=smart&auto=webp&s=bfcd58dbfdb2d783842e1c2d3b1fcb0aa9aae0b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sky Passage Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tnh60q/sky_passage_battle_map_30x30/"
+}

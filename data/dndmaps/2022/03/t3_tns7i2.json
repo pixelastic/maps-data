@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kuvau3dq",
+    "name": "AlienDesigns"
+  },
+  "date": {
+    "day": 1648166400,
+    "full": 1648228949,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tns7i2",
+  "picture": {
+    "filesize": 104071,
+    "fullUrl": "https://preview.redd.it/mif6raz1dkp81.jpg?auto=webp&s=264e2c6b840986ab31511c270a5c14438acc3a46",
+    "hash": "ece5ac910d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEhEhMQUicVFhgZHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRITL/2gAMAwEAAhEDEQA/AM5uLV7dFnDRaSkHBDqAN9j6ccU5Lh7hmaZsQijuQaEDgfvegATzrFKMkXJh9VV1G0ignWOIFVcr5Hg/NTHKKytEfLo//9k=",
+    "url": "https://preview.redd.it/mif6raz1dkp81.jpg?width=640&crop=smart&auto=webp&s=8c9bf000d6144e1a9f77583b0a8a73fb506fb23f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Low-Level Encounter Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tns7i2/lowlevel_encounter_map/"
+}

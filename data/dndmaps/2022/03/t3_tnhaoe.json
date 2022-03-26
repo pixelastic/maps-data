@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1648166400,
+    "full": 1648196633,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tnhaoe",
+  "picture": {
+    "filesize": 51476,
+    "fullUrl": "https://preview.redd.it/ea0tqa76php81.jpg?width=4096&format=pjpg&auto=webp&s=17e30fb7f2c88cf6f7d835b2d7c00917ea2e65f3",
+    "hash": "333c566518",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACMQAAIBAwEJAAAAAAAAAAAAAAECAwAEEXIFEhQhMzRRkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAIDAAAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwDC50mJbiI2jIPLKYx7qom0Lq3YDdaRAMnwcimbPu7jRQRdJNI+NU9u9FxhWM//2Q==",
+    "url": "https://preview.redd.it/ea0tqa76php81.jpg?width=640&crop=smart&auto=webp&s=7709dd3afb00e33700fbb7d1c2613ced0e07d677",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: down-by-the-docks (64x36)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tnhaoe/battlemap_downbythedocks_64x36/"
+}

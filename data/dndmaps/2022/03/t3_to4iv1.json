@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1648166400,
+    "full": 1648248880,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_to4iv1",
+  "picture": {
+    "filesize": 85730,
+    "fullUrl": "https://preview.redd.it/zndmhmel0mp81.jpg?auto=webp&s=8849850e8a8ab028733c92bfbf4981f1e12975e5",
+    "hash": "fa1bd8e3d8",
+    "height": 402,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGB//EACMQAAICAQQCAgMAAAAAAAAAAAECAwQRAAUSIUFhBxUicfH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAIBBQAAAAAAAAAAAAAAAAECABESQpHw/9oADAMBAAIRAxEAPwCMrb1PXprYYtDdp1WqPABG0DqTyPWM5Ixk/wA01dcR7DZbfq+wRxCoK9OQYkkZFGVCNjrOeiex7GjY1U/JEaEAp9QsnEjrlxH5fv3rK3lkmnnSZ3kRGbirHIXvwPGl2OMu3JCMCTUT/9k=",
+    "url": "https://preview.redd.it/zndmhmel0mp81.jpg?width=640&crop=smart&auto=webp&s=16e828e43d93fa84b41e71e823458f6388dc00e4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "A Savage World",
+  "url": "https://www.reddit.com/r/dndmaps/comments/to4iv1/a_savage_world/"
+}
