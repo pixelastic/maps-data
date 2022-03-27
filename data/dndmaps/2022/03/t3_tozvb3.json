@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1648252800,
+    "full": 1648319877,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tozvb3",
+  "picture": {
+    "filesize": 126909,
+    "fullUrl": "https://preview.redd.it/rsw3mdinvrp81.jpg?auto=webp&s=4389e6a322cdbc310038a4abfe5b52ce17d3884a",
+    "hash": "2447ba4a12",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQQABSExElETImH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhED/9oADAMBAAIRAxEAPwB2dkZUmz50cYyJdwxyFQSsV8hfjZXnoFrI51PZJqyCEYTpKWSVXIjj8CvQLemo3+CtM2/5tw3HLjzYZZ8KGK0SKSzIKH1vi76N60WWDOwJMWDFMmA0odUag0RoWljla6559caelFcJE9NNn//Z",
+    "url": "https://preview.redd.it/rsw3mdinvrp81.jpg?width=640&crop=smart&auto=webp&s=8b2140ef292c72151130c857f4c48e5553233217",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.72,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Arctic Wilderness",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tozvb3/40x40_arctic_wilderness/"
+}

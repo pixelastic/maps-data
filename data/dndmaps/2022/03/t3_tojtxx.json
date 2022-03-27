@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1648252800,
+    "full": 1648281804,
+    "month": 1646092800,
+    "week": 1647734400
+  },
+  "id": "t3_tojtxx",
+  "picture": {
+    "filesize": 101641,
+    "fullUrl": "https://preview.redd.it/3ztcgtniqop81.jpg?auto=webp&s=3c0466146016875cd2c129865e542ccc27d604b1",
+    "hash": "81499380fe",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDABEEBRITQRQhMVFhcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABgRAAIDAAAAAAAAAAAAAAAAAAACESFx/9oADAMBAAIRAxEAPwDO8u6RsvlWWRV2kVVDJdmN/IHv4oOZYiSSTedVZyugFQF0fXFUSZpUBiVHBAIaQd1t65oGJxAaNkQhnDEXA54A/ajIlyDD/9k=",
+    "url": "https://preview.redd.it/3ztcgtniqop81.jpg?width=640&crop=smart&auto=webp&s=28da85228ec83455c5ba68e379695d749106dae2",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Goblin Hideout Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tojtxx/forest_goblin_hideout_battle_map_30x30/"
+}
