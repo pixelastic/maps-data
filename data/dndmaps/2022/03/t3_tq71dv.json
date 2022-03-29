@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1648425600,
+    "full": 1648466514,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tq71dv",
+  "picture": {
+    "filesize": 104944,
+    "fullUrl": "https://preview.redd.it/65owcvxzx3q81.jpg?auto=webp&s=9ed45acfbe7b9854a686d9b4d9ae169d72ad8674",
+    "hash": "a46e72d109",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAgICAQMEAwAAAAAAAAAAAQIDBAURABIhMQYTIlEjMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABwRAAEDBQAAAAAAAAAAAAAAAAEAAiEREiJBof/aAAwDAQACEQMRAD8AISljMFka1DF+xC4gZZrEgDv5/Uk/Hvvhq269t76+oHjWJInQ/hCkjqUIRrydk9x9cvQxlm/lLMtsV4IkSNnh61KwDoG++/7zXhYsbDPkVs3MbdkrQaCqSwCA9W32PvXjfJTsBMnqQFttNr//2Q==",
+    "url": "https://preview.redd.it/65owcvxzx3q81.jpg?width=640&crop=smart&auto=webp&s=3752346aca0206c3f19ae4c03e82ba4e62f49b1d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Small Tavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tq71dv/small_tavern_30x30/"
+}

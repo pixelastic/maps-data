@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1648425600,
+    "full": 1648454810,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tq4dgv",
+  "picture": {
+    "filesize": 162309,
+    "fullUrl": "https://preview.redd.it/82qci9wfz2q81.jpg?auto=webp&s=ffa6651e16efda31acf582f46ba8a75dc092c085",
+    "hash": "1abe9801de",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIRAAAQMDBQEBAAAAAAAAAAAAAQIDEQASIQQFBjFBE1H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMRBGGx/9oADAMBAAIRAxEAPwCpsujB25lJLC21MhRAyTkQIkZH5WecySy3yHUpYuIwV3pAN0ZEU54xqvtt7NoaS2iTk+CepPuDQDlrjbe+6hYSt4OhLsoTATIBt96p8c1O699U04JxWVri/9k=",
+    "url": "https://preview.redd.it/82qci9wfz2q81.jpg?width=640&crop=smart&auto=webp&s=5d5ab90f69907bac516d77a525518f96baf1e433",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 122,
+    "value": 122
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Bridge city",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tq4dgv/bridge_city_32x44/"
+}
