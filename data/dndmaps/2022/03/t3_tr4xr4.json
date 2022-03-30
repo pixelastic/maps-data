@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1648512000,
+    "full": 1648568632,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tr4xr4",
+  "picture": {
+    "filesize": 152940,
+    "fullUrl": "https://preview.redd.it/4duag8x6fcq81.jpg?width=3360&format=pjpg&auto=webp&s=7a15569e25ec650b209d26cc4762ef20659c4e6d",
+    "hash": "edf120b3e7",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAQQBBAEFAQAAAAAAAAAAAQIDBAURAAYSIVEjMnGBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRAEH/2gAMAwEAAhEDEQA/AHKKlgUjEC0sZqI4cUlPF4YyrPSR8nVty7WiolpkES3lPZyGWQeOPP7/ADSNPZVl/XVbVymPKlr9dCXmwRyQfd4zrVbbmjtLQmNISD3zJKR396FMQXuTAZ2h3//Z",
+    "url": "https://preview.redd.it/4duag8x6fcq81.jpg?width=640&crop=smart&auto=webp&s=5122a620ac5d54ca8631f858a5e162ad8def30d5",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Spartan Well",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tr4xr4/spartan_well_24x30/"
+}

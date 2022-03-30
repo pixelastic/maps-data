@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1648512000,
+    "full": 1648572920,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tr8xpx",
+  "picture": {
+    "filesize": 30724,
+    "fullUrl": "https://external-preview.redd.it/qUelU0gdtOrYMQ49e9C-dw9xWUGM6hNZcz_7wzCxZq0.png?format=pjpg&auto=webp&s=20b2a8334243279cf3b58463434da82effb72fce",
+    "hash": "f43038d9ed",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDBAARBQYSIbETMTM1QVF0gf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwDIsvvTYs+ImHK6cg7uKaSFhAHvYjc9t/k0rmyOmVJk4lAxEzdSSl519sDUSLqFgkC1yeaKy95JH5yKvsT9Kj/RVwaSYA3Gf//Z",
+    "url": "https://external-preview.redd.it/qUelU0gdtOrYMQ49e9C-dw9xWUGM6hNZcz_7wzCxZq0.png?width=640&crop=smart&format=pjpg&auto=webp&s=b4d7a25c84fd7750553b24e832e893f6d373e5f9",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 339,
+    "value": 339
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bender's Folly Animated Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tr8xpx/benders_folly_animated_battle_map/"
+}

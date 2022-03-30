@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1648512000,
+    "full": 1648578851,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tre3jp",
+  "picture": {
+    "filesize": 105694,
+    "fullUrl": "https://preview.redd.it/uuqdlrzl9dq81.jpg?auto=webp&s=a344aa6147ad02cd2eced56dda200192869bddad",
+    "hash": "0de7d6d573",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACIQAAIBAwQCAwAAAAAAAAAAAAECAwAEERITQXEhIjFSYf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGREBAAIDAAAAAAAAAAAAAAAAAQASITFR/9oADAMBAAIRAxEAPwDMGzBcmeaNjq5JyAeuTQy3G3MtvkJH8ELktgfvVQiVxC7hvY4LH7d01Ll9/wAhSqadK8DFRapvMYeT/9k=",
+    "url": "https://preview.redd.it/uuqdlrzl9dq81.jpg?width=640&crop=smart&auto=webp&s=77a9f52877c82395877bc3c55e855bb7079bc453",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A simple forest encounter map for tomorrow's game.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tre3jp/40x30_a_simple_forest_encounter_map_for_tomorrows/"
+}
