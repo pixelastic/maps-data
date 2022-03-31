@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fwf6cig1",
+    "name": "BarkleyBarbell"
+  },
+  "date": {
+    "day": 1648598400,
+    "full": 1648599582,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_trtsry",
+  "picture": {
+    "filesize": 111668,
+    "fullUrl": "https://preview.redd.it/m3gyh4dbzeq81.jpg?auto=webp&s=79e59469815681598e4cc32bebbe4c87e119f973",
+    "hash": "ae09a55818",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAjEAABBAEDBAMAAAAAAAAAAAABAgMEEQUAEiEyQVFxBhPh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhETIf/aAAwDAQACEQMRAD8AbJYmHFkFmJORMcSv6yhHVfqq7edFBnRcZBnyYm16WpjaymQgUkGtygOQSB296o+T4xiPNyCGitICS71Xzf6dLmcDFg4KVKacfU40kNpClCq3Ac0B5On0m3Vg5QXUj//Z",
+    "url": "https://preview.redd.it/m3gyh4dbzeq81.jpg?width=640&crop=smart&auto=webp&s=09b956ed4a5972c67bc8d9c4aa303620cbdfc7cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.7,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Shattered Spear",
+  "url": "https://www.reddit.com/r/dndmaps/comments/trtsry/shattered_spear/"
+}

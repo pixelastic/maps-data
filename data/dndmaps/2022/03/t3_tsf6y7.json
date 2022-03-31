@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_yvayw",
+    "name": "Sir_Rowan_of_Ithor"
+  },
+  "date": {
+    "day": 1648598400,
+    "full": 1648668783,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tsf6y7",
+  "picture": {
+    "filesize": 117131,
+    "fullUrl": "https://preview.redd.it/lz4dq281pkq81.jpg?auto=webp&s=2f852b66c1e9cd3ea510264f5d3abbc58796dd4f",
+    "hash": "64f36ea1ea",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAKRAAAAQEAgsBAAAAAAAAAAAAAQIDBAAFESEHEgYiMTIzUWJxgZPR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAIDAAAAAAAAAAAAAAAAAQAhAhIT/9oADAMBAAIRAxEAPwAfwkLVpMbBxCbewxvh1OmvP8MXOpDIJRo0i7kRWbVYrAiq7YHQGVcLgWtgzjlEb2p4gzHEhubelqvuD5E49LxiJrTP/9k=",
+    "url": "https://preview.redd.it/lz4dq281pkq81.jpg?width=640&crop=smart&auto=webp&s=ba560227901c0d6c8fd7caca47ea535642d23915",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A simple maze map I map I made.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tsf6y7/a_simple_maze_map_i_map_i_made/"
+}

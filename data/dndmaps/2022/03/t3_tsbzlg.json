@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_iqdnb",
+    "name": "Grimlore"
+  },
+  "date": {
+    "day": 1648598400,
+    "full": 1648662222,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tsbzlg",
+  "picture": {
+    "filesize": 76804,
+    "fullUrl": "https://preview.redd.it/hq02zy694kq81.jpg?auto=webp&s=8d464b64fe3e2e23d80fb1a7879e33fa923c4fc8",
+    "hash": "e115ca63f4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACAQAQEAAgEDBQAAAAAAAAAAAAECABESAwRRITFhkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AML2zytYIEHlQaHxgvJKmoZVJ4UOz58YlM0oRtBXZ7/eX6XbdVgZ7e/WChJX8wBX/9k=",
+    "url": "https://preview.redd.it/hq02zy694kq81.jpg?width=640&crop=smart&auto=webp&s=79771498c326237900eeb4c3d8bf495e0acdd56d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "FREE MAP - Jade Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tsbzlg/free_map_jade_temple/"
+}

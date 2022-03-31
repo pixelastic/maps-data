@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1648598400,
+    "full": 1648650612,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_ts7q0o",
+  "picture": {
+    "filesize": 58805,
+    "fullUrl": "https://preview.redd.it/bh7wzif27jq81.jpg?width=4096&format=pjpg&auto=webp&s=7800818abd68f1f7712902d6b05d2e5c728e2cb7",
+    "hash": "6b99978af6",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAQMCBQUBAAAAAAAAAAAAAQIDBAARBhIhMTUFInFystH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhIi/9oADAMBAAIRAxEAPwDDOnJROWiKwh9HcLWJyjXdQ/KlLgw40p6PIefjyQvKAtGdpQJFzcWI012NLYY5eN4PyaPx7zafRNS1VhVONT//2Q==",
+    "url": "https://preview.redd.it/bh7wzif27jq81.jpg?width=640&crop=smart&auto=webp&s=b2c679f87948262f3295312f57f7bf270ac4286d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: road-random encounter-near the fields (35x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ts7q0o/battlemap_roadrandom_encounternear_the_fields/"
+}

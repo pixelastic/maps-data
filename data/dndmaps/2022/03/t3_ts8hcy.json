@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1648598400,
+    "full": 1648652699,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_ts8hcy",
+  "picture": {
+    "filesize": 66678,
+    "fullUrl": "https://preview.redd.it/nyw41ufadjq81.jpg?auto=webp&s=b7cd4228a12950341d08b985962a1349634d777c",
+    "hash": "2e27075f73",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEH/8QAGxAAAwADAQEAAAAAAAAAAAAAAQIRABIxIXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAIDAAAAAAAAAAAAAAAAAAARARIh/9oADAMBAAIRAxEAPwDBVDsysLLrMMjHUffbcS8aEgdgyKIrMCQQRzDVkE40/9k=",
+    "url": "https://preview.redd.it/nyw41ufadjq81.jpg?width=640&crop=smart&auto=webp&s=5c1dcc032d6cbce8a8255a2b8557a2de052ed317",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Magically Warped Swamp Encounter Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ts8hcy/40x30_magically_warped_swamp_encounter_map/"
+}

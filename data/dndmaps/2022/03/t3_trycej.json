@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_14eiz4",
+    "name": "Panlytic"
+  },
+  "date": {
+    "day": 1648598400,
+    "full": 1648614781,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_trycej",
+  "picture": {
+    "filesize": 92421,
+    "fullUrl": "https://preview.redd.it/vg4tfkbl8gq81.jpg?auto=webp&s=c8b39a2aadbbe919bc382602126b57c5ce365fce",
+    "hash": "fdaf95fe6e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDBBEABSESE1EGMUFhgaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AM326hUO0wsIoQxhDdKx5Ib7P5/dWu16UlWw3ZyFVsh0AA459h8HxoSvdsVIUgikzGgIHUoJPjJxoab1Dcm2ueIrCvcfl1TDDOcgc6EOv//Z",
+    "url": "https://preview.redd.it/vg4tfkbl8gq81.jpg?width=640&crop=smart&auto=webp&s=527e045f4c6a1b32cfaf9f378efee78d3819547b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Street Battlemap: Riocian Street",
+  "url": "https://www.reddit.com/r/dndmaps/comments/trycej/city_street_battlemap_riocian_street/"
+}
