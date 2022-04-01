@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1648684800,
+    "full": 1648721718,
+    "month": 1646092800,
+    "week": 1648339200
+  },
+  "id": "t3_tswlco",
+  "picture": {
+    "filesize": 103628,
+    "fullUrl": "https://preview.redd.it/g6f2akql2pq81.jpg?auto=webp&s=ad8f31c1cd86c12ee4efc2add63fd31c8039b587",
+    "hash": "4ccca5e00d",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQGB//EACAQAAICAgICAwAAAAAAAAAAAAECAxEEIQAFEjETQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAERIhA//aAAwDAQACEQMRAD8AyfrPglSQ5sYi8m8FCoaJ3exxvs+qTEw4sw3JDTA0tWB7N/muT+D2DQpCVXQjNAORXkb1wydhkZmK+G71EiNJeyxoerP1wxR9WDyKVvPFEdn/2Q==",
+    "url": "https://preview.redd.it/g6f2akql2pq81.jpg?width=640&crop=smart&auto=webp&s=c50cf21d6bfa6305acb11c6d9e2907f838b171c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Dragonskull Diner, owned and run by Kobolds",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tswlco/dragonskull_diner_owned_and_run_by_kobolds_30x25/"
+}
