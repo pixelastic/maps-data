@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_75j60jfz",
+    "name": "AirborneYoda"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648856108,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_tu4uam",
+  "picture": {
+    "filesize": 47082,
+    "fullUrl": "https://preview.redd.it/kvtrab8060r81.jpg?auto=webp&s=1b571baf5a7e63be1a0a1608b662bf88826e4b61",
+    "hash": "4a784c9008",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EACIQAAICAgEDBQAAAAAAAAAAAAECAwQAEhEFIlEhMXGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAcEQABAwUAAAAAAAAAAAAAAAARAAISAQMTIUH/2gAMAwEAAhEDEQA/AMaC9Up1xHNGxd1O3EYbkH5/MJ79S5WjiiilRYyddYwoBI9SfPt9ZfTJTamhr2FWRd9QxHcAQeQDiuzlKzVkSNVEhBYDubjycNV93NE6RgyJ6v/Z",
+    "url": "https://preview.redd.it/kvtrab8060r81.jpg?width=640&crop=smart&auto=webp&s=c382ac3e45c7bbba4a86cc92a4e26bf4014e980d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "I have a version of this map with props (mountains, trees, cities, etc.), but it didn't look quite right. I wanted to get some notes about the shape of the continent before I start redoing the props.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tu4uam/i_have_a_version_of_this_map_with_props_mountains/"
+}

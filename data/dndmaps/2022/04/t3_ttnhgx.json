@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648808999,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttnhgx",
+  "picture": {
+    "filesize": 3228,
+    "fullUrl": "https://preview.redd.it/wj1l8ds1awq81.jpg?auto=webp&s=e69d4e99e272078ce1f7a1d9933da2df6f666fc1",
+    "hash": "45ad785d5d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAj/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJUAB//Z",
+    "url": "https://preview.redd.it/wj1l8ds1awq81.jpg?width=640&crop=smart&auto=webp&s=e937c55dfb7881cdc4cb193fea6c43dba3af440d",
+    "width": 640
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 385,
+    "value": 385
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Loof Lirpa's Dungeon of Darkness - Huge Free Mega Dungeon!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ttnhgx/loof_lirpas_dungeon_of_darkness_huge_free_mega/"
+}

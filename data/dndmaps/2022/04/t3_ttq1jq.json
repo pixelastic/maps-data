@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648817899,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttq1jq",
+  "picture": {
+    "filesize": 61803,
+    "fullUrl": "https://preview.redd.it/w3fcdx270xq81.jpg?width=4096&format=pjpg&auto=webp&s=aa406bb359bbf29dc4f8c3503b0cb149827e0214",
+    "hash": "9b2869783d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAUGABESE0FRFCExMmH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAECABESMf/aAAwDAQACEQMRAD8Az7juNVFTcDBV0/GQLz6ch48l7keTq2V2K4Y6kbxyCS3y7qh4ryX8b237/OnYxkltZaWW/wAs3qqOXqxuoJLaVkebUl7tE8XRWPk7BonA3Kn6kHzvoWdVUm2gwK8n/9k=",
+    "url": "https://preview.redd.it/w3fcdx270xq81.jpg?width=640&crop=smart&auto=webp&s=ef934517adf3e27d06ba2d53ebcbb91567c265c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Daily, Modular Dungeon: Week #006",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ttq1jq/daily_modular_dungeon_week_006/"
+}

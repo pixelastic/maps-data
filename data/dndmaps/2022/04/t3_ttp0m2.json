@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_agp2962n",
+    "name": "ElysiumCartography"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648814557,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttp0m2",
+  "picture": {
+    "filesize": 70527,
+    "fullUrl": "https://preview.redd.it/1gqk30poqwq81.jpg?auto=webp&s=7956d8f3cbc58c5f5cd83a8b0524539ee84c0a66",
+    "hash": "55e1dbac58",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIhBRMiMXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAABEAIf/aAAwDAQACEQMRAD8AwHVihfxrnhGZe6N9j9wbUmtN41GVVWVDRCrQGTP64HjXjZCgk3RvGbckc2uhg1zGwb5N98uskazcv//Z",
+    "url": "https://preview.redd.it/1gqk30poqwq81.jpg?width=640&crop=smart&auto=webp&s=322200a672e678eea1c6d56027c22a9e0889735c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Cave Mine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ttp0m2/cave_mine_40x40/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6y4q3fs6",
+    "name": "Semnemrod"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648841007,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttz52x",
+  "picture": {
+    "filesize": 89141,
+    "fullUrl": "https://preview.redd.it/igr6gyzxqwq81.jpg?width=2048&format=pjpg&auto=webp&s=e2cc1d09fbdbdf354a2546481267faf3f3bfc585",
+    "hash": "b9ec24e329",
+    "height": 393,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAiEAACAgEEAQUAAAAAAAAAAAABAgMRBAAFISKREjFRobH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAMBAQEAAAAAAAAAAAAAAAECEQAhEv/aAAwDAQACEQMRAD8AjmDBHmhWYZL7hIxZvSAARZs/N340+ViR4MjyJDLBkqDLCJW7CjxV+54/dBvvTf8AMKdSJgwI4onm/POi2WR598xXmdpHEthnNkUpI++dTFSV93ksxBAYrO2Xf//Z",
+    "url": "https://preview.redd.it/igr6gyzxqwq81.jpg?width=640&crop=smart&auto=webp&s=c0545f588c8139ee5a18ea075a65ef06e3b3bf82",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "World map - Adraï Mendo Stependis 1/4 (Labeled and unlabeled)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ttz52x/world_map_adraï_mendo_stependis_14_labeled_and/"
+}

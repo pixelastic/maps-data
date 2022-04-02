@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648813983,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttou3k",
+  "picture": {
+    "filesize": 108206,
+    "fullUrl": "https://preview.redd.it/tyrfja14hwq81.jpg?width=1000&format=pjpg&auto=webp&s=ae717bc67ddcbdf1d30b0afe08b9929bce564985",
+    "hash": "2374074c79",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAIBAwQDAQAAAAAAAAAAAAECAwQFEQASEyEyQXFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAJB/9oADAMBAAIRAxEAPwDO2iikuVyi4VZ5m3AiBS6o64KyEMASANwz+6O5UVwpblcJJIqmFtkQmWVeJnjznAAOQCT0R2NNwcFjuTPcKVWWOAKI4JsMrs24ny3eOR9+ah3e809RKZ6fm6iiWUPJlmZFAJJyfYzqcC8nDKX/2Q==",
+    "url": "https://preview.redd.it/tyrfja14hwq81.jpg?width=640&crop=smart&auto=webp&s=1dd3a9ecbc45ed660bb6233f529502368d126a0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Fighters Guild",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ttou3k/free_fighters_guild_40x40/"
+}

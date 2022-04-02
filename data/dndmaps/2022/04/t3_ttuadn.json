@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1648771200,
+    "full": 1648828941,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_ttuadn",
+  "picture": {
+    "filesize": 77121,
+    "fullUrl": "https://preview.redd.it/djlvjvigxxq81.jpg?auto=webp&s=7efdb17f9431f8074f262150cfd6337bc29f1f90",
+    "hash": "0789e31b5b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEI/8QAHxAAAgEEAwEBAAAAAAAAAAAAAQIDAAQRIQUSQTGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAAAESFh/9oADAMBAAIRAxEAPwDNas9xNHDApaR2CgAfSToftO5Gwl4+9ktLgRmePUhjbuFb1cjRx7jVFU4I64UeirGS3UjPYnB0aKvCiLT/2Q==",
+    "url": "https://preview.redd.it/djlvjvigxxq81.jpg?width=640&crop=smart&auto=webp&s=13fcbbfc10fd8c425d97341c21154301d3ca9e08",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Trenches",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ttuadn/trenches_oc40x40/"
+}
