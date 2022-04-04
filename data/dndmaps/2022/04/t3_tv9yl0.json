@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21v10kpq",
+    "name": "fantasymaps"
+  },
+  "date": {
+    "day": 1648944000,
+    "full": 1648994507,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tv9yl0",
+  "picture": {
+    "filesize": 101031,
+    "fullUrl": "https://preview.redd.it/eeu8ggtolbr81.jpg?auto=webp&s=8e957d8ec36420ef4a1fd7694b14ac8da19ad9f7",
+    "hash": "f4d016b7a4",
+    "height": 989,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EAB8QAQACAQMFAAAAAAAAAAAAAAECEQADEiEEMTJRcv/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAQACAwAAAAAAAAAAAAAAAQIAAxETIv/aAAwDAQACEQMRAD8AwUGQklq90WI8esBlXBNPnEnoTNWUobruxC1tyEtfqYyTf2a8cJNPrJ5Nkh1pxn//2Q==",
+    "url": "https://preview.redd.it/eeu8ggtolbr81.jpg?width=640&crop=smart&auto=webp&s=05192d036f098aa5f2973351c43b9b9413653c2d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Bridge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tv9yl0/ruined_bridge_33x51/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1648944000,
+    "full": 1649009639,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tvfpg2",
+  "picture": {
+    "filesize": 151689,
+    "fullUrl": "https://preview.redd.it/8ngysw3qucr81.jpg?width=2048&format=pjpg&auto=webp&s=6724c4966adde2321de01fb069bb59e5f962b7e3",
+    "hash": "92b1bff9e2",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACEQAAICAQQCAwAAAAAAAAAAAAECAwQFAAYREiExMkFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAQADAQEAAAAAAAAAAAAAAAEAAgMEEf/aAAwDAQACEQMRAD8AL4qlRjw9dWq13mmjAZnRTx4B5B/RoXuCikeXnVVjAHXwoAHxGkOJ3NhxWrJYyMKiNVHUBuT44I9cfejO4MrUsZixLXmBiYjqSD66gaNwrc0VIr0Wzc6lU9n/2Q==",
+    "url": "https://preview.redd.it/8ngysw3qucr81.jpg?width=640&crop=smart&auto=webp&s=ab62df5306308b7342cc9704424e53979f9d17e6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Strixhaven - Dean's Repository",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tvfpg2/battlemap16x242048x3072_strixhaven_deans/"
+}

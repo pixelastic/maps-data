@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1648857600,
+    "full": 1648939065,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_tuv9la",
+  "picture": {
+    "filesize": 58014,
+    "fullUrl": "https://preview.redd.it/5yz6uxjw07r81.jpg?auto=webp&s=b6f70dd54799ee81ada961801f1db8759f2527ac",
+    "hash": "dca54f0b21",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAIRAAAQQBAwUAAAAAAAAAAAAAAQACAxEhBDFBEhMUIlH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABcRAAMBAAAAAAAAAAAAAAAAAAABIkH/2gAMAwEAAhEDEQA/AMo09GGDxXAHostMjfaxvW1cVnKs7e0QycsbHbiBYaDY5+5pEU7RE4P/2Q==",
+    "url": "https://preview.redd.it/5yz6uxjw07r81.jpg?width=640&crop=smart&auto=webp&s=a26caa7474ec0cf5e3c0ce8f98a64cad953b17c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Hillside Manor",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tuv9la/hillside_manor_136_x_66/"
+}

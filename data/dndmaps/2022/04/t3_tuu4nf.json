@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1648857600,
+    "full": 1648935944,
+    "month": 1648771200,
+    "week": 1648339200
+  },
+  "id": "t3_tuu4nf",
+  "picture": {
+    "filesize": 228777,
+    "fullUrl": "https://external-preview.redd.it/uK8ofXftrudG-gTyRoxhxDhKOE9dUwxuSrPGO-yQWG0.jpg?auto=webp&s=0979523734e50714e3aeff3fd3ea9439c9e4f6f0",
+    "hash": "6f586b2672",
+    "height": 2000,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAUDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQACBAMRIQUxkRITQUJh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQACAwAAAAAAAAAAAAAAAAEAIRExwf/aAAwDAQACEQMRAD8AwWq9ox4hZF9clrWtvgbjflFalSiY8d4qdALABkm9gPI+35RAHFHYQa0z/9k=",
+    "url": "https://external-preview.redd.it/uK8ofXftrudG-gTyRoxhxDhKOE9dUwxuSrPGO-yQWG0.jpg?width=640&crop=smart&auto=webp&s=43acf5ee1a633ee814c08087345cc7ad7fcd8edd",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Unfortunately the noxious fog has torn the town apart. Could anybody have survived?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tuu4nf/unfortunately_the_noxious_fog_has_torn_the_town/"
+}

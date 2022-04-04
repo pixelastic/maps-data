@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ownzz",
+    "name": "ItsVidad"
+  },
+  "date": {
+    "day": 1648944000,
+    "full": 1648988080,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tv7xdn",
+  "picture": {
+    "filesize": 121615,
+    "fullUrl": "https://preview.redd.it/xupzcnon2br81.jpg?auto=webp&s=1ffd9ac54e3b7fb7454e5e76fa80a2aca256c385",
+    "hash": "7625d7a5b5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACEQAAICAgEEAwAAAAAAAAAAAAECAxEAIQQSFDFBIlJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhEDEQA/AMAeBMiwPISBIRZuqsaOE6EnSRI4wbtlUN8lP7frzlHkSN29Xp9V9d+sWiiDQNMWYOZDFQoAKL8ZJyEy/9k=",
+    "url": "https://preview.redd.it/xupzcnon2br81.jpg?width=640&crop=smart&auto=webp&s=89a6a96df3baab54886944ff6326fc397ca7e2c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Town of Skog",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tv7xdn/town_of_skog/"
+}
