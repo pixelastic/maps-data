@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1649030400,
+    "full": 1649074191,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tw0gkk",
+  "picture": {
+    "filesize": 121352,
+    "fullUrl": "https://preview.redd.it/cokq4sr61ir81.jpg?width=1000&format=pjpg&auto=webp&s=5827f6bd03e7394e9cd9aff149455a743a76a388",
+    "hash": "83b93fac40",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACMQAAICAQQBBQEAAAAAAAAAAAECAxESAAQFIUETFCIkMWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB0RAAEEAgMAAAAAAAAAAAAAAAECAxExACFRYYH/2gAMAwEAAhEDEQA/AMjuiBw6jjJvtuCHjaIICuRIryOyaXvz3o+R3cS7WKFlV4ZABKi4xA4fMjwFBJNmr/ukbPhJeJ3b8jKRuIXlVxTCvTIzs1fdHxqjP7SJIchBI4VJQQj23bHO76e8bX8od6mluiDiQ62ElJTJgRdzvqufM//Z",
+    "url": "https://preview.redd.it/cokq4sr61ir81.jpg?width=640&crop=smart&auto=webp&s=737bb53c9bf43b73a43da3872230af370e93c8b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 103,
+    "value": 103
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Bard Guild",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tw0gkk/bard_guild_40x40_free/"
+}

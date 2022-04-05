@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1649030400,
+    "full": 1649077987,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tw1p7j",
+  "picture": {
+    "filesize": 93793,
+    "fullUrl": "https://preview.redd.it/kop2mo3thir81.jpg?width=2800&format=pjpg&auto=webp&s=fda3826095b17f8a7a5c8d610063721ad5cf8186",
+    "hash": "2018bf2105",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAlEAABAwQBAgcAAAAAAAAAAAABAgMEAAUREiEGMRMUIkFRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAQADAQEAAAAAAAAAAAAAAAEAAgMRUf/aAAwDAQACEQMRAD8An+qLNHn366eWa7OZG6QPSAcgccDNFvULkFV5kmK3KQzkBKVFORwPgUp3i7MxpV08SS2p59WjakkagnuD74+qJp7ctUx4tJkLRtwpKFEH9xVvVChCJ3W3PWf/2Q==",
+    "url": "https://preview.redd.it/kop2mo3thir81.jpg?width=640&crop=smart&auto=webp&s=4ea90f2a51c57bee8c482d8e6ec974db48c0870b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rocks Fall, Everybody Dies Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tw1p7j/rocks_fall_everybody_dies_phased_battle_map_40x60/"
+}

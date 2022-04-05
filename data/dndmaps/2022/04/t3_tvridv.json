@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8g7hvowr",
+    "name": "spaghetties7"
+  },
+  "date": {
+    "day": 1649030400,
+    "full": 1649041131,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tvridv",
+  "picture": {
+    "filesize": 130695,
+    "fullUrl": "https://preview.redd.it/js0yk8z8gfr81.jpg?width=6600&format=pjpg&auto=webp&s=af3f55c762082458320a70db2be709b60d0195e0",
+    "hash": "26008581d8",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgEDAwQCAwAAAAAAAAAAAQIDBAURAAYSEyEiQRUyUVJh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAEQIDEv/aAAwDAQACEQMRAD8AsVl4kuF9aniDkvWu1HN1iD1FkPEnAwqfbtn0SToTtnbm6BfV+ct1VJPHPDGiU9WCssgYnl4t3XHv8/zWr2Db9LXXyqkqJZ2S307zwxAqELAuPIY8h7IPYknQyjq3pb8aZVDoZ0LMzNyJ5gZGCOJx+uNHYFhGZc2E/9k=",
+    "url": "https://preview.redd.it/js0yk8z8gfr81.jpg?width=640&crop=smart&auto=webp&s=5c772ea01b703024228749a6b90eb687e35e3c1e",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Underdark Minimaps for random encounters.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tvridv/underdark_minimaps_for_random_encounters/"
+}
