@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fj4izqee",
+    "name": "gremlinbrothers"
+  },
+  "date": {
+    "day": 1649116800,
+    "full": 1649126310,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_twklix",
+  "picture": {
+    "filesize": 63179,
+    "fullUrl": "https://preview.redd.it/sfxhnoakhmr81.jpg?auto=webp&s=96dc6170766e1504a63db35f8771ccc7de7270a0",
+    "hash": "3b5fa53f27",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAI/8QAIBAAAQQCAgMBAAAAAAAAAAAAAQIDBBEAEgUhFDFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAREiH/2gAMAwEAAhEDEQA/AMyxOOcdA2QaPr6fzKfC8VxLdEqPet3iWeadCAlajqB1r0Rh5E1+SvcLsJTVkgHJm17G1U//2Q==",
+    "url": "https://preview.redd.it/sfxhnoakhmr81.jpg?width=640&crop=smart&auto=webp&s=5b460c5240e0c34dfbb9213cf8db345236c80f90",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.71,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Cave Tile",
+  "url": "https://www.reddit.com/r/dndmaps/comments/twklix/cave_tile/"
+}

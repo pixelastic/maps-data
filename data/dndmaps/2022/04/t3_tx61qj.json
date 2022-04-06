@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1649116800,
+    "full": 1649195145,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tx61qj",
+  "picture": {
+    "filesize": 67844,
+    "fullUrl": "https://external-preview.redd.it/0ZqhuRWYOosjnF0dHpgax4eLPHmRi699ylkMvx1ZisI.jpg?auto=webp&s=b2da5c8cbebbaafee1ef400ff7fd694a6d9a2ab6",
+    "hash": "b226158cdd",
+    "height": 975,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDBAARBRITUSExQf/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEDERL/2gAMAwEAAhEDEQA/AMg4/jqRpOJKteawfnsZmVte9YHLw5WRgZFB3jXHWq/jGgBKRodR9+8ktO7TuQkhBP4pxHUidnW3bR//2Q==",
+    "url": "https://external-preview.redd.it/0ZqhuRWYOosjnF0dHpgax4eLPHmRi699ylkMvx1ZisI.jpg?width=640&crop=smart&auto=webp&s=f11b51c2cee9afebec3ee789cfe96e8071a73f66",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The ferryman silently floats towards the shore. Will you join him on his passage to the underworld?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tx61qj/the_ferryman_silently_floats_towards_the_shore/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21q3mbrg",
+    "name": "uchideshi34"
+  },
+  "date": {
+    "day": 1649116800,
+    "full": 1649189056,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tx3qa9",
+  "picture": {
+    "filesize": 122939,
+    "fullUrl": "https://preview.redd.it/c6zmilf8orr81.jpg?auto=webp&s=2a2a07f7155932e674a160eed3a8d200a8284616",
+    "hash": "d0e4c0c538",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAIxAAAQQBBAIDAQAAAAAAAAAAAQIDBAURABIhMQZBFCKBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIG/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECERIhMf/aAAwDAQACEQMRAD8AU8RiMw6tqRIiNR4m3Dy3m+frjGM9g885/NV5jSiwpPm1rAdQRubdCQpASck/XPeAOf7pqhs6q5hRWJU8gqb2FLgSASSduD74z1+6zvrivrKKYxFlLWttKkFsHCOO8es+udTTlLJV2xJ6P//Z",
+    "url": "https://preview.redd.it/c6zmilf8orr81.jpg?width=640&crop=smart&auto=webp&s=073f530629374a6f3779f763e551fd3efc5f6ecb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tx3qa9/forest_temple/"
+}

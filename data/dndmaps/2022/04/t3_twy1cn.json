@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ezpmbjd9",
+    "name": "BoxAvenueAdventures"
+  },
+  "date": {
+    "day": 1649116800,
+    "full": 1649173822,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_twy1cn",
+  "picture": {
+    "filesize": 155215,
+    "fullUrl": "https://preview.redd.it/5ggtbg5ueqr81.jpg?auto=webp&s=5238743efff9628db267e30a7928d05b26455fc8",
+    "hash": "f10628f08e",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EAB8QAAICAgEFAAAAAAAAAAAAAAECABEDBDESIkGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8AwBVMITJjFvYYrzcaGxpkAswDeRXBkgZmou+wTddKqKr1A7QJPY/2R5VCeH//2Q==",
+    "url": "https://preview.redd.it/5ggtbg5ueqr81.jpg?width=640&crop=smart&auto=webp&s=8f072079d0778174154a4002a7bd43996db6f35c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Trail",
+  "url": "https://www.reddit.com/r/dndmaps/comments/twy1cn/jungle_trail_24x40/"
+}
