@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12flox",
+    "name": "DanielHasenbos"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649253478,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txmsnx",
+  "picture": {
+    "filesize": 175874,
+    "fullUrl": "https://preview.redd.it/xrj1rwwdzwr81.jpg?width=1000&format=pjpg&auto=webp&s=722bb7c1ad5649ad76a4651e0de8b4c9214f226f",
+    "hash": "f20801f7ab",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJBAAAwACAQEJAQAAAAAAAAAAAQIDBBEAEgUTISIxcbHB0eH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAQACAwAAAAAAAAAAAAAAAAIAEQEDBP/aAAwDAQACEQMRAD8Amr5rwZMnulqEDLRR5XH3xMMTEyYpW6s9CNEnZ+OBTCXplGVR0RAXxbZX3/nNPMnDs8ym9oULzFNgA+u/zkroY2KxiKARNKf/2Q==",
+    "url": "https://preview.redd.it/xrj1rwwdzwr81.jpg?width=640&crop=smart&auto=webp&s=e81debc6e1a21880d7adce028711ad4a5c0f2e99",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The City of Assaen",
+  "url": "https://www.reddit.com/r/dndmaps/comments/txmsnx/the_city_of_assaen/"
+}

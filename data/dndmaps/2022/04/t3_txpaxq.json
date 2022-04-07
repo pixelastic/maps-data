@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649260352,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txpaxq",
+  "picture": {
+    "filesize": 70558,
+    "fullUrl": "https://preview.redd.it/xb8cpye4kxr81.jpg?width=2800&format=pjpg&auto=webp&s=7db2c963dd04b7e6d076bcd2fa9fea33eae69729",
+    "hash": "d8a9b56ffe",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACMQAAICAQIGAwAAAAAAAAAAAAECBBEDAAUGEhMhMWFBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AyrZOF5kzOqSY+OP0o5dVNIWFHuOavkH3p7g4Px5MGNxuG2KHUNy9UCrF0RXn71KzN0zzpqtklMuUqQgJsn0f2vB0Ylzstu2CSSxslFajpehAmm//2Q==",
+    "url": "https://preview.redd.it/xb8cpye4kxr81.jpg?width=640&crop=smart&auto=webp&s=b7a0fedcf5bde65cd50a0e3795669498210af10c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Cavern Bridges Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/txpaxq/cavern_bridges_phased_battle_map_40x60/"
+}

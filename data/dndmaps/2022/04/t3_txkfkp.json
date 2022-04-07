@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649246106,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txkfkp",
+  "picture": {
+    "filesize": 160649,
+    "fullUrl": "https://preview.redd.it/lnzwqvxrdwr81.jpg?auto=webp&s=b2985ce32178563725ef02755c1f662b58b38e3f",
+    "hash": "f01b222227",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAlEAABBAEDAgcAAAAAAAAAAAABAgMEBREAEjEhUQcTFkFhccH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEQP/2gAMAwEAAhEDEQA/ADEiHbVNXHYp5LtfWyGkOl1lWFyHMAjer2SOPw6pyfFm9gPqiqlxElvoUqCyU/GQQDjjOiHrRMykhwbAr8mJtIQhA3KKeMKzx99tF5Vq7KkOPyIcVx1w7lLUz1J76Xvi7AOYhk//2Q==",
+    "url": "https://preview.redd.it/lnzwqvxrdwr81.jpg?width=640&crop=smart&auto=webp&s=ab9be3b04e470279c049690f7a7246c9791b31bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Frost Lair (White Dragon Lair) - 30x45",
+  "url": "https://www.reddit.com/r/dndmaps/comments/txkfkp/frost_lair_white_dragon_lair_30x45/"
+}

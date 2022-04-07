@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7td0638n",
+    "name": "ZMMaps"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649246456,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txkje5",
+  "picture": {
+    "filesize": 157359,
+    "fullUrl": "https://external-preview.redd.it/NR2orTyFhli6UYBP-VbxIeRfwx2DoWprCJUQXSDRlHE.jpg?auto=webp&s=6802046c0e9a8871f9dbf5a2bc5166f638ee4ccc",
+    "hash": "0132d35966",
+    "height": 874,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACYQAAICAAQEBwAAAAAAAAAAAAECAxEABBIxBQYUISMyQUJRYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAEhAAIDQf/aAAwDAQACEQMRAD8AA4Lnb4I6TJLPJmcr4UohLOjhbtTt5rvV7arCixs8UbQkhaO4omiR3+8HcszMeVgoIhV4jE5KsbZTo2G/Y2N/jC2QcPk4umWXSq6TojNavX9xN3qyuxhZBz//2Q==",
+    "url": "https://external-preview.redd.it/NR2orTyFhli6UYBP-VbxIeRfwx2DoWprCJUQXSDRlHE.jpg?width=640&crop=smart&auto=webp&s=d9321afdeb91dec85e231e0953aeb8c23c8d90c2",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 766,
+    "value": 766
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Warlord's Castle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/txkje5/warlords_castle_41x56/"
+}

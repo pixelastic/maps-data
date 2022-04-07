@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ektg7b5d",
+    "name": "de-Zigner"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649254154,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txn1d1",
+  "picture": {
+    "filesize": 151198,
+    "fullUrl": "https://preview.redd.it/h2qshq2s1xr81.jpg?auto=webp&s=7f2bb6583be85d3bf10e0512ec2466bc6ca02dac",
+    "hash": "be05002f6b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIDBBEABRIhMUETJDJRYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEx/9oADAMBAAIRAxEAPwDBUczN7MvgZEiIiFjuWGzNwT19YNzakjapkNLJEGgITUilALfNtr377wh52fVSI7n06LIpNlBVri3JPO2JaqskXLVp5vLMJACLNtoANgRb9xDWqvcj2UNDSf/Z",
+    "url": "https://preview.redd.it/h2qshq2s1xr81.jpg?width=640&crop=smart&auto=webp&s=2f9fd2c0ee59c63ea91eb8a0b559ed7f237a3276",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Underhive / Wastelands highly detailed Meat market map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/txn1d1/underhive_wastelands_highly_detailed_meat_market/"
+}

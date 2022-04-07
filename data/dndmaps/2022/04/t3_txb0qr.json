@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_99kqrp54",
+    "name": "FXEvolution99"
+  },
+  "date": {
+    "day": 1649203200,
+    "full": 1649209937,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_txb0qr",
+  "picture": {
+    "filesize": 549885,
+    "fullUrl": "https://preview.redd.it/24rs7cw8etr81.png?auto=webp&s=db32535e0e701085e69e38604b11ddacd4160ac8",
+    "hash": "5bf6a21cfb",
+    "height": 1200,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAIAAACk6KkqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABm0lEQVQYlQGQAW/+ADQjEikaDCsaDC0dDjEiEysbDCkZCzIiEAAyIxUiFAodEAklGA4pGxEcEAghEwotHxMAOysZSzUfQS4bNSUWMiMVQzAbSzYgQC4aAD8tGUo2IFI5Hz0pFTQjEVU6H003IEQwGwBKNBhkSidKNBs3JhQzIhI4JhUnHBEpHA8APSgSOicTPioVPywYOScVOigVTj4nNigWACIVCx4TCjYlFEUwGj4qFzsnEywdDjEfDwAqGwwoGgwzIhFpSyNsTSQ7KBUjFwstHQwAUTsbPScPLh4NUTscW0MfLRwNNSMQRjIWAGtSJlg8FlQ5GFtAHl5DIEozFU42F1g+GgCPdj+Yez2OZSmZbTGfcTKJYih3WSaeh0kAfVsmh2YsfVggjWgonncvimMkjGIkkm4uAH9YIGxMHWhIHMeiSr+XQG1LHItjJYhhIwCNZSV/XiaAYizkv1ngs06yiTt8WiV+XSYAqoEzzKlJv59I3LBN3q9L3rJPyKBHkmspANmvTN+wSui+VeO5UtanRM+nVOPBa9exXziRaGIz2YZtAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/24rs7cw8etr81.png?width=640&crop=smart&auto=webp&s=3a5abc452d4d98d31bf7859da1d7503c474751ea",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lair of the Guardian Sphinx",
+  "url": "https://www.reddit.com/r/dndmaps/comments/txb0qr/lair_of_the_guardian_sphinx/"
+}
