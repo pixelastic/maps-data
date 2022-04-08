@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1649289600,
+    "full": 1649347297,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tyg9dv",
+  "picture": {
+    "filesize": 202146,
+    "fullUrl": "https://preview.redd.it/vrnsgbisq4s81.jpg?auto=webp&s=22fd6797bf3e69430a45ee49acf68723e8658f8a",
+    "hash": "1107f72ef3",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACIQAAIBAwMFAQAAAAAAAAAAAAECAwQRIQASEwUiMUFhkv/EABQBAQAAAAAAAAAAAAAAAAAAAAb/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIREjH/2gAMAwEAAhEDEQA/AM9U8VM0tJMwYxMwDPIwYqlrJcW9Wx80jkopJZmnqBT3fsTkK3FhnxnN8nQ6m1NIVM0pjlDMQmw7u4Ajxi/zV3TKatlp2kpYA8buTueJST+s20esHAnsS0XvNn//2Q==",
+    "url": "https://preview.redd.it/vrnsgbisq4s81.jpg?width=640&crop=smart&auto=webp&s=9cc637d0e22c919477de20be156bf7485ba94b52",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tyg9dv/desert_ruins_oc39x52/"
+}

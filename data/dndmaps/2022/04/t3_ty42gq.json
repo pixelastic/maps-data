@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1649289600,
+    "full": 1649302773,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_ty42gq",
+  "picture": {
+    "filesize": 144639,
+    "fullUrl": "https://preview.redd.it/wxpxnerz11s81.jpg?auto=webp&s=4d64891a7b3280b06db9974cd8b560b70a481cdc",
+    "hash": "f46681d381",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAJRAAAgAGAQIHAAAAAAAAAAAAAQIAAwQREiExE0EiM1FhcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAWEQADAAAAAAAAAAAAAAAAAAAAMTL/2gAMAwEAAhEDEQA/AM4IarlhkyM9dMBsuNnK3xEostZIeoZwMjiqjxH77CEINOS1366nSg6QX7/vEIksVYvI8/hkve59vWJlISGf/9k=",
+    "url": "https://preview.redd.it/wxpxnerz11s81.jpg?width=640&crop=smart&auto=webp&s=92f67179a65ca34196740e202672507d417fb5e1",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A ravine map with a bridge in a forest",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ty42gq/40x40_a_ravine_map_with_a_bridge_in_a_forest/"
+}

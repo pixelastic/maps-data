@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3c9z46g4",
+    "name": "GoAdventureMapsEx"
+  },
+  "date": {
+    "day": 1649289600,
+    "full": 1649317863,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_ty7xz1",
+  "picture": {
+    "filesize": 107176,
+    "fullUrl": "https://preview.redd.it/atjqaeuea2s81.jpg?auto=webp&s=9c3d7c63abc478a6e11c82cbde7e55aa0329f242",
+    "hash": "0d928bbc1c",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQABhEFEiFBEzEUFVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgMREpH/2gAMAwEAAhEDEQA/AMktTTIUhiX9ihHxkDPm3HcnjjHGPf7inEW4rDhR24zthjUHG0hKpTk91KnT2cA4FSLE15qC9GOQhSxvQRyrv1QZYeUSUpcA6GKnmNbLZfY62uQJ/9k=",
+    "url": "https://preview.redd.it/atjqaeuea2s81.jpg?width=640&crop=smart&auto=webp&s=4adfa17b60e5a5739bc3a770c0b97d554421c20f",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 194,
+    "value": 194
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ty7xz1/dragon_lair_25x35/"
+}
