@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pou0u",
+    "name": "Chaouleon"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649444681,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tzasl1",
+  "picture": {
+    "filesize": 81917,
+    "fullUrl": "https://preview.redd.it/ek8s044zrcs81.jpg?width=1708&format=pjpg&auto=webp&s=7b4137778ee7278310ad1845ef7eb54b0a7be897",
+    "hash": "76042face3",
+    "height": 768,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAABAwMEAgMAAAAAAAAAAAABAgMRAAVBBBITIQYiFlGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAACEQABQSH/2gAMAwEAAhEDEQA/AJ1b2bcPH2nXNOyplKNzxKASs5EnOOqn95DYt9t2MsIlLhJ4lBR9upOYFKNjnxFC0JXxnWyRGNsT+0Uuylq0GgAUVAckDkJj2+sVQQV3b2ATfFk//9k=",
+    "url": "https://preview.redd.it/ek8s044zrcs81.jpg?width=640&crop=smart&auto=webp&s=b0032c82116c3c4135dce12b9373e4520807c6e2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Curse of Strahd: Kazan's Tower (50x60)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tzasl1/curse_of_strahd_kazans_tower_50x60/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8chioeqh",
+    "name": "talesfromthepost"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649436729,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tz7xcn",
+  "picture": {
+    "filesize": 129299,
+    "fullUrl": "https://preview.redd.it/ekh003oh4cs81.jpg?width=1960&format=pjpg&auto=webp&s=80ff5aa85b3e1463c12dea6ef4991550b1aee702",
+    "hash": "eae14c3bfd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIG/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBBEFABIhMQYTFCIjgf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/AMcvHSW3nEyMDLkqIKy79ZSo3fFc8joH91OMRmk5hl5pudEhGUk+z2UgIIAKTRoVyaHGnyN7yONmJDDTryQ2VLbDfWwmkjrscDQJmefkstJlPOLC0pLfplKlGhfyoDaDfHepelq9yMok/9k=",
+    "url": "https://preview.redd.it/ekh003oh4cs81.jpg?width=640&crop=smart&auto=webp&s=924ece40dc021bf19abb8fea5c84939d8265bc0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Ravaged Village",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tz7xcn/ravaged_village_28x2870ppi/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649423687,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tz3ap9",
+  "picture": {
+    "filesize": 158958,
+    "fullUrl": "https://preview.redd.it/tsodt1pq1bs81.jpg?auto=webp&s=27ed71198c438edb0edc53838a8501f01d2a31c2",
+    "hash": "48e7630c64",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIxAAAgECBgIDAAAAAAAAAAAAAQIRAwUABBITMVEGQSKBof/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMhMTL/2gAMAwEAAhEDEQA/AMX8ct1LPUnSX3S0oQRpUdmfrjBb/ZWy+dYI6wfffHWLWK4pkqcUqG4zAa21AQB6H5g19u+uum38BEmYMk4eSy1jklBUpv1P/9k=",
+    "url": "https://preview.redd.it/tsodt1pq1bs81.jpg?width=640&crop=smart&auto=webp&s=577d11fada08ed4deaedf9cb6b9f235a552c9c41",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 195,
+    "value": 195
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Pentguard City - D&D map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tz3ap9/pentguard_city_dd_map/"
+}

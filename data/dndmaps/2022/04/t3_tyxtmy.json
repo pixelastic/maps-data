@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649401939,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tyxtmy",
+  "picture": {
+    "filesize": 76098,
+    "fullUrl": "https://preview.redd.it/jap258d999s81.jpg?auto=webp&s=abf05b9e89c439877176cbebc6cc0db8903ee4bc",
+    "hash": "d6f2050d05",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEI/8QAIRAAAgAFBQEBAAAAAAAAAAAAAQIABAUREgMhIjFBMjP/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAQUAAAAAAAAAAAAAAAAAABITIiNh/9oADAMBAAIRAxEAPwDPdNkMsERGCXFzbk7ebRapIFcl1EbC585I3R2g0+d/N1dsAwPfJG8hT88z5ZMxW5AA+tRu4RFIKxzD/9k=",
+    "url": "https://preview.redd.it/jap258d999s81.jpg?width=640&crop=smart&auto=webp&s=6d459e21a173b2f38b8dc0ad670289bb634e070e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Castle Core Room Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tyxtmy/castle_core_room_battle_map_30x30/"
+}

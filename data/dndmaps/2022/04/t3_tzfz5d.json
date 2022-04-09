@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58a9fckw",
+    "name": "XM-34"
+  },
+  "date": {
+    "day": 1649376000,
+    "full": 1649459662,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tzfz5d",
+  "picture": {
+    "filesize": 75110,
+    "fullUrl": "https://preview.redd.it/aqx59tnt0es81.jpg?width=6000&format=pjpg&auto=webp&s=0b10a7b8cf55929d56394f93b1bcb97d10a2e51d",
+    "hash": "f6969b1dda",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwj/xAAiEAABAwMDBQAAAAAAAAAAAAACAQMRABIhBDFxIiMyUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAAIDAAAAAAAAAAAAAAAAAAARAUFh/9oADAMBAAIRAxEAPwCfm2DfeAGzgolFu6U4+UPd02qOM2rC2lMrylABE0rZtplCxjekIzRbp8iWfS52qVg4Wn//2Q==",
+    "url": "https://preview.redd.it/aqx59tnt0es81.jpg?width=640&crop=smart&auto=webp&s=86561ba9ca22e6511adae403f5cdf63d8e8bab42",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Hänsel & Gretel - The Gingerbread Witchhut - 40x40",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tzfz5d/hänsel_gretel_the_gingerbread_witchhut_40x40/"
+}
