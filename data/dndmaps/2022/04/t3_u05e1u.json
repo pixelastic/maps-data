@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1649462400,
+    "full": 1649548047,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_u05e1u",
+  "picture": {
+    "filesize": 70255,
+    "fullUrl": "https://preview.redd.it/t4rp7smqals81.jpg?auto=webp&s=f78ad02d9b6943967e6b5bf514dd5bad9e468872",
+    "hash": "7d6c771a88",
+    "height": 362,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAJhAAAgEEAAMJAAAAAAAAAAAAAQIFAAMEEQYSUSEzQURxc6Gy0f/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACEQMh/9oADAMBAAIRAxEAPwDPcTiefz1BkJHIKrjHmRiLrNbVwDu2QBr56UeWlMaVxcjJlpOVkc27zJaR1XdvQBDhdgImzrs6eNS3nm9fykP31r2R9jTYV9ZHzoZs/9k=",
+    "url": "https://preview.redd.it/t4rp7smqals81.jpg?width=640&crop=smart&auto=webp&s=a8ce09400d843041ddd74d29ee43b2d74d1e259e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Thuluma World",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u05e1u/thuluma_world/"
+}

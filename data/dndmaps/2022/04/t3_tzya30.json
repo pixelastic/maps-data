@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1649462400,
+    "full": 1649526198,
+    "month": 1648771200,
+    "week": 1648944000
+  },
+  "id": "t3_tzya30",
+  "picture": {
+    "filesize": 112731,
+    "fullUrl": "https://preview.redd.it/9bsn05b4ijs81.jpg?auto=webp&s=547caeba406a24404c1600780aaa08546a0d9ef0",
+    "hash": "b5752ff725",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBBEFABIhYVEUFSIyQv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECIRExMv/aAAwDAQACEQMRAD8AwmDEQGmDIdD6xtUiIgWSkk7go/nSU3KT8azOx4WpvIyl3LO/cFJr4oseBxq8M07ik+8SgwVxQAhhauX1LuwqvHfWisnJeyUwzfTIjMyF2VtpuuftfV6dSu0SnnR//9k=",
+    "url": "https://preview.redd.it/9bsn05b4ijs81.jpg?width=640&crop=smart&auto=webp&s=1ab0445fb988c69227e8cb433e12f5cb50675337",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Encounter - A Bloody Welcome",
+  "url": "https://www.reddit.com/r/dndmaps/comments/tzya30/40x40_jungle_encounter_a_bloody_welcome/"
+}
