@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_868rtyp7",
+    "name": "windofwall"
+  },
+  "date": {
+    "day": 1649548800,
+    "full": 1649601455,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u0iwjo",
+  "picture": {
+    "filesize": 136773,
+    "fullUrl": "https://preview.redd.it/uw5k3o1jqps81.jpg?width=647&format=pjpg&auto=webp&s=5ae2caa2df9c1f84db7f3ee133837189b65f66ee",
+    "hash": "289b0ad3e9",
+    "height": 1133,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAqEAABAgQCCQUAAAAAAAAAAAABAgQAAwURIVEGEhMUFSIxQZFVYXHR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAxESgaH/2gAMAwEAAhEDEQA/AI9pczlN3LVVOUl0xlSihalnWWZhBUSQm2AOA62sbwe3wZjwfuFFao1VY0YtnVPcy3W0C0oMvnmBSfbt85GBvA6n6d+8xWZ7WYlVPsImqpFTfHRP/9k=",
+    "url": "https://preview.redd.it/uw5k3o1jqps81.jpg?width=640&crop=smart&auto=webp&s=523bbe152820b8777dbadcc4e8a1b61539d6cacb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Void Prison battle map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u0iwjo/void_prison_battle_map_21x35/"
+}

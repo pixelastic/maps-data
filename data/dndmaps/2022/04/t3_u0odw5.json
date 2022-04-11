@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_abpkazqr",
+    "name": "fenfente"
+  },
+  "date": {
+    "day": 1649548800,
+    "full": 1649617197,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u0odw5",
+  "picture": {
+    "filesize": 113057,
+    "fullUrl": "https://preview.redd.it/8mi1te070rs81.jpg?auto=webp&s=f34cbb253563f9dbf98463674245c452f7e8b3fd",
+    "hash": "1097d3333d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACIQAAIBBAAHAQAAAAAAAAAAAAECEQADEiEjMTJBUWFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDDVwW2zMWE6XUgn347UEElmBlQNkA/lLzKlhnDbI1I5VRbS1g3Hhk6RGm+UF//2Q==",
+    "url": "https://preview.redd.it/8mi1te070rs81.jpg?width=640&crop=smart&auto=webp&s=f8fa6a10d35cb46b29ae162b5766dbb16625af83",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Crypt of the Flawless Eagles, an infamous mercenary group",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u0odw5/crypt_of_the_flawless_eagles_an_infamous/"
+}

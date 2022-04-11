@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1649548800,
+    "full": 1649606354,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u0kjsq",
+  "picture": {
+    "filesize": 72802,
+    "fullUrl": "https://preview.redd.it/s3ndaz9x4qs81.jpg?width=2800&format=pjpg&auto=webp&s=3c142f33fe9846207a04b55f2bfef87e8b4d0480",
+    "hash": "931ebbf691",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACMQAAIABgEEAwAAAAAAAAAAAAECAAMEBRExIQYSIlEUFbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAYf/aAAwDAQACEQMRAD8AyyTTNXVyUlmSXKAbyljgH2Sd4zqI3i31NvPxLkizFZMqU8tHk5OjqHoLz9fcEraTsdJgx2sNA8kHHOQf2C5XKd1DXIHkqJpISUFOBknR9wEKK5nrDO//2Q==",
+    "url": "https://preview.redd.it/s3ndaz9x4qs81.jpg?width=640&crop=smart&auto=webp&s=0c7281d35d1127c800391b8953f8c22f06ffcd3c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Portal Fighting Pit Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u0kjsq/portal_fighting_pit_phased_battle_map_40x40/"
+}
