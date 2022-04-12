@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1649635200,
+    "full": 1649681196,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u16xx3",
+  "picture": {
+    "filesize": 47477,
+    "fullUrl": "https://preview.redd.it/pzxn4p0l9ws81.jpg?width=1000&format=pjpg&auto=webp&s=8e00b0c90217506681ee5e41454e2e763798de7f",
+    "hash": "561cbbd9d2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEB//EACAQAAIABgMBAQAAAAAAAAAAAAECAAMEERIhIjFBBYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AwaYGRy5PG3QglvbgcTf3s/hhGUzTkSWCS5Hurk6imv8AnVlBOyqpOCjtsla27bsTEhr/2Q==",
+    "url": "https://preview.redd.it/pzxn4p0l9ws81.jpg?width=640&crop=smart&auto=webp&s=d71fc2c185fb5ccbb80b3244baad6f19b076dcba",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Huge Necromancer Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u16xx3/huge_necromancer_dungeon_80x80_free/"
+}

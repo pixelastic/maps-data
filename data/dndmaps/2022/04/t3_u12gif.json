@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6lzkwhb1",
+    "name": "ArtifexWorlds"
+  },
+  "date": {
+    "day": 1649635200,
+    "full": 1649663956,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u12gif",
+  "picture": {
+    "filesize": 44754,
+    "fullUrl": "https://preview.redd.it/dxeiccudwus81.jpg?auto=webp&s=cdf0c51d2ff386a701b60b9a9e2f409770fe84b4",
+    "hash": "7afb684518",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAH/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQRBSEzNUFhcXKx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDQb95kkdZZCYicg5wOwqjluBcNJNMq26rnY7HbpR2vcJPJ+UPrHJX9Kg//2Q==",
+    "url": "https://preview.redd.it/dxeiccudwus81.jpg?width=640&crop=smart&auto=webp&s=e006c253433f580adf6a6e3d1313fe38cc30a1ff",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Small abandoned Dwarven city entrance",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u12gif/small_abandoned_dwarven_city_entrance/"
+}
