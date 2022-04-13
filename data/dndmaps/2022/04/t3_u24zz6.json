@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1649721600,
+    "full": 1649785800,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u24zz6",
+  "picture": {
+    "filesize": 126319,
+    "fullUrl": "https://preview.redd.it/k7o5pmdpw4t81.jpg?width=2100&format=pjpg&auto=webp&s=893cbb6d45af591901880ac1f4033c033b89143f",
+    "hash": "fb7951c0cd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAH/8QAHRAAAwEAAgMBAAAAAAAAAAAAAQIDEQAEEhMhMf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECEUES/9oADAMBAAIRAxEAPwDL2VWlDVUAyBZ/EEk4N35vDSM/VbynESM3CqVAw5y61JvCNDfqqWRQyu43Mz84qMglX0vFmKMpGjB8J5PvB24cVp//2Q==",
+    "url": "https://preview.redd.it/k7o5pmdpw4t81.jpg?width=640&crop=smart&auto=webp&s=c9752a63b80dd0cf44f349a65b061809fa504842",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Hoarder's House... With a Poltergeist Problem",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u24zz6/hoarders_house_with_a_poltergeist_problem/"
+}

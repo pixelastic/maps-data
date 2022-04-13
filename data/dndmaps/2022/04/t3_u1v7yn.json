@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2ovdjqsz",
+    "name": "Robo-plop"
+  },
+  "date": {
+    "day": 1649721600,
+    "full": 1649756809,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u1v7yn",
+  "picture": {
+    "filesize": 941970,
+    "fullUrl": "https://preview.redd.it/g2ug4qjgk2t81.png?auto=webp&s=abf4a3afd8626dd931c9f547ccd8c46b38d5d309",
+    "hash": "da69db67ae",
+    "height": 1024,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAIAAACgHXkXAAAACXBIWXMAAAsTAAALEwEAmpwYAAABh0lEQVQYlSWO22oTURhG92sI2j37P+3TmJkyMzYJJKP1kEBFQfBS70QRtIRoYg3JpNO0FwGrlz6PTybTrLvF910stWu3v/Y3l5vVdrNe/fzx53a/a9dXl83t/nrXNurb7LxZfd+uF81q8Xvf7prlYv71Yjm7WM4X83NV1+PhcDgejZ6dPn7/dlKPR4PBoCiKsijy/FgxizFGax1jOKl63vtE68xz5gnBKBHhO7x3Yp1YAcAnle+nCSMoRAQAIrJWhMkYc9CeA0tGWSvMlBjQwAmKATDGMHN0woQKbSgf8oenZlIkZ5VJHSOxdy5NUxZR0zKZVnj95uhjfa99db+MCMTSYYlY9WPy+bnevD6aTfHfF37Z9wBYP8qKPAijegBuUprlmf50mvx9l70Y5JbNqLT9wmVBlPM+WDoOZICC9wAQPZ/ktuqxZ1TWWiIygIdgRAKAYDENh3JEQmRmsZZFEFFrTdTlIaJiZgBgkejEC+skQUR7Rzc755i6d5mFIotInYlIjJGZ/wOPAGVkNDmC+wAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/g2ug4qjgk2t81.png?width=640&crop=smart&auto=webp&s=ccf740a72a626eaef1119fa2c6e7f4dbb188a69b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Hags cave lair (30x48)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u1v7yn/hags_cave_lair_30x48/"
+}
