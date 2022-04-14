@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1649808000,
+    "full": 1649844979,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u2n1te",
+  "picture": {
+    "filesize": 135188,
+    "fullUrl": "https://preview.redd.it/wxrf8nbmu9t81.jpg?auto=webp&s=f451979ee28deff6c082fbb42a492431199aada6",
+    "hash": "44ed6d2c86",
+    "height": 705,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIRAAAgICAgMAAwAAAAAAAAAAAQIDEQQFABIhMTITUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABIRL/2gAMAwEAAhEDEQA/AM50GNlbLYbQjMmiRVZAaJ7EkqPA/nKw4U2u3UWJlzzT4k4Yh0fr0IsiruvkiuH1ByNfn5E0arJhzsDLNCfm2v178XxuyikytwgVj+LFY9nRltVZT1r93fJboJuun//Z",
+    "url": "https://preview.redd.it/wxrf8nbmu9t81.jpg?width=640&crop=smart&auto=webp&s=20bbe29443b72415979dc626f1ff82f2e0442f4e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Heart of The Jungle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u2n1te/heart_of_the_jungle_39x43/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1649808000,
+    "full": 1649851427,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u2or44",
+  "picture": {
+    "filesize": 127061,
+    "fullUrl": "https://preview.redd.it/2e3vkq9odat81.jpg?auto=webp&s=95924264d531c44ef0160a13bd45091caac1748b",
+    "hash": "7e82fd65d1",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDBBEAEiEiBTFBQmFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwDC/D1FszF3IKQkO0YUszjPoB76glGJXG3b2PUjkfWn1WlXpJbgYNMiBgHl+XGQB+86LuWDYsyTSLl3OSdmdOa1k8//2Q==",
+    "url": "https://preview.redd.it/2e3vkq9odat81.jpg?width=640&crop=smart&auto=webp&s=8c29587f27c110ac64907910e36f12e2b4681a5b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 82,
+    "value": 82
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Bog Troll Cave Battle Map (Mini-Dungeon) - 30x45",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u2or44/bog_troll_cave_battle_map_minidungeon_30x45/"
+}
