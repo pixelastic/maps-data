@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1649894400,
+    "full": 1649962856,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u3op5y",
+  "picture": {
+    "filesize": 56712,
+    "fullUrl": "https://preview.redd.it/widjw5kukjt81.jpg?width=2048&format=pjpg&auto=webp&s=24445323da60e7d0845463a6c2879a00f04dd0e6",
+    "hash": "b922293a42",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAEQNBBCETIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAMBAQAAAAAAAAAAAAAAAQASUQIR/9oADAMBAAIRAxEAPwDGVxN5jkbIxF9JoSfMW1DAe111EbA1C8tzQANV8gg2Ni9JRzyf/9k=",
+    "url": "https://preview.redd.it/widjw5kukjt81.jpg?width=640&crop=smart&auto=webp&s=69d8d7a24f3ddbf3740ca9a3da198aebe8a8d4b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Grathrog's Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u3op5y/40x30_grathrogs_cave/"
+}
