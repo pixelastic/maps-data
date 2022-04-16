@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1649980800,
+    "full": 1650007050,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u42gti",
+  "picture": {
+    "filesize": 124895,
+    "fullUrl": "https://preview.redd.it/00mdnngk8nt81.jpg?auto=webp&s=c1534f6c5c00f439c7947d532e909300d800acbe",
+    "hash": "51567c10ce",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDBAURACESMQYiQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAHhEBAAICAQUAAAAAAAAAAAAAAQIDABESFDFBYdH/2gAMAwEAAhEDEQA/AMdCrVbCivIIBeXTFDokshOmGvzYGyPzfJXFiz8aurm4o1ysR8ypjWSJoiB4sGXYBB31vsEfzh/4rkYMfUssKzz2QweCdQAdMwBXzHY98YZzLY2GvZM8cSzqCoj19m+vWx6J998WRWxJctYDvOmZ1NDKK7JeR0dvXzP/2Q==",
+    "url": "https://preview.redd.it/00mdnngk8nt81.jpg?width=640&crop=smart&auto=webp&s=f0a94ba28f4796deb826e59627788e5892af0b3d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.81,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Old Snowy Harbor Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u42gti/old_snowy_harbor_battle_map_30x30/"
+}

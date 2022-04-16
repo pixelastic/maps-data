@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_wg0lk",
+    "name": "maatlock"
+  },
+  "date": {
+    "day": 1649980800,
+    "full": 1649993507,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u3yxgw",
+  "picture": {
+    "filesize": 79043,
+    "fullUrl": "https://preview.redd.it/98ejw1z14mt81.jpg?auto=webp&s=da45d16eea5b44433bb964a3265b4db13d7271bd",
+    "hash": "bd6abd76d4",
+    "height": 567,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRBQAGIRIxQVETIjL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8AxDbEWRBxoddYSH3QPiV0oVbShfo+b76aiM/Exsme2ylcBoLSWl0L4rkV7I1NSN3K/LERtxs3YfskX4FEcaJmslOTgYriZNMS00tgJ+oNcnvqBWJt/9k=",
+    "url": "https://preview.redd.it/98ejw1z14mt81.jpg?width=640&crop=smart&auto=webp&s=a127a23212dc80f8fb2065118e44b8e3a916b0b3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Arcano-Tech Dungeon, 61x54",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u3yxgw/arcanotech_dungeon_61x54/"
+}

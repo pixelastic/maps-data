@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1649980800,
+    "full": 1649991306,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u3y9ut",
+  "picture": {
+    "filesize": 99089,
+    "fullUrl": "https://preview.redd.it/3j4yvtxqxlt81.jpg?auto=webp&s=9d88674a8f63d9c230a29e875639a04a95915c19",
+    "hash": "7971a18aee",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFB//EACMQAAIBAwQBBQAAAAAAAAAAAAECAwAEERIhMUFRFDIzgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAAiEiof/aAAwDAQACEQMRAD8AxSK5VS5VXZFUZDDBztnjPdEEM0cauFmlBTUG06ti3LeO+fFUI51MNoJIIibYgjK/Icg4YdjbH3SX1+95fy3HpobdZPbDbqVRccAD9o1DslEWCGTyf//Z",
+    "url": "https://preview.redd.it/3j4yvtxqxlt81.jpg?width=640&crop=smart&auto=webp&s=84914edd3f43a101594df2c5f6d96c22c91a94d6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Harlequin's Haven - Rotating Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u3y9ut/harlequins_haven_rotating_dungeon_102_x_102/"
+}

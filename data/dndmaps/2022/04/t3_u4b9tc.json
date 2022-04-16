@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1649980800,
+    "full": 1650038471,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u4b9tc",
+  "picture": {
+    "filesize": 148028,
+    "fullUrl": "https://preview.redd.it/37nxcig0upt81.jpg?auto=webp&s=48254b5ecb913eeecc742e54e590955d29f1e268",
+    "hash": "4e0ce05fd0",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAIBAwMEAwAAAAAAAAAAAAECAwAREgQFIRMUQlExQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAAIDAAAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwDGVjEnQbTRqEuWIcA2AAyBHrkUhukKx6kGOESh1yzKfNyaoxqxjjbRiMWjGUay2xHvn9NC3dz3KlZ/Aed/s0xdMo8P/9k=",
+    "url": "https://preview.redd.it/37nxcig0upt81.jpg?width=640&crop=smart&auto=webp&s=be939740710f56a9e242a71cfef34b12a4862f90",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Thieve's Den",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u4b9tc/thieves_den_oc30x40/"
+}

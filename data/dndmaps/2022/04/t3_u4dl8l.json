@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1649980800,
+    "full": 1650044862,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u4dl8l",
+  "picture": {
+    "filesize": 180653,
+    "fullUrl": "https://preview.redd.it/atybe0sjcqt81.jpg?auto=webp&s=98a76ef83d36ff3d460d21bf74540ca03dd6bcd5",
+    "hash": "9861943fa2",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEC/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBBESACExYQUTUXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8A35OeGGGQU4fKGNUEeGK2IFzvudz33oUsCNhJcIZVDlWRtieePnn90qmmaqp448BJeJC6GHJ2I4YgkAC1r/Q1Kj2JPIr+Plc32IgBFujloYrStOj/2Q==",
+    "url": "https://preview.redd.it/atybe0sjcqt81.jpg?width=640&crop=smart&auto=webp&s=3bb6dd461c57d9c179403e64b13e371386cc3d02",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Normal Quarter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u4dl8l/normal_quarter_32x44/"
+}
