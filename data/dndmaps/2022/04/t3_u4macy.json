@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ahmnb",
+    "name": "Mr_Miyagii"
+  },
+  "date": {
+    "day": 1650067200,
+    "full": 1650070642,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u4macy",
+  "picture": {
+    "filesize": 106159,
+    "fullUrl": "https://external-preview.redd.it/UXdts-yoMe-SMy8woyO5cOb3ptf7qFOJ6WTsl60prWY.jpg?auto=webp&s=5c039b6726be4ab0a23c5ae590c13998ace29084",
+    "hash": "51720f552c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERIhIgUxkUFCUXHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AwlYrebhJKkRRDglTzO2Bt60NYYArh1Z29unIB81Q9duoZbe3jBLAMAX45xpA7jf58UiuzEkbJESRpyG/PuqeOQqqaz//2Q==",
+    "url": "https://external-preview.redd.it/UXdts-yoMe-SMy8woyO5cOb3ptf7qFOJ6WTsl60prWY.jpg?width=640&crop=smart&auto=webp&s=26ec965740a4b55c558430c05d9ecfd0eaed973c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A remake of one of my earliest pen and paper dungeons.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u4macy/a_remake_of_one_of_my_earliest_pen_and_paper/"
+}

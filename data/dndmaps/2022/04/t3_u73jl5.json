@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1650326400,
+    "full": 1650369868,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u73jl5",
+  "picture": {
+    "filesize": 115072,
+    "fullUrl": "https://preview.redd.it/xvfg9eypqgu81.jpg?width=2100&format=pjpg&auto=webp&s=64a9ef4e0f2d7e1953dd068a41b75df3815e1945",
+    "hash": "90368f8e50",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAJRAAAgEDAwMFAQAAAAAAAAAAAQIDBAURACEiEhNBBhRCUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQABBQAAAAAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/AM9t9jaW4xT3qp7awuuZJuYZSowwOfJKro/VtlNPcpz1PIvcMKKu2DtywN9jjzqpYLnTXChqKeSmjCRPG2w5ooHSMD5Dz+aC+XMW+uX2xcSKrxjuR8JOogiUjf8An3qGXYos/9k=",
+    "url": "https://preview.redd.it/xvfg9eypqgu81.jpg?width=640&crop=smart&auto=webp&s=5ae4e7dded8a55efc583178bec6300cb80c289f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ancient Druid Circle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u73jl5/ancient_druid_circle_30x30free/"
+}

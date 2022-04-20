@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3og0evtp",
+    "name": "ephemefra"
+  },
+  "date": {
+    "day": 1650067200,
+    "full": 1650149388,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u59aoz",
+  "picture": {
+    "filesize": 609914,
+    "fullUrl": "https://preview.redd.it/ftc01ulvtyt81.png?width=2480&format=png&auto=webp&s=3577612af7eea47baea6d923d60fdbed793969ca",
+    "hash": "84fd81e295",
+    "height": 453,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJklEQVQokQEbAuT9AHtrS3xrTV5XQ39uUG5gSnFkSXRlS25eQ1ZQQEtJQW9jSaKMZq+dd9jKnP/xwNrGnABhWUJ2aEyHdlFhWkhoXUdHR0B5aEubfV2cimiZjmrHtoz337L/8cD/67zBqX57bE4AjHJVZFxGZGBIaGRDg3FSfmxTwaB/99as/+u9/u2+/+e59tWrwqmBn4hpbV5Dk3xZAGheRl9XQU9MP4VxTMmZd+vBnPzmt+zbq9m/lqyXd5WBY39vVmBXQFVRPlJPR3NrTgCXfWC3kW+9mnfkuJTuxJ/63rP45LS1nniVfVpUTDtRTEB9bU+OelqPe1xzZkqUfVoA8cuk+div/uK3/OW5+uO27taq9N+v/ui5/9+0wqaBe2dDjXRYYFdFbWJJaFxGXVNCAP3fs/HWqd3Gmdq9k7ObcZSCYW9qU7ergfTgsP3pueXHnKGPb2BcS5F+XYl3UpSJagCylnSAb1dnXkVjXDp4ZEtmXEVKSEB5a0ufiWLUu5L/6rr+6bf12qv1267v2Kr/7bsAdWZOX1lFYFlFb2NIZFxInoBeaGFHgm5OdGBCdmRHtpt1kohkppZwkIFfybSMm41qAIV1VWRdSHRjP4FrR3hsTox5VnVoT4BuUVRQPI12V4JrUT49OGpeRXxqSGtiQklHPwBgXUdnY0unkGpxZ0xHRkJqYkyTgVxZVEiVgmBlXUl+cFSSfVtkX0dfV0eXf1pfWEe4TBBwvxfo6wAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/ftc01ulvtyt81.png?width=640&crop=smart&auto=webp&s=7e06ea53f049eab9c70ada97ac47ce5b2b1e9943",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Four maps I've drawn up for mine and my partner's campaigns. Only two have tiles already as I normally add them as an overlay in the program I use for running combat. Hope they're useful!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u59aoz/four_maps_ive_drawn_up_for_mine_and_my_partners/"
+}

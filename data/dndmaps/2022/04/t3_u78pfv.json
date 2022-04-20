@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1650326400,
+    "full": 1650384435,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u78pfv",
+  "picture": {
+    "filesize": 91894,
+    "fullUrl": "https://preview.redd.it/tdvfv3xmeiu81.jpg?width=2800&format=pjpg&auto=webp&s=65718496aa03855a8b948c96eb54637fe091e140",
+    "hash": "6d7de0ad39",
+    "height": 1040,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACMQAAEEAgEDBQAAAAAAAAAAAAECAwQRACEFEjFhEyOBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8AzDxjyp8BhnjmW2WUBK1utV19hojXneS57UQTpFxIxPqKvXnBO5dHJpYYRIa9tjfTQKjXa/j7OJLmha1LLSyVG9C/3BEs0uYqqLN//9k=",
+    "url": "https://preview.redd.it/tdvfv3xmeiu81.jpg?width=640&crop=smart&auto=webp&s=898302542aff0449f6948c53e50feef07c817c52",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 68,
+    "value": 68
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Overwhelmed dam phased battle map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u78pfv/overwhelmed_dam_phased_battle_map_40x60/"
+}

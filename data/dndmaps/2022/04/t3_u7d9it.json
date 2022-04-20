@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1650326400,
+    "full": 1650396342,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u7d9it",
+  "picture": {
+    "filesize": 141300,
+    "fullUrl": "https://preview.redd.it/x01vwql3eju81.jpg?auto=webp&s=4177131eefccc3f8c8c08a6da414719f99e8b042",
+    "hash": "3a27cec941",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQAEEiExE0EUJXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAERABJBMv/aAAwDAQACEQMRAD8Ay12Do8MEJZpH8gUggLY7HPeVFqPjxNC0VMSLpNwau75xNE8ia1ZZfEt8AbrurP7jSt9i0tA7gRQYA7jR9+sBHlY5QErE7P/Z",
+    "url": "https://preview.redd.it/x01vwql3eju81.jpg?width=640&crop=smart&auto=webp&s=856c2849d93ea713b7a14dd7c371c484e81c4fdb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Harbor  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u7d9it/harbor_40x40_oneiromancy_maps/"
+}

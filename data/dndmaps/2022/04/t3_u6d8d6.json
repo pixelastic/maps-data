@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_56dc2",
+    "name": "TylerA8"
+  },
+  "date": {
+    "day": 1650240000,
+    "full": 1650288665,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u6d8d6",
+  "picture": {
+    "filesize": 123621,
+    "fullUrl": "https://preview.redd.it/s7cu9hmwhau81.jpg?auto=webp&s=bbf5b4e80ccd3ca71c7ef630ad08d44e9e7cab30",
+    "hash": "9ec1b66354",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURAAYSIjFBEyNRYfH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EACIRAAEDAAsAAAAAAAAAAAAAAAEAAhEDBCExQlFxgZGx4f/aAAwDAQACEQMRAD8ALmKoiKlLLyXZ7w5NNNdRAHfkfHbSBZWbuzqWIYilOX8tpJcf4g+kB8EfWNVr58badQzVU5izNwyHOK8oHRnPJJJ7/us7d11qK/20PPTpCVKeCXOYDYVgADxg6mSTXngPEMBsnFtl3onA00DSRfHHq//Z",
+    "url": "https://preview.redd.it/s7cu9hmwhau81.jpg?width=640&crop=smart&auto=webp&s=a3d58ee0bcd4911d14069a9b71534a61aae89213",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Infernal Turnpike",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u6d8d6/infernal_turnpike/"
+}

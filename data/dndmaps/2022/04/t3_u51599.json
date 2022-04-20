@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1650067200,
+    "full": 1650125704,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u51599",
+  "picture": {
+    "filesize": 95774,
+    "fullUrl": "https://preview.redd.it/5ghh88ya1xt81.jpg?width=2800&format=pjpg&auto=webp&s=017ccda1826fd5c1a1bd18322989e8df18694a5e",
+    "hash": "ebe458ba95",
+    "height": 1040,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAjEAACAQMEAgMBAAAAAAAAAAABAgQDBREABhIhMWEiQXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAcEQABBQADAAAAAAAAAAAAAAABAAIDEVGhwfD/2gAMAwEAAhEDEQA/AKOLcYbWRLxGtUZUj0V48ipL8kw3foj+6MpO6bTUk1Xp7crBGclQ9cA4z1kDoH80ibCgW6yWSHEnyo6zLsOaUjVBFAAdKc5x58nR/dNuWwXOYBFntis4ylRWU/I+D9j3pwCMOft9BRkLyBle5X//2Q==",
+    "url": "https://preview.redd.it/5ghh88ya1xt81.jpg?width=640&crop=smart&auto=webp&s=dd8674ee34a07f3b2b274f4996572ab7a7ec4f68",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Disintegrating Rainbow Bridge Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u51599/disintegrating_rainbow_bridge_phased_battle_map/"
+}

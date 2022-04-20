@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6y4q3fs6",
+    "name": "Semnemrod"
+  },
+  "date": {
+    "day": 1650067200,
+    "full": 1650149180,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u5987c",
+  "picture": {
+    "filesize": 102986,
+    "fullUrl": "https://preview.redd.it/gjln3dm6zyt81.jpg?auto=webp&s=a5482f59287c54bcb574454d17bc52c8b22b7392",
+    "hash": "c8d000a3d5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACEQAAICAQMFAQAAAAAAAAAAAAECAwQAERITBRQhMUEi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACERIh/9oADAMBAAIRAxEAPwDM3Za0Fpq3TaMbyDWPnm/Rc/QPmRXhWsPwzwpXYL4dSMNGoq0GtJJKs8Skqwb0dcaqO5Z57BMjpHuG71rkyjGaD17EspYBryMn/9k=",
+    "url": "https://preview.redd.it/gjln3dm6zyt81.jpg?width=640&crop=smart&auto=webp&s=9bdd0dde13246d776c30ec4f6f0ad0c2e6f4573d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Hidden City",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u5987c/hidden_city/"
+}

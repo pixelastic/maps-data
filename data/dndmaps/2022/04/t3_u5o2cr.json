@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gmpyg",
+    "name": "Sprutnums"
+  },
+  "date": {
+    "day": 1650153600,
+    "full": 1650205406,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u5o2cr",
+  "picture": {
+    "filesize": 307121,
+    "fullUrl": "https://preview.redd.it/d9yqyspcm3u81.png?auto=webp&s=d458f68b28e840404497a4cf6b17f95c105cca16",
+    "hash": "747e62ad28",
+    "height": 564,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAIAAACpTQvdAAAACXBIWXMAAAsTAAALEwEAmpwYAAACNklEQVQokWP4DwP//v37+/fv////f//69f379/+o4O8/EPj//z8Dsob///+/fvUsJSPP3i0gp6B84tSZW7fvunrt+ufPX+EKGOCse/cfTp8x4/T+ZdvWTk9LT/Hy89cystIytLK096hvaDx29PDdew+hGv7+BWmoa2qXVtZ18vAtLMw+vGPhmsWTFszqdvcJMLFxj0+Ir6vOzymsgGsAOf3mrTs2Tp7GVk4qupbZ2amLZ3d3t1a6ewe4egUUF2VXVxaa2rjcu/8Q6oc/f/78//9/5pwFeiY2Zjaulvauqxb1+QQEahnZlpUWRsbEqOubV9U2I/wAcdXe/QdNrZ2NLZ22rpm+b/NcAzN7EysnWxefwLD4hNTcs+cvgjRAfPz46dPKuhY9M3ttIxtDS4cLR1aVFOVoGVn7BEYUFFc11Vfk52WtXLkMasOGzdssHTxsHF2XzO1ZuXBCRnrKwtldjq7eusa2bt5B9u7+ddXFC2Z2OXv4Pnj4CKRhx6496nrm+flZZw6uuHF6w5u7e7etmWFu4+zq529s4Ribmdo5vy27NispI//fv39QJxWX1yhrmZjbuppYOju5em9cPW39zjndy7uK20tzmwqW7Viy99Seuw/ug5wE8e7NW3dcvYMMzOyd/X1948JqptbO2j5twrq+uTtmHLly8OPHjygxDQEvX746fOTYoTOHDl7cu+bAitlbpm86uuHFm+fQhPP/37//qBqQwZ8/fz59+fTnz2+IwRClEAAAQEnGcSOvgqYAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/d9yqyspcm3u81.png?width=640&crop=smart&auto=webp&s=5762866b73226b3b9eca6a2afe9b53bad9b0ceb4",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Started making some dungeon hexagons",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u5o2cr/started_making_some_dungeon_hexagons/"
+}

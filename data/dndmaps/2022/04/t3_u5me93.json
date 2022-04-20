@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_122bi3",
+    "name": "YummyOr4nges"
+  },
+  "date": {
+    "day": 1650153600,
+    "full": 1650199808,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u5me93",
+  "picture": {
+    "filesize": 50943,
+    "fullUrl": "https://preview.redd.it/rmqt4uqm53u81.jpg?auto=webp&s=992d28fc000483e4ebed7c9efd816c87216f00db",
+    "hash": "1a909dc223",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQFESEABhIxIlFhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAAhAREx/9oADAMBAAIRAxEAPwDLKfTlyaciHU4QXKXFSlLZWlN1KHirx9Y9HUlUtkVOJGcfbQp1LYJI42JA7IyQbfehaLuqZSxLJQ3LdkNhoOSCVKbABtxN8d/mmc/ckyn00NwSGk1BBW7fPG4sQnA+c951DjA1Z//Z",
+    "url": "https://preview.redd.it/rmqt4uqm53u81.jpg?width=640&crop=smart&auto=webp&s=c5b734cd97050b65ed8ecac18aee2e2ecb8fe14f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Old Owl Well Underground Cave. dungeondraft_map file in the comments.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u5me93/old_owl_well_underground_cave_dungeondraft_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1650067200,
+    "full": 1650142518,
+    "month": 1648771200,
+    "week": 1649548800
+  },
+  "id": "t3_u56zz6",
+  "picture": {
+    "filesize": 58680,
+    "fullUrl": "https://preview.redd.it/g1ea2s9dfyt81.jpg?auto=webp&s=877b96d076331aed67858195f3e2b4a2aa75dad8",
+    "hash": "1ea80f53e7",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwME/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAAFEQYUITNxB0JRYYGSwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACEhH/2gAMAwEAAhEDEQA/AB/RVzs0ezPQ5bSN46vhxWST7Dygd/WtviFPaf0fZoiZTSocdStuyhKcjPJJIHJBz9uKMk9L5q6OgnsfylwDskpRLL2f/9k=",
+    "url": "https://preview.redd.it/g1ea2s9dfyt81.jpg?width=640&crop=smart&auto=webp&s=fb9d0864a2ec24d912665dd677132b93ab9e212c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Sunder",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u56zz6/sunder/"
+}

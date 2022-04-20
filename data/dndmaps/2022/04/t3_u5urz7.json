@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1650153600,
+    "full": 1650225224,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u5urz7",
+  "picture": {
+    "filesize": 75506,
+    "fullUrl": "https://preview.redd.it/aemgrswa95u81.jpg?auto=webp&s=bf0c6068ec9991df4102e3e4de47023ac1488687",
+    "hash": "523c3758b7",
+    "height": 1015,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUI/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQAEISIFE2ExMkFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECMf/aAAwDAQACEQMRAD8AzqsJn06PGg4WrELXmycK3uP79ZT6NqY4ZGVu4AaBKCyfNE/GAnVzPIbZrY8m2J39TidZVH//2Q==",
+    "url": "https://preview.redd.it/aemgrswa95u81.jpg?width=640&crop=smart&auto=webp&s=c709436d1fa0e56f572b89d0966d5d6f4c501e2d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 86,
+    "value": 86
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Within the mine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u5urz7/oc_within_the_mine_29x46/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1650153600,
+    "full": 1650229959,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u5wdan",
+  "picture": {
+    "filesize": 112132,
+    "fullUrl": "https://preview.redd.it/8ucas7gdn5u81.jpg?width=2979&format=pjpg&auto=webp&s=2dace253c093bfb8395a93a889c5cbd6624ca42a",
+    "hash": "99d1a3cf86",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIRAAMSITETIkFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oADAMBAAIRAxEAPwDLbTZWCs4F+0Fd6B5o7I+RDAkz4GqXbsdQ2sriAoYMHUEyPlQbIO8NyxPPuhDWXS//2Q==",
+    "url": "https://preview.redd.it/8ucas7gdn5u81.jpg?width=640&crop=smart&auto=webp&s=68112f39ef128d9c8ac0e2fefd20f449203aa094",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Strixhaven - The Badlands",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u5wdan/battlemap32x443200x4400_strixhaven_the_badlands/"
+}
