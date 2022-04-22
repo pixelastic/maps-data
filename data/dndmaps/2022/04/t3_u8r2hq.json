@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1650499200,
+    "full": 1650557236,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u8r2hq",
+  "picture": {
+    "filesize": 124219,
+    "fullUrl": "https://preview.redd.it/pp1gz3ohowu81.jpg?width=2800&format=pjpg&auto=webp&s=1d497b3e40f5a1e47d6cd6de5f7ce50c4c5f14fb",
+    "hash": "15ccbe4e83",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAACAQMDAwUAAAAAAAAAAAABAwIEBREABhIUITETIkFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACEUFR/9oADAMBAAIRAxEAPwBVXt6xzudwVUXRVIqXplKiksMomIkJE+OOTgcs+NUlu2rbmW6jmyFPGckLkeRBPeI76mUOp0RlTXPqOoSsKjFC8jgM8fcfkZwPrTl1VxmuBNRFOIiIWFgcQBgD8GpxubIkxyf/2Q==",
+    "url": "https://preview.redd.it/pp1gz3ohowu81.jpg?width=640&crop=smart&auto=webp&s=ef779f042f9defec5b6c6d1bcca27709d890e125",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rune Revealing Colossus Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u8r2hq/rune_revealing_colossus_phased_battle_map_40x60/"
+}

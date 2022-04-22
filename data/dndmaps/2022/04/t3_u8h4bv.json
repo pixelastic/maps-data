@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1650499200,
+    "full": 1650522564,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u8h4bv",
+  "picture": {
+    "filesize": 175277,
+    "fullUrl": "https://preview.redd.it/nvn91gexstu81.jpg?auto=webp&s=d9b8aadb7ef1a459059c348a9f162da46b6d5419",
+    "hash": "47b6ca6e78",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQMCAAQRITFBBRITIiMyYYHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQEAAwAAAAAAAAAAAAAAAAAAASEx/9oADAMBAAIRAxEAPwDOCBT4bZAulNOitvjuMxnkH8oPWrBbLhbTGEHTWC7DMRLASCQBkY0+9+adJzbj1Le8VBa1GQ7vNiIPtxwSTtipXWpMffTlbot5QGQTDWOcnbWg1VNP/9k=",
+    "url": "https://preview.redd.it/nvn91gexstu81.jpg?width=640&crop=smart&auto=webp&s=5950b5133e074d46273cfa826bfe25df9c4c9ebd",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 299,
+    "value": 299
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Big house-maze",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u8h4bv/big_housemaze_32x44/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8yu5bj8v",
+    "name": "Argent_Talons"
+  },
+  "date": {
+    "day": 1650499200,
+    "full": 1650504982,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u8c1xt",
+  "picture": {
+    "filesize": 18027,
+    "fullUrl": "https://preview.redd.it/fzegejv6dsu81.jpg?auto=webp&s=36ee087c7ac0c4df57a78c6f7297767beebb4f32",
+    "hash": "66dcbd6a93",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIDEQAEEiFBMWHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwDXSShYyQjPt6SrPqzxh9NrUnk2CKRWFhlegUI6P3FZJYVWZnUAE+aGNNUnVH//2Q==",
+    "url": "https://preview.redd.it/fzegejv6dsu81.jpg?width=640&crop=smart&auto=webp&s=43cb2a99dbe451b34a68e51e2cdcb774c6a9788a",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Minimalist map for my campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u8c1xt/minimalist_map_for_my_campaign/"
+}

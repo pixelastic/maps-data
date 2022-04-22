@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1650499200,
+    "full": 1650534468,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u8ju53",
+  "picture": {
+    "filesize": 185026,
+    "fullUrl": "https://external-preview.redd.it/ieDB8yTZXRUG1gVFaDDHoKQChtHh7TMjiYkJP4Z9Uvk.jpg?auto=webp&s=5995ef03ef60936bd17fb38c188fca07257bc112",
+    "hash": "b9974ddd2b",
+    "height": 1649,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAgEAACAQQBBQAAAAAAAAAAAAABAwIABAUREwYHEkFR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAdEQABAgcAAAAAAAAAAAAAAAABAAMCERMxQqGx/9oADAMBAAIRAxEAPwCMTtEm2UyyU98pk7hrQiB8PulVDp7uNjcHj2yRjOXlXaqiw24lvjURMkEjXkSDSg1nRj1Vy3BO+wv/2Q==",
+    "url": "https://external-preview.redd.it/ieDB8yTZXRUG1gVFaDDHoKQChtHh7TMjiYkJP4Z9Uvk.jpg?width=640&crop=smart&auto=webp&s=39b52df02d26962a999e154cd71d4033722b878f",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 133,
+    "value": 133
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The path to the Shadowfell Fortress is not an easy one. At first glance this bridge looks simple enough to navigate. But keep your eyes peeled for potential attackers!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u8ju53/the_path_to_the_shadowfell_fortress_is_not_an/"
+}
