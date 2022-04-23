@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1650672000,
+    "full": 1650673302,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u9ssru",
+  "picture": {
+    "filesize": 137202,
+    "fullUrl": "https://preview.redd.it/wwctwqlh96v81.jpg?auto=webp&s=cc9a5cad66fcb803fd07d5b67f78c61a7d2ae2c8",
+    "hash": "997f7010cc",
+    "height": 854,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUI/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQASBCEiMUGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AM9w6Oo2eXYDXxNDsYPmyK83iWKgULux3lTgNDCjs3uQaVfrCRwJMoLCVNehdG/t/uA0wY7f/9k=",
+    "url": "https://preview.redd.it/wwctwqlh96v81.jpg?width=640&crop=smart&auto=webp&s=6b99476d2f2a0176f1adc895e4021753f20d638c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Crypt of a Necromancer",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u9ssru/crypt_of_a_necromancer/"
+}
