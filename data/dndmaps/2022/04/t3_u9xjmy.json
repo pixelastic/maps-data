@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9fqj8mg",
+    "name": "EpisodicMaps"
+  },
+  "date": {
+    "day": 1650672000,
+    "full": 1650689020,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_u9xjmy",
+  "picture": {
+    "filesize": 80500,
+    "fullUrl": "https://preview.redd.it/pdbd10tvi7v81.jpg?width=2100&format=pjpg&auto=webp&s=2d07f8c158cc9889db814b1fb45cb27d4fb253ea",
+    "hash": "f0e3fbb805",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBP/EACAQAAICAgIDAQEAAAAAAAAAAAECAxEEIQATEiIxI1H/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDPG6Pn90CKwVPfwHsSL0w5McQxXPY14Thm/RgQL2NVr7/eGdG7ZXZDkiIhPEgSAE1uqI+748KOTpEuY9M6HyWgAWNj2N75PQw//9k=",
+    "url": "https://preview.redd.it/pdbd10tvi7v81.jpg?width=640&crop=smart&auto=webp&s=7bb70a00e1f2171d3829f14ffc50f279dc37ec50",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Modular Desert City Map Pieces",
+  "url": "https://www.reddit.com/r/dndmaps/comments/u9xjmy/modular_desert_city_map_pieces_30x3070pxgridded/"
+}

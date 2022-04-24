@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1650672000,
+    "full": 1650751977,
+    "month": 1648771200,
+    "week": 1650153600
+  },
+  "id": "t3_uag5qb",
+  "picture": {
+    "filesize": 107704,
+    "fullUrl": "https://preview.redd.it/z5k3zaolrcv81.jpg?auto=webp&s=89b50e85bb18076465d55a0847c36c28989bb4ad",
+    "hash": "4907720c56",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAjEAACAQIGAgMAAAAAAAAAAAABAgMEEQAFEyExQQaBEmGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAwDAQACEQMRAD8AkHkdLFPnddNMss0jzGWVrH5G5ud+CT37wPSikaaS4ChSCqb3Y34HXvD3kaR0Wb5hRNKNankeEhJCVJXawI2J5/ME5TSMsmvIdMK4C2YG1vrnvnFraXYTk//Z",
+    "url": "https://preview.redd.it/z5k3zaolrcv81.jpg?width=640&crop=smart&auto=webp&s=ea5b495c7aebec2c38190e0d0c2ed18cec9a9c2e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Elven Hamlet in the Jungle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uag5qb/40x40_elven_hamlet_in_the_jungle/"
+}
