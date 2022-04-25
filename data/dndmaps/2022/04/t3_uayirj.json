@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1650758400,
+    "full": 1650817918,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_uayirj",
+  "picture": {
+    "filesize": 91997,
+    "fullUrl": "https://preview.redd.it/24vvpz3o7iv81.jpg?auto=webp&s=51283e96ea2b712b3f734280a12fa11cb4df2948",
+    "hash": "0a9c4d5594",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgYH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDAAQRBRIhEzFxgRQiYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAwEBAAAAAAAAAAAAAAABAgAEEgMh/9oADAMBAAIRAxEAPwDOdPtbiK1R0iCrONrdUj7L77cZp63dQR2AtYjGXGZleLJJxxtJPP56qa+XPI0avIzKjHaM8L4pXDs9+6A7FQjAXwO9E1Tiz6K+wzZIXIn/2Q==",
+    "url": "https://preview.redd.it/24vvpz3o7iv81.jpg?width=640&crop=smart&auto=webp&s=6808bab7e00ea0b98b555051bdbebed5e3940ac1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.72,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Blackbrook Brier",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uayirj/blackbrook_brier_4k_24x18_gridless/"
+}
