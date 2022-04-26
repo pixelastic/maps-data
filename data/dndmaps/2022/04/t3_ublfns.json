@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3m4uoh",
+    "name": "Gamaweb"
+  },
+  "date": {
+    "day": 1650844800,
+    "full": 1650894073,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_ublfns",
+  "picture": {
+    "filesize": 173486,
+    "fullUrl": "https://preview.redd.it/93nv5xhyhov81.jpg?auto=webp&s=9991342a33d1b8f26adcaebfe4f6fdb104d028fb",
+    "hash": "8ebf3b263f",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAQMEAwEBAAAAAAAAAAAAAQMEEgACESEFBlEUcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAECAwQRIUH/2gAMAwEAAhEDEQA/AMc60w4WzkeLQSZFzc4SuScKuDKK8JCFoIwB7vVKndHTLjs6CnzwDZveVp6GTaRk5/de0qLfkckuGrwdH//Z",
+    "url": "https://preview.redd.it/93nv5xhyhov81.jpg?width=640&crop=smart&auto=webp&s=1309c5e227b4443812d21506bb6ae36f113df709",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bandit Hideout battlemap 25x50",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ublfns/bandit_hideout_battlemap_25x50/"
+}
