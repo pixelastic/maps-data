@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1650931200,
+    "full": 1650981963,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_ucdcsh",
+  "picture": {
+    "filesize": 326597,
+    "fullUrl": "https://preview.redd.it/at8om5oervv81.png?width=1920&format=png&auto=webp&s=8e167b6faf08d6dcd944f2add664f5b0ebbd019b",
+    "hash": "afc2c8a8e7",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABoklEQVQYlWNggAFGCMnIJMIvpCOvJC+pKCmhKCWpJCmuoCqrrK+gLCUkxsrCyoAMmJmYxUSl9dQNvG09vZ2DIsKzIyNyAnwTInxiAhy8lCTl+Ll5GTjZOYX4haUlFPRUdKx1jB0sXIIDkiJDMyLDsgrz25ub5hfmd4QFpbva+xhr6InxCTJIiUhYG1iG+CfmJZZmRWQEeUUX5LXX1c5MTarIzmoqKujMTK+PjSlydwnWVtfj5xNikBQWtzexS4wpzEqqSgjPSYwpzMttKy+bmJPVnJxYkZRQnp3ZVJjfERudb2BgIyAgxiAuKKKrrOXrEVmSWpUXlRUbmhETlZ+YUJ6aXFWQ15af11Zc2FFc0JmbUefvGiIpKs3AysLGxysoLaWopaRpqqFvZmBtb+MZEZSWHF9aWT6poW5mQ92M1obZRZm1AY6+2krqDGpyIsZqEkyQUGJmERAQ1VPRCXf2C/eJCQ5MTowrTk+uLM+sS/KPsdIzl5eSZxAV5FGR5GcEA0g8iPIJ6MgqqsiqKMhpamqaamuaGmkZm2voKUrIsrGwAQDSoWdmsGhtMwAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/at8om5oervv81.png?width=640&crop=smart&auto=webp&s=c0ea3d5efea93382e195856ec1c2c800783fa143",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.82,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dungeon Rooms",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ucdcsh/dungeon_rooms/"
+}
