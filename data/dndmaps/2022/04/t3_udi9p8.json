@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1651104000,
+    "full": 1651106063,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_udi9p8",
+  "picture": {
+    "filesize": 98006,
+    "fullUrl": "https://preview.redd.it/b0dz45se06w81.jpg?auto=webp&s=b26858cc36e005dba19f9b4e091f03d0adb1e58b",
+    "hash": "42b072bacd",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBv/EACEQAAIBAwQDAQAAAAAAAAAAAAECEQADQQQSITIxUWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAAMBAQAAAAAAAAAAAAAAAAABETFR/9oADAMBAAIRAxEAPwDNX2KKbRQm45Uh93UAmQBmZ84il1KEEl2OxTCqvs4+0XLjgmG6kAfuavpxvti63LK0CeYomveC0VaP/9k=",
+    "url": "https://preview.redd.it/b0dz45se06w81.jpg?width=640&crop=smart&auto=webp&s=77429a6f956419807bc007a6db0959ae30980f4c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rocky Hillside, a large generic encounter map in 4k",
+  "url": "https://www.reddit.com/r/dndmaps/comments/udi9p8/60x45_rocky_hillside_a_large_generic_encounter/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3cyjbzul",
+    "name": "Don-the-egg"
+  },
+  "date": {
+    "day": 1651017600,
+    "full": 1651023492,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_ucs80t",
+  "picture": {
+    "filesize": 35816,
+    "fullUrl": "https://preview.redd.it/vhiq5kiz6zv81.jpg?auto=webp&s=7615270c93e33627a2be5bb02a4225a7220021c4",
+    "hash": "5109658c22",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDCP/EAB8QAAEEAQUBAAAAAAAAAAAAAAECAwQRABIhIjFBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDTcuU61MbaQElKhe4+5eO6pwi9JBF7eYsllxbwW2a413WCHGUySVaOq4isD//Z",
+    "url": "https://preview.redd.it/vhiq5kiz6zv81.jpg?width=640&crop=smart&auto=webp&s=607ba41ced080a4531f4cb2e5e681f20df75b0fe",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Currently Working on an SCP related campaign in my free time. Here is a map for the Light Containment Sector (WIP)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ucs80t/currently_working_on_an_scp_related_campaign_in/"
+}
