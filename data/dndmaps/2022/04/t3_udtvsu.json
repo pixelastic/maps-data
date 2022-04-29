@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1o4znb6",
+    "name": "tentongeek"
+  },
+  "date": {
+    "day": 1651104000,
+    "full": 1651149024,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_udtvsu",
+  "picture": {
+    "filesize": 86633,
+    "fullUrl": "https://preview.redd.it/yu6dqpy5k9w81.jpg?auto=webp&s=b7db22a022a3ace6217e1a13835d38df154aadca",
+    "hash": "3805711de2",
+    "height": 460,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIhAAAwAABQQDAAAAAAAAAAAAAQIDAAQREyEFEkFRMXHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8A2vUJvO7nL0spqCD2ufB8fmDy1hctRczVwGE23SxKn0RixDKKN59ymr/OpHH1xxgV6bLJIy5ellN6A1bu5fT2dMS41gLhXGf/2Q==",
+    "url": "https://preview.redd.it/yu6dqpy5k9w81.jpg?width=640&crop=smart&auto=webp&s=697145e0cd4fef6001ba33c019b04c2404816b18",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "WOTC - 4th Edition - Faerun Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/udtvsu/wotc_4th_edition_faerun_map/"
+}

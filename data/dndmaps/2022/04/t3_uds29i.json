@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3hiyiofy",
+    "name": "doofdodo"
+  },
+  "date": {
+    "day": 1651104000,
+    "full": 1651142435,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_uds29i",
+  "picture": {
+    "filesize": 78932,
+    "fullUrl": "https://preview.redd.it/05q8a4rl09w81.jpg?auto=webp&s=6626ad95b88ab0eecd5aa0ed2702fe3b3f3a23e3",
+    "hash": "ff5f3ea12f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEB//EACEQAAIBAwMFAAAAAAAAAAAAAAECAwAEERIhcTI0g7Gy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAREiH/2gAMAwEAAhEDEQA/AMWg3MbTlVRVEepUJKtgbDSDzmlKqQi7AiSZGZmBVSMgDfGaLfqvuV9Cq7Pt5/J81XmlDCMxvk//2Q==",
+    "url": "https://preview.redd.it/05q8a4rl09w81.jpg?width=640&crop=smart&auto=webp&s=cd42f3116979c7eac7447d9bd57017ab56ed2285",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Forgotten Fey Grottos - Dungeon Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uds29i/the_forgotten_fey_grottos_dungeon_map/"
+}
