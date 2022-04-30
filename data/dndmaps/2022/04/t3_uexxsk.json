@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1651190400,
+    "full": 1651273390,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_uexxsk",
+  "picture": {
+    "filesize": 106604,
+    "fullUrl": "https://preview.redd.it/pd3effg1ujw81.jpg?auto=webp&s=8685f1dd52e7ae53cdbbf555f2c8472788c0cf91",
+    "hash": "2844b209b4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQQSACETURRBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDEBjOIo3WOrNDu9v3i5WIPjFpHhjVLVBGb2P1375OLkDWR68hjTVUJ6I98TQLhv3GIwbjBO1k8mq7Dt//Z",
+    "url": "https://preview.redd.it/pd3effg1ujw81.jpg?width=640&crop=smart&auto=webp&s=48d9ecea4755e6c8b1b937fd3b5deb3784885f07",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Winding Forest Path Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uexxsk/winding_forest_path_battle_map_30x30/"
+}
