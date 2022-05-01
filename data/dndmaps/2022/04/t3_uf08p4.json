@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_byqrk0be",
+    "name": "Logen_Nein"
+  },
+  "date": {
+    "day": 1651276800,
+    "full": 1651281128,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_uf08p4",
+  "picture": {
+    "filesize": 109840,
+    "fullUrl": "https://preview.redd.it/pdhvx9d2hkw81.jpg?auto=webp&s=abd0d9f6a1bd1b83afc182590987adb5037b4617",
+    "hash": "06b70417c2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAACAQIGAwEAAAAAAAAAAAABEQIAAwQFBhIhMRMiUaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AKHqLGMRAlKKAAIAVSvV0nmNrcWfEGfvtKlOc5jG705cAoFPqg+ocVvxts8FW1+mgpn/2Q==",
+    "url": "https://preview.redd.it/pdhvx9d2hkw81.jpg?width=640&crop=smart&auto=webp&s=669894cf58c325593e3e5a2ccbfe2b3e6e90c7e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Newton Narrow",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uf08p4/newton_narrow/"
+}

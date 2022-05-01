@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1651276800,
+    "full": 1651344405,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_ufhcp8",
+  "picture": {
+    "filesize": 89225,
+    "fullUrl": "https://preview.redd.it/eu4ga6yxopw81.jpg?auto=webp&s=1e1c7ae67e10af9d349d4389dc770a0da1c4243a",
+    "hash": "9bbfd9aa80",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAJBAAAwAABQIHAAAAAAAAAAAAAQIDAAQFERJBURMhIjFhcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oADAMBAAIRAxEAPwDCF8TMLztm0SoIUAnYsO4+sNpmm3tqU4pdXejglgdyrb9R+HBiiV02qASSTkHk6+pPPp8n2xI5c2ILUpIVOwfiSAN+4xdH/9k=",
+    "url": "https://preview.redd.it/eu4ga6yxopw81.jpg?width=640&crop=smart&auto=webp&s=ac713f8c2fb54015076c52d4f7b953a6ba2b8f96",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Realistic Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ufhcp8/40x40_realistic_swamp/"
+}

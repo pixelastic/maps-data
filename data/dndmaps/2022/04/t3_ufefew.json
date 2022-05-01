@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1dslm3dd",
+    "name": "Mazuick"
+  },
+  "date": {
+    "day": 1651276800,
+    "full": 1651335561,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_ufefew",
+  "picture": {
+    "filesize": 100918,
+    "fullUrl": "https://preview.redd.it/k3l21byuyow81.jpg?auto=webp&s=dd99a51859d50644531979f99cd453a7a52053c5",
+    "hash": "a9b87d36b2",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIDBBEABRITITEGFUNRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAACEQMS/9oADAMBAAIRAxEAPwCv5PTSNmzGfaQ6BtCO7a1FwLn5/cEpIrVMcrx64iyq6r2eRcW7JF8aGppYTmiQyoJYwSIw3tAsbhSLcfRvg0+R03reX0zyTPGoaclmBLtqHZt1wOsS2zrUUukXk//Z",
+    "url": "https://preview.redd.it/k3l21byuyow81.jpg?width=640&crop=smart&auto=webp&s=3cd5bde788e0eae49bfcaa0bec796c361dbe7419",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "World map of Zardania, my homebrew setting",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ufefew/world_map_of_zardania_my_homebrew_setting/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1651276800,
+    "full": 1651306080,
+    "month": 1648771200,
+    "week": 1650758400
+  },
+  "id": "t3_uf6mtu",
+  "picture": {
+    "filesize": 95834,
+    "fullUrl": "https://preview.redd.it/jepzduxyimw81.jpg?width=4096&format=pjpg&auto=webp&s=a954d638089fcda39ee86650ed2d9ce21797ffc1",
+    "hash": "75da767c27",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDABESIQQFIjJRYXGB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREAAwADAAAAAAAAAAAAAAAAAAEhAhFh/9oADAMBAAIRAxEAPwDM+mJA0yHmNeGMXIzK5DZsCAbHfpUnJKl3aHIqT2g7/fNBZXSVkViANe5FqLizog8bZfdRuYLtFV7P/9k=",
+    "url": "https://preview.redd.it/jepzduxyimw81.jpg?width=640&crop=smart&auto=webp&s=070c0b7679cee58bac091308defa427620f35fef",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A forest with a river and a couple waterfalls. Too many trees? Try the tree shadow variant! 4k",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uf6mtu/60x45_a_forest_with_a_river_and_a_couple/"
+}
