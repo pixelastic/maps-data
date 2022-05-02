@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1651363200,
+    "full": 1651427000,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ug54ki",
+  "picture": {
+    "filesize": 164357,
+    "fullUrl": "https://preview.redd.it/6jg4r3nsiww81.jpg?width=3072&format=pjpg&auto=webp&s=a44ba7a027c56cac65e281cd408dbbb72696580b",
+    "hash": "ef27087520",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQRABIhQVEFEzEyYXGBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxESIf/aAAwDAQACEQMRAD8AyMsxpZu1BIsUQ0CuxAK8g7g8jf3xQoemUVRTLJXxzCTwveds+Xa+/Pq1tbCNK0szFXdsoUtDMLLnJGtuPrBn6glCy07yMZEUBizFST+/OItlhZdVEao7kz//2Q==",
+    "url": "https://preview.redd.it/6jg4r3nsiww81.jpg?width=640&crop=smart&auto=webp&s=a0b1daecfd782499f17be59fde9e520b5efe46c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Strixhaven - Caerdoon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ug54ki/battlemap30x403000x4000_strixhaven_caerdoon/"
+}

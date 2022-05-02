@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1651363200,
+    "full": 1651410054,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ufzf25",
+  "picture": {
+    "filesize": 123551,
+    "fullUrl": "https://preview.redd.it/jz0sqbi84vw81.jpg?width=1750&format=pjpg&auto=webp&s=574e4006aa79e7358c1452e75dd776336da8210e",
+    "hash": "8a71f75c76",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAJhAAAgEDAgQHAAAAAAAAAAAAAQMCBBEhAAUGMUFCEhUiMmFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEBAAICAwAAAAAAAAAAAAAAAQACAzEREnH/2gAMAwEAAhEDEQA/ADamkhX0EAuUDGMSRfuPUkc/m/MG+sm3v8r2h1Mo2c6UQSVn0wBB9wvf7OlKNVPw1sk6pzWPfOZLIRAIVGQzgdM/uqGllG5qEsbTwVOaowgfFPIyB24PLUWuUyHWwoafIIONT//Z",
+    "url": "https://preview.redd.it/jz0sqbi84vw81.jpg?width=640&crop=smart&auto=webp&s=a2ed1b4c823c540ca3768072a4a9946fdc4f7e74",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bridge Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ufzf25/bridge_encounter_25_x_25/"
+}

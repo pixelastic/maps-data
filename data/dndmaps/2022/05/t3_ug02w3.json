@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bcxc4vhy",
+    "name": "Eledryll"
+  },
+  "date": {
+    "day": 1651363200,
+    "full": 1651412244,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ug02w3",
+  "picture": {
+    "filesize": 36924,
+    "fullUrl": "https://preview.redd.it/1c302skxavw81.jpg?width=4096&format=pjpg&auto=webp&s=2f19edb2db8667fa9d8f10c42342507ccba4947d",
+    "hash": "1965bdac03",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUI/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQIDBBEABQYhEiIxQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMxESFR/9oADAMBAAIRAxEAPwDPkWM3FCin3IWB0ejiPjHFXOSbuLEYDgU6SKNGgB2o/lXhDTPuE9rNEg19ZYhT5et2XnAkusLKSCpCqJB+ReKa0oZA/BDb6v/Z",
+    "url": "https://preview.redd.it/1c302skxavw81.jpg?width=640&crop=smart&auto=webp&s=5c54f5927b4454d6b3347e3a239c6f3f7bfa7c54",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Castle Ravenloft - Towers",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ug02w3/castle_ravenloft_towers_4k_90x68_gridless/"
+}
