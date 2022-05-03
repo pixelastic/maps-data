@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3cxcxlq9",
+    "name": "Fire-Walk"
+  },
+  "date": {
+    "day": 1651449600,
+    "full": 1651529220,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uh11ci",
+  "picture": {
+    "filesize": 96297,
+    "fullUrl": "https://preview.redd.it/8576kyoqy4x81.jpg?auto=webp&s=0ecbcedd1ce7047efbb5f4f2a0513f2baf30f76b",
+    "hash": "83fe36ddbe",
+    "height": 566,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAIBAwUAAwAAAAAAAAAAAAECAwAEERITITFBIlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAQACAwEAAAAAAAAAAAAAAAMAAgESI5H/2gAMAwEAAhEDEQA/AMkoFruAM6Rg6i7KXJ/M+5ozKJpXh3FYOvxCKMknwfXlUowdtC5w6gM2no8UrbrGl212i6CrDkcnPWaILrbWJutSPKeT/9k=",
+    "url": "https://preview.redd.it/8576kyoqy4x81.jpg?width=640&crop=smart&auto=webp&s=bb2c2f8e5ccc1ddcd44702a3df288d4f3522ea30",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.74,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Abandoned Mining Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uh11ci/abandoned_mining_camp/"
+}

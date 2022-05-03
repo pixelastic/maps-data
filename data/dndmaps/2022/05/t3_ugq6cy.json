@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1651449600,
+    "full": 1651499694,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ugq6cy",
+  "picture": {
+    "filesize": 320030,
+    "fullUrl": "https://preview.redd.it/y3ps393wi2x81.png?auto=webp&s=f57d59ec2451415ece26a2560868e639b2903734",
+    "hash": "635573976f",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABpElEQVQYlWNgYGDg5BATEdYV5JXk4RRkYWZjgAFOFnYeFg4mBgZGRkYGBgZFaQEJQS6QhLJCiIvrQm2NMDlxbWPdCCP9EA4WLn42gUDbqgzfKQ7SprwsLKzMnPrSKkI8nAwcbLxy0i6qyiHW5o2Odi2mBhnebpMdzcpjPacWRG2sjN3dHLIw0yR+ZvqqDvc+cXZBBm5OEWvrZh3NSGurNmOjUlU5bw+n3kj/+YH2HZG2DemWBRNjFq0KnvKo4/y68KkafHIMXOyCzo6TjPVTTIzLtNXD9LSSnGw7HUyKnXSivTR8k7VdW8zTzmQt/DRr/7bodh0BFQY+Ln49VXs1eWsd9Rh1xYik+C25GXsCXPt9LSr8dSOcpA1agyedbzl3u37X7sz1SrwKDLJiEt7WVh42ZpYm8e5uM/09e/w8eryd+9ysmvTkHNmY2YR4xfrjpxxvvDYlZJEklxgDPw9fT212d3VudEibjXmmgU6GvkacuqyzvmYkOys4EBkYeDj49WWsZPnkoeFtqK0W7OZlpusrLqQuI2kpKqgOV8oAjgRIPEAAAAJ0Zatw2jUSAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/y3ps393wi2x81.png?width=640&crop=smart&auto=webp&s=bdd2ba5ced2b63e80699bfcb5b2d6058ea6c05c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.73,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Blue Crystal Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ugq6cy/blue_crystal_cave/"
+}

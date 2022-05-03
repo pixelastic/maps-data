@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1651449600,
+    "full": 1651491472,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ugnniy",
+  "picture": {
+    "filesize": 129653,
+    "fullUrl": "https://preview.redd.it/2wtfsbwyt1x81.jpg?auto=webp&s=49434f5c37ddde5bcb9e4bae04b73f54434c2d77",
+    "hash": "d4ad48b45d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBv/EACMQAAMAAgIBAwUAAAAAAAAAAAECAwQRADESBRMhFCIyQfD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAEFAQAAAAAAAAAAAAAAAAABAxETYaH/2gAMAwEAAhEDEQA/AMrURni4jNhyajyUfh9zk7+dbHeuOM8a7ZfnhidUm1AygqQR8bA3/Dgxm3p2K31OOHRV8g7kMOwNgdjRHLQk06XqtY0r7LIFiSfH9660AOuSF6DDden/2Q==",
+    "url": "https://preview.redd.it/2wtfsbwyt1x81.jpg?width=640&crop=smart&auto=webp&s=7c8e8d7bbd2bc02dd365757f270a23239ead1cad",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 128,
+    "value": 128
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Roman Army Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ugnniy/a_roman_army_camp_70x70/"
+}
