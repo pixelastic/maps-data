@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1651536000,
+    "full": 1651584072,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uhfz7d",
+  "picture": {
+    "filesize": 114610,
+    "fullUrl": "https://preview.redd.it/aqz42cbth9x81.jpg?auto=webp&s=32d84853fe4b35745a923b7539c42786c20c19e7",
+    "hash": "e04ee12031",
+    "height": 717,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEFABIhQQYxImFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADERJh/9oADAMBAAIRAxEAPwDF53BLl5NUhqBBxzK08Ki/FH6kEG7HPrTvFsUjHtvLETFZQuBKQ7LSpQTV3QqrNiz9aO2q4LpitOrjF07Xje1tJUdtno0Aa71Rx0sJfkLXHRKFgJbDuwju+PfWorYxHYCmpzP/2Q==",
+    "url": "https://preview.redd.it/aqz42cbth9x81.jpg?width=640&crop=smart&auto=webp&s=542d544d42e760f1eb05a1671cd527742950d24a",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 747,
+    "value": 747
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Homebrew Port Nyanzaru",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uhfz7d/homebrew_port_nyanzaru/"
+}

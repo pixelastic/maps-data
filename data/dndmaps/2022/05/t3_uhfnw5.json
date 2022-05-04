@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1651536000,
+    "full": 1651583078,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uhfnw5",
+  "picture": {
+    "filesize": 63370,
+    "fullUrl": "https://external-preview.redd.it/H5QXZxV4WE4UhIIwFdze2iCB2D52mUCjPFMc2SinLAg.jpg?auto=webp&s=75f426fca23a94c2a76d541627a86118a5f1424b",
+    "hash": "ba3d3b8bca",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIRAAAQQDAAEFAAAAAAAAAAAAAQIDBBEABSETBhIxQUL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDHdPpIK4LB8aFEp/Qs3V9waT6fjKene11tnx9SFLquYXD30xhtDYKFActQNno+7yI7juwXKcfecBV0hJoH55gB2Sl//9k=",
+    "url": "https://external-preview.redd.it/H5QXZxV4WE4UhIIwFdze2iCB2D52mUCjPFMc2SinLAg.jpg?width=640&crop=smart&auto=webp&s=f713b0ffe4db97dbcf69d1a4f9e81248c541a8f2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dungeon Treasury",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uhfnw5/dungeon_treasury_22x17/"
+}

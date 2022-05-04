@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1651536000,
+    "full": 1651583658,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uhfugb",
+  "picture": {
+    "filesize": 120607,
+    "fullUrl": "https://preview.redd.it/25peqv7ig9x81.jpg?width=2800&format=pjpg&auto=webp&s=89e451e4704a6785e610afbdb9b47a3c12a616b5",
+    "hash": "8c20656551",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAIxAAAgICAQQCAwAAAAAAAAAAAQIDBAURAAYhIjETYRVRof/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAA1ERE//aAAwDAQACEQMRAD8AslvXc5ayU8dswRtKfgjjKAQaAAQ/fb+836MWbs1IpfymPcMo0z1tkj0NkfXDW1lrCrllmxjRtaDSRKO7KdAeWvROtg8U+kcNhG6Yxhuyqts10MwaRgQ+vL0373yH5rWWY7HqADt3Z//Z",
+    "url": "https://preview.redd.it/25peqv7ig9x81.jpg?width=640&crop=smart&auto=webp&s=a685627dd3260226ab514b31a6105689be4146f7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Travelling Turtle - battle map with 11 phases",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uhfugb/travelling_turtle_battle_map_with_11_phases_40x60/"
+}

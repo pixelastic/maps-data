@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mbgxm5s1",
+    "name": "Urobelus"
+  },
+  "date": {
+    "day": 1651536000,
+    "full": 1651599340,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uhle3a",
+  "picture": {
+    "filesize": 153326,
+    "fullUrl": "https://preview.redd.it/q6bdjs5yqax81.jpg?width=2048&format=pjpg&auto=webp&s=01d77b2d2bc5a9f385db431c03fb36fc869aac28",
+    "hash": "be5b29d742",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMG/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIDBBEABRIhMVFhMjNBcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AM5HSXp44KmZZTfWdbEMLdkb8HjCzWIplpEbinQG4sfSQfHfHe+J0tcVeJcwaNJvbCqevJ+8OvrRS07MY1YHdVJFjzcsB8fuJfdigF//2Q==",
+    "url": "https://preview.redd.it/q6bdjs5yqax81.jpg?width=640&crop=smart&auto=webp&s=f7025330e6375fdedf720f9eaf62bfdcfa7e1ef0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Day and night versions of a bandit camp encounter.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uhle3a/day_and_night_versions_of_a_bandit_camp_encounter/"
+}
