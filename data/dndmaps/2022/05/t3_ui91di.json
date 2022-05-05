@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1651622400,
+    "full": 1651677711,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ui91di",
+  "picture": {
+    "filesize": 67968,
+    "fullUrl": "https://preview.redd.it/5uferwf68hx81.jpg?auto=webp&s=04da6e46a4af0c87913d0f23e7d9f3b9e83093cc",
+    "hash": "01ec746dea",
+    "height": 465,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAJxAAAQMDAgQHAAAAAAAAAAAAAQIDBAUGIQAREhQxUQcVI0FhkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQACAxIhQf/aAAwDAQACEQMRAD8AzW94eJqNlw4U1qOzJfYKvTcBKVHI39+LIJ+umpXNa/k9rTXXIKHkR2OFYSwc7fHYHP7oHbt2VNDLqgtG8aMgo65IO2c6d2/f1YrtuM0+by4blP8AKOOISrjCFpJOxKjnsdL2FcCDLZA/T1f/2Q==",
+    "url": "https://preview.redd.it/5uferwf68hx81.jpg?width=640&crop=smart&auto=webp&s=4a22923d2d378fd9a420314f487e4b0caef29919",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.78,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wampa Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ui91di/wampa_cave_22x16_oc_battlemap/"
+}

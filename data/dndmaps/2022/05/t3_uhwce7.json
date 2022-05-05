@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6570c642",
+    "name": "Hoggenkrantz"
+  },
+  "date": {
+    "day": 1651622400,
+    "full": 1651630944,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uhwce7",
+  "picture": {
+    "filesize": 132308,
+    "fullUrl": "https://preview.redd.it/zjv6ggp6ddx81.jpg?auto=webp&s=3bed463e9e9cf5e1d25f8fd7fee8f5f529a51ecc",
+    "hash": "09614e8f61",
+    "height": 771,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAmEAACAQIFAgcAAAAAAAAAAAABAgMEBQAREiGBBjETIjJBYeHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/AIxdCLssM1GswCeoSOGIY/hwr07XtQWtYjPC8mtiwcbr8ducH2dIo5LgyAvSMvlZdjmDqG3GXOFbMTeIZHooUp443y8MaRuR3z9/rCWE0qap8P/Z",
+    "url": "https://preview.redd.it/zjv6ggp6ddx81.jpg?width=640&crop=smart&auto=webp&s=ede89cc6762ecdb4baef50b1c994f91b7eeca0c6",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 277,
+    "value": 277
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Misty Forest Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uhwce7/misty_forest_encounter/"
+}

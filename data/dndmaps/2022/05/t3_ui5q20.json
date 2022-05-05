@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_59ule",
+    "name": "lext"
+  },
+  "date": {
+    "day": 1651622400,
+    "full": 1651668255,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ui5q20",
+  "picture": {
+    "filesize": 66658,
+    "fullUrl": "https://preview.redd.it/md0i6kmufgx81.jpg?auto=webp&s=aca2354407b98fd8433f8d74ccbd77fa877e6ff3",
+    "hash": "1720024c95",
+    "height": 443,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAhEAACAgAGAwEAAAAAAAAAAAABAgMRAAQFBhIxEyFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECMSH/2gAMAwEAAhEDEQA/AAkkc6ryVSUMZbmGHrv5WLJNtzRxteWYZKAZhciZOVNfIRXff77xHyikEkfKwwj3HqsmlDLvmrheExMvjQWtVV1fWJrTeDxzT//Z",
+    "url": "https://preview.redd.it/md0i6kmufgx81.jpg?width=640&crop=smart&auto=webp&s=d8c2e24d61f49f47f7bbf16f761007129dcd9ffd",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Voight-Kampff Test  Dungeon Trap (Puzzle 11)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ui5q20/voightkampff_test_13x9_dungeon_trap_puzzle_11/"
+}
