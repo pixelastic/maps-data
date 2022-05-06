@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gxsfh",
+    "name": "iJoanx"
+  },
+  "date": {
+    "day": 1651708800,
+    "full": 1651712910,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uilkrc",
+  "picture": {
+    "filesize": 56094,
+    "fullUrl": "https://preview.redd.it/12usu4jt4kx81.jpg?width=4555&format=pjpg&auto=webp&s=9dcf21578236d7dddd707f5edde5df8205f647ec",
+    "hash": "101b01595e",
+    "height": 412,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAgEAACAQMFAQEAAAAAAAAAAAABAgMABBEFEhMhMSJB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDERL/2gAMAwEAAhEDEQA/AKbU7SGbSIo24eVo127gF3HGR3UuHa3DtCAZArKcBWHh8wKVa3dy2xWuJivGOi5x5RhNLFBc8cjp0R8sR+VGqdtDcd8yz//Z",
+    "url": "https://preview.redd.it/12usu4jt4kx81.jpg?width=640&crop=smart&auto=webp&s=c343d1c497903b0e20f86e05e368790d1a22aca9",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Stylized Map of Faerun",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uilkrc/stylized_map_of_faerun/"
+}

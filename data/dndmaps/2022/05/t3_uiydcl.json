@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mrdgq",
+    "name": "didido_two"
+  },
+  "date": {
+    "day": 1651708800,
+    "full": 1651759989,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uiydcl",
+  "picture": {
+    "filesize": 100211,
+    "fullUrl": "https://preview.redd.it/hrnzckhg0ox81.jpg?auto=webp&s=5c7ab8d7639bb32c3012ed6b6a282625475a1fe5",
+    "hash": "4c6cf4dbec",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIDEQAhBBMxUf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERMXH/2gAMAwEAAhEDEQA/AMUjjXpUmQIQNLV7AwByYulgEBvZP33HjdDGWKCRCtWaB1rIeSoZnkChQTdWNb8rJJTYsP/Z",
+    "url": "https://preview.redd.it/hrnzckhg0ox81.jpg?width=640&crop=smart&auto=webp&s=d807b70a0cde886c78c80947f34b0829b464df2a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Festering Maze of Sloth",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uiydcl/the_festering_maze_of_sloth/"
+}
