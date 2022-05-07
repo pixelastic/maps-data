@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1651795200,
+    "full": 1651824011,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ujifhj",
+  "picture": {
+    "filesize": 64110,
+    "fullUrl": "https://preview.redd.it/9sija0hbbtx81.jpg?auto=webp&s=80fdae1c78988ac6b1bad27f33a8771fed235fd0",
+    "hash": "152f61ccb9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMH/8QAIhAAAQMEAQUBAAAAAAAAAAAAAQIDBAAREhNhBSEiMUHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oADAMBAAIRAxEAPwDCoUOPoYzuQLLIxHfinqERhUV1eptDgPilP38KtEcja0lTwsbJBv65NL5RrexcZcyQRjlemSdmEdP/2Q==",
+    "url": "https://preview.redd.it/9sija0hbbtx81.jpg?width=640&crop=smart&auto=webp&s=f420cfce47ba55f3b2c011cb84afccf74655cc0f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.88,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Treasure Cave Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ujifhj/treasure_cave_battle_map_30x30/"
+}

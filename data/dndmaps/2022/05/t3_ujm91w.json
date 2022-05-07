@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1651795200,
+    "full": 1651839733,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ujm91w",
+  "picture": {
+    "filesize": 142058,
+    "fullUrl": "https://preview.redd.it/mvwcgbi1mux81.jpg?auto=webp&s=22c6a72154f65d0b0a8463de59eeac129a892918",
+    "hash": "c3f5146188",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAD/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDBBEABRMhMUESFWHx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIREiED/9oADAMBAAIRAxEAPwAH9XWig5EuSNM2G4oo8KMeB3n+6l2mtxyC7PYiMagIqJ8st2SSPfekm7Q0a8TNRZmkRQwPITjsfusY69JtusTXJZSTK6AxykMD66z40MdiROqNZtZ1f//Z",
+    "url": "https://preview.redd.it/mvwcgbi1mux81.jpg?width=640&crop=smart&auto=webp&s=c70f8c9bd04469faaf3cf82bc939dbbb8bb5ab65",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Crossroads Battle Maps - 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ujm91w/crossroads_battle_maps_30x30/"
+}
