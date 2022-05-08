@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1651881600,
+    "full": 1651955728,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uklsq0",
+  "picture": {
+    "filesize": 82285,
+    "fullUrl": "https://preview.redd.it/8m2cakpw54y81.jpg?auto=webp&s=e341fbe700fd316b8469883a62e8990ff3198423",
+    "hash": "c9e251bd39",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACQQAAEEAQIGAwAAAAAAAAAAAAIBAwQFEQBBBgcSISIxE2Fx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADBBL/2gAMAwEAAhEDEQA/AC2XG9zWXaQ3mYkcGx8iUyLrVfpF7Z1FSuLLurfdsGJCNg+6oG+bPWi5XPpd/W+dN8wooQ7P5AI3DJO6uFlV21m02W/OPEhwiAMoAZ8R/E0z2WMeiZPUiISgE//Z",
+    "url": "https://preview.redd.it/8m2cakpw54y81.jpg?width=640&crop=smart&auto=webp&s=085d4e63649b9d99d852ef60e12545bd263683b4",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Athgarnia",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uklsq0/athgarnia/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_10vb93",
+    "name": "tinyCirrusCloud"
+  },
+  "date": {
+    "day": 1651881600,
+    "full": 1651936805,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ukfi1s",
+  "picture": {
+    "filesize": 151887,
+    "fullUrl": "https://preview.redd.it/pfc7zpwfm2y81.jpg?auto=webp&s=7286d2e200c54c304b8215a4d6c7bcc343aca728",
+    "hash": "863332b8cc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAwURIQAGEhMEUTJBwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDV9z1mOmSiMzonYQrKcmK9zzNs+hbVG0qlLU43lcqsT3ESxp8Av0ze7fmm7j2vBVfGBm49wHIFbZyMObZwNBtSjzUrxZUdeA7pLIH5AqbWJOg//9k=",
+    "url": "https://preview.redd.it/pfc7zpwfm2y81.jpg?width=640&crop=smart&auto=webp&s=f089291fb20fc7dca3681f1c41f9e7258e3c7776",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 93,
+    "value": 93
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Capital City Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ukfi1s/capital_city_map/"
+}

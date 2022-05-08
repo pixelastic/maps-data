@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_59ule",
+    "name": "lext"
+  },
+  "date": {
+    "day": 1651881600,
+    "full": 1651932231,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_ukdz9z",
+  "picture": {
+    "filesize": 61521,
+    "fullUrl": "https://preview.redd.it/hsnnglc192y81.jpg?auto=webp&s=0a01e54534bf519975778265042e7f65df597d3d",
+    "hash": "e33a19b0a6",
+    "height": 443,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAACAQIGAwEAAAAAAAAAAAABAhEDBAAFBhITIRUxUUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECMf/aAAwDAQACEQMRAD8AMrlNudOVL83Dc4UkIGED3+YptXTWTLpOpX8bSFYWBqCoFbp+Od0z97xGtilWkdfJ6w0TVGc1coFo96TbvQNFk40EpERMT6we5p4xEtLT/9k=",
+    "url": "https://preview.redd.it/hsnnglc192y81.jpg?width=640&crop=smart&auto=webp&s=ee2eaab20174614553b889dd0e4942903c2e69f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "12. Admit One - Dungeon Puzzle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ukdz9z/12_admit_one_dungeon_puzzle/"
+}

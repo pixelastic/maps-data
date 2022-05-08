@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1651881600,
+    "full": 1651910964,
+    "month": 1651363200,
+    "week": 1651363200
+  },
+  "id": "t3_uk8n6n",
+  "picture": {
+    "filesize": 56672,
+    "fullUrl": "https://preview.redd.it/6ifk5krph0y81.jpg?width=3840&format=pjpg&auto=webp&s=392aecab58d6950cdc4d6480042804647a8e90a8",
+    "hash": "f0104639d5",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFCP/EACIQAAIBAwIHAAAAAAAAAAAAAAECAwAEIQUiMjVRcXOx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAAv/aAAwDAQACEQMRAD8Az+VWdyolWOYE7TgE9Cfs0KrTXKxqrAIdodsqaZa8c/nFUdM5lJ3f1UiwuHPNQ3//2Q==",
+    "url": "https://preview.redd.it/6ifk5krph0y81.jpg?width=640&crop=smart&auto=webp&s=644d95923b316fedb2220fe222da63248bbb4f76",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest-random encounter-mappack (25x14)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uk8n6n/forestrandom_encountermappack_25x14/"
+}
