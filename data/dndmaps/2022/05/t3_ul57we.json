@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1651968000,
+    "full": 1652026794,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ul57we",
+  "picture": {
+    "filesize": 71170,
+    "fullUrl": "https://preview.redd.it/dmf2wfp62ay81.jpg?width=2800&format=pjpg&auto=webp&s=29d5c5c167c748642196ba8cc51654780e856951",
+    "hash": "e11e906ad9",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACUQAAICAQEHBQAAAAAAAAAAAAECBBEDAAUGEhMxUWEUFSFBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhEDEQA/AMq2JuvMmZ1STHxx+VHLqppCwo/I4q+wfOn2Dc/HkwY39w2YvGobh5oFWLoiuvfzqUmbUzzpqs8plylSEBNk9wf2uh0XrJuW3fDJLMbJRWo6UQgTTf/Z",
+    "url": "https://preview.redd.it/dmf2wfp62ay81.jpg?width=640&crop=smart&auto=webp&s=382056427f5c308577dcb9cee77a9d0d898ce997",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bridge Explosions Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ul57we/bridge_explosions_phased_battle_map_40x60/"
+}

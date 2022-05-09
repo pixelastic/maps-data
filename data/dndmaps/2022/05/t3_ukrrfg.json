@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_nqonb1y",
+    "name": "Captain_Cortez"
+  },
+  "date": {
+    "day": 1651968000,
+    "full": 1651975332,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ukrrfg",
+  "picture": {
+    "filesize": 41824,
+    "fullUrl": "https://preview.redd.it/qw0ltfbos5y81.jpg?width=4200&format=pjpg&auto=webp&s=77c22a261ebe14122e5d50666525805f4af6fb70",
+    "hash": "49a19dadc5",
+    "height": 731,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMI/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQASBCEUQSIxUv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAEh/9oADAMBAAIRAxEAPwDPXASCVn8h5FUWBoAe6vu8ckRpKRCzNH6LCjkOJPHFuJYpWBfYFK/NeziRwaK7VVfL7xizgX//2Q==",
+    "url": "https://preview.redd.it/qw0ltfbos5y81.jpg?width=640&crop=smart&auto=webp&s=7f82b77d8f15af758223963fd2e811b7cc763a0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Dungeon Alchemist 1st Attempt - Watchtower Morning/Night",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ukrrfg/dungeon_alchemist_1st_attempt_watchtower/"
+}

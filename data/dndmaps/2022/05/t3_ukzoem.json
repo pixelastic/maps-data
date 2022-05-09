@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1651968000,
+    "full": 1652009043,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ukzoem",
+  "picture": {
+    "filesize": 152955,
+    "fullUrl": "https://preview.redd.it/yfdw6szbl8y81.jpg?auto=webp&s=f00faab465e5ff50f0799d0d4d506e9de08c9c4f",
+    "hash": "231c52fb8d",
+    "height": 1210,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHxAAAgEFAAMBAAAAAAAAAAAAAQIDAAQFETESExSR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAdEQACAgEFAAAAAAAAAAAAAAABAgARoQMTIZHB/9oADAMBAAIRAxEAPwDFrm3x8eM+VMZOQ83tDBt9TYAYfnKVPG3saxyWYt7RYWcj2LKdxqU35d347APe0oIY6fBvPkold4BlrAruf//Z",
+    "url": "https://preview.redd.it/yfdw6szbl8y81.jpg?width=640&crop=smart&auto=webp&s=98eadb97f300d1974caad8d0f8c2dff1c44d36ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 153,
+    "value": 153
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A large dungeon of a dwarven kingdom that is now traversed by rivers of lava",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ukzoem/a_large_dungeon_of_a_dwarven_kingdom_that_is_now/"
+}

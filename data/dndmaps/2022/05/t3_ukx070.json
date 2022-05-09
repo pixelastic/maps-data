@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_52q3dall",
+    "name": "Endless_01"
+  },
+  "date": {
+    "day": 1651968000,
+    "full": 1651996867,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ukx070",
+  "picture": {
+    "filesize": 103765,
+    "fullUrl": "https://preview.redd.it/k2w58j49l7y81.jpg?width=1643&format=pjpg&auto=webp&s=be908a13c07861b07eac6ee341a0388874190d0e",
+    "hash": "73bb96cf47",
+    "height": 802,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAj/xAAhEAABAwUAAgMAAAAAAAAAAAABAgMxAAQREiETQQUUgf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCjr3d5y7HlUgoGEnSJg5mkWv2Fqc8TyS2CAAZHP2j3RedcWm3RlvfoIJIjuPXfVN+O1SyTkBROCDyIoL//2Q==",
+    "url": "https://preview.redd.it/k2w58j49l7y81.jpg?width=640&crop=smart&auto=webp&s=4d070d2ea4e90404cf9c5e8f3200c9989e8b73fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Map #4: Blackspire Grotto",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ukx070/map_4_blackspire_grotto/"
+}
