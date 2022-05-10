@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1652054400,
+    "full": 1652115856,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ulvxjh",
+  "picture": {
+    "filesize": 131639,
+    "fullUrl": "https://preview.redd.it/a6wcojevehy81.jpg?width=2500&format=pjpg&auto=webp&s=aba2058a3babbec59d31c124ae76e475adafc786",
+    "hash": "ce72eda57d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBv/EACIQAAICAQMEAwAAAAAAAAAAAAECAxEEABIiITFBUWFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAQf/aAAwDAQACEQMRAD8AwOBG64QTjEjoHe5Npc+BR6HU8l4JsQukAiZOe7sKqqC97FjzpYJVyHw4YY13SMN98l3eAB6+PeifOM2LPM0QBUGyxAYA1+2DY+tFpD//2Q==",
+    "url": "https://preview.redd.it/a6wcojevehy81.jpg?width=640&crop=smart&auto=webp&s=9cb8f20084b7e709424c268bd2b58866d466ce66",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ramble Maze",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ulvxjh/ramble_maze_50x50/"
+}

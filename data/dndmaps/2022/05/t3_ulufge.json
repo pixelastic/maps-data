@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1652054400,
+    "full": 1652111851,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ulufge",
+  "picture": {
+    "filesize": 92781,
+    "fullUrl": "https://preview.redd.it/9zyy3yh43hy81.jpg?width=2800&format=pjpg&auto=webp&s=af3e81991223cc5cffdea9491b0847c316a0309b",
+    "hash": "9242dcae52",
+    "height": 1040,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAmEAACAQMCBAcAAAAAAAAAAAABAgQDBREABgcSIXETIjFBUWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADBBJx/9oADAMBAAIRAxEAPwCvtVWDK26b5Ht0emsSPzKrAMXyg5hnuNE0ndVqqSKr09uVgjOSvPXAOM9MgdAe2kzh7ThWDbkS2zZUdZN3BdaRrA+CMdFPx+6N7pty1rc5YEWewFZxlKisp8x9D7j7044QWWdkbC+qz//Z",
+    "url": "https://preview.redd.it/9zyy3yh43hy81.jpg?width=640&crop=smart&auto=webp&s=87ad09a5bdf9774658c9f46c701a263b37057d7f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.68,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Disintegrating Light Bridge phased battle map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ulufge/disintegrating_light_bridge_phased_battle_map/"
+}

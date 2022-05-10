@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1652054400,
+    "full": 1652081568,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_ulltnu",
+  "picture": {
+    "filesize": 93442,
+    "fullUrl": "https://preview.redd.it/g02q2dg2ley81.jpg?auto=webp&s=4657ecb8d8e7ff84bc1c9f7e7ee894531a57a317",
+    "hash": "b2f7a38492",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIRAAMEEiEiMQUTQVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAwDAQACEQMRAD8AIy710ZiW0cBNUO8cQOo+qpkaVxvbxYgSwYgSB3H7WvyRQppclbTbN8Az3R+EmMqtjKA9qxsoYzAO/ZoAiXMtGb//2Q==",
+    "url": "https://preview.redd.it/g02q2dg2ley81.jpg?width=640&crop=smart&auto=webp&s=27bbbb76063bd8ffacb706ac15fa748335db2736",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Camp between the Sandy Hills",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ulltnu/80x80_the_camp_between_the_sandy_hills/"
+}

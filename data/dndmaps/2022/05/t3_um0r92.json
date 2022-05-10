@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_byqrk0be",
+    "name": "Logen_Nein"
+  },
+  "date": {
+    "day": 1652054400,
+    "full": 1652128842,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_um0r92",
+  "picture": {
+    "filesize": 89910,
+    "fullUrl": "https://preview.redd.it/s1zesi7rhiy81.jpg?auto=webp&s=31b28e80ee39de7fc9fdf89eeaee1df7bfa89f8e",
+    "hash": "6d41a10b8b",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEIQURInESMUGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/ANIvbuSado+UagELIo6/KnXnmZ2NwFV9/QPykWvX0st4rrKqRqqjlIVBzucdUE+prI/krYOR1Qil1//Z",
+    "url": "https://preview.redd.it/s1zesi7rhiy81.jpg?width=640&crop=smart&auto=webp&s=c27c2409d70ed74f8c9e06d148c8bc9cfb73b7d3",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Abandoned Tower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/um0r92/abandoned_tower/"
+}
