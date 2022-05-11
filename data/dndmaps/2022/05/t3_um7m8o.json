@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mbgxm5s1",
+    "name": "Urobelus"
+  },
+  "date": {
+    "day": 1652140800,
+    "full": 1652148528,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_um7m8o",
+  "picture": {
+    "filesize": 145609,
+    "fullUrl": "https://preview.redd.it/m8l2ish44ky81.jpg?width=2048&format=pjpg&auto=webp&s=4fe68f739c7040e37ff6d5ee45b7ca70e4d214b0",
+    "hash": "a860fa0f54",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDEQASITFBBCNCUXGB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAxMx/9oADAMBAAIRAxEAPwDPbRwzpU0tRN0iRbB0+NNC+WWniW0gkkRPvNBkB+7oWkkx3nMRt4qqW0tOFtwXLxhWEpnSTttU5vHrj6KkP//Z",
+    "url": "https://preview.redd.it/m8l2ish44ky81.jpg?width=640&crop=smart&auto=webp&s=3d5a4dafdc518a73fe86730024c257b4b096c28e",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 140,
+    "value": 140
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A multi level abandoned wizard's tower.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/um7m8o/a_multi_level_abandoned_wizards_tower/"
+}
