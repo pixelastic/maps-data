@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1652227200,
+    "full": 1652272188,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_un8q7s",
+  "picture": {
+    "filesize": 110119,
+    "fullUrl": "https://preview.redd.it/1199cbq48uy81.jpg?width=1000&format=pjpg&auto=webp&s=ca2552243f6b9b87974e56de14a1fc8d50f2c653",
+    "hash": "cc91752ebc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBBEAEjEFIVFhExRB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AwMtWKSskcleJYzGqKq4y0fjcD6HjUN5KSUJJwdm2Ip8gXeFUEZGDz3HB07ar/VMh6tJHBEg7yvtY8A5IUnnI0VF1CBasrdPhjtyQYzXXLKzH8wB7PbQRclYBf//Z",
+    "url": "https://preview.redd.it/1199cbq48uy81.jpg?width=640&crop=smart&auto=webp&s=1ccb74f42f1618750033f6ed201791472cd02907",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Factory District",
+  "url": "https://www.reddit.com/r/dndmaps/comments/un8q7s/free_factory_district_80x80gallery/"
+}

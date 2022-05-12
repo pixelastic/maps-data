@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12flox",
+    "name": "DanielHasenbos"
+  },
+  "date": {
+    "day": 1652227200,
+    "full": 1652257611,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_un527g",
+  "picture": {
+    "filesize": 141016,
+    "fullUrl": "https://preview.redd.it/filsizw64ty81.jpg?width=1000&format=pjpg&auto=webp&s=0b7806cd3e667cfae14c4adc2739f8490aae922f",
+    "hash": "3bb914132f",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIhAAAgIABgIDAAAAAAAAAAAAAQMCBAAFERIhQTFhBhNx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQESIf/aAAwDAQACEQMRAD8Aj49kDTXcyuxcwQYfYORL33p34weu5WEWWLZaUqUZEbPO3ngYf5LC5SS2vTitqYR3xnHSIIPr9xjvyldxhsWnJU5hMpQkvcRz2R3ibdaxFJ//2Q==",
+    "url": "https://preview.redd.it/filsizw64ty81.jpg?width=640&crop=smart&auto=webp&s=d71e551192e3f1d4f55fd5d1b7fcb55f3b40fa96",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 454,
+    "value": 454
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Maze of the Mad Mage (30x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/un527g/maze_of_the_mad_mage_30x40/"
+}
