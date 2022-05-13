@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ce22jvuo",
+    "name": "arcanecollection"
+  },
+  "date": {
+    "day": 1652313600,
+    "full": 1652370413,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uo432u",
+  "picture": {
+    "filesize": 123106,
+    "fullUrl": "https://preview.redd.it/f8xbjnauf2z81.jpg?auto=webp&s=124072fc53f7d753e32f0dd06775e43ef60403ce",
+    "hash": "c229350129",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIRAwQSAAUhE1EUIiMxQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEhMf/aAAwDAQACEQMRAD8AzW4k0i1x0awDAOoppK4YjnIHtPJ/RpHYdwFVEt7jNadT1EATEkwclMfMH31dulSmtqKZZPD26lAsQDCSD2MieNEbRaJcOrVrjAUI8oYKQOMifozj350FacdGVw//2Q==",
+    "url": "https://preview.redd.it/f8xbjnauf2z81.jpg?width=640&crop=smart&auto=webp&s=7b8e456e66302592496a178b330fee5a4e2c4a50",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Deserted Desert Den - Encounter Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uo432u/free_deserted_desert_den_encounter_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1652313600,
+    "full": 1652357070,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_unzhxn",
+  "picture": {
+    "filesize": 282540,
+    "fullUrl": "https://external-preview.redd.it/zZ5T3XHSyM2qCYDLv0F0dsYpDY3mv72dyLyuPSUea48.jpg?auto=webp&s=1b83cb708aa3dfb07ee6fbaa070a80787678fe8c",
+    "hash": "48fd9713f4",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAJBAAAQIEBQUAAAAAAAAAAAAAAQIDAAQREwYSISJBFDEyUaL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AzLpmHZCrkq2AUF0m3uS0Ueegplrz74hEA7KDCl9D0spIcoJQpFw7Mup+qdoQPCboncUP/9k=",
+    "url": "https://external-preview.redd.it/zZ5T3XHSyM2qCYDLv0F0dsYpDY3mv72dyLyuPSUea48.jpg?width=640&crop=smart&auto=webp&s=4bb8238a5b4da9f749520887362adba4d68a97b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dice Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/unzhxn/dice_dungeon_40x80_140dpi_oc_battlemap/"
+}

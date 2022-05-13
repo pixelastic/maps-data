@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mbgxm5s1",
+    "name": "Urobelus"
+  },
+  "date": {
+    "day": 1652313600,
+    "full": 1652394263,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uocy32",
+  "picture": {
+    "filesize": 123634,
+    "fullUrl": "https://preview.redd.it/6hryf1ble4z81.jpg?auto=webp&s=d3fa51e27410a8ae9ccf8d57abfe996c2668c69d",
+    "hash": "c413d4d44d",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAJBAAAgECBQQDAAAAAAAAAAAAAQMCBCEABRESEyIxMmFBUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAEFAAAAAAAAAAAAAAAAAAACERIhMf/aAAwDAQACEQMRAD8AoUNZUzQpz61ceqMYS3RkTuFxoL/Pb1hmDxBLK5OYKZVpZuCddpHSY+P16OMnR1ZSqmigGHFMNjqdRuFh+d8MwzGXC+ckpE2y8lwECL3uBfEME0tZ/9k=",
+    "url": "https://preview.redd.it/6hryf1ble4z81.jpg?width=640&crop=smart&auto=webp&s=936163cc93afef99b06bcf6acc6be9cc2f83bf27",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Temple of Life",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uocy32/temple_of_life/"
+}
