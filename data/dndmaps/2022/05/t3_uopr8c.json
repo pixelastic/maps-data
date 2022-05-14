@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_k9ngi0xh",
+    "name": "AlbysMaps"
+  },
+  "date": {
+    "day": 1652400000,
+    "full": 1652441911,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uopr8c",
+  "picture": {
+    "filesize": 101410,
+    "fullUrl": "https://preview.redd.it/9udk3vu9c8z81.jpg?auto=webp&s=6b7012ed378d685b75fe98e587767c3a66290ddc",
+    "hash": "1a21a7950a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBRMxFCFBUXFygcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAMAAwAAAAAAAAAAAAAAAAABAhJBof/aAAwDAQACEQMRAD8AxrTjrNy+5CyLwuXhUA59M88Ue5vdS6uQPPEGUmPO0MHH1VRcGU28MFw6LExY7oIIJ+I8ftO2572ylWdyY4nEhlEXdgffBNQttb6gzWR//9k=",
+    "url": "https://preview.redd.it/9udk3vu9c8z81.jpg?width=640&crop=smart&auto=webp&s=0b9380bd8bf6d116d67c8b7ee30a23c7e8d1c943",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Castle Entrance",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uopr8c/castle_entrance_28_x_28/"
+}

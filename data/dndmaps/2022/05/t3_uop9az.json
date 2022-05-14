@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_43sx5fdf",
+    "name": "Craywin"
+  },
+  "date": {
+    "day": 1652400000,
+    "full": 1652440034,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uop9az",
+  "picture": {
+    "filesize": 94448,
+    "fullUrl": "https://preview.redd.it/12rtp1xj68z81.jpg?auto=webp&s=fbc191031037f019012813d48a123201dd69a1b0",
+    "hash": "f9ee5f37c0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIhAAMREgQiEzFRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDEPpyfKqXWO3U4zg/agYcRVU3AAIGT6+TT1WwjtqAk5X8zMU1W1yVRinTXrkGZigI//9k=",
+    "url": "https://preview.redd.it/12rtp1xj68z81.jpg?width=640&crop=smart&auto=webp&s=682ae176517a533dd531dc88fc13ebb77df91c18",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gladiator Series: Zerak Kar Arena",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uop9az/gladiator_series_zerak_kar_arena/"
+}

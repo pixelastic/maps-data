@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_oi85v8v",
+    "name": "ChibbinGrove"
+  },
+  "date": {
+    "day": 1652400000,
+    "full": 1652470112,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uozd1w",
+  "picture": {
+    "filesize": 84549,
+    "fullUrl": "https://preview.redd.it/rvn5fk41oaz81.jpg?auto=webp&s=811af729b1bd80b82c069a2e0e6d471ee3a6c641",
+    "hash": "dd2f89b1e3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACAQAQACAgEEAwAAAAAAAAAAAAECAwARIQQTIjESUfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAExEf/aAAwDAQACEQMRAD8AyOVUUtV18Zu9fvWH291FtM9PvhBxAsmMyTpl5H08ayh0VMOrs7VJ5KATkc4eUI3h/9k=",
+    "url": "https://preview.redd.it/rvn5fk41oaz81.jpg?width=640&crop=smart&auto=webp&s=767d199098359ef3607f992eccf93b64d6bef2fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uozd1w/swamp_road_30x30_2100x2100px/"
+}

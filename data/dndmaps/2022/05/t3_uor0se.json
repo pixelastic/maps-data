@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1652400000,
+    "full": 1652446244,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uor0se",
+  "picture": {
+    "filesize": 196807,
+    "fullUrl": "https://preview.redd.it/besylbqfp8z81.jpg?auto=webp&s=fcc627a99fff0715bd4ada540b8b198316184660",
+    "hash": "d54873423c",
+    "height": 1005,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMEBREAISIGExQWMUGBkcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAQACAwAAAAAAAAAAAAAAAAEAAgNBUf/aAAwDAQACEQMRAD8AUj66vUlO0ZgoWgccUdWILY3/ADR3nS6pxjgpQi7KOWw+9TS3GuttBGKmqtUvcYIRlwwyPUgqBjA3+NDG8yEk+ORc+wxgakbZ9Ma05P/Z",
+    "url": "https://preview.redd.it/besylbqfp8z81.jpg?width=640&crop=smart&auto=webp&s=379180cb7fd2f0dcd46c770b7c2edb2c1ef78e09",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sustained Siege",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uor0se/sustained_siege_48x36/"
+}

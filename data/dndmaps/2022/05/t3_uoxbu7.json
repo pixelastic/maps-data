@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_b992vxv",
+    "name": "Inocyde"
+  },
+  "date": {
+    "day": 1652400000,
+    "full": 1652464323,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uoxbu7",
+  "picture": {
+    "filesize": 103712,
+    "fullUrl": "https://preview.redd.it/evrcs6o87az81.jpg?width=6000&format=pjpg&auto=webp&s=86c8860dcf71361506a5313c5508ee133261ad2f",
+    "hash": "815b76aecf",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACEQAAICAQQCAwAAAAAAAAAAAAEDAgQhAAUREhMxUXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAdEQACAQQDAAAAAAAAAAAAAAABAwIAERIhE0FR/9oADAMBAAIRAxEAPwDIQXT2qslbVed5ILoDsOkOAfYGTnTLWz12MDKpgxMx2jLgjHJGQfrRPszLBOqIFbvGOwIJlxH0fjP5qoWqyKtVTbKUNiviSxIYPaWlBlkb1CelfDEr3IW793X/2Q==",
+    "url": "https://preview.redd.it/evrcs6o87az81.jpg?width=640&crop=smart&auto=webp&s=4ba03c55822dc0b3da69c6383eb2b2a17d8d5209",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "\"The Nail\" Dwarven coastal stronghold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uoxbu7/oc_the_nail_dwarven_coastal_stronghold/"
+}
