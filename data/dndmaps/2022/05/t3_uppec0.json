@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1652486400,
+    "full": 1652559190,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_uppec0",
+  "picture": {
+    "filesize": 55394,
+    "fullUrl": "https://preview.redd.it/vdjtgw9e1iz81.jpg?auto=webp&s=7c0f465358e08907bfbc1848074b99ce3e4a9f60",
+    "hash": "4d4dc338d7",
+    "height": 441,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACAQAAICAgICAwAAAAAAAAAAAAECAxEABCExBRIiYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAESH/2gAMAwEAAhEDEQA/AMB0tcCKFSVLpSk0SOhgvAoSURBEkdSBxQWuv0nI2puzss1uLSIlfiODY+se8fI02p7yG2si+sGhn1zRLbw3/9k=",
+    "url": "https://preview.redd.it/vdjtgw9e1iz81.jpg?width=640&crop=smart&auto=webp&s=bde7aca779e1c8cf741938f069abcfe83fb94c88",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Sewer Cavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uppec0/oc_sewer_cavern_29x20/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1qznp18x",
+    "name": "Zatnikotel"
+  },
+  "date": {
+    "day": 1652486400,
+    "full": 1652528740,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_upfjlg",
+  "picture": {
+    "filesize": 129950,
+    "fullUrl": "https://preview.redd.it/zkh5517qifz81.jpg?auto=webp&s=261cd4500b899a92625ec18f1e764d541f767ba4",
+    "hash": "4bed6a8f39",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAJRAAAgICAQIGAwAAAAAAAAAAAQIDBAURIRIiAAYTFDFBQmGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/ANdee21uKEeY5BQhsNNXexJM0dfTEJ1HW9kL8cg/rfLY+5I03uK2ZzEVtZ4Wtxu7FGLyqCQ+/wAiwIHSOOD9buUxbRWsnFTxOTgEiu1ZpmMiyqjMZeQNaYDakfH3yQfCU486klVrOMyL14pK80voRqgkgDAx67e7u1ydnQ/k20r/2Q==",
+    "url": "https://preview.redd.it/zkh5517qifz81.jpg?width=640&crop=smart&auto=webp&s=76f3a70dcde43074c7e616760aa9509e6c440a56",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Desert Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/upfjlg/desert_cave_30x30_free_oc/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1652486400,
+    "full": 1652506867,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_upaiws",
+  "picture": {
+    "filesize": 98074,
+    "fullUrl": "https://preview.redd.it/q09hy3tqpdz81.jpg?auto=webp&s=3ed440daa2718062e052b1924bda4a0c61019343",
+    "hash": "0308f7bf52",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACIQAAMAAQIGAwAAAAAAAAAAAAECAwQAEQUSITFBYRNRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAACFB/9oADAMBAAIRAxEAPwDA4+Bi4WJjUTEe7UkvMVkKeAfX3tphcOFMe9Ggq/LOnKKSCmZVen551DxuL5CY8U5ZsFVQCwJPYe9F+LXVLbJIm0yGJBOwIIO3Xp2GkibX/9k=",
+    "url": "https://preview.redd.it/q09hy3tqpdz81.jpg?width=640&crop=smart&auto=webp&s=8a4e36adeed158c462ec8ddf3dc9a6c0076c9dde",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fayte's Desecrated Altar",
+  "url": "https://www.reddit.com/r/dndmaps/comments/upaiws/32x24_faytes_desecrated_altar/"
+}

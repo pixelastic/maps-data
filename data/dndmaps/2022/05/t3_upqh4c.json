@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_p8ndx",
+    "name": "jackpoll4100"
+  },
+  "date": {
+    "day": 1652486400,
+    "full": 1652562560,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_upqh4c",
+  "picture": {
+    "filesize": 72063,
+    "fullUrl": "https://external-preview.redd.it/X8a0AIho7IKb_ttvgRTBDLDo1e6fiZFHJIJv4d19-5w.jpg?auto=webp&s=6b06532cdf31823158fba9ec0f3c6e2d71548f34",
+    "hash": "c30203f866",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIDAAQREhMhMTJRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwDMrMQSWio7W7AQrhnxr7ec+qrHJbyG3GY1ETDcZVJ4Hg9D8zSlA+Jwoi1pU//Z",
+    "url": "https://external-preview.redd.it/X8a0AIho7IKb_ttvgRTBDLDo1e6fiZFHJIJv4d19-5w.jpg?width=640&crop=smart&auto=webp&s=f7b48190fec15b299e6e86de6d72dd72b32aeae1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "I made a map set for running the Growling Groghouse (a monster tavern in the Undermountain dungeon)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/upqh4c/i_made_a_map_set_for_running_the_growling/"
+}

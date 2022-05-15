@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1652486400,
+    "full": 1652519260,
+    "month": 1651363200,
+    "week": 1651968000
+  },
+  "id": "t3_updd5a",
+  "picture": {
+    "filesize": 186076,
+    "fullUrl": "https://preview.redd.it/8a97cv7nqez81.jpg?auto=webp&s=3a63e576a63b7b413121e23cb1c37248a7cf6688",
+    "hash": "54357a7ca5",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRMQASEwUGIUEiUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABkRAAIDAQAAAAAAAAAAAAAAAAAhARITUf/aAAwDAQACEQMRAD8AyOP0CY3JbbZRFjNpoFTpG4pAqsXROdL5HasmSUG0/BPGeBxKUWCbq8+feNXKmWxxKlSGHyQeQFSlE/VECs/ugtuA7tVIdlb6HgOFoAegEpFVqTWeMbI//9k=",
+    "url": "https://preview.redd.it/8a97cv7nqez81.jpg?width=640&crop=smart&auto=webp&s=c9d06e814bfe4de443e89f6fdaa566bc67e27076",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Thordor, a dwarven city",
+  "url": "https://www.reddit.com/r/dndmaps/comments/updd5a/thordor_a_dwarven_city/"
+}
