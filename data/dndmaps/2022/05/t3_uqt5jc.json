@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1652659200,
+    "full": 1652698453,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uqt5jc",
+  "picture": {
+    "filesize": 120388,
+    "fullUrl": "https://preview.redd.it/kok31d7nhtz81.jpg?auto=webp&s=ec401037f82364f76c898e1ac10607f143d1ff69",
+    "hash": "7ae83a773e",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACIQAAECBgIDAQAAAAAAAAAAAAECAwAEERMhMRJRBVJh8f/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACAxESITFh/9oADAMBAAIRAxEAPwDI/HyqHWZ4zzcoXlpQjLiEhSA0kgHiabAPdRmJz0y4C2FDNtGg16j7ASw9wCQ2Am4NpZ3ZzvPf7DZrxM1cRxQ3S03Str0HUSyokuPUxRu3XPF//9k=",
+    "url": "https://preview.redd.it/kok31d7nhtz81.jpg?width=640&crop=smart&auto=webp&s=aa1d18857efac87b1205f1cdb4d8d2cbfcab88a0",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 99,
+    "value": 99
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A large multiverse dungeon I built with my modular rooms",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uqt5jc/a_large_multiverse_dungeon_i_built_with_my/"
+}

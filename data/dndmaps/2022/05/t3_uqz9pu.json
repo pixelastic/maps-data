@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1652659200,
+    "full": 1652716890,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uqz9pu",
+  "picture": {
+    "filesize": 161327,
+    "fullUrl": "https://preview.redd.it/pzsdwnpb2vz81.jpg?auto=webp&s=05ba26138155ac0da280598fe61250e8fbdc9f00",
+    "hash": "a411997798",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIEAAMFESEGIjEyQWHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMRIVEi/9oADAMBAAIRAxEAPwDFYzPwJj3mbGyEux7QIVHCLwBxrXzzUH6xhyHa4cOXOz3G2PzzRfS01I97K9rXleMwDa4H3REZ9qxaQ1olvQjxRienZSNDEWsRVrVgdnPOz//Z",
+    "url": "https://preview.redd.it/pzsdwnpb2vz81.jpg?width=640&crop=smart&auto=webp&s=9c63b5a176149a085c616e20d82e6760141e15dd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Banquet Hall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uqz9pu/banquet_hall_oc18x24/"
+}
