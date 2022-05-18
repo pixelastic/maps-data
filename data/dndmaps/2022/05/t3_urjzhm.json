@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12flox",
+    "name": "DanielHasenbos"
+  },
+  "date": {
+    "day": 1652745600,
+    "full": 1652785661,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_urjzhm",
+  "picture": {
+    "filesize": 50951,
+    "fullUrl": "https://preview.redd.it/f3hkder3q0091.jpg?width=1333&format=pjpg&auto=webp&s=37ed1cb502d646395a87f32db80e5d86435164c2",
+    "hash": "de1d842c37",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQAhQRMiMQYjUWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAARASFB/9oADAMBAAIRAxEAPwDJx0DdG0w1tNTxxwF2mdAGaRTg4IHkgfukepLFBb4nljeVGZ/ZQISrxgDuJ4O+d9TYL9X9WnVpQyR4UKV2OOTjfPjf60Lrd6y5LBLVSkuoKdu2QDyPnQrYiVh//9k=",
+    "url": "https://preview.redd.it/f3hkder3q0091.jpg?width=640&crop=smart&auto=webp&s=603fa432bae875f546b4f22ff1a32f0632dee3ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Troll Lair (36x48)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/urjzhm/troll_lair_36x48/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3f6mig",
+    "name": "Welume"
+  },
+  "date": {
+    "day": 1652745600,
+    "full": 1652782607,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_urj82j",
+  "picture": {
+    "filesize": 109325,
+    "fullUrl": "https://preview.redd.it/1l0lqyikh0091.jpg?auto=webp&s=f3aaf6285833491fb39daa590dfeb1789a519a89",
+    "hash": "b53aef3b34",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDB//EACAQAAIBBAIDAQAAAAAAAAAAAAECAwAEETEFISJBcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAABESASL/2gAMAwEAAhEDEQA/AMFsYFkPhGMIhLYOxRexqgIZOnUEZJ1+1Xi2t2tmDMVljGm9/KXLrGlogjZHaQ942tBW0hFyz//Z",
+    "url": "https://preview.redd.it/1l0lqyikh0091.jpg?width=640&crop=smart&auto=webp&s=0e3b38168e4c274c0e06ce8aecb2633366b29954",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 458,
+    "value": 458
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Underdark city gates",
+  "url": "https://www.reddit.com/r/dndmaps/comments/urj82j/underdark_city_gates_20x20/"
+}

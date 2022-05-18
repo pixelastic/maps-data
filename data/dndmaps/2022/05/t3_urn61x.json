@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3f6mig",
+    "name": "Welume"
+  },
+  "date": {
+    "day": 1652745600,
+    "full": 1652796171,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_urn61x",
+  "picture": {
+    "filesize": 54370,
+    "fullUrl": "https://preview.redd.it/8b38ijzyl1091.jpg?auto=webp&s=91e07d0233b180c45fdf1c1c2b7ee17e2a67d289",
+    "hash": "8dec10d354",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAHRAAAwACAgMAAAAAAAAAAAAAAQIDABESMSEyYf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AwNAyQaUzxQkdH2P3ILSSYmyBiu9jfg4edXCEBjonC2J33k5WL1Q//9k=",
+    "url": "https://preview.redd.it/8b38ijzyl1091.jpg?width=640&crop=smart&auto=webp&s=88c667f8021468f95e3f7fad02adad5015e77e22",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Underdark lake shore",
+  "url": "https://www.reddit.com/r/dndmaps/comments/urn61x/underdark_lake_shore_20x30/"
+}
