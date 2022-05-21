@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1652832000,
+    "full": 1652903226,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_usl3uv",
+  "picture": {
+    "filesize": 81827,
+    "fullUrl": "https://preview.redd.it/d99t7fadga091.jpg?auto=webp&s=aca46f675b1eaa81a17b8ec451db1a3c0f28b8eb",
+    "hash": "f63bc945f0",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACIQAAIBAwQCAwAAAAAAAAAAAAECBAMFEQASITFBUQYjcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQMAAhEEIf/aAAwDAQACEQMRAD8Ay+jead+i1Ic0hKzqWVlTgnb2ePA9+Peo4tUem2w3WBuIZGbDNtI9cfvOk2B2p/IY6oxCoy7RnrPejIgxzKk/XgLWZQASMDOnOcBQXuN9yTeblNmlSjgzZ//Z",
+    "url": "https://preview.redd.it/d99t7fadga091.jpg?width=640&crop=smart&auto=webp&s=a506b1b8e158c637a79e5c5ed6834c434082b16d",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 521,
+    "value": 521
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mana Falls",
+  "url": "https://www.reddit.com/r/dndmaps/comments/usl3uv/oc_mana_falls_3020/"
+}

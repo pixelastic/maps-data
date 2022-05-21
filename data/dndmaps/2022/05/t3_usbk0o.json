@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7gs2rwc0",
+    "name": "SuperSilentSecret"
+  },
+  "date": {
+    "day": 1652832000,
+    "full": 1652876288,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_usbk0o",
+  "picture": {
+    "filesize": 43676,
+    "fullUrl": "https://preview.redd.it/osj5dcm178091.jpg?width=4800&format=pjpg&auto=webp&s=6e2a41a783f311407f5257d588b2c3f869d89684",
+    "hash": "e211194163",
+    "height": 400,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACIQAAECBgEFAAAAAAAAAAAAAAIBAwAEERQhQZEFEiIxYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oADAMBAAIRAxEAPwDCxsl6Ew2MuFyK1JzsTPvfETJhGiZdJpumarukKERWzXkvMDMkSLhVyKb+RNtpX//Z",
+    "url": "https://preview.redd.it/osj5dcm178091.jpg?width=640&crop=smart&auto=webp&s=911d900abdb3ff2862d62da5c1e38659fa97c2b7",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mausoleum, different battlemaps with layers and roof",
+  "url": "https://www.reddit.com/r/dndmaps/comments/usbk0o/mausoleum_different_battlemaps_with_layers_and/"
+}

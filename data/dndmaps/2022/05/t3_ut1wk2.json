@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1652918400,
+    "full": 1652961874,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_ut1wk2",
+  "picture": {
+    "filesize": 95731,
+    "fullUrl": "https://external-preview.redd.it/WUf2fVmlu80TqHWAK4vjBJdcNlaAy-XTwwzFhiF3j5M.jpg?auto=webp&s=a8d2b8c2203955804891d2924ec3cb4cbf79d8b4",
+    "hash": "982ed7f3a0",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACUQAAIBAwQABwEAAAAAAAAAAAECAwQRIQAFEhMUMTJBYnGR4f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIhUf/aAAwDAQACEQMRAD8AxNGTMlL2zRRCaRC3YhPH5enywB+6AbbRyzyswhnUyTL4hVQIxAJGCb3+saV2MGiYEAhkIsBYZX21GG41Y3Cq4zMOPYRYAWz/AE6BzwSXp//Z",
+    "url": "https://external-preview.redd.it/WUf2fVmlu80TqHWAK4vjBJdcNlaAy-XTwwzFhiF3j5M.jpg?width=640&crop=smart&auto=webp&s=b581ace61fd89646741ea42aec96209df9c18ce5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lenris Hold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ut1wk2/lenris_hold_60x40_140dpi_oc_battlemap/"
+}

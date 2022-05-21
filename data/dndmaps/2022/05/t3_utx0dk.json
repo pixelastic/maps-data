@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3m4uoh",
+    "name": "Gamaweb"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653055587,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_utx0dk",
+  "picture": {
+    "filesize": 300615,
+    "fullUrl": "https://preview.redd.it/g7r8lk081n091.jpg?auto=webp&s=e8083a972f4cab63f818b6347c63c22d514f7a86",
+    "hash": "d797d869ca",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAIBAAAgIBAwUAAAAAAAAAAAAAAQMAAhEEITIFEkGR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AMechbemCpIvaw5YG2PGIlVdJ0wWy5weIO3ZYD73EhUnHECr0//Z",
+    "url": "https://preview.redd.it/g7r8lk081n091.jpg?width=640&crop=smart&auto=webp&s=bdd58b0a0f30e09de2bb3a2b0fca01e6cd81f04f",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Encounters 2 battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/utx0dk/swamp_encounters_2_battlemap/"
+}

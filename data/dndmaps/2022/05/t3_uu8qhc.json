@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653083715,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uu8qhc",
+  "picture": {
+    "filesize": 111797,
+    "fullUrl": "https://preview.redd.it/tcjg5812dp091.jpg?auto=webp&s=241a5cb3ff4e46eafafef6c9fb28b7d7a36ae5de",
+    "hash": "34418dd8cd",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACYQAAEEAQIEBwAAAAAAAAAAAAECAwQRIQAFExQxYQYSIzJBcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHhEBAAEDBQEAAAAAAAAAAAAAASECA1EAETFxgfD/2gAMAwEAAhEDEQA/AM4krYR4fgwIUV5Mt/3upyhBvr0zf3Q0vuKOXjbVHTLHMvEeqWyEqzVWe+NUQw67tnDiSWG5LIQvK/IpQCgVV2FD9GjhcHc2HJTbSVOxHFJUl9IAQTVKFn5zZxWhKim2w8M9uVPu9MWb1y9QVNLJCYHkN95Jz5r/2Q==",
+    "url": "https://preview.redd.it/tcjg5812dp091.jpg?width=640&crop=smart&auto=webp&s=83f64b42db3f0b9d87c8960ffc8e5d0da3dab8cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Battle Camp Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uu8qhc/desert_battle_camp_map_30x30/"
+}

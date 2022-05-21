@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653044622,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uts2hh",
+  "picture": {
+    "filesize": 168888,
+    "fullUrl": "https://preview.redd.it/7faw18qs4m091.jpg?auto=webp&s=f8a39f1f9d8c1767ff846ead36f2ca28538496de",
+    "hash": "33106a530e",
+    "height": 823,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACQQAAICAQMCBwAAAAAAAAAAAAECAwQRAAUxIaESFBVBUWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRMf/aAAwDAQACEQMRAD8AzGzVK9i3UMVqFnjd2gViSwTrkeEn7Jzqjy0kYVa6QRIACVlkCNn5I69tL9HeOOErdMDgkMsaquADwrcjv76F3ZSZ8yXZnYjJLFX/AA440Ea40dhA4WzGn//Z",
+    "url": "https://preview.redd.it/7faw18qs4m091.jpg?width=640&crop=smart&auto=webp&s=1e152537e901d08458c840b187008522ebcacdb5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "An encounter map on high mountain meadows criss-crossed by glacial streams",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uts2hh/an_encounter_map_on_high_mountain_meadows/"
+}

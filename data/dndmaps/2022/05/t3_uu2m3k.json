@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1612ur",
+    "name": "JJ_Pause"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653066872,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uu2m3k",
+  "picture": {
+    "filesize": 429728,
+    "fullUrl": "https://preview.redd.it/jyl0j7ypqn091.png?width=1470&format=png&auto=webp&s=3ff029c5a598c97751155ee92be299e459671aeb",
+    "hash": "4360ec1780",
+    "height": 488,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAIAAADkharWAAAACXBIWXMAAAsTAAALEwEAmpwYAAABuElEQVQokSWPV5LiMABEfYQBBQwY2zgrywqWI0OY3Zr7n2gLtqo/+/WrjtSgx9c6PGZ/n8a/38N9HO+Tv4129m6yfgvhNbvn6h9L+LkxyyNphJ/d8pjDFtbX/P27Lo931S5uei7zn216rWYy0y2MW3Cjje6/d7/4mjZ2tn5xdrJhdb3jfrHj5m3Q421YHvPynLef9fZaoiRPcXyAGGRFWpCqJhXXxATJNWlp2bGqpdW1TFGMUYxxjKMdBHlxaWUnt2BWbwapP7Fe9J73jometKItmxzHaI9gtEfgfDkyK+wt9IPUlmrHey96x22QxnNlKDWMq66qU3xE0Q6Ac3ZWhrpR+9WaQQjDqKGyJ8pyO8jesQ+sKa/PyeFtQBh1tNKWMdlw2dVtkRXJJTvVbdGHXlmmDbWDJLyOT58P8ICya5LmCT6g5HK8VlnTFYTXHS3fNk2UIcrQskwBhhFAEGC4h+AL7C/piavWjdoFpVSrdad0J94AlYadkvgL7D8AgnuEDscDV0RoYgahLROykbqTPWGqpaLJi2QHAcDovwEBBCGG5+SY5icmasKbur1ey0v+ySmJAQafXfgP0LNdzsQxxXgAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/jyl0j7ypqn091.png?width=640&crop=smart&auto=webp&s=4e6371048b78983bdfa19649ba8bf7fbd563851c",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Some cave/cavern maps for a variety of encounters. Since my last map dump was useful for some maybe these can be of use too. All maps are 70pi, if you'd like an ungridded/unlit version I can provide",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uu2m3k/some_cavecavern_maps_for_a_variety_of_encounters/"
+}

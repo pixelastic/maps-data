@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1652918400,
+    "full": 1652977858,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_ut79y6",
+  "picture": {
+    "filesize": 103568,
+    "fullUrl": "https://preview.redd.it/xap9xyxtlg091.jpg?width=2800&format=pjpg&auto=webp&s=b73c4f4c00acad5e2f3da1054a73dfe2da714ab4",
+    "hash": "dff11b4248",
+    "height": 1200,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACIQAAIBAgUFAAAAAAAAAAAAAAECAwARBBQhQVMxUZOh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEBAQEBAAAAAAAAAAAAAAACAQARIf/aAAwDAQACEQMRAD8AwI4p0ZywjlUCzBtrna1HORccnlaqZ8PEAFVCzFiFcDrr2pGRXki9/KaJt9wLUnJv/9k=",
+    "url": "https://preview.redd.it/xap9xyxtlg091.jpg?width=640&crop=smart&auto=webp&s=20246b1b6b1f0f23807dad7b784e702fecc77adb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Temple Rain Flood Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ut79y6/ruined_temple_rain_flood_phased_battle_map_40x75/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653083460,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uu8ndy",
+  "picture": {
+    "filesize": 85699,
+    "fullUrl": "https://preview.redd.it/3nt8xriubp091.jpg?auto=webp&s=3f030cbb7ba0cdd28039acfa81f446f39ba50735",
+    "hash": "8e996518e0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBAURACExBhIiUXGB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAHREAAgIBBQAAAAAAAAAAAAAAAQIAESETIkFhwf/aAAwDAQACEQMRAD8AydYa2+pb4au3W+SWFVRUhj7kIPsZ5/NHXGxw9ORkVcFKk0qOyGftLAZxsPY2+dAWW8V6VDoaqR1wVAY5wADx6+tSXiWSWrNK7sYYT4Z3Izz5HfRvZypPeJHp0gYcGsnyf//Z",
+    "url": "https://preview.redd.it/3nt8xriubp091.jpg?width=640&crop=smart&auto=webp&s=504cb88cfa781dfdc8e00afb5fe4bf951b93d040",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "TavernWorld",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uu8ndy/tavernworld/"
+}

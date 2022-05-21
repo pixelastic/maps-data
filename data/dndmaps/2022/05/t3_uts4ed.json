@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_43sx5fdf",
+    "name": "Craywin"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653044733,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uts4ed",
+  "picture": {
+    "filesize": 49103,
+    "fullUrl": "https://preview.redd.it/znmqplqx3m091.jpg?auto=webp&s=0e0ca21f98df45bdd7cb72e6ce2e6ac7f120c2c9",
+    "hash": "5f8c16ea58",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBAAFERIGITEysfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMRsVnfuswNNoWQo4yBTCDx5y1oU4r2B1OwHXf2jLMydYp7ZOyAFbDH7zVd05O7OjFsk533K8nKu6NOkMh//2Q==",
+    "url": "https://preview.redd.it/znmqplqx3m091.jpg?width=640&crop=smart&auto=webp&s=a5f1a888699af91b20fc0158eb50e200cd7298d9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ancient Places: Garden of Amelia",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uts4ed/ancient_places_garden_of_amelia/"
+}

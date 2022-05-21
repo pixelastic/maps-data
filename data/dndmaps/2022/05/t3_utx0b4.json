@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ivyf4f",
+    "name": "Caernunnos"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653055583,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_utx0b4",
+  "picture": {
+    "filesize": 172265,
+    "fullUrl": "https://preview.redd.it/apaovkn21n091.jpg?width=3000&format=pjpg&auto=webp&s=02e606bcdc2628c6ba1e39b2d70fc11199081a63",
+    "hash": "a9ec693782",
+    "height": 1040,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EAB8QAQACAgICAwAAAAAAAAAAAAECEQAEAxIhIzE0cf/EABUBAQEAAAAAAAAAAAAAAAAAAAMG/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECETH/2gAMAwEAAhEDEQA/AMmNOpPdlBtpqxwHS2FUlw0/FmN1+f1kOScJCh1l4Q/cpYxv688n6qk+iYmf/9k=",
+    "url": "https://preview.redd.it/apaovkn21n091.jpg?width=640&crop=smart&auto=webp&s=82f40f5bdc8bda6009223d430e1930adeba901ed",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Different version of map that I made for the Goblin ambush from Lost mines of Phandelver (Grid and gridless)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/utx0b4/different_version_of_map_that_i_made_for_the/"
+}

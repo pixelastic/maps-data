@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1wnp8es2",
+    "name": "Eksplicity"
+  },
+  "date": {
+    "day": 1652832000,
+    "full": 1652894258,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_ushw5w",
+  "picture": {
+    "filesize": 125785,
+    "fullUrl": "https://preview.redd.it/sgnm57l6p9091.jpg?auto=webp&s=a2f43fcc24e5db0f2212a0fef39c6661600ded5a",
+    "hash": "2b18642e36",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAhEAADAAEEAQUAAAAAAAAAAAABAgMRAAUSIQQVMWFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAJR/9oADAMBAAIRAxEAPwCDZkjPb2rLlMUOSCpOO8ZB+s6T0tECxo9givzAIOSfjr260rLXxJ+VxsxmvEKmMBdFu8KWO3VN25UkHOST2f3QFhpo7f/Z",
+    "url": "https://preview.redd.it/sgnm57l6p9091.jpg?width=640&crop=smart&auto=webp&s=32e544edfe20850c1f0c0ddabbe88e9f6509235e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Witherbloom dorms made for Strixhaven campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ushw5w/witherbloom_dorms_made_for_strixhaven_campaign/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1653004800,
+    "full": 1653060567,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_utzgw6",
+  "picture": {
+    "filesize": 129226,
+    "fullUrl": "https://preview.redd.it/y32xo2odfn091.jpg?auto=webp&s=2612dd8106d89c835d79f8cae2dc7bd3b64f6630",
+    "hash": "2c73930f73",
+    "height": 1005,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAACAgEFAAMAAAAAAAAAAAABAgMEEQAFITFBEhTh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEUH/2gAMAwEAAhEDEQA/AIjUsPLSQblJI8UaFEZI1J69OAT53oV4q/zbDPjPGV0i1i7JtVegzr9diZIlA9PfXPmizGikhpZsjg4j/dNh2Eb/2Q==",
+    "url": "https://preview.redd.it/y32xo2odfn091.jpg?width=640&crop=smart&auto=webp&s=f3b0f4535ab56e241b5e97ac55db149316ef07c9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.91,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wagon Wheels",
+  "url": "https://www.reddit.com/r/dndmaps/comments/utzgw6/wagon_wheels_48x36/"
+}
