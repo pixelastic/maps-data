@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_k9ngi0xh",
+    "name": "AlbysMaps"
+  },
+  "date": {
+    "day": 1653091200,
+    "full": 1653132420,
+    "month": 1651363200,
+    "week": 1652572800
+  },
+  "id": "t3_uul5mq",
+  "picture": {
+    "filesize": 117465,
+    "fullUrl": "https://preview.redd.it/674v8q6udt091.jpg?auto=webp&s=6cbfd033644d7fd70a362b1553d3960f0c9ccd98",
+    "hash": "9b39b51c9b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACIQAAICAQQDAAMAAAAAAAAAAAECAwQhAAUREgYxUUFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxIy/9oADAMBAAIRAxEAPwDNmCeefxx4o5Gjr2XeVgMIvb2f1g6G41NweTcTFWtOHmJjKLyGB7cEHn1kZ/GkndlrSbEsF1UiknZbKhxwU7Y7fBk6k+Q7/u73r9eneZKKEtE0bqOQDgDjP8+ajs6Y65Zij//Z",
+    "url": "https://preview.redd.it/674v8q6udt091.jpg?width=640&crop=smart&auto=webp&s=4a08d9120ad60fee02726ab7e243b598cd7efb5c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "City Square",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uul5mq/city_square_28_x_28/"
+}
