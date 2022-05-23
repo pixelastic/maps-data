@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bs2ji",
+    "name": "Pingonaut"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653265659,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uvo1ys",
+  "picture": {
+    "filesize": 95391,
+    "fullUrl": "https://preview.redd.it/zgiu83k3e4191.jpg?width=1818&format=pjpg&auto=webp&s=a0124d7646a09497b8e6b92025413387b349989b",
+    "hash": "ca4956e08c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACYQAAEDAQgBBQAAAAAAAAAAAAECAxEEAAUSExQhMWFxIjJBgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAAMAAAAAAAAAAAAAAAAAAAACEf/aAAwDAQACEQMRAD8AOlKVUtWiraaQ4lSNMtsnMXM4sXgx1Ft7cFYL9YIU8Xc3vAlsjfqIHmbUOaoXnI1IeD28zk5M/g2+5s11ioVeTTqKipS8l0+gSW1Nk8Ee2I+eZtTNQh//2Q==",
+    "url": "https://preview.redd.it/zgiu83k3e4191.jpg?width=640&crop=smart&auto=webp&s=2a59dc8bbb6e3130ea611f63e13528ceebda962c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "My table’s battle maps for our world’s Old Owl Well, for use in our next session",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uvo1ys/my_tables_battle_maps_for_our_worlds_old_owl_well/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1653177600,
+    "full": 1653238806,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uvf363",
+  "picture": {
+    "filesize": 239281,
+    "fullUrl": "https://preview.redd.it/qcdg9kv662191.jpg?width=2160&format=pjpg&auto=webp&s=d40caee1d64592850f5db7d3b0e7663c9d2c04c4",
+    "hash": "784fbb7b42",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCBBFBAAUhEzFTFCOTouH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMSITH/2gAMAwEAAhEDEQA/AJPcZbfTohRMp6SD6gplBxtG0ZACVo9znGRrPugfOftpmo38Oclk3oi5TFeyacBgA7xE+b34OMjQvpp+am+P91JhHFbHsafT/9k=",
+    "url": "https://preview.redd.it/qcdg9kv662191.jpg?width=640&crop=smart&auto=webp&s=bed699b7a77629c6d00b460ff3ee28c1a57a99cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Bastion (25x54)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uvf363/jungle_bastion_25x54/"
+}

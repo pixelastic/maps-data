@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1653177600,
+    "full": 1653233148,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uvd791",
+  "picture": {
+    "filesize": 51982,
+    "fullUrl": "https://preview.redd.it/y6862g2ep1191.jpg?auto=webp&s=13307d468ea38fcdfcfba84ea0f2cf4debdb57f4",
+    "hash": "ac9dfba3ee",
+    "height": 219,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAFABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIRAAAQQBAwUAAAAAAAAAAAAAAQACAwQREjFBEyFhccH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMRQXHB/9oADAMBAAIRAxEAPwDB2OnWrU7UcY1SPLXgncgb5+K25YjsVZmSQ5BiGAXdmkcgcHz6RFEaLkbvqaADC+8L/9k=",
+    "url": "https://preview.redd.it/y6862g2ep1191.jpg?width=640&crop=smart&auto=webp&s=917ec18f5a1a90e037ab9c27f1b73bbaaf3ec66c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Calhun Farm & Fields",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uvd791/calhun_farm_fields_140_x_48/"
+}

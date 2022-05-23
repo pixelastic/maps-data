@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_10dfg3",
+    "name": "AMA5564"
+  },
+  "date": {
+    "day": 1653177600,
+    "full": 1653248313,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uvif0m",
+  "picture": {
+    "filesize": 55959,
+    "fullUrl": "https://preview.redd.it/h37bli8hy2191.jpg?auto=webp&s=9859685e53eb7cea180de7bb4b585207163d83b3",
+    "hash": "14fe79e3c5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDEQAEEhMhMQUGIqHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAbEQABBQEBAAAAAAAAAAAAAAABAAIDERIhUf/aAAwDAQACEQMRAD8Aj7bYt7hq4bfYbeKlJAJJBbG8qEUOqM2pQlu1aWjSBAWsY5cknfn6KxANQlJJAJiUkpPqhbZ6ac3XXNgPNUxE8UGN5l1rnim0Ayq6v//Z",
+    "url": "https://preview.redd.it/h37bli8hy2191.jpg?width=640&crop=smart&auto=webp&s=b9c1e6f40c7b8f14f82e0e0d8ffd62d0db2fffc8",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "My new setting.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uvif0m/my_new_setting/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1653177600,
+    "full": 1653251692,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uvjkrv",
+  "picture": {
+    "filesize": 152321,
+    "fullUrl": "https://preview.redd.it/cgvhsd2f83191.jpg?width=4000&format=pjpg&auto=webp&s=b3ebad59c68850b2e23735fbb8a66620b8874836",
+    "hash": "19d617e3ec",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBv/EACEQAAMAAQMEAwAAAAAAAAAAAAECAwAREhMEISPRMUGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAIkH/2gAMAwEAAhEDEQA/AMHOFWiqcRmXO2aTYE+hjfp7pNprNqUmdrzoe/xhK1VjyPQeI6o0hr+ZQvekntBiXc7neo0+vWSSeP/Z",
+    "url": "https://preview.redd.it/cgvhsd2f83191.jpg?width=640&crop=smart&auto=webp&s=3c21f405a5880666f43791c070df13574e2addca",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Strixhaven - Archway Commons",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uvjkrv/battlemap40x404000x4000_strixhaven_archway_commons/"
+}

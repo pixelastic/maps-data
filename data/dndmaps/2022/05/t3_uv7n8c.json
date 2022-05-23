@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3m4uoh",
+    "name": "Gamaweb"
+  },
+  "date": {
+    "day": 1653177600,
+    "full": 1653212605,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uv7n8c",
+  "picture": {
+    "filesize": 295379,
+    "fullUrl": "https://preview.redd.it/62r8ckw500191.jpg?auto=webp&s=63c438e8bbf98794890fa1d7729f5286605870dd",
+    "hash": "18d2c5824c",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIxAAAQMCBQUAAAAAAAAAAAAAAQIDBAARBQYSIVExMkFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAQQCAwAAAAAAAAAAAAAAAQIRIfAAAzFRYf/aAAwDAQACEQMRAD8AyT+CNyMnx5bMSO2kxxZ1wErWE9Qm22q53+UqxiYF5LiQXHFJU03qCEkJNldxTf2vzxt4pUCtoSXEvNvOEEvHVvmf/9k=",
+    "url": "https://preview.redd.it/62r8ckw500191.jpg?width=640&crop=smart&auto=webp&s=e608c507ce1e48fe76ecbf064dbf3a406220f5a6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 329,
+    "value": 329
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "River Encounters battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uv7n8c/river_encounters_battlemap/"
+}
