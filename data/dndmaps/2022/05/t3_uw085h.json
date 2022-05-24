@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ektg7b5d",
+    "name": "de-Zigner"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653312541,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uw085h",
+  "picture": {
+    "filesize": 153898,
+    "fullUrl": "https://preview.redd.it/krfe7haa98191.jpg?auto=webp&s=20e819f024d6e5842c1efa206842b0202db65a64",
+    "hash": "172d144220",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAHxAAAgICAwEBAQAAAAAAAAAAAQIDBBESAAUhMWHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEBAAMAAAAAAAAAAAAAAAARAAECEv/aAAwDAQACEQMRAD8AwVDrYZutVhTkawgJcvjXUjw4yPhz94O5qGFI68UKSzOpcExKoK6ZJBBPzXzlfW24hQFSa/pIy5BLrq+VIAbzzH6eLtr8RqR14boJhDbSF1OoMYGqjHo+/wB5Jd+yUYL/2Q==",
+    "url": "https://preview.redd.it/krfe7haa98191.jpg?width=640&crop=smart&auto=webp&s=3e389d5b46b66e801d33275d43b4b84b60b5e787",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gothic Scriptorum highly detailed map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uw085h/gothic_scriptorum_highly_detailed_map_20x20/"
+}

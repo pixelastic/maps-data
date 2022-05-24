@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2z3an4k6",
+    "name": "UFOsAndGames"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653278163,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uvrn0d",
+  "picture": {
+    "filesize": 73110,
+    "fullUrl": "https://preview.redd.it/p9zb0mo5f5191.jpg?auto=webp&s=68af57862cf7d37dd27575c913481451bcae4e97",
+    "hash": "0adf6452b9",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDBAAREiExQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAQUAAAAAAAAAAAAAAAABAgAREhMhMf/aAAwDAQACEQMRAD8AympTMYBkQrMPA12dYrTr1mrWDYQEBC6gnRVh99YfLeljjSwdM7BeWugckXkvNI/IRIFLFFHRIH7k+RDpRCtYmvBP/9k=",
+    "url": "https://preview.redd.it/p9zb0mo5f5191.jpg?width=640&crop=smart&auto=webp&s=15f12358d261fd904a79841412cf3447d6d52d30",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp - Hand Drawn Isometric Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uvrn0d/swamp_hand_drawn_isometric_battle_map_30x24/"
+}

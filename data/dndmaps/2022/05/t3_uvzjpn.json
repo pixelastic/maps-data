@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653310505,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uvzjpn",
+  "picture": {
+    "filesize": 204107,
+    "fullUrl": "https://preview.redd.it/4m950poe38191.jpg?auto=webp&s=1e269544be900c70aac8bc67e13bda8303085c30",
+    "hash": "95dfe32785",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIE/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQRIRITMXEFQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8ASC0trcKIgnLjqQLgsf2pvrCK4VD1IsgJLEjzkAj6rbAXkji63DcUUMqjanGxj3jfqi+Su5LQRxRxknbMBvBwBg+d6qOotsfYfFxn/9k=",
+    "url": "https://preview.redd.it/4m950poe38191.jpg?width=640&crop=smart&auto=webp&s=d04917e16ed17b8466dba149df1a69297c2b2d0a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 293,
+    "value": 293
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Hovertree Village",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uvzjpn/hovertree_village/"
+}

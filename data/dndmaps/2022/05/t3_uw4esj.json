@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653323965,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uw4esj",
+  "picture": {
+    "filesize": 86610,
+    "fullUrl": "https://preview.redd.it/sjqho31d79191.jpg?auto=webp&s=6797579e62315bc541b89eef4212b2255a8e8137",
+    "hash": "c7ab592380",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACMQAAICAQMDBQAAAAAAAAAAAAECAwQFABEhBhIxEyJBccH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAACARIRQWH/2gAMAwEAAhEDEQA/AMbSFrdoRqSpWJWlITc+oeCFHzzxqG/HLibvYxKFwQW7ArbfX5o4K/Jjr8Fma0aFhPfG8iEkEeCNNzmbt9TZKGOzG125IxUTxrvI5PA8AbjV1nWmdgYWbcP/2Q==",
+    "url": "https://preview.redd.it/sjqho31d79191.jpg?width=640&crop=smart&auto=webp&s=ccd774bac9349ec6ef3a9ef908f146407cdf5427",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mountaintop Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uw4esj/mountaintop_temple_25x25_oc_battlemap/"
+}

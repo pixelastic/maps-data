@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6dntgc76",
+    "name": "Young-Old-Man"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653334299,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uw89yb",
+  "picture": {
+    "filesize": 72568,
+    "fullUrl": "https://preview.redd.it/026l13g02a191.jpg?width=2400&format=pjpg&auto=webp&s=8a22e70dff87623b0430376a6025b0f0e703f66c",
+    "hash": "bc50a0ed00",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQMEAAIREiQxNFFhYnL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBMUH/2gAMAwEAAhEDEQA/AMMkSWlLAYzLcjGrtSNJbalYEZl2ByOD5qqUNu0eppD6VPyKGgUuz//Z",
+    "url": "https://preview.redd.it/026l13g02a191.jpg?width=640&crop=smart&auto=webp&s=a3981aeadb19461ccb4f7ab49894bb20752c9403",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "A3 16x11 Modular Sewer maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uw89yb/a3_16x11_modular_sewer_maps/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1653264000,
+    "full": 1653322947,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uw41bo",
+  "picture": {
+    "filesize": 165235,
+    "fullUrl": "https://preview.redd.it/rc6owlre49191.jpg?auto=webp&s=00f8127c727d05afcc265bffd4f2a6b60d273a6a",
+    "hash": "d0487b09e6",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAeEAACAgICAwAAAAAAAAAAAAABAgQRAAMFMRJBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACMf/aAAwDAQACEQMRAD8AiXFxozxAJLKrMpCWpNnvA5IGve6KbAPeOcZJAjsqsLRPf3BZWtnkbGVCATdeOS56wDf/2Q==",
+    "url": "https://preview.redd.it/rc6owlre49191.jpg?width=640&crop=smart&auto=webp&s=ed6d3a1b3e3987c9a851eff3ce4db22fc80cd641",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uw41bo/oc_ruined_temple_20x28/"
+}
