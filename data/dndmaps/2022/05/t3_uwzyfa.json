@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1653350400,
+    "full": 1653423409,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uwzyfa",
+  "picture": {
+    "filesize": 181315,
+    "fullUrl": "https://preview.redd.it/6zwojut1fh191.jpg?auto=webp&s=4df0d536271cef5ae773a0bd641f6837fe6eba08",
+    "hash": "45c25c66db",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDEQQABRJBIVEUImGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAwIREiEi/9oADAMBAAIRAxEAPwC7JFBt74mKcWJo5EKSStQLfXkaPfQ8+tZ/eIMDI3CV8KICK6oXQPek03FJduD4yc5eJKkuwJAQIbANcr8+etFzfIxikaO6rxFWv89fmo2R4sWVjo//2Q==",
+    "url": "https://preview.redd.it/6zwojut1fh191.jpg?width=640&crop=smart&auto=webp&s=d74ca6fb9ce99a3692b13333dbd1a26c027419bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Mansfelds Mansion",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uwzyfa/mansfelds_mansion_32x44/"
+}
