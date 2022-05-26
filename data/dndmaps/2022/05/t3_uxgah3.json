@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_28rp8a8t",
+    "name": "PRB99"
+  },
+  "date": {
+    "day": 1653436800,
+    "full": 1653481775,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uxgah3",
+  "picture": {
+    "filesize": 97259,
+    "fullUrl": "https://preview.redd.it/fxy5nd5m8m191.jpg?auto=webp&s=e09677df9fe58f11c0d72fab92ddd54cf557f437",
+    "hash": "dce58c655f",
+    "height": 452,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgEDBAMBAQAAAAAAAAAAAQIDBAURAAYSIRNBgSNh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/ADbFHTV2zbdFQ21/BVQiCWOePkZQAQT5MYXJBx2PWNRvYLJFbarnYoap6NZQkMdS35sF7V2J7fl379Y1nl73FeKWopkprjUwx0cSmBEfiqE/wdH7p7fM8s+y7PJK7M8tQXc5xyJTOT9J0+WgrYf/2Q==",
+    "url": "https://preview.redd.it/fxy5nd5m8m191.jpg?width=640&crop=smart&auto=webp&s=46ca9c389eddf5ee56a60fb8f7cc2b5d82d1af05",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Mirror hall map for No Foolish matter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uxgah3/mirror_hall_map_for_no_foolish_matter/"
+}

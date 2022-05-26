@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4zacbe1",
+    "name": "BardikStorm"
+  },
+  "date": {
+    "day": 1653436800,
+    "full": 1653442535,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_ux6cpn",
+  "picture": {
+    "filesize": 89870,
+    "fullUrl": "https://preview.redd.it/t38r0ve10j191.jpg?width=2048&format=pjpg&auto=webp&s=3b3d43b4a667a8dda728f21451c07870b6dc8d96",
+    "hash": "f9f1f25c41",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACMQAAEEAQQBBQAAAAAAAAAAAAECAwQREgAFITFxBhNBUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQACERIhA//aAAwDAQACEQMRAD8AxcBO2y4yY77SYzyScrOKrA7sjm/rT0KXJ9NR31bPLQVPmnC42ld1eNX5PWpzcyI2hAQEKec5Khxia+VedA9KbXEktPLR7mNoII7BHX7o25tEYkRyBbadX//Z",
+    "url": "https://preview.redd.it/t38r0ve10j191.jpg?width=640&crop=smart&auto=webp&s=8468e0c7793673a539b6c6e82f8a5f1b55875e7a",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Map for an Upcoming Subterranean Region in a Campaign I'm DMing",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ux6cpn/map_for_an_upcoming_subterranean_region_in_a/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6dntgc76",
+    "name": "Young-Old-Man"
+  },
+  "date": {
+    "day": 1653436800,
+    "full": 1653482240,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uxgfez",
+  "picture": {
+    "filesize": 61505,
+    "fullUrl": "https://preview.redd.it/jrl336p0am191.jpg?width=2400&format=pjpg&auto=webp&s=15d5b312d083958caabd9895e3f9626ccf09cbde",
+    "hash": "aacc1f4ee4",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQREiFxIzHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQJB/9oADAMBAAIRAxEAPwDBpCY7iNmkypOAFNFoszeO6VmB53JH2qRGiyIVUDbBPdAW8TSybID7PPdS1SGw/9k=",
+    "url": "https://preview.redd.it/jrl336p0am191.jpg?width=640&crop=smart&auto=webp&s=c566da52f4c1ecb79b96adb32e99af888e95f972",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Modular A3 16x11 Forest Path",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uxgfez/modular_a3_16x11_forest_path/"
+}
