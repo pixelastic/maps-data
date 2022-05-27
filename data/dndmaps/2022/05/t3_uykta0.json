@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_oi85v8v",
+    "name": "ChibbinGrove"
+  },
+  "date": {
+    "day": 1653523200,
+    "full": 1653608615,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uykta0",
+  "picture": {
+    "filesize": 53715,
+    "fullUrl": "https://preview.redd.it/6aa3vjtuow191.jpg?auto=webp&s=60deb3cf3acec919f126e61f341021cad47adcea",
+    "hash": "571e7a79df",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIDAAQREjEhIjJBYcHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEQMRAD8AxkXQkRI3fCr3ZPJ/YpYbmVyyoWEsgwTnyA+6OWzfddQp5OufmrIFMlsyxx7MhDFR6A6kUdHX/9k=",
+    "url": "https://preview.redd.it/6aa3vjtuow191.jpg?width=640&crop=smart&auto=webp&s=e77df9595a7684223e3043ebacd4877c8455ad09",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Meadow Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uykta0/meadow_ruins_25x25_3500x3500px/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5vbftx73",
+    "name": "FantasticalSpectacle"
+  },
+  "date": {
+    "day": 1653523200,
+    "full": 1653551790,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uy2hf1",
+  "picture": {
+    "filesize": 41838,
+    "fullUrl": "https://preview.redd.it/8pk2sgtxtr191.jpg?width=3840&format=pjpg&auto=webp&s=a40c189c999d4967025c47d2f2a1935056614d6f",
+    "hash": "a98ee86f9a",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQIDEQAEBTETgSEiUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQEhMf/aAAwDAQACEQMRAD8AxlnIWrAKRjxxBIVCgFe4G9676qLtxYPXKnDjoC0GUjwAqNxP2lKHGMQ7P//Z",
+    "url": "https://preview.redd.it/8pk2sgtxtr191.jpg?width=640&crop=smart&auto=webp&s=8f7ccf9f30215b3c9afba822d5bd8058cc208c70",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Wall 60 x 30 (Besieged and clean versions, night and day variants)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uy2hf1/city_wall_60_x_30_besieged_and_clean_versions/"
+}
