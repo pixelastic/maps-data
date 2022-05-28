@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ba5xv8d1",
+    "name": "Dundrift"
+  },
+  "date": {
+    "day": 1653609600,
+    "full": 1653633199,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uys06w",
+  "picture": {
+    "filesize": 96105,
+    "fullUrl": "https://external-preview.redd.it/EH48l02HW_PWGG6mg4M9neoJVga2sY32K40IjeUDpkg.jpg?auto=webp&s=6120d20053b82cefb67a822364b72a7294b74676",
+    "hash": "df3f073eb4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIBAAAQQBBAMAAAAAAAAAAAAAAQIDESEABBITUTFSYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAxEx/9oADAMBAAIRAxEAPwDNNRxyT0qQfgyYLbD2oTzFbu3cB61NdY2nh7REKAFqFViONIYYVxoSDASTFkV5yOaId7H21PCpP//Z",
+    "url": "https://external-preview.redd.it/EH48l02HW_PWGG6mg4M9neoJVga2sY32K40IjeUDpkg.jpg?width=640&crop=smart&auto=webp&s=1cb03e02a2cc8d23a150a277a29e85be0669d430",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Burning Wizard",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uys06w/the_burning_wizard/"
+}

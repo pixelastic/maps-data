@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1653609600,
+    "full": 1653631358,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uyrjov",
+  "picture": {
+    "filesize": 114087,
+    "fullUrl": "https://preview.redd.it/saec63zhly191.jpg?auto=webp&s=cb98f9fd1c4cac2eca97836c7991175b3009836b",
+    "hash": "0f3c6c409f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAIxAAAwABAwQCAwAAAAAAAAAAAQIDBAARIRIUIjETYXGhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAyExQdH/2gAMAwEAAhEDEQA/AMWxcafbrvEUo48UB2J59jV8YrGXw0xlQurOH4PWVH6A/uhj1RcJ6AzkS4mDNuJLtyzD2fxoUq8sXKJPcihM+pX8U2HGw+wdA+QAFseTvimsm1//2Q==",
+    "url": "https://preview.redd.it/saec63zhly191.jpg?width=640&crop=smart&auto=webp&s=74a1d18465fbd2bf43a948e9b667b99775db4ad2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Old Forest Bridge Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uyrjov/old_forest_bridge_battle_map_30x30/"
+}

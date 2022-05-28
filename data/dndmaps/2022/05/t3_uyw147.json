@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_k9ngi0xh",
+    "name": "AlbysMaps"
+  },
+  "date": {
+    "day": 1653609600,
+    "full": 1653650419,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uyw147",
+  "picture": {
+    "filesize": 119232,
+    "fullUrl": "https://preview.redd.it/v795imf460291.jpg?auto=webp&s=54cb14e2e8b818eb34e514ec717c58cdbc2a5fd7",
+    "hash": "6eb2d3e123",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACAQAAIDAAICAwEAAAAAAAAAAAECAwQRAAUhMRITYfD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABwRAAEDBQAAAAAAAAAAAAAAAAACMVEBAxEhYf/aAAwDAQACEQMRAD8AyppXtuhobMcpSdVLtnyJVsw7+8U7ypdSWaUyT/QQN8AqMUAgnf71yBV7u/C8kL2JrELOXIdi2kesJ4aHtu1sJbrvYdKbrojJGZ+ePfIEqxMj0u66zH//2Q==",
+    "url": "https://preview.redd.it/v795imf460291.jpg?width=640&crop=smart&auto=webp&s=a1888bb2f4ca9e6fba2d2cb2569a7e728ba03d1a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Entertainment District",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uyw147/entertainment_district_28_x_28/"
+}
