@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4hbcn77w",
+    "name": "MEKK-the-MIGHTY"
+  },
+  "date": {
+    "day": 1653696000,
+    "full": 1653738678,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uzlpqr",
+  "picture": {
+    "filesize": 116362,
+    "fullUrl": "https://external-preview.redd.it/HDJQtSSyc1OLeXq8Zeq82tdvZX4-9v-4x1skP6Gzejw.jpg?auto=webp&s=fa6fc91c90bb8aa53c345bc2968599bc8279c520",
+    "hash": "b57ce802da",
+    "height": 639,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQI/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQAEITFBEmGBkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABcRAQADAAAAAAAAAAAAAAAAAAABAkH/2gAMAwEAAhEDEQA/AM608YZULqFsUDQ+v3eCyvJNp3Z28kO1nje8q1EcokmUoxUk11zW/vCVlMkYVZARVgqTz7+cOqXjH//Z",
+    "url": "https://external-preview.redd.it/HDJQtSSyc1OLeXq8Zeq82tdvZX4-9v-4x1skP6Gzejw.jpg?width=640&crop=smart&auto=webp&s=b0e138ce683008231c74dac64c8573b84f8c874f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Marzar's Maze",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uzlpqr/marzars_maze/"
+}

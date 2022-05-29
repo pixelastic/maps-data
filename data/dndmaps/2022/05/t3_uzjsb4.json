@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7kd4qslv",
+    "name": "clausui"
+  },
+  "date": {
+    "day": 1653696000,
+    "full": 1653730097,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uzjsb4",
+  "picture": {
+    "filesize": 56193,
+    "fullUrl": "https://preview.redd.it/e38bc4t3r6291.jpg?auto=webp&s=be17fe2a2d956e81c832124619e0a5bb32349b22",
+    "hash": "e1b2b2ca9f",
+    "height": 673,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwME/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDESEABAUSEyMxQVFhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACARAAECBQUAAAAAAAAAAAAAAAECEQADBSGhEjGBsfD/2gAMAwEAAhEDEQA/AEWHj64945Oz1SMHR6JcEDy+BrE3DT7dlkMzSiVA1VhMkVj9+9IEOyj2+6HgscVRXB99XbjEMTUnQWN0vrp6a5oJL739iJK6MgymUbsw4v3iP//Z",
+    "url": "https://preview.redd.it/e38bc4t3r6291.jpg?width=640&crop=smart&auto=webp&s=d8cbb8cab8f9f6c8acccf712a03db8e28b83c5e3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.63,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Tower of Zephyros",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uzjsb4/tower_of_zephyros/"
+}

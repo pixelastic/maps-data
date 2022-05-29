@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1653696000,
+    "full": 1653733650,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uzkk1b",
+  "picture": {
+    "filesize": 86430,
+    "fullUrl": "https://preview.redd.it/trj2sp1n17291.jpg?auto=webp&s=39ca2bfec2c7c5823208cb086f981b55e48230a3",
+    "hash": "0a4dc8a217",
+    "height": 362,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEH/8QAJhAAAQMCBAYDAAAAAAAAAAAAAQIDBAARBSEiQRMxM3GBgpGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGBEAAgMAAAAAAAAAAAAAAAAAABESIUH/2gAMAwEAAhEDEQA/AM/nty3hCRCS4WwEajcDM3v8ZUsSw8F1x5qS6pSNfCUo2vbbceKkPoQu37SXzX6fQqWVIcP/2Q==",
+    "url": "https://preview.redd.it/trj2sp1n17291.jpg?width=640&crop=smart&auto=webp&s=b93c1d306144ee65873299773593cb5d3122a9c1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The City of Nardusk",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uzkk1b/the_city_of_nardusk/"
+}

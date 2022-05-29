@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1653696000,
+    "full": 1653716988,
+    "month": 1651363200,
+    "week": 1653177600
+  },
+  "id": "t3_uzgwes",
+  "picture": {
+    "filesize": 80895,
+    "fullUrl": "https://preview.redd.it/mzt87dd4o5291.jpg?auto=webp&s=352baa10ec8b30087fcc20996e8f282d4e3d0291",
+    "hash": "6798e8e3f5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACIQAAIBBAEEAwAAAAAAAAAAAAECEQADEiETBEJxgZGx8f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEhIkH/2gAMAwEAAhEDEQA/AMgQ8V9RdZ4Vzk0/B9ao9Pu8qXWPJnGbHu3M+amzLvOJJKmF+5pr5X77pZ0ztiJGoH5U9VkTT//Z",
+    "url": "https://preview.redd.it/mzt87dd4o5291.jpg?width=640&crop=smart&auto=webp&s=d880ff738715ae3b2fe8b15d60d5119cefc3aac2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Misty Forest Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/uzgwes/misty_forest_battle_map_30x30/"
+}
