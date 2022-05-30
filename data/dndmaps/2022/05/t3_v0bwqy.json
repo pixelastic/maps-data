@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_xmdm2",
+    "name": "jyndir"
+  },
+  "date": {
+    "day": 1653782400,
+    "full": 1653833188,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v0bwqy",
+  "picture": {
+    "filesize": 464009,
+    "fullUrl": "https://preview.redd.it/ija249wl9f291.png?auto=webp&s=c0198a816bb7dcf6f93e19d88641f25df29da9f3",
+    "hash": "50a1c1438d",
+    "height": 903,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAIAAABP3xIpAAAACXBIWXMAAAsTAAALEwEAmpwYAAACK0lEQVQokQEgAt/9AJSVkaOjo2lrgWhugq+vrrW1sqGgnYaGgmVkYkNCQjU0MwC1s66GlJ9DWXmDiJu0tbnV1tLJycavsKuJiYdfYV9VVVIAwMG8naOrWmmDlJej0s/M09TQ0NPOw8XBp6ilgIB9bm9sAMXHw7m6u4eGlZCToVtigHF3isPBvsHAvba3s5ybmYWEgQDAwr/P0MxmeYMrTWQoUWc9R2ZUZHpPZnSlpKKwsKySko8Avr+8ycnFuLezR2JuLD9caGN5YGt6Kj1Ve3+FtLOum5uYALm7uL/Bvb69uZOUmClQWyc5Vn11g6GenpiZmK6uqqKhngC0tLG8vrmvsa20tbBpZXgmLlA8Q15UXG54eYKpqaafoJ0ArKypuLi1ra2qqailRFtoIUNVJzRTNzhUbG11oaKenJyZAKSkobKyr6mppqippHV4fxxAUCJCUystUGJbbJCQj5ualwCenZqvr6ypqaaio6CYl5ZESVtDRVhbXWmDgYOVlpOVlJEAkpKQl5eTn5+cnp+cnJyYkI+NQ0pbX2BrWFNnhYOEkZGNAImJhoaGg5KTkJ2dmZeYlZaYk5CPi0VKWhopRFVRYY2OiQCGhoOSko+RkY6XlpOZmZaRkY6VlZF8gH4eMkQnKUR8enoAf398jY2Jj4+Ljo6KkZGNk5OPj5CNjo2KfXl6PzxRYF5lAHd3dIKCf4qJhomIhYeHhIiHhYaGg4WFgoiIhIKBfXt6dyhAGF0gaB6xAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/ija249wl9f291.png?width=640&crop=smart&auto=webp&s=024feb114d36152fe0ae088e7b4f56bd47607ba4",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Island hex map (updated textured version) - paper-cut style contour lines - based on real topography (South Faroe Island)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v0bwqy/island_hex_map_updated_textured_version_papercut/"
+}

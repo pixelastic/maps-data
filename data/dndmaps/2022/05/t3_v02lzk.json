@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6570c642",
+    "name": "Hoggenkrantz"
+  },
+  "date": {
+    "day": 1653782400,
+    "full": 1653794494,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v02lzk",
+  "picture": {
+    "filesize": 138575,
+    "fullUrl": "https://preview.redd.it/ngnb2zck2c291.jpg?auto=webp&s=0efe5d809590db7c56386bb5b7fe789dba683309",
+    "hash": "ae736e0906",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAgEAACAgICAwEBAAAAAAAAAAABAgMEESEAMRIiQQUU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBnBYszSN/GtKaJncMAJifUAn5rOfneR3yyWdECCxWrRsVBAeyFODvojPDLT17c61bjftSWDIIkCMqRAkH2wMDywCd5673xHUgvVIzBXalejjYqJpg3mcaw2BsjrPHRv//Z",
+    "url": "https://preview.redd.it/ngnb2zck2c291.jpg?width=640&crop=smart&auto=webp&s=7a95b97790be4b5b9c80e8f0ef823ac350bdbcab",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A snowy ascent battle map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v02lzk/a_snowy_ascent_battle_map/"
+}

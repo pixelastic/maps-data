@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_xmdm2",
+    "name": "jyndir"
+  },
+  "date": {
+    "day": 1653782400,
+    "full": 1653794248,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v02jo8",
+  "picture": {
+    "filesize": 43402,
+    "fullUrl": "https://preview.redd.it/f1kddqmm1c291.jpg?auto=webp&s=ada82390b1ba87cd3c60dc13613a2026adc24e70",
+    "hash": "6f34c4a500",
+    "height": 453,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAgEAACAQQDAAMAAAAAAAAAAAABAgMABAURBhIhIzFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AKjF8guocBbxRyhbNouqsigmNteVP3wjzT3E8vYoR1XYGifz7o/hcjNiFRjtSo8PtIT/ABxdU8FTkwv/2Q==",
+    "url": "https://preview.redd.it/f1kddqmm1c291.jpg?width=640&crop=smart&auto=webp&s=7265c66a0788641048bea69aadff8404e171a1b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Island hex map with paper-cut contours - to scale - based on real-world topography",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v02jo8/island_hex_map_with_papercut_contours_to_scale/"
+}

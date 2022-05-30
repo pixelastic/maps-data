@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d357cpsz",
+    "name": "Ekrahir"
+  },
+  "date": {
+    "day": 1653782400,
+    "full": 1653844081,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v0fm1p",
+  "picture": {
+    "filesize": 159516,
+    "fullUrl": "https://preview.redd.it/7o909fvz5g291.jpg?width=3000&format=pjpg&auto=webp&s=164ea546242d9246181bcc7803d64631a334e388",
+    "hash": "36cf47a69e",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAfEAACAgICAwEAAAAAAAAAAAABAgMFAAQRIRJBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAIDAAAAAAAAAAAAAAAAAAECAANR/9oADAMBAAIRAxEAPwCHp4dG7oU0DGdeSMA+QjBPI5Ld+skrivbQ3WgglZ4wAQWUE4xRWuzWRySROjGQjlWXofh+4TfbE1hZy7A13YHoMCe8irUqxyJYwZRs/9k=",
+    "url": "https://preview.redd.it/7o909fvz5g291.jpg?width=640&crop=smart&auto=webp&s=6054fb244bb0d595ed56f358f2a73b63e879d9f8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Strixhaven - Witherbloom Dormitory",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v0fm1p/battlemap30x403000x4000_strixhaven_witherbloom/"
+}

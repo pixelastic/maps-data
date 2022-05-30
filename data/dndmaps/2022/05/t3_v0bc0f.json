@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8chioeqh",
+    "name": "talesfromthepost"
+  },
+  "date": {
+    "day": 1653782400,
+    "full": 1653831340,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v0bc0f",
+  "picture": {
+    "filesize": 105047,
+    "fullUrl": "https://preview.redd.it/cs8yre6y3f291.jpg?width=1960&format=pjpg&auto=webp&s=7322c823b7784f9bf1f7fd831eb2b2404f3bc1ff",
+    "hash": "f406201995",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACEQAAEFAAICAwEAAAAAAAAAAAECAwQFEQAGMUESIXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAbEQACAQUAAAAAAAAAAAAAAAAAEQMSFCEjQf/aAAwDAQACEQMRAD8AyW761bVENibYx3m4slfxbUpOeRvj+cZ1PrdrfPuuVcMyGGMDpUQlKcG6d/eB2jsFn2GahNlPW822SpCR9JRg8A8pob+fXVUitiPOoiPuJeWUqIJVmYT7GeuLmtnhsjrr6f/Z",
+    "url": "https://preview.redd.it/cs8yre6y3f291.jpg?width=640&crop=smart&auto=webp&s=f05146b7f7078e26791e1c82e57ccc7ed3352a0f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "River Crossing",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v0bc0f/river_crossing_28x2870ppi/"
+}
