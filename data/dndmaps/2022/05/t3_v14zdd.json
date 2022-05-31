@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_u8xxlrk",
+    "name": "DeekLeeshy"
+  },
+  "date": {
+    "day": 1653868800,
+    "full": 1653930925,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v14zdd",
+  "picture": {
+    "filesize": 80221,
+    "fullUrl": "https://preview.redd.it/gw9c25h7cn291.jpg?auto=webp&s=c764fd7d1b7aa7bf29f50122adc404a5be38f217",
+    "hash": "ffd12e5a04",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIRABAAEDBAIDAAAAAAAAAAAAAQIAAxEEEjFBFCFRYaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBAhL/2gAMAwEAAhEDEQA/AMRsRnC8QZRXOZA8H1+UmqmlyPsgbsq8j1RaW1DzW6MtwcdGWqdcLbuE+GXo+eqGzBjKP//Z",
+    "url": "https://preview.redd.it/gw9c25h7cn291.jpg?width=640&crop=smart&auto=webp&s=362fc5a4481659d60f0cf5df3c94be77abb01668",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Campsite Attack (20x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v14zdd/campsite_attack_20x20/"
+}

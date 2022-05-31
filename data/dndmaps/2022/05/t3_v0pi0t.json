@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1653868800,
+    "full": 1653875358,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v0pi0t",
+  "picture": {
+    "filesize": 68024,
+    "fullUrl": "https://preview.redd.it/dr4hjzy0ri291.jpg?auto=webp&s=018e3a060356d539f6eb01f0bffa941b593d126d",
+    "hash": "6c7988aeb5",
+    "height": 416,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAkEAACAQMCBgMAAAAAAAAAAAABAhEAAwUGIQQSFDEzUWGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQADBBETAv/aAAwDAQACEQMRAD8AjuOWxYDBgt83Vjwlgduw3gkH9p9rTuSuYnr14NWAUoUZQCViOaB9+6FpNicmoJJCoxUej8VUkdkwDBWZQyCYMTtRHY0JN0pkv5gcgWv/2Q==",
+    "url": "https://preview.redd.it/dr4hjzy0ri291.jpg?width=640&crop=smart&auto=webp&s=ea50ca779974ec27bcc44bab1b535efe69b4cc89",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 110,
+    "value": 110
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Thunder Cliff Caverns",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v0pi0t/thunder_cliff_caverns_80_x_52/"
+}

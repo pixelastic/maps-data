@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1653868800,
+    "full": 1653925480,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v131aj",
+  "picture": {
+    "filesize": 141587,
+    "fullUrl": "https://preview.redd.it/uyy9qzmxvm291.jpg?width=2500&format=pjpg&auto=webp&s=ed44db07346bfd2dc4b296a328e923709cbe6bcc",
+    "hash": "0711914e27",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBBEhAAUxEhNhkRQiQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDDSiT48jGlWWSkkLuoJ6gWwDfzgEedSr4VaCtplgtUxAMxSzdm4JscWGPwce9J23cFeBFlSJHZj0dIsVF7ZI4Nre9Fqn7e3zRmINzG8qQn7cnH9N7ZPPvRE3//2Q==",
+    "url": "https://preview.redd.it/uyy9qzmxvm291.jpg?width=640&crop=smart&auto=webp&s=366942ee07cff37ca7c7f56e43889c8d0d654074",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Wolves Den",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v131aj/wolves_den_50x50/"
+}

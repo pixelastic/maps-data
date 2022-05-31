@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_otwv4",
+    "name": "PDRA"
+  },
+  "date": {
+    "day": 1653868800,
+    "full": 1653883562,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v0rs6m",
+  "picture": {
+    "filesize": 90896,
+    "fullUrl": "https://preview.redd.it/y90zmw9dfj291.jpg?auto=webp&s=8040f4058d9fe22dfbec1793edda6078ab6e0e7b",
+    "hash": "01e5bbd4f3",
+    "height": 572,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURACFhBhJREyIxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAACAREDIVH/2gAMAwEAAhEDEQA/AMbfJLpbqlIa+aoZh7gHl7scggkffGkprnPcZmira1hEuzCZmcHjKnJ1d1nDSTVEaospqFB75HIGR42+dD0/abdPHIJnn9cE4CouDt5zkfmoqVkWOiGpdH//2Q==",
+    "url": "https://preview.redd.it/y90zmw9dfj291.jpg?width=640&crop=smart&auto=webp&s=ca4835bb26ee7b52e9a829d3568d3a491b01b7aa",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 661,
+    "value": 661
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "River City and Farmland, unlabeled",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v0rs6m/river_city_and_farmland_unlabeled/"
+}
