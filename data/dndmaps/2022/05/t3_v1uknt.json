@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1653955200,
+    "full": 1654015579,
+    "month": 1651363200,
+    "week": 1653782400
+  },
+  "id": "t3_v1uknt",
+  "picture": {
+    "filesize": 79999,
+    "fullUrl": "https://preview.redd.it/hav8jopybu291.jpg?auto=webp&s=d7d24d28a11463580969926b712bca3589e22a00",
+    "hash": "8cc809ffa1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAH/8QAHRAAAwACAgMAAAAAAAAAAAAAAQIRABIhMQNCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/AMDSMXYlheSAcozPCFUqLZ3jGpXXmAnTo47FqUXyH0ss+5GQb//Z",
+    "url": "https://preview.redd.it/hav8jopybu291.jpg?width=640&crop=smart&auto=webp&s=95f63d33040556833d6471e8eecf06d783eb06a9",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gloomy Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v1uknt/oc_free_gloomy_swamp_25x25/"
+}
