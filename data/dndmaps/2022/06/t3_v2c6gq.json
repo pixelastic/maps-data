@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1654041600,
+    "full": 1654072329,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v2c6gq",
+  "picture": {
+    "filesize": 160622,
+    "fullUrl": "https://preview.redd.it/ahsis94a0z291.jpg?auto=webp&s=fb1ef23607db991b6a4573f7c14a169b8bc5e41d",
+    "hash": "912f64f7e4",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAgIABgEFAAAAAAAAAAAAAQIDEQAEBRIhMVEGE0Fhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAACAwAEARES/9oADAMBAAIRAxEAPwDDyyRw5WCkrfZqzz+j5J8feD3qlETUY7TYTCrUpsc3hJl0jzEHvPICQgQbTtPXZ8gdYn1PTnzU6O8s0ZCAUsfB75wdNgpZ0cG0vLV6Gf/Z",
+    "url": "https://preview.redd.it/ahsis94a0z291.jpg?width=640&crop=smart&auto=webp&s=8db028ace640f602540fc6722a85c74db4268eb8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Settlement",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v2c6gq/settlement_32x44/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1654041600,
+    "full": 1654099512,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v2keqt",
+  "picture": {
+    "filesize": 135893,
+    "fullUrl": "https://preview.redd.it/pc5vizqh91391.jpg?auto=webp&s=3a3046fac9379ca8f5a1f7c245635b2647386ea4",
+    "hash": "cc647a34d4",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQQABTESFCEiQmFikf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEDUf/aAAwDAQACEQMRAD8AyOPa0mxyZYYVaJQ0puiyngj4Hi64vR3OiijnKrGhX2sAfULIvSGXtkgxnxsmOujqKrIpYgX4on8B1FNk3PPiTJwUlkx5BacEp9T55GgSbRcrPT//2Q==",
+    "url": "https://preview.redd.it/pc5vizqh91391.jpg?width=640&crop=smart&auto=webp&s=ee328e6020976a2ff3dafbeb20bdf9d56c701491",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Blood Mine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v2keqt/blood_mine_16x22_oc_battlemap/"
+}
