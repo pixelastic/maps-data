@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1654128000,
+    "full": 1654171308,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v379is",
+  "picture": {
+    "filesize": 155008,
+    "fullUrl": "https://external-preview.redd.it/uRDWqZuH7O8AEZg0swa9GTah-5yFAyF9qkpz5fbxHCQ.jpg?auto=webp&s=c35a2f617460d328113f36d2e1fcd942f5eded26",
+    "hash": "8a259db2e2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIRAAAgICAgEFAAAAAAAAAAAAAQMCBAAREiExIkFRYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABcRAQADAAAAAAAAAAAAAAAAAAEAAiH/2gAMAwEAAhEDEQA/AMPVbZKmW4gPWqQBOzoRIPZHxkuwyMXSK2N4y9WozIA3iLcbNOTit3It3Bi1yHga8D9GsKUh5M6rZFf2RDv36yHWqOxOk//Z",
+    "url": "https://external-preview.redd.it/uRDWqZuH7O8AEZg0swa9GTah-5yFAyF9qkpz5fbxHCQ.jpg?width=640&crop=smart&auto=webp&s=b11d1f731cdd234ca85ad9112a20e37bd8349760",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Roadside Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v379is/roadside_camp_30x40/"
+}

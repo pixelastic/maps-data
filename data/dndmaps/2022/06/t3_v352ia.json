@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_gznc8",
+    "name": "PreferredSelection"
+  },
+  "date": {
+    "day": 1654128000,
+    "full": 1654162703,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v352ia",
+  "picture": {
+    "filesize": 316840,
+    "fullUrl": "https://preview.redd.it/s6ncp63mg6391.png?auto=webp&s=a899360bae32d71e9a738d619690f10bd9b05eb8",
+    "hash": "1aa77186f4",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQYlQG5AUb+AIaUpW96j1RSc0lFbE1NcE5TclBXd05WdFBZdjZUZB1FTT9BYj03WT4xTigpRCssRQCHl6t9lqNpbY5XYYFbbohQWXVVanxVcHxYa3tSZnZJYG5bcn5bYXdANFU4NFQ+PVwAT1h3UVV9X1uSUVeONkeFMUFxJk13V12IZl6DWWKBUmiDV2yIV2eBTlF2UEx0TlV1AFpciFpklmlymm9mizZGfRlBfyZXkGpbkD9LgipYijtahlttjWl1kWBekDpRbTZOZQBwcJNye5R8jI1thoddaohldIhwk41yjY03dpMeVIdAYYR0eZF2epJ0eJA1XWAYRk0AgIuQhZSLgJmJhJ+Ng5KPkqiMiZ6IVmt5NGuDQXKNUHmGbX6PeomPhpGPYHh5FVFQAD9vanWNgYKdioSeh2yQjUiBi0F+hjRugFx3fX2aiIqnk4+NmYGHmHmPk26JhSJTUgAgYVhHbGt7g4qXtKuFoZNvmpJVlYuEso+hxJaZu5OXtJKtfKKSYaBpfImGlJRtbYcAH15XNVZbdFR/Z3SFOHNmi66GqMWVo8WRoMeSo8yRlpijlXazcVmNWmd0jm2KiFaQhI+98ELy5W0AAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/s6ncp63mg6391.png?width=640&crop=smart&auto=webp&s=0bb74d5c473c394ce0442fde82404c587770823f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The party ventures deeper into the mushroom forest.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v352ia/the_party_ventures_deeper_into_the_mushroom_forest/"
+}

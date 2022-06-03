@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1654128000,
+    "full": 1654163203,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v356jq",
+  "picture": {
+    "filesize": 69760,
+    "fullUrl": "https://preview.redd.it/qb49hg2xi6391.jpg?auto=webp&s=bb8172b2ed74b8af434a351fda71f8072f5ff0dd",
+    "hash": "61e573a6ea",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAJxAAAAQEAwkAAAAAAAAAAAAAAQIDBAAFESEGMVESNDVBQnJzkbL/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhExQlH/2gAMAwEAAhEDEQA/AMQw6i2ZTNsDwyiNTFCtxEteqmdg91hcSt2rhI7hMyKRQrTZLmN7iHIR01g5nxt72pfBYnTfdj+SJdqCbguq8H//2Q==",
+    "url": "https://preview.redd.it/qb49hg2xi6391.jpg?width=640&crop=smart&auto=webp&s=69a0f12cb13b27e6e7b25f1f8c2d01a70c983d9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: fey-portal-in-the-trees (50x28)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v356jq/battlemap_feyportalinthetrees_50x28/"
+}

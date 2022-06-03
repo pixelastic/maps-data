@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1654128000,
+    "full": 1654189401,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v3dkjf",
+  "picture": {
+    "filesize": 72432,
+    "fullUrl": "https://preview.redd.it/ke8v9z6mo8391.jpg?auto=webp&s=803edde51fed909a1555289ceba9f7a44edfc88d",
+    "hash": "95d4377bab",
+    "height": 445,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAIhAAAgIBAwUBAQAAAAAAAAAAAQIDEQQABSESEyIxYZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8AzeHNtU8WIRjeKp5r2yDIA1nq59/miZUu0mOQRYnatqXjmuKoE/P7oeZI2PtMjwEI7IqlgBZBPOqwsiQbcVsETRoj2oPUCbPv6Bo0zrKSrp4f/9k=",
+    "url": "https://preview.redd.it/ke8v9z6mo8391.jpg?width=640&crop=smart&auto=webp&s=bf931411f95f8033e460b91e44d19cdd3544618f",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Collegium of Mystic Arts: Study Halls",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v3dkjf/collegium_of_mystic_arts_study_halls/"
+}

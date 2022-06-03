@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1654128000,
+    "full": 1654167483,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v367j7",
+  "picture": {
+    "filesize": 162092,
+    "fullUrl": "https://preview.redd.it/wvb6adwmv6391.jpg?auto=webp&s=4c78955b11f971f4cb51dc346d5280039a92d22f",
+    "hash": "13651d128a",
+    "height": 1371,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAAMSBSExEyIyQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEjFRof/aAAwDAQACEQMRAD8Aw26nV0u0FKZljDMwAmBJlt9x84NKgQ69ri0IIIDFsfHkD1M0oyctiZVeV0//2Q==",
+    "url": "https://preview.redd.it/wvb6adwmv6391.jpg?width=640&crop=smart&auto=webp&s=2f625f4bbe23434ffecc1c4d579b78d209498c62",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A large dungeon in the ruined depths of a dwarven kingdom",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v367j7/a_large_dungeon_in_the_ruined_depths_of_a_dwarven/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1654128000,
+    "full": 1654171307,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v379ii",
+  "picture": {
+    "filesize": 119000,
+    "fullUrl": "https://external-preview.redd.it/vtDXzDLF4yiC7lsm37Oz968m1ZtG_em1qEzlvsVUh38.jpg?auto=webp&s=c74b16be9d34a9ed5ece3f265bfe4653e1546983",
+    "hash": "b61ce6cbc1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAH/8QAIhAAAQMDBQADAAAAAAAAAAAAAQIDBAURMQAGEhMhIlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAIDAAAAAAAAAAAAAAAAAAAREiEi/9oADAMBAAIRAxEAPwDK9rUNcqUxyjt9YbBUePoIx+50m4aA6y7KW1FbLfWohXEkk39BGb3Ora1dcjPMIVJZ61Ni45G98A/eTjSV+tSpT0wMyEKbDSvii90e2uSPR7odSEpH/9k=",
+    "url": "https://external-preview.redd.it/vtDXzDLF4yiC7lsm37Oz968m1ZtG_em1qEzlvsVUh38.jpg?width=640&crop=smart&auto=webp&s=5eb66ddd90550b6f275789d9acb5153f3d8580ba",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Waiting Hall - A Dungeon Geomorph",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v379ii/waiting_hall_a_dungeon_geomorph_20x20_140dpi_oc/"
+}
