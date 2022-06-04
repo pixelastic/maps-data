@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1qznp18x",
+    "name": "Zatnikotel"
+  },
+  "date": {
+    "day": 1654214400,
+    "full": 1654263346,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v3zka0",
+  "picture": {
+    "filesize": 67124,
+    "fullUrl": "https://preview.redd.it/3fnq9drnse391.jpg?auto=webp&s=4db0566f30a2c4ee7a972c18f70eed78d7450885",
+    "hash": "e52e232b41",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAABAwQDAQEAAAAAAAAAAAABAgMRAAQSEwUhYTJC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMRBBIh/9oADAMBAAIRAxEAPwCWs9R4gOhp5TiValuQkNaw38Qe8iRM+gRUwybdHCrU2HU3Bd1LcKU6ynCcO/3ImfQKUqLHdbMabtH/2Q==",
+    "url": "https://preview.redd.it/3fnq9drnse391.jpg?width=640&crop=smart&auto=webp&s=46b8c550eca7be8d2280ac712827a2c1f9c7f1dc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fey Grove map  all versions",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v3zka0/fey_grove_map_34x33_all_versions_free_oc/"
+}

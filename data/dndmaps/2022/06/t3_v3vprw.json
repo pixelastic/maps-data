@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_j4xaoyax",
+    "name": "AldrusMaps"
+  },
+  "date": {
+    "day": 1654214400,
+    "full": 1654249177,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v3vprw",
+  "picture": {
+    "filesize": 103726,
+    "fullUrl": "https://preview.redd.it/2s1slzinkd391.jpg?auto=webp&s=4166a665bc2fc3d5f29f85a987948b7af8159f39",
+    "hash": "13f2902e53",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFB//EACMQAAIBBAEDBQAAAAAAAAAAAAEDAgQREiEABSJhMYGRocH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABgRAQEBAQEAAAAAAAAAAAAAAAIBABEh/9oADAMBAAIRAxEAPwDFulU6Kx2c5xpprllEkWy16AfvFOQhzJNpCQsk6noxHk/PBXchL4mRWAMgTcgxOzcDyNctVFNSuTMJp1iouYlefdMk3JG/f65LUBe+5hqO/9k=",
+    "url": "https://preview.redd.it/2s1slzinkd391.jpg?width=640&crop=smart&auto=webp&s=ad1821de42d84e28402dee4787c718c040605590",
+    "width": 640
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 146,
+    "value": 146
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Canyon Bridge Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v3vprw/canyon_bridge_battlemap_150_dpi_aspiring_map/"
+}

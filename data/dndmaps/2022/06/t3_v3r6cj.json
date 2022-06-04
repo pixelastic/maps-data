@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1654214400,
+    "full": 1654230011,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v3r6cj",
+  "picture": {
+    "filesize": 54037,
+    "fullUrl": "https://preview.redd.it/yadt2tlk1c391.jpg?auto=webp&s=0579e7ee98f501e4775846cd105a4efb0d7faccd",
+    "hash": "2373d9cdc4",
+    "height": 543,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAH/8QAJRAAAQMCBgEFAAAAAAAAAAAAAQIDEQQFAAYSITFhExQiQ1GB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AzNOYrw2orauLrcfFHtHUfWJi8XRtY8jz4WpSFaCIkAyAOjP7h12tjhoH6qoDZqwonW2sgaCZg7bneMPOXrtcKKmd9awAERpOoRHHHJ7xWBX/2Q==",
+    "url": "https://preview.redd.it/yadt2tlk1c391.jpg?width=640&crop=smart&auto=webp&s=59a34d20d82d26bd37722af7ba8d0e94c915d400",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "New color modular dungeon pieces",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v3r6cj/new_color_modular_dungeon_pieces/"
+}

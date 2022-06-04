@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1654214400,
+    "full": 1654225233,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v3ptk3",
+  "picture": {
+    "filesize": 65591,
+    "fullUrl": "https://preview.redd.it/6xngmkbcnb391.jpg?auto=webp&s=f7e9499b2cada63c2203528011c0b7ebc3a70abb",
+    "hash": "cf6d5dc84d",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIRAAAgIBAwUBAAAAAAAAAAAAAQMCBBEAITESEyJhcUH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAAMBAQAAAAAAAAAAAAAAAAECEQAx/9oADAMBAAIRAxEAPwDDVWoztLs2lhsNzIrae7KRG/ljjf5+aVTRJ1UqMYV1R8Q7bA9EHkj1zp9miqiqFuEmNbI9B7ksjHwY1F7jO2lfRAAADIyDpkBumUq0Hd//2Q==",
+    "url": "https://preview.redd.it/6xngmkbcnb391.jpg?width=640&crop=smart&auto=webp&s=be4a2b65b9bf49bec08c1ff41e908d97013a7d16",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 304,
+    "value": 304
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lich Manor -",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v3ptk3/lich_manor_isometric_battlemap_68x53/"
+}
