@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12uq1k",
+    "name": "krautpotato"
+  },
+  "date": {
+    "day": 1654300800,
+    "full": 1654359497,
+    "month": 1654041600,
+    "week": 1653782400
+  },
+  "id": "t3_v4s7td",
+  "picture": {
+    "filesize": 91700,
+    "fullUrl": "https://preview.redd.it/0p94u2fmqm391.jpg?auto=webp&s=2041e6c3e2c9465e961af2bcaa0379030c3ef37b",
+    "hash": "5ffcdefb13",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJhAAAQIEAwkAAAAAAAAAAAAAAQMEAAIFERIhcwYTMTM1QaGx8f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAQUBAAAAAAAAAAAAAAAAAgABAwQSEf/aAAwDAQACEQMRAD8AvTGrVk3ErdFBjiFlN0mRcd8wb+bRsNq9TqO0nTdLqqp4TIVls0xLiuOOZIFh9g075A0h6MGdpOgttJSJlG1NKWDfqexCANoWX//Z",
+    "url": "https://preview.redd.it/0p94u2fmqm391.jpg?width=640&crop=smart&auto=webp&s=9a36fee6f7e3154ba489dd70dadc1e0dcca5d0b1",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "- The Northern Steppes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v4s7td/weltengeist_the_northern_steppes/"
+}
