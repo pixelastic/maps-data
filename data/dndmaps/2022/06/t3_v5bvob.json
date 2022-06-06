@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_j4xaoyax",
+    "name": "AldrusMaps"
+  },
+  "date": {
+    "day": 1654387200,
+    "full": 1654430356,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v5bvob",
+  "picture": {
+    "filesize": 100611,
+    "fullUrl": "https://preview.redd.it/g4uq13o4ls391.jpg?width=2304&format=pjpg&auto=webp&s=fee6308c3718680caa90f13f913281d330529fa2",
+    "hash": "238ed358ea",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAIBAwMEAwAAAAAAAAAAAAEDAgQREgAFIRQiUXExQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABcRAQEBAQAAAAAAAAAAAAAAAAERAAL/2gAMAwEAAhEDEQA/AM1qHBO1sPTqUywjmoAXkSOR75+dB2/CCKikplwFSxZgIYWEhgbj3xe5+tTtpVF9O6XYxybgKBESzjtJN/Y0+lqm1NiiXUdNLMvjjiQLi3jx+6nIc0zjS7//2Q==",
+    "url": "https://preview.redd.it/g4uq13o4ls391.jpg?width=640&crop=smart&auto=webp&s=2cb53b4ffb8201cc95464958956dd3662c8f3086",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sharpclaw Canyon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v5bvob/sharpclaw_canyon_free_daynight_30x30_150dpi/"
+}
