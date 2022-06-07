@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fr3nxork",
+    "name": "Xecthar"
+  },
+  "date": {
+    "day": 1654473600,
+    "full": 1654505446,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v5yd4e",
+  "picture": {
+    "filesize": 148130,
+    "fullUrl": "https://preview.redd.it/98h9693hsy391.jpg?auto=webp&s=2d9f517739329a53b38c2785899acf282e77d1be",
+    "hash": "a9912b8c41",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBv/EACIQAAICAgEDBQAAAAAAAAAAAAECAxEEIQAFEhMUIqGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECESExQf/aAAwDAQACEQMRAD8Ax0MUqrjmbFjatWAAwIW64bQR5jnHtFOyO3ft+eL1LIeLC8Mc6vHGUIehosp7h+8hi+oyunZNS2GNnSiqX75DFOSyBp3w/9k=",
+    "url": "https://preview.redd.it/98h9693hsy391.jpg?width=640&crop=smart&auto=webp&s=e456b0cfe71a134444f706462ba56df5862749a3",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 157,
+    "value": 157
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Biome Encounter Map for D&D",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v5yd4e/forest_biome_encounter_map_for_dd/"
+}

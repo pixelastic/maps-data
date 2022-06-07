@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_j4xaoyax",
+    "name": "AldrusMaps"
+  },
+  "date": {
+    "day": 1654473600,
+    "full": 1654516693,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v61u4h",
+  "picture": {
+    "filesize": 59140,
+    "fullUrl": "https://preview.redd.it/8ns4u1ltpz391.jpg?width=3600&format=pjpg&auto=webp&s=badaec4236a53470e94d3021e8c740562f7f66c6",
+    "hash": "1d5c9af1b7",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUI/8QAIhAAAQMCBgMAAAAAAAAAAAAAAQIDEQASBAUTITGBImHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8Az8lB0m3LfEkGZ3gmBt1SXUNaStYpAEQCRzBoTmLWjLxYLXICL/QPwdVPexLz4AdXdvPAocWTQv/Z",
+    "url": "https://preview.redd.it/8ns4u1ltpz391.jpg?width=640&crop=smart&auto=webp&s=e0f2f8c319163cb78c79dc2cfab9262b9c6239cf",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Erwin Tir's Crypt",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v61u4h/erwin_tirs_crypt_free_minidungeon_150_dpi/"
+}

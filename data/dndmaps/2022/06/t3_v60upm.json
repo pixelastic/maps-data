@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1654473600,
+    "full": 1654513210,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v60upm",
+  "picture": {
+    "filesize": 73551,
+    "fullUrl": "https://preview.redd.it/ov5zdifofz391.jpg?auto=webp&s=bb779ee83bd024e82c2294a398ef3e938956afee",
+    "hash": "2c70eb2a26",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFBv/EACUQAAEDAwIGAwAAAAAAAAAAAAIBAwQAESEFExIzNEFRcnGxsv/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AMdAl6YBxzZbJoQHbLdsS2zjCY+bXptSeJ0RNuCJNoW4roknCl+6D5zUGPyZfsf1QndLF9E/K1ISsxpw/9k=",
+    "url": "https://preview.redd.it/ov5zdifofz391.jpg?width=640&crop=smart&auto=webp&s=70c713dd0468e93e25aab3c066cfa7562dbcdaf6",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Ruins (30x54)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v60upm/forest_ruins_30x54/"
+}
