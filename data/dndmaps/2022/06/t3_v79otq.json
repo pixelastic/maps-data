@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1654560000,
+    "full": 1654640828,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v79otq",
+  "picture": {
+    "filesize": 73149,
+    "fullUrl": "https://external-preview.redd.it/xmJG86aYTr6yJ_xf0rAtYTTP4jkt-0Nsj2JHmrFjmYw.jpg?auto=webp&s=6b43e1abfef46197d7fa0178d376b73bf00e62db",
+    "hash": "5f963dccf7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAHhAAAgIDAQADAAAAAAAAAAAAAQIDEQAEEiEFQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREiFh/9oADAMBAAIRAxEAPwDDykarrCXhUaPotzZv3CS2WQFUAVSbC17+Zeqw7GtqB5Ihwqq1uAQPbxdj41zGxhYmNY2oFlJPt/WFNyDK9P/Z",
+    "url": "https://external-preview.redd.it/xmJG86aYTr6yJ_xf0rAtYTTP4jkt-0Nsj2JHmrFjmYw.jpg?width=640&crop=smart&auto=webp&s=3496a64185cc54cf560758fef06c8e67e95f423e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Every clocktower needs a bellringer. Every bellringer needs a lair.⁠",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v79otq/every_clocktower_needs_a_bellringer_every/"
+}

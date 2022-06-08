@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pdxtk36",
+    "name": "MisterKrane"
+  },
+  "date": {
+    "day": 1654560000,
+    "full": 1654606243,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v6uo7u",
+  "picture": {
+    "filesize": 113241,
+    "fullUrl": "https://preview.redd.it/s2m7r71c47491.jpg?auto=webp&s=076de9e54cfb6864715fe84fb6da2791d47bf346",
+    "hash": "f3c233ffe2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAkEAACAQMDAwUAAAAAAAAAAAABAwIEBREAEiExUXEGEyJBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQG/8QAHhEAAQQBBQAAAAAAAAAAAAAAAQACERIDMUFRcfH/2gAMAwEAAhEDEQA/AJK1Wd1UmQTTxcRzNhOADjOPOn3e1xtlspmq3VAZkzlEfEDt+af6frxVGCpCSZTztYCVjnuMY+uug3y8SdA07Wq9lciARgGXUeOdTt8jskHZINHNtEHzTocr/9k=",
+    "url": "https://preview.redd.it/s2m7r71c47491.jpg?width=640&crop=smart&auto=webp&s=5697b1da7d67274baed5f31fb968d00c08a8bc6b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Campsite",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v6uo7u/forest_campsite_22x22_woods/"
+}

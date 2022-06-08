@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fr3nxork",
+    "name": "Xecthar"
+  },
+  "date": {
+    "day": 1654560000,
+    "full": 1654589335,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v6py1l",
+  "picture": {
+    "filesize": 109688,
+    "fullUrl": "https://preview.redd.it/0qf26060q5491.jpg?auto=webp&s=db514688946f7f1d6650b7b01a44d9a4e2c01847",
+    "hash": "3c1c03a3d0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDBAAREiEFMRMyUZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRH/2gAMAwEAAhEDEQA/ALzImUeKVhDEdaQLpLftj1vW6LnSo3GiVCU26VEIcS62EJNrda1bv7oZrmVtCO6SxjbHFDQIUcfjqscmSpb7kiUltmM4Ak+IAeKwtdQGrH8oHFxnoGt//9k=",
+    "url": "https://preview.redd.it/0qf26060q5491.jpg?width=640&crop=smart&auto=webp&s=041bf02d8b7cc2c8cfb7de1c62a0450f6f60245a",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 197,
+    "value": 197
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Post Apocalyptic Crossover Encounter Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v6py1l/post_apocalyptic_crossover_encounter_maps/"
+}

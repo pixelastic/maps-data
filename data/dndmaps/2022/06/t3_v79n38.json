@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d9c4689",
+    "name": "Raznag"
+  },
+  "date": {
+    "day": 1654560000,
+    "full": 1654640708,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v79n38",
+  "picture": {
+    "filesize": 58555,
+    "fullUrl": "https://preview.redd.it/vpwt37bqy9491.jpg?width=6160&format=pjpg&auto=webp&s=558c76104e2347ede06e3b5d96dfe402eb1ad023",
+    "hash": "3cf4366f41",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBBEhAAUSEzJhIlHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABYRAQEBAAAAAAAAAAAAAAAAABEAIf/aAAwDAQACEQMRAD8ATNM0NJBHFBTurwDPGxHxySdZNVyrKRaZkWOQxGzPHe/1b9Ojsm/1kdP0R9SxdVlAXxvg2zjVg3WeKnB4ozLGGDMWJ8T796KZENv/2Q==",
+    "url": "https://preview.redd.it/vpwt37bqy9491.jpg?width=640&crop=smart&auto=webp&s=4b81ae535d83c1c5f33d9c40e50155cdb6ae53e0",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Ruins of Norak - One-Page Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v79n38/the_ruins_of_norak_onepage_dungeon/"
+}

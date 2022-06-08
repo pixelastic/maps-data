@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1654560000,
+    "full": 1654635281,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v77dqi",
+  "picture": {
+    "filesize": 122379,
+    "fullUrl": "https://preview.redd.it/bj5f1knmi9491.jpg?auto=webp&s=272cd614035f753bc64d25d9df8af0b6bb433e2a",
+    "hash": "996f651375",
+    "height": 794,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIH/8QAHxAAAgIDAAIDAAAAAAAAAAAAAQIDEQASIQQTMUHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEVH/2gAMAwEAAhEDEQA/AMF8eMyMI1Vtq22ugMhEPaZqBrtg394xLQ1LEnXlHrfvjEKZAPYsjGrsWMjOY//Z",
+    "url": "https://preview.redd.it/bj5f1knmi9491.jpg?width=640&crop=smart&auto=webp&s=239ebc1e44d0d1e6aa2be6ce704b5ba28d08eca5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v77dqi/oc_forest_cave_25x31/"
+}
