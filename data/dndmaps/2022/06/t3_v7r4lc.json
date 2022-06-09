@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fr3nxork",
+    "name": "Xecthar"
+  },
+  "date": {
+    "day": 1654646400,
+    "full": 1654699036,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v7r4lc",
+  "picture": {
+    "filesize": 132997,
+    "fullUrl": "https://preview.redd.it/986kereqre491.jpg?width=3264&format=pjpg&auto=webp&s=3305b8a7c7bf8936bbc9496d8b8551cf8dd6f75f",
+    "hash": "a637148d89",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQQAEiExBSIUgbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAQACAwAAAAAAAAAAAAAAAAEAEQISMv/aAAwDAQACEQMRAD8AMciF1iMStIGIcxyUu0V0ez3+av8AMxkjyYZowWodoACK4rnTMzx8UqRzxz73jX1uVb9gbBSuKoVrOxsY5/jWU5qxRys0ZVVAo7L4P1xqPeKbMKnmf//Z",
+    "url": "https://preview.redd.it/986kereqre491.jpg?width=640&crop=smart&auto=webp&s=f09ed7911b48b59d0ffe5ca0d235c192358cb7d2",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "D&D Encounter Maps for Different Biomes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v7r4lc/dd_encounter_maps_for_different_biomes/"
+}
