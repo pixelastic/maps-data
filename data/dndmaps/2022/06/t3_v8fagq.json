@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1654732800,
+    "full": 1654776144,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v8fagq",
+  "picture": {
+    "filesize": 171382,
+    "fullUrl": "https://external-preview.redd.it/BCFihKTXWUOK-rsqKvEYBbqxdyTNrhikl3058dZ6FD8.jpg?auto=webp&s=243f8dbebebaf984f1dabf84304b87f918bc1ae0",
+    "hash": "91cdd625c4",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAhEAACAQUAAQUAAAAAAAAAAAABAgMABAURIUESMVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oADAMBAAIRAxEAPwADhsbFf4rLXRjYG1tFljCbIdt6O/ngNHL2SFblwIYxrXC5HgeN0hwlwlvjsnExAM0CoobnfUOjX7UC8VWuWJIHB7r9Cp8XWS//2Q==",
+    "url": "https://external-preview.redd.it/BCFihKTXWUOK-rsqKvEYBbqxdyTNrhikl3058dZ6FD8.jpg?width=640&crop=smart&auto=webp&s=4c41bd03ff5202b86295d92e5cc94561b516475a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 153,
+    "value": 153
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Oracle of Karven",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v8fagq/oracle_of_karven_40x60_140dpi_oc_battlemap/"
+}

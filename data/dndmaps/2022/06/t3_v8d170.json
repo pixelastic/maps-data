@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mrdgq",
+    "name": "didido_two"
+  },
+  "date": {
+    "day": 1654732800,
+    "full": 1654767316,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v8d170",
+  "picture": {
+    "filesize": 120270,
+    "fullUrl": "https://preview.redd.it/d7q0ly83fk491.jpg?auto=webp&s=d354a87ec09ad415b644fca102e81754e94a7282",
+    "hash": "542e11456d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDAAQRBRJBITFRYRMUIv/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oADAMBAAIRAxEAPwDKtTtWngEVvHHHCVTKsu4nBHI8+KPPpr/XbZbhLdy7/Kn5bIyVA9Yq31C4ZQF6qOxBI6d+KfFqKrZiGS4yrgqVJ5PrinSohf/Z",
+    "url": "https://preview.redd.it/d7q0ly83fk491.jpg?width=640&crop=smart&auto=webp&s=07f28ec0ee72c04a748beee6e6dd29d38ffad4da",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lamashtu's Shrine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v8d170/lamashtus_shrine/"
+}

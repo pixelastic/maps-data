@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1654732800,
+    "full": 1654749504,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v88qen",
+  "picture": {
+    "filesize": 108718,
+    "fullUrl": "https://preview.redd.it/5y6li3uayi491.jpg?auto=webp&s=ceaf075082f0a6000aaee05f0e939df516a68c76",
+    "hash": "82be0cd812",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACEQAAICAgEEAwAAAAAAAAAAAAECAxEABCEFEhMxQYHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECE//aAAwDAQACEQMRAD8Aw3VVHllL7KxUpZe+yCR8feCLf24kCwi1PPoHnIu5vKteNgT7q7A/cUHUpFuhdm7FjGe4yblUf//Z",
+    "url": "https://preview.redd.it/5y6li3uayi491.jpg?width=640&crop=smart&auto=webp&s=068b3d9b28faa93c89267094df309370fcacd11a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sunken City & Kraken Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v88qen/sunken_city_kraken_lair_72_x_96/"
+}

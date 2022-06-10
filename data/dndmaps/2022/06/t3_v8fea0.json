@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1654732800,
+    "full": 1654776492,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v8fea0",
+  "picture": {
+    "filesize": 59869,
+    "fullUrl": "https://preview.redd.it/lpd2q6uj6l491.jpg?auto=webp&s=a9c36ba739b5a005ee9ea0ef073f38183df840a3",
+    "hash": "8ae3aeef0d",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAJBAAAgEEAQIHAAAAAAAAAAAAAQIDAAQRIRIFExQiIzFBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAACEBAhFB/9oADAMBAAIRAxEAPwDJbZH7mIoxHC+PNGRyA+qpnWGNLe1yJHzznVssfwfApHjJZbWCNgg4rgELug2Hq9TXlo6fWtn3oLRjDXD/2Q==",
+    "url": "https://preview.redd.it/lpd2q6uj6l491.jpg?width=640&crop=smart&auto=webp&s=29efd6333c96ab981c06ea6b386489e3405db779",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Ruins -",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v8fea0/jungle_ruins_isometric_battlemap_68x53/"
+}
