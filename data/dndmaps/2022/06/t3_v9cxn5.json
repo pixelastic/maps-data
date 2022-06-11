@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fr3nxork",
+    "name": "Xecthar"
+  },
+  "date": {
+    "day": 1654819200,
+    "full": 1654882136,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v9cxn5",
+  "picture": {
+    "filesize": 105098,
+    "fullUrl": "https://preview.redd.it/2joacvylwt491.jpg?auto=webp&s=1ee509ac9af88c5c99d18825ef4785d4f37e0b0f",
+    "hash": "90447027bb",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEABRIhMVETFBUiQv/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFREBAQAAAAAAAAAAAAAAAAAAEQD/2gAMAwEAAhEDEQA/AMgpz1oN05NVeT3CmBIQoc5ZcHGf1nBHjOjOa23W566VLSzFQsa2PrIhznqB5GovlLUorxckaCAsYo2XovLv189tDcdxlsWZ7M8sDWHf1C6k8skYwCO2piS3/9k=",
+    "url": "https://preview.redd.it/2joacvylwt491.jpg?width=640&crop=smart&auto=webp&s=e8533cb4525d8446a2a97caa66e3155e3a0a3e26",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Post Apocalyptic City Encounter Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v9cxn5/post_apocalyptic_city_encounter_map/"
+}

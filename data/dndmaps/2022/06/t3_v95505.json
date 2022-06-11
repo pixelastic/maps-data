@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_73qrek0f",
+    "name": "LoneMapper"
+  },
+  "date": {
+    "day": 1654819200,
+    "full": 1654858652,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_v95505",
+  "picture": {
+    "filesize": 188020,
+    "fullUrl": "https://preview.redd.it/e509i1tqyr491.jpg?auto=webp&s=2fcf8d1985cbf4cd10b2789a12daac2b7822617b",
+    "hash": "815d6ac8dd",
+    "height": 812,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRBAAFMRIhIiNBUVKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAbEQABBQEBAAAAAAAAAAAAAAABAAIDBBESMf/aAAwDAQACEQMRAD8ATsuG0+WVBcYz+s0qEgu9EXfKV9fbnVTHsuAsQVMdDXJcFiT82edETMgxWkQ5DTPPIZQERepAT02aHde37pcu9wwovjYJYXGbFg0dRLBleRz4kpmJgxxGr//Z",
+    "url": "https://preview.redd.it/e509i1tqyr491.jpg?width=640&crop=smart&auto=webp&s=632e432e9123f6ca0eed7e6f80087cd8b2714343",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 860,
+    "value": 860
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Roadside Fields -",
+  "url": "https://www.reddit.com/r/dndmaps/comments/v95505/roadside_fields_26x33_battlemap_oc/"
+}
