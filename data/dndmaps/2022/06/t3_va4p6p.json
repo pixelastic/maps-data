@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7nhpxfrs",
+    "name": "natwuns"
+  },
+  "date": {
+    "day": 1654905600,
+    "full": 1654975719,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_va4p6p",
+  "picture": {
+    "filesize": 64921,
+    "fullUrl": "https://preview.redd.it/5heriolqm1591.jpg?auto=webp&s=6a1f7c9d3dfc391fbcb53763d9e1a0cf9f4fd289",
+    "hash": "607f2193bd",
+    "height": 676,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQQCAxEABRJRFCFhcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAAMBAQAAAAAAAAAAAAAAAAECEQAS/9oADAMBAAIRAxEAPwDCitYw6rbZTOJEjGRlEg8eusaKa2oLTYUpXcFTEzI2UV44RiciOcexpNCT6u7q2zvY8SwAyjOzIBwfWMfWqsaYUVZb3R83UmeK48uIGZfB6/NRKqoACZckXkDf/9k=",
+    "url": "https://preview.redd.it/5heriolqm1591.jpg?width=640&crop=smart&auto=webp&s=4344cc5afa08c43d91001c79523bcb08aebbee67",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Crossroads",
+  "url": "https://www.reddit.com/r/dndmaps/comments/va4p6p/crossroads_19x18/"
+}

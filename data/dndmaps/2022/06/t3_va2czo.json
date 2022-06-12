@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1654905600,
+    "full": 1654968638,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_va2czo",
+  "picture": {
+    "filesize": 182573,
+    "fullUrl": "https://preview.redd.it/i1oy7mdb11591.jpg?auto=webp&s=77a03faf38238312d57bd59543aaa24ec74821ae",
+    "hash": "35051e128e",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBAURABIhExQxgSKhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgATMRFB/9oADAMBAAIRAxEAPwAphwHZdg0bIOxq89WPtRuzuySFZ5OPB0Crr5kmL1o9ZJW2tRILO0J+9aduuRMlPLQ5HW88AlaEtrTyAMg8eT+6nvLCoAixWq9bA+SHFJcO8E5zwPXrRNpCgJvsUq6xLZP/2Q==",
+    "url": "https://preview.redd.it/i1oy7mdb11591.jpg?width=640&crop=smart&auto=webp&s=9087d3df9990aacb047a92023cc6c31f2dd8246b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Temple battle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/va2czo/temple_battle_32x44/"
+}

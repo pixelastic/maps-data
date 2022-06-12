@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cgxlscq5",
+    "name": "ChazVanZandt"
+  },
+  "date": {
+    "day": 1654905600,
+    "full": 1654974711,
+    "month": 1654041600,
+    "week": 1654387200
+  },
+  "id": "t3_va4dgj",
+  "picture": {
+    "filesize": 171395,
+    "fullUrl": "https://preview.redd.it/w0b3j7izj1591.jpg?auto=webp&s=eeebd581b3a282093e396335c8a4f01ac6dbbdf7",
+    "hash": "8d6c19b15a",
+    "height": 828,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDEQASIQQFMWFBUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwDQdOjMp1KpQ5LXX77Ixo3DbFQVF+LPGTdu6yCFaMh1J2YGmuvij7r6xI5opDI0HCFjQvxkZVWitxx5fT//2Q==",
+    "url": "https://preview.redd.it/w0b3j7izj1591.jpg?width=640&crop=smart&auto=webp&s=d26637e12dd7f2be09ff35ea4207254241d268fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Kingdom of Arn - World Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/va4dgj/kingdom_of_arn_world_map/"
+}
