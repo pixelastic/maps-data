@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1654992000,
+    "full": 1655024141,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vahx29",
+  "picture": {
+    "filesize": 80161,
+    "fullUrl": "https://preview.redd.it/l4e9b6hym5591.jpg?auto=webp&s=fbb135af8a83f7314977fb11d7292133e2185f9d",
+    "hash": "627a4a1ed9",
+    "height": 873,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAj/xAAgEAACAQMFAQEAAAAAAAAAAAABAgMABBEFEhMhUWEi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAQEAAwAAAAAAAAAAAAAAABEAAQIh/9oADAMBAAIRAxEAPwCdY7FJbCKZRbuxwvHGf3n1vlC1uHhvuMpDGyKAREcgn2mJcqlnGjPCCQDlBknA6Dd0LVYybstEFdGG4GI7gPlHVezyF//Z",
+    "url": "https://preview.redd.it/l4e9b6hym5591.jpg?width=640&crop=smart&auto=webp&s=55d7216dae4b780ff77eebbc4f2c96cfe42d77f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Old Library Battle Map 22x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vahx29/old_library_battle_map_22x30/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6a0wrgtx",
+    "name": "BonusActionRainbow"
+  },
+  "date": {
+    "day": 1654992000,
+    "full": 1655031080,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vajh1a",
+  "picture": {
+    "filesize": 99406,
+    "fullUrl": "https://preview.redd.it/yn5gvs3h76591.jpg?width=5200&format=pjpg&auto=webp&s=4a083cd298ffbe873444fdb1bf2ddaa26d3bc074",
+    "hash": "dceb52a944",
+    "height": 492,
+    "lqip": "data:image/jpg;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoQAAwAAUAmJZACdADiW+rc0U5AAP732pVKmbZ+d8Q9yjF6GdB2ka0yeF/nTYez/1kge+mwRU5tuh54HIv0W89qi9AdwOXqBB+YkkhE/Q6cajPcaB4GD6DIvdIeNmY6eAkzrYEIz2yX5lM/KhgzgAAA",
+    "url": "https://preview.redd.it/yn5gvs3h76591.jpg?width=640&crop=smart&auto=webp&s=e53b9ed7c4fe740e5c35a0d790365895db1eada0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Great Archive",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vajh1a/the_great_archive_battlemaplink_to_additional/"
+}
