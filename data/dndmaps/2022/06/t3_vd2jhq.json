@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1655251200,
+    "full": 1655321223,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vd2jhq",
+  "picture": {
+    "filesize": 79299,
+    "fullUrl": "https://preview.redd.it/dzt8usa36u591.jpg?auto=webp&s=7a7c4825f9e65f9414639c03136fd4b70eafaa07",
+    "hash": "6952c1f5e7",
+    "height": 549,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACUQAAEEAQMCBwAAAAAAAAAAAAIBAwQRBQAGQRQxEhMhInGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAwADAAAAAAAAAAAAAAAAAAECETFR/9oADAMBAAIRAxEAPwDK8ZiikSYrfhVx114BRsVuxWuO+rPQCLmXaSMzbUbzEIiQaVKRaSvVfjSbm44Y7diwIMBYs9g0c61sqIi5X8+tGOFzcGRcjSX3jnSjQGXSL2iXey5VKTjVUuBNZ2j/2Q==",
+    "url": "https://preview.redd.it/dzt8usa36u591.jpg?width=640&crop=smart&auto=webp&s=f4be5a057f2cad445c23f73982d2caf85c84f672",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Great Library",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vd2jhq/great_library_21x18_oc_battlemap/"
+}
