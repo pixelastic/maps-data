@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_14eiz4",
+    "name": "Panlytic"
+  },
+  "date": {
+    "day": 1655337600,
+    "full": 1655393475,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vdonby",
+  "picture": {
+    "filesize": 82363,
+    "fullUrl": "https://preview.redd.it/ywzn4vz050691.jpg?width=6144&format=pjpg&auto=webp&s=56ad544fef64327847db5d75139c11baf16d8d6e",
+    "hash": "886404b918",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIhAAAQQBAwUBAAAAAAAAAAAAAQIDBAURAAYhEhMUIjFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AfdsZtgvekGb5FfJVD8mMyrILKW8q4CeASnHP06OoL+zgxNm3cxL8yvSw/BLSXcK7nUR3CD99Snn81volTEsnZNrKQtUuW27Ed6VlKS2fQ4SDgHAHOqytnVDUCBTtNvIgxll5tKXVZClKyefpHGhykdy//9k=",
+    "url": "https://preview.redd.it/ywzn4vz050691.jpg?width=640&crop=smart&auto=webp&s=0be16be46131cdfe6dfa05497fcaa44b63b99f3d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Museo de Cero: Mystery in the Wax Museum",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vdonby/museo_de_cero_mystery_in_the_wax_museum/"
+}
