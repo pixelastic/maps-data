@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_oar1x4wa",
+    "name": "Marlland"
+  },
+  "date": {
+    "day": 1655424000,
+    "full": 1655439047,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_ve4ajz",
+  "picture": {
+    "filesize": 105619,
+    "fullUrl": "https://preview.redd.it/nutoxa2pw3691.jpg?auto=webp&s=ae3078fe1fe9b7e57b1edf5b7add2821e8407894",
+    "hash": "9ae410b4eb",
+    "height": 462,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMEBREhAAYSYSIxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACIRH/2gAMAwEAAhEDEQA/AB9d6lZprXRT1VwiqInjUqsEXiinBByx2cE49cdeep2ymoqiaGOmZEGGaMEujnaL46DLjGvwA8gLfd62mZJaaYxM0SlwPkJN4wwOcjZ175c9buc92uBoK0K0FWUiYqSrKArAFSDogD798jOaxq1TiT//2Q==",
+    "url": "https://preview.redd.it/nutoxa2pw3691.jpg?width=640&crop=smart&auto=webp&s=8a087fc54772e034de0796e2e5894002969dacd2",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "36x26 bandit camp battle map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ve4ajz/36x26_bandit_camp_battle_map/"
+}

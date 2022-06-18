@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1655424000,
+    "full": 1655462664,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_veaa7m",
+  "picture": {
+    "filesize": 98493,
+    "fullUrl": "https://preview.redd.it/4olul05wu5691.jpg?auto=webp&s=1ac3995a1e6f9d04543dd2e42c1772a1e8ba0d95",
+    "hash": "e6b8e8490e",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAiEAACAgEEAQUAAAAAAAAAAAABAgMEEQAFEhMxISJRkfH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCDJVNmE9kcVFHhVBIHPuCgZGB55aHu7bLVsvETyxghgPIIBB+jp6Gaq9GDouLxjhCuJBgqcev7oTd5Ek3CVlVXGFHL5woGdGSa/9k=",
+    "url": "https://preview.redd.it/4olul05wu5691.jpg?width=640&crop=smart&auto=webp&s=4a3ab1346ae549766db11975b298b5c0d4e573ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Daask Excavation Site  (from Forgotten Relics Adventure)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/veaa7m/daask_excavation_site_25x35_from_forgotten_relics/"
+}

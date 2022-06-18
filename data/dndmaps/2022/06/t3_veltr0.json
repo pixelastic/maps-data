@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ltg5sjz3",
+    "name": "MemeSearcher_09"
+  },
+  "date": {
+    "day": 1655424000,
+    "full": 1655488207,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_veltr0",
+  "picture": {
+    "filesize": 53216,
+    "fullUrl": "https://preview.redd.it/z90ucuvuy7691.jpg?auto=webp&s=fa3a804165e267b8040b02e76575ef3d384afb5e",
+    "hash": "8865f34f3d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABP/EACAQAAEDBAIDAAAAAAAAAAAAAAECAwQABRESIVFhodH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ACOSFgJyrXgY6xiizIpmrbcVwQnX2ftBut1ahMMB5K1bJBGo8CkW26NTIwcRskA64IpS/9k=",
+    "url": "https://preview.redd.it/z90ucuvuy7691.jpg?width=640&crop=smart&auto=webp&s=79c1a9b1379f4ed2a0c8c7cd274448f55cddb0e4",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "My first dnd world map.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/veltr0/my_first_dnd_world_map/"
+}
