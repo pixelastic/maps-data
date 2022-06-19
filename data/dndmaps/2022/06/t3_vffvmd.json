@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1655510400,
+    "full": 1655587911,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vffvmd",
+  "picture": {
+    "filesize": 199420,
+    "fullUrl": "https://preview.redd.it/kmwrstwz6g691.jpg?auto=webp&s=0133a738c67b619d07a2d58abdc775ba4be2094e",
+    "hash": "a2ae10d843",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgP/xAAiEAACAQQCAQUAAAAAAAAAAAABAgMABBESITEFUWFxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARIbH/2gAMAwEAAhEDEQA/AC7QDxGsJOjxhVMjZJdRk/uQPqibKO51lhtXkVlXJj1AzqM9891KG6drF1jspG1TVnIUgFhjI54z7UILy8tkEb+Pnbogq4GePn1zQAbYkS95P//Z",
+    "url": "https://preview.redd.it/kmwrstwz6g691.jpg?width=640&crop=smart&auto=webp&s=b70e68952fe4923b285a125628678761356d554d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Swamp market",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vffvmd/swamp_market_32x44/"
+}

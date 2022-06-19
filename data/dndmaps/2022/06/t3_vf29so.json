@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_53xgf2h",
+    "name": "M-Friis"
+  },
+  "date": {
+    "day": 1655510400,
+    "full": 1655543188,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vf29so",
+  "picture": {
+    "filesize": 123652,
+    "fullUrl": "https://preview.redd.it/r1hg0o3cic691.jpg?auto=webp&s=593e010ed9065d52072fa64745cf1dbfdc96ce5a",
+    "hash": "745df4afc1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJxAAAgIBAQUJAAAAAAAAAAAAAQIDEhEABAVRYXETISIyQbHB0fD/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEBAQEAAAAAAAAAAAAAAAECABES/9oADAMBAAIRAxEAPwDLhamxxqy0kB8XcSpX06dOWpzSlXaYqe0Zh5sZc45+33o5meYRbNK1oSb1PHB+BjToMQ7vUYvcFzbj+A0AboOaTXkd/9k=",
+    "url": "https://preview.redd.it/r1hg0o3cic691.jpg?width=640&crop=smart&auto=webp&s=6935c2e5f84b73d5c6af1eec26ec610a7139a83b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Gathern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vf29so/gathern/"
+}

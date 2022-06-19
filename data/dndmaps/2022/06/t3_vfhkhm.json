@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fvfzx",
+    "name": "greetingsfellowhuman"
+  },
+  "date": {
+    "day": 1655510400,
+    "full": 1655593221,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vfhkhm",
+  "picture": {
+    "filesize": 84112,
+    "fullUrl": "https://external-preview.redd.it/CevJS3fT_oQD4tEDSdC60NhY19S9VwjTNPmMz0af1Nc.jpg?auto=webp&s=663216c2cfb7c2f9669b24e530cc7ecd02c67fb3",
+    "hash": "cd9b741501",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAJhAAAgEEAAMJAAAAAAAAAAAAAQIDAAQFETRBdBITFSEiMWGys//EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBAxEy/9oADAMBAAIRAxEAPwAassfJO8fhncLFJJ2TLLcKC5HmSJDsKPn0nZA5VX5PFrYTyZy8xrIzqFMMLmUxqo92OtbIC7YHRJA50W4PgL3ph+grQNlw6dOfutRWaov1B//Z",
+    "url": "https://external-preview.redd.it/CevJS3fT_oQD4tEDSdC60NhY19S9VwjTNPmMz0af1Nc.jpg?width=640&crop=smart&auto=webp&s=e9fab67687ac2c53c7db337a36559a09fd156016",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The DUNGENERATOR, a deck of cards that generates nigh-infinite dungeons!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vfhkhm/the_dungenerator_a_deck_of_cards_that_generates/"
+}

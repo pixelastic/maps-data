@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1655510400,
+    "full": 1655581586,
+    "month": 1654041600,
+    "week": 1654992000
+  },
+  "id": "t3_vfdrh7",
+  "picture": {
+    "filesize": 73777,
+    "fullUrl": "https://preview.redd.it/z9mlod7aof691.jpg?auto=webp&s=fe32af63ba3fe6b49da061cb8e0e87c9f4fffd0c",
+    "hash": "6318722cf0",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACIQAAICAQQBBQAAAAAAAAAAAAECAxEEAAUSIVETFSJBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREAAiH/2gAMAwEAAhEDEQA/ACGwRzZe34je4bVE8bsKnn4BroWLHdAd6LZ2yQriOcjNh9GM8iyktbcj2D9g6S4mHANoMnD5IxVPC2t2B5/dB4JHk2iO3YBHK1fRAJPY1ZOmPLPcCC03/9k=",
+    "url": "https://preview.redd.it/z9mlod7aof691.jpg?width=640&crop=smart&auto=webp&s=55e31f7a78c5959581e569880e12f57db4e2fbbd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.79,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Crystal Bridge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vfdrh7/40x30_crystal_bridge/"
+}
