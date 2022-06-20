@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3lgbcvek",
+    "name": "Najadem"
+  },
+  "date": {
+    "day": 1655596800,
+    "full": 1655637996,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vft4ne",
+  "picture": {
+    "filesize": 95047,
+    "fullUrl": "https://preview.redd.it/ssvi2w25ck691.jpg?auto=webp&s=d1cd3396d3063ee7c69ff4b49fa2beedf7cc4bc4",
+    "hash": "c6626e0d8d",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDBAAHAAAAAAAAAAAAAgEDBAAFEQYSE0EUIjJRYWJy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESMf/aAAwDAQACEQMRAD8Ax7QtkWbGmcIw3X3A4hafb3L+hXrFSdxt3hZz8c/U0aguPdFxTumNQu2yNKBgGVIwyhmuCFfr80POWS5JJ15pze758r3nujQIqWnfD//Z",
+    "url": "https://preview.redd.it/ssvi2w25ck691.jpg?width=640&crop=smart&auto=webp&s=5d0dbb7a4287763d6002a93651811d0b2b12f522",
+    "width": 640
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 763,
+    "value": 763
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Elvish version of the Tasha's Reckless Steps puzzle (info in the comments)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vft4ne/elvish_version_of_the_tashas_reckless_steps/"
+}

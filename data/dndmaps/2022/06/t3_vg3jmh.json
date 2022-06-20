@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_f7dm1drl",
+    "name": "MapsBySeamus"
+  },
+  "date": {
+    "day": 1655596800,
+    "full": 1655669566,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vg3jmh",
+  "picture": {
+    "filesize": 60383,
+    "fullUrl": "https://preview.redd.it/dk9x39h2ym691.jpg?auto=webp&s=aef4ca42b1ccad6e39a9b794e21a0451e098584b",
+    "hash": "9bbdb5b8a3",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAHxAAAgEDBQEAAAAAAAAAAAAAAQIEAAMRBRMhMVES/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAgMAAAAAAAAAAAAAAAABAgARIVHR/9oADAMBAAIRAxEAPwDO0svpUpI0VBNtXpO6z7i4GSMrjNX1X6jiW0e2j3FuElLZ5K9cj3rr2lKlE2gJ3yFy0//Z",
+    "url": "https://preview.redd.it/dk9x39h2ym691.jpg?width=640&crop=smart&auto=webp&s=7b3c854f1e134ed5ccd295a2e123604a4be79618",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Riverside Crossing",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vg3jmh/riverside_crossing/"
+}
