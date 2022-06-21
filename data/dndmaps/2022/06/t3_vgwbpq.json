@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1655683200,
+    "full": 1655760473,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vgwbpq",
+  "picture": {
+    "filesize": 53166,
+    "fullUrl": "https://preview.redd.it/nktl5gibgu691.jpg?auto=webp&s=33528fde62c5cb1d530245fda7a5469651a177e1",
+    "hash": "f56e3c0605",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAQIFAwUAAAAAAAAAAAABAgMEEQAFEyExEhQiFUFRceH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAQACAwEAAAAAAAAAAAAAAAEAIQIEEUH/2gAMAwEAAhEDEQA/AJOLtny+OioYz6iz+JtsRzz8WwZ3cSMyToUlUlWCt7j6wVlsscZpjJV+eoGDN1AW5I/cG1jNqDSlZxbcjYXueMEY3cmOmoXxPSf/2Q==",
+    "url": "https://preview.redd.it/nktl5gibgu691.jpg?width=640&crop=smart&auto=webp&s=c653c6a31eb0fee224957dc3666b580153a4ae04",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Swamp Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vgwbpq/swamp_dungeon_30x40/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12grns",
+    "name": "fudderduds"
+  },
+  "date": {
+    "day": 1655683200,
+    "full": 1655751223,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vgstyu",
+  "picture": {
+    "filesize": 43599,
+    "fullUrl": "https://preview.redd.it/oowplg2rot691.jpg?width=1366&format=pjpg&auto=webp&s=95a275a45836cecad8cb5afbc4c7767b3d0dc577",
+    "hash": "fd3ca943a2",
+    "height": 333,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAIBAAAwABAgcAAAAAAAAAAAAAAQIDABFBBBIhInGBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQARAiEyQf/aAAwDAQACEQMRAD8AllqwrMO/DFCChE+ZXG5LfM2eAokTaSVr2ijldDodx76+NcYxOI9XtZCXyp//2Q==",
+    "url": "https://preview.redd.it/oowplg2rot691.jpg?width=640&crop=smart&auto=webp&s=1ea28989541766e524ed296b2193f36f53b3cf01",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Map feedback?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vgstyu/map_feedback/"
+}
