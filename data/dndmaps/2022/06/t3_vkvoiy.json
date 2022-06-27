@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1656201600,
+    "full": 1656214767,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vkvoiy",
+  "picture": {
+    "filesize": 142052,
+    "fullUrl": "https://external-preview.redd.it/4J9e6chyyzTpIAGt6ysZGf4ADaeSFi27QvMTwqhrGpc.jpg?auto=webp&s=270eed85543c4a4ca4bf58862d5205bf8fe8be15",
+    "hash": "1f4958fe8a",
+    "height": 1015,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAkEAACAQQBAgcAAAAAAAAAAAABAhEAAwQFMQYSEyEjMkFRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIG/8QAHREAAQQCAwAAAAAAAAAAAAAAAwABAgQSIRMxQf/aAAwDAQACEQMRAD8APkXtnd1bbIOPCuMtsJ3eoZJgqvyDH5Rk6pyFRQclwQIgtxULS9YXNbrsjGx8Jr+YyFUyJ9okwCImBJ45qNM+Zt5BJ+7ZpV5lznydeKQvUgSENhttm2v/2Q==",
+    "url": "https://external-preview.redd.it/4J9e6chyyzTpIAGt6ysZGf4ADaeSFi27QvMTwqhrGpc.jpg?width=640&crop=smart&auto=webp&s=4b5a9b2e708dd3e81beee0ae7d2e62d08f52ccad",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 221,
+    "value": 221
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Here's our latest Czepeku battlemap! The Tutelary Turtle Island",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vkvoiy/heres_our_latest_czepeku_battlemap_the_tutelary/"
+}
