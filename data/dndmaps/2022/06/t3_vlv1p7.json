@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1656288000,
+    "full": 1656335058,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vlv1p7",
+  "picture": {
+    "filesize": 113752,
+    "fullUrl": "https://preview.redd.it/yiw4qzbww5891.jpg?width=2800&format=pjpg&auto=webp&s=ca01b76939a5af86d28469ea1c73958820c9932a",
+    "hash": "cad7c8a90a",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIF/8QAJRAAAgIBAwMEAwAAAAAAAAAAAQIDBBEABTEhIlEGBxITMmGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADETH/2gAMAwEAAhEDEQA/AC/28O1Uds3kX5lE8kQWPvVT08Ag57vj441VyjTln+x6aMXVWysWc5Uf3WdvcSWvV9aN6sdeKQRnCNgygjIYnjLcdBjSPDZpSQxk140woUKYfxAGAOP1pI+SG6ksQw6Z/9k=",
+    "url": "https://preview.redd.it/yiw4qzbww5891.jpg?width=640&crop=smart&auto=webp&s=6b1e6c7af608a2b7279e6fea7bc47fcf78dc7ffa",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Underground Ziggurat Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vlv1p7/underground_ziggurat_phased_battle_map_40x60/"
+}

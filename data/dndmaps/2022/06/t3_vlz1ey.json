@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_14eiz4",
+    "name": "Panlytic"
+  },
+  "date": {
+    "day": 1656288000,
+    "full": 1656346111,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vlz1ey",
+  "picture": {
+    "filesize": 162902,
+    "fullUrl": "https://preview.redd.it/z1mmfe7tt6891.jpg?auto=webp&s=7f9d7ce36d44cf605ea948df3ba728180711d55a",
+    "hash": "1c8a606458",
+    "height": 1048,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJhABAAEDAgMJAAAAAAAAAAAAAQIDBBEAEhMUQRUhMTJCUbHB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AxKhZUOW3znJlCPjFyYDL3e2gSoTnJlxA3OfV+adb06PZ1xIrQ3UkjGLJFHzYOv1qa1BQuLsOgKHzo8vVphb/2Q==",
+    "url": "https://preview.redd.it/z1mmfe7tt6891.jpg?width=640&crop=smart&auto=webp&s=6db9044782eb87d9a7966527dc0842852660bfe6",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Altar of Sorrowbane",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vlz1ey/altar_of_sorrowbane/"
+}
