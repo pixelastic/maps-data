@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1655856000,
+    "full": 1655907837,
+    "month": 1654041600,
+    "week": 1655596800
+  },
+  "id": "t3_vi6gir",
+  "picture": {
+    "filesize": 37315,
+    "fullUrl": "https://preview.redd.it/nr8v236fm6791.jpg?width=3840&format=pjpg&auto=webp&s=beb0695991281715271ed2075d5d9decd06e2bb2",
+    "hash": "ea982732f6",
+    "height": 358,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMI/8QAHhAAAQMEAwAAAAAAAAAAAAAAAQACBAMRITEygZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAgMAAAAAAAAAAAAAAAAAABESISL/2gAMAwEAAhEDEQA/AM3xBRewCoRcYGFCcxofhotoIg8+0zd+InpBStH/2Q==",
+    "url": "https://preview.redd.it/nr8v236fm6791.jpg?width=640&crop=smart&auto=webp&s=39b9f495d537d863d8d5c4d35c4c88b8ef9c5bfa",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: fey pond (50x28)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vi6gir/battlemap_fey_pond_50x28/"
+}

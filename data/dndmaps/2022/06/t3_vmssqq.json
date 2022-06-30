@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1656374400,
+    "full": 1656437658,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vmssqq",
+  "picture": {
+    "filesize": 56563,
+    "fullUrl": "https://preview.redd.it/bumv12j1ee891.jpg?auto=webp&s=83fdd50fbd281fe20c51acfe9ea0abe331f6f4d4",
+    "hash": "fbfdf5b6a2",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACIQAAICAQMEAwAAAAAAAAAAAAEDAhEEAAUSEyFBUSIxUv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADEiH/2gAMAwEAAhEDEQA/AMHDcfFxduYpOC6XRE5iKuRBoj5X58+tD3rbYZe3qZgoNrgGOZ0jGyYio9hXjt7vSMZ2SxHGbpGKVcVj8ixqi2nIdPamQLZiDr6gieInX1detCwz2PWptJUT/9k=",
+    "url": "https://preview.redd.it/bumv12j1ee891.jpg?width=640&crop=smart&auto=webp&s=13f85cda0414120ff4358d9773c9809f3420b761",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Redbrand Hideout",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vmssqq/ocfree_redbrand_hideout_3020/"
+}
