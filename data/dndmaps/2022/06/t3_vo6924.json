@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3f6mig",
+    "name": "Welume"
+  },
+  "date": {
+    "day": 1656547200,
+    "full": 1656588976,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vo6924",
+  "picture": {
+    "filesize": 102998,
+    "fullUrl": "https://preview.redd.it/kukbe49tvq891.jpg?width=4000&format=pjpg&auto=webp&s=50d4deed311637c5093d74c96b20b0db7232b3da",
+    "hash": "3a71491c7b",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMI/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQQABSEGFCJBYXHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAMSMQIhIv/aAAwDAQACEQMRAD8Azr07tSZU2LM8byxs5UpxRI/DSHF3fFWBVnXHjkW1KFUNUa96juEGPsWLDA9dxGsiJNdeJPNC+fg/egzG2Jsmz71PDF/o0mkWtC1//9k=",
+    "url": "https://preview.redd.it/kukbe49tvq891.jpg?width=640&crop=smart&auto=webp&s=d3c343f8994998f545c9e90f5bd857facc5c3a0a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mushroom valley 20x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vo6924/mushroom_valley_20x30_gridless/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1656547200,
+    "full": 1656590669,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vo6r79",
+  "picture": {
+    "filesize": 102440,
+    "fullUrl": "https://external-preview.redd.it/MCeA4VBcHOnb7O-g0uqB2pxYAZuawwuIWOkiNxZWuvk.jpg?auto=webp&s=980491456712c03ea9aeb47d5618eb7d4f7ea534",
+    "hash": "e07fa25553",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABAwMEAwEBAAAAAAAAAAABAgMEBREhABIUMQYTYSIy/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAABAhIRITH/2gAMAwEAAhEDEQA/AAPgjzVWpVX5EBhsNU8R0lKP7T+jfI7uBkaH1pLKnY7sKJKiNOMJV60quCcgn5e2ldBqHt8bfehwlxY6IpZB5pO9W5OLdpHefuoFXqTb4hcetBrZHCFoDjqrK3KJyRnsaONrPIWnw//Z",
+    "url": "https://external-preview.redd.it/MCeA4VBcHOnb7O-g0uqB2pxYAZuawwuIWOkiNxZWuvk.jpg?width=640&crop=smart&auto=webp&s=556d5d2c50cb8b9264c91e25ad6c2e12fcfbd381",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 209,
+    "value": 209
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Empty Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vo6r79/empty_dungeon_30x40/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4qzqmvhw",
+    "name": "salamandra_brisada"
+  },
+  "date": {
+    "day": 1656547200,
+    "full": 1656565474,
+    "month": 1654041600,
+    "week": 1656201600
+  },
+  "id": "t3_vo04c5",
+  "picture": {
+    "filesize": 134231,
+    "fullUrl": "https://preview.redd.it/zpfy2eh4yo891.jpg?auto=webp&s=f044c54b16056cf23e7152a3fd04ddd4c9d7404c",
+    "hash": "f3ae0341a2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAQX/xAAgEAACAgEFAQEBAAAAAAAAAAABAgMRBAASITFBUWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB4RAAIBAwUAAAAAAAAAAAAAAAIDAQARIkFRYYHw/9oADAMBAAIRAxEAPwBjzY4RkQ7I3MyhbZrYcgmlPBPHenJgMaI6MjyMhZoo7O35fzrrzjU9cLGfPTLZpA615YNff7qpmKuVZL7Sxu1JFH0D8qtBFgngyb87UVgSvNUde1r/2Q==",
+    "url": "https://preview.redd.it/zpfy2eh4yo891.jpg?width=640&crop=smart&auto=webp&s=6412a9a767886911362fd731e4373bff61ddc61e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "A simple tower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vo04c5/a_simple_tower/"
+}
