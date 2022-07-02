@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1656633600,
+    "full": 1656654191,
+    "month": 1656633600,
+    "week": 1656201600
+  },
+  "id": "t3_vot8vf",
+  "picture": {
+    "filesize": 62411,
+    "fullUrl": "https://preview.redd.it/5b1ofo4w9w891.jpg?auto=webp&s=a182bbcc9c2bac40531b56e5ea852722af1aa1d5",
+    "hash": "c70e35392f",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhE0FRcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAIDAAAAAAAAAAAAAAAAAAECABES/9oADAMBAAIRAxEAPwDJ6NFaMZhFdpZnTJes3MHPonPR0G/w3duiYPDWqo7AiKMcwOh3nPR0dbe7+3VpatKbwxyIOZUYL/f5qXXuTyxzLJIzeZwrEnPo/Opyo2rMUXXNCf/Z",
+    "url": "https://preview.redd.it/5b1ofo4w9w891.jpg?width=640&crop=smart&auto=webp&s=c18ce1961f2e575978dfbf7777bff6e85c8bc9ba",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Halls of Gold",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vot8vf/halls_of_gold_isometric/"
+}

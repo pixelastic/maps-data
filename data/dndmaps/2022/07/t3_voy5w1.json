@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1656633600,
+    "full": 1656673398,
+    "month": 1656633600,
+    "week": 1656201600
+  },
+  "id": "t3_voy5w1",
+  "picture": {
+    "filesize": 125501,
+    "fullUrl": "https://preview.redd.it/bh72s5qtux891.jpg?auto=webp&s=5f77bbfd1a77a31917e08a9acf7003baf7d4e1fa",
+    "hash": "fd000cab1f",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMEEQAFIRJBQhMiYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBQEBAAAAAAAAAAAAAAACAAERIvADIf/aAAwDAQACEQMRAD8AisO3Va+xXo7b2PWsJXeEyw5Yhj4nPt545+++jM1Ssk0iraPSGIGYznHzjTCmzjarE6rBLJGkBDSTBiOfHkE4/OeO2iVyh025wiAKHYDMy5xnU3IrFL6GTG1R80r/2Q==",
+    "url": "https://preview.redd.it/bh72s5qtux891.jpg?width=640&crop=smart&auto=webp&s=e52b8ee6245aa60a3675bc00c236aae7f1393dc0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A map in case the treasury is so big that it needs its own dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/voy5w1/a_map_in_case_the_treasury_is_so_big_that_it/"
+}

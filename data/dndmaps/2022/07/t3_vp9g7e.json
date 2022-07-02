@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1656633600,
+    "full": 1656705267,
+    "month": 1656633600,
+    "week": 1656201600
+  },
+  "id": "t3_vp9g7e",
+  "picture": {
+    "filesize": 38651,
+    "fullUrl": "https://external-preview.redd.it/PzAt-GpvdJsguv8YpHT5ZU0o_p2f0yd6MPceTRmw8FU.jpg?auto=webp&s=180841d705cbfabf7c5ace9e691bbff836f34e68",
+    "hash": "5f70e19c2d",
+    "height": 417,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACAQAAICAgICAwAAAAAAAAAAAAECAxEABDFBEiEFEyL/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAARASEx/9oADAMBAAIRAxEAPwDEvhdGKTWnZoDPN9dxkNX6PZ4sdVhKaywa0429OEBowFYmnV+fIG+OfWLdGR1kpXYAN6AOU4RX14/NVa1N2L6yp0xGn//Z",
+    "url": "https://external-preview.redd.it/PzAt-GpvdJsguv8YpHT5ZU0o_p2f0yd6MPceTRmw8FU.jpg?width=640&crop=smart&auto=webp&s=ddc4625ccfb6ff2aba90f0d04246e1cc1167e2ea",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Colosseum of Challenges don't just carry out your standard arena matches. They'll invite airships in for a destruction derby too!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vp9g7e/the_colosseum_of_challenges_dont_just_carry_out/"
+}

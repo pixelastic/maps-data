@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_e3q5w3xv",
+    "name": "TDMaps"
+  },
+  "date": {
+    "day": 1656633600,
+    "full": 1656688461,
+    "month": 1656633600,
+    "week": 1656201600
+  },
+  "id": "t3_vp378r",
+  "picture": {
+    "filesize": 148815,
+    "fullUrl": "https://preview.redd.it/13nfy7923z891.jpg?width=2048&format=pjpg&auto=webp&s=2e777d3272a7f852ff752454500efd8b049a76ba",
+    "hash": "1e15b7d6e0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBBESACExBRNBUSJhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAS/9oADAMBAAIRAxEAPwDOGrEkyjpJWWZ12ktgFXcgAcfuixhGVO0kYdCzOj5ckcjxfb3YatLEIFB7706S/ElyCVfYAFVPrj60hKOufpz1MkM9QyNjDZcgyi9zt4NzqV0sJkL/2Q==",
+    "url": "https://preview.redd.it/13nfy7923z891.jpg?width=640&crop=smart&auto=webp&s=3266a24182bb6ffbac8ef220735edddedda614fe",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest with a lazy river and a hut - TD Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vp378r/forest_with_a_lazy_river_and_a_hut_td_maps/"
+}
