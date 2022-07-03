@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1656720000,
+    "full": 1656788084,
+    "month": 1656633600,
+    "week": 1656201600
+  },
+  "id": "t3_vpyiet",
+  "picture": {
+    "filesize": 135105,
+    "fullUrl": "https://preview.redd.it/lnow3litb7991.jpg?auto=webp&s=47f138d6ddc0327bc26627a2080b20fc152033f8",
+    "hash": "ae179b553b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQQBAgcAAAAAAAAAAAABAgMEBREhABNREiIxQWFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARA//aAAwDAQACEQMRAD8AbvFzp1lgo6GmgSJYlV+pGJCSVOTn5/OTl8nqEtVOsYQNA3k8ChTgnYYj2x9+vGJWgpLlStSV8MkrwpPEnTOVK4BU51rB0TvGuTdzaoulweholKwAs9RWuCAq5zoayScAAd+2ePMdGhy//9k=",
+    "url": "https://preview.redd.it/lnow3litb7991.jpg?width=640&crop=smart&auto=webp&s=de9abccf151d04235e347156f0226eca132316a5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Aquacadent, the City of Waterfalls",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vpyiet/aquacadent_the_city_of_waterfalls/"
+}
