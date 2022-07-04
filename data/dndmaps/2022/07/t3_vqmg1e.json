@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1656806400,
+    "full": 1656868885,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vqmg1e",
+  "picture": {
+    "filesize": 198758,
+    "fullUrl": "https://preview.redd.it/lxxlocsb0e991.jpg?width=1500&format=pjpg&auto=webp&s=c5e94214fa2583538211fff2612fead07bb409a1",
+    "hash": "653744cfa6",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAQMEAQUAAAAAAAAAAAABAgMEEkEAESEiMRMUMqHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAwDAQACEQMRAD8AIpS0ANZ7+SMkIOhfcKu3a05b70cZ3tT1EHx6lpOSuMHGlCs7RVM0QZFlV4yCVNuTcfHH7qVVKtKyRs1MegtukB2Hgc58ajFroPh//9k=",
+    "url": "https://preview.redd.it/lxxlocsb0e991.jpg?width=640&crop=smart&auto=webp&s=370d83986af70fcb3016a7aeab50c3b4250e459e",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 223,
+    "value": 223
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Spider Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vqmg1e/spider_temple_30x50/"
+}
