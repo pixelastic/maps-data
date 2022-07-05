@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fl3ie",
+    "name": "soantis"
+  },
+  "date": {
+    "day": 1656892800,
+    "full": 1656916521,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vr13j4",
+  "picture": {
+    "filesize": 98252,
+    "fullUrl": "https://preview.redd.it/onx30l4ifj991.jpg?auto=webp&s=f7801d5415ca8ef5822ebc27f2597c51df5ed867",
+    "hash": "6e6b52c4f3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIhAAAQQCAgEFAAAAAAAAAAAAAQIDBBEAEgUhBhQiMXHx/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQISEzH/2gAMAwEAAhEDEQA/ANbx6OzL4lXrEGQpw+5B+KJH7j8ijtQeGCYbRb0VQ0NBHd9/eTw5TkCBJRHoJbCtb7rFykpcuG2l4DVWtgWLsgHJ+stejt4Jo//Z",
+    "url": "https://preview.redd.it/onx30l4ifj991.jpg?width=640&crop=smart&auto=webp&s=6f1501ece573f731d9a0bf73aff9fbd3cab82bd8",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Arena Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vr13j4/arena_map_oc/"
+}

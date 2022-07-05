@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_o7lm1w7i",
+    "name": "Maplocks"
+  },
+  "date": {
+    "day": 1656892800,
+    "full": 1656952121,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vrba42",
+  "picture": {
+    "filesize": 140727,
+    "fullUrl": "https://preview.redd.it/jozqfzorvk991.jpg?auto=webp&s=8f66b4c47d4e6654f7509afc77a7d4bc309073cb",
+    "hash": "4cc523d191",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgIBBAICAwAAAAAAAAAAAQIDBBEABQYSIUEVMSJhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQABBAMAAAAAAAAAAAAAAAAAAQIRIUFhkf/aAAwDAQACEQMRAD8AyO0NZ5DyOxUv3Bt8EMcnVkhKhyPIVB4AJ+zqR9vv7jP8fCLV6R4A8cVdSejZ8hgT9D0fWD/dF7wb9zc66BJBNGGigDufyCkLnJwR68/rT3Fb26cWS/JYsmCfuGeXupLYyCvbOdARGOuJ2HvHD//Z",
+    "url": "https://preview.redd.it/jozqfzorvk991.jpg?width=640&crop=smart&auto=webp&s=06d326532c1e371a7276a04105c35e8fac28e551",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Sun Lodge (Elven tree dwellings)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vrba42/the_sun_lodge_elven_tree_dwellings/"
+}
