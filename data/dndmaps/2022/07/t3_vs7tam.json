@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1656979200,
+    "full": 1657054100,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vs7tam",
+  "picture": {
+    "filesize": 80458,
+    "fullUrl": "https://preview.redd.it/vdb00j41bt991.jpg?auto=webp&s=5ecf0ffc1ade0de2634db850e03342f3e43147cd",
+    "hash": "7b0e541afc",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAkEAABBAEDAwUAAAAAAAAAAAACAQMRIQAEElEFIkEGEzFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAQMAAhEh/9oADAMBAAIRAxEAPwCVafRG80RC4pNpE3Q35T88pV4p1N9l4CEQ2gDdIKbt0VMffOAo4ftkM9opIpxj/p5wiRtpV7FaclI4v5ywsVDYW2DMOdn/2Q==",
+    "url": "https://preview.redd.it/vdb00j41bt991.jpg?width=640&crop=smart&auto=webp&s=d15896213e7d735e947fe1b62a7c2cff6ca4618f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Snake & Worm",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vs7tam/snake_worm/"
+}
