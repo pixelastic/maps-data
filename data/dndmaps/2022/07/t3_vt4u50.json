@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4i3cv",
+    "name": "stagamancer"
+  },
+  "date": {
+    "day": 1657152000,
+    "full": 1657152952,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vt4u50",
+  "picture": {
+    "filesize": 100323,
+    "fullUrl": "https://preview.redd.it/b0c36urlg1a91.jpg?auto=webp&s=fc41795e4626a1720826f50004d12bbf666845b9",
+    "hash": "648caf75c4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQREgAhQQUTFCIxYZHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAcEQACAAcAAAAAAAAAAAAAAAAAAQIREiExYfD/2gAMAwEAAhEDEQA/AMd1OolmqmVvRHE5GWJ5Fsb/ADpNBEkU0YhZolaRVyvt77j8sdVVUdpqu7yMwXuBi2987fVtDxkekhqCz5uCSAduONTE0oKOwNaez//Z",
+    "url": "https://preview.redd.it/b0c36urlg1a91.jpg?width=640&crop=smart&auto=webp&s=376e47f913c862569e68845e6f12f887d1288363",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Good ol' fashioned monster lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vt4u50/good_ol_fashioned_monster_lair/"
+}

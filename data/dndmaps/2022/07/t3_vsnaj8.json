@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1657065600,
+    "full": 1657105227,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vsnaj8",
+  "picture": {
+    "filesize": 48002,
+    "fullUrl": "https://external-preview.redd.it/omzz6ZMkLh6vGziYir8oEMuwwTWUMRSrhfVEJCvLt6U.jpg?auto=webp&s=25b6d0be93ebfa5031cf333b69b6fb77553b3870",
+    "hash": "51ba37943c",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAiEAABAgUEAwAAAAAAAAAAAAABAwQAAhIxcQURISI0YXL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMRIv/aAAwDAQACEQMRAD8ABaYgkR2UFFPNwc7wkU1oMWhLNoyXVPJVdSVkHBsPW0HWdpcCLdeZN8xMrGqroaYTej//2Q==",
+    "url": "https://external-preview.redd.it/omzz6ZMkLh6vGziYir8oEMuwwTWUMRSrhfVEJCvLt6U.jpg?width=640&crop=smart&auto=webp&s=ad5df0283d336147fb33a59c4e17d64a3afbf5da",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 201,
+    "value": 201
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fork in the road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vsnaj8/fork_in_the_road_oc_battlemap/"
+}

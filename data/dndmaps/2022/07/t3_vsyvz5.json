@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1657065600,
+    "full": 1657137308,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vsyvz5",
+  "picture": {
+    "filesize": 125939,
+    "fullUrl": "https://external-preview.redd.it/5rOc9WD7DL2fcSUYShNUjroKTLUrtNRv9BUPQCna4XU.jpg?auto=webp&s=8a914c9028fe6a6d98ac33ec31e8146be430814b",
+    "hash": "bac9fbf0ba",
+    "height": 1164,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAIBAgUEAwAAAAAAAAAAAAECAwARBAUTIVIUMUFhkZLh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAiH/2gAMAwEAAhEDEQA/AMTyaGEyzQO0aIGsiM24b9o3QHg/0pDF6bRrJhRMzbPpqSylrbmw7eD7qfbNOWJ+DRwZbke3/9k=",
+    "url": "https://external-preview.redd.it/5rOc9WD7DL2fcSUYShNUjroKTLUrtNRv9BUPQCna4XU.jpg?width=640&crop=smart&auto=webp&s=0d0a5dd600fabdf1ca4d6000b9b677169e3db106",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 138,
+    "value": 138
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Erm, let's turn back the other way.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vsyvz5/erm_lets_turn_back_the_other_way_22x40/"
+}
