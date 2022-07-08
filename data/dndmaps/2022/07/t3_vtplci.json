@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_74733",
+    "name": "FatalEden"
+  },
+  "date": {
+    "day": 1657152000,
+    "full": 1657218925,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vtplci",
+  "picture": {
+    "filesize": 100313,
+    "fullUrl": "https://preview.redd.it/4yr3rs6rw6a91.jpg?width=6000&format=pjpg&auto=webp&s=e1571db4a5b7f923d5e47fc557099592e941e7c6",
+    "hash": "483be10acc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAQf/xAAdEAACAgIDAQAAAAAAAAAAAAABAhESAEEDIUKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIOz2hng2NQBi6xCIbNAkneKi6WLdKI6G8OOeZbhgK+d/cAv/9k=",
+    "url": "https://preview.redd.it/4yr3rs6rw6a91.jpg?width=640&crop=smart&auto=webp&s=d7f409066cd05d72e255faa4e433d60691faf0a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Encounter (30x30, 200px - Free Gridded Version)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vtplci/swamp_encounter_30x30_200px_free_gridded_version/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1657152000,
+    "full": 1657191750,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vtg06w",
+  "picture": {
+    "filesize": 102175,
+    "fullUrl": "https://preview.redd.it/zxbpxzudo4a91.jpg?auto=webp&s=10f11379421a6dfdd6f9ae63d48fbfbf727015bf",
+    "hash": "0cace675fe",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQQAAEDAwQBBQAAAAAAAAAAAAECAwQFESEABhJBURQiMWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgARISL/2gAMAwEAAhEDEQA/AM/NcBpiIM6gLadbQFvSkoIWQc5SbYHnoG2lqQwY7SpM+O9Hpb6rlwL480pypKT2T8D70bcu4XJLfqU1B6ZP5KSVPG4tjzjj+aloqE6pUlTdTkkR2rLbjXHsTmxSOgSSLDOcDUiqx0RXw9bc/9k=",
+    "url": "https://preview.redd.it/zxbpxzudo4a91.jpg?width=640&crop=smart&auto=webp&s=0ece7b73ab6f055d962d4465d123fa290be66afa",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Fall",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vtg06w/the_fall_oc30x30/"
+}

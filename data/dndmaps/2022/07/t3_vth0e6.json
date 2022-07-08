@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1657152000,
+    "full": 1657195218,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vth0e6",
+  "picture": {
+    "filesize": 46248,
+    "fullUrl": "https://external-preview.redd.it/Xj1MJoBHp9j3C01yM94oqvG-NSBsOPXCxmvGMjob2AI.jpg?auto=webp&s=b3fdde15cdb353f6a4c02a01a267f16ef2fc2703",
+    "hash": "69aa31c316",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAmEAABAgMGBwAAAAAAAAAAAAABAgMABCEFBhESEzQxQXFyc7LR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAIDAAMAAAAAAAAAAAAAAAECAAMRBBJh/9oADAMBAAIRAxEAPwCEtrSbW0LvECWbSlSlNKJGcc+tYHl0JEw48hxxTpSrOaYnEV4xQXA2k93Ne4gd/b2j5/sLXJ3CvuQ/i2CstXm+mf/Z",
+    "url": "https://external-preview.redd.it/Xj1MJoBHp9j3C01yM94oqvG-NSBsOPXCxmvGMjob2AI.jpg?width=640&crop=smart&auto=webp&s=6bdbb247301b584c049a48ead1bdfce9a4afd390",
+    "width": 640
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 400,
+    "value": 400
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Energized Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vth0e6/energized_cave_oc_battlemap/"
+}

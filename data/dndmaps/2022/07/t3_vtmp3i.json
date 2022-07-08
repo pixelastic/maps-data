@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1657152000,
+    "full": 1657211463,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vtmp3i",
+  "picture": {
+    "filesize": 115775,
+    "fullUrl": "https://preview.redd.it/9wm2tnbwa6a91.jpg?width=2800&format=pjpg&auto=webp&s=553fb857ece51bdb6de53357495b4d29875e23f6",
+    "hash": "fca79891ce",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwIF/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDEQQABTESEyEGBxQyUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMEERIx/9oADAMBAAIRAxEAPwA09t32vbtq3sZ8qd6WIIh61U+PwEG6bp/ONRmYOHLP3Hw0YsqtaxXdqNZ29xJler8ZHxY8aOQRmkajKCLDE8W3HgVpHhycOSFD8eNAFChTB9QBQHH80VDhmO/ZJkqbApE//9k=",
+    "url": "https://preview.redd.it/9wm2tnbwa6a91.jpg?width=640&crop=smart&auto=webp&s=6c888d9b45908a44c15853e14bf908e643e8ad5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sunbeam Ziggurat Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vtmp3i/sunbeam_ziggurat_phased_battle_map_40x60/"
+}
