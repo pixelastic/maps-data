@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1657238400,
+    "full": 1657278026,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vu8349",
+  "picture": {
+    "filesize": 179495,
+    "fullUrl": "https://external-preview.redd.it/JXEHK44-7iXzHKIzAHuVmxjvH3ylCTeavaVRDxELiw0.jpg?auto=webp&s=9233f9e358ef226ef038b3bfa53dc36df5e2749d",
+    "hash": "e6415a52ba",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJxAAAQEHAQkBAAAAAAAAAAAAAgEAAwQFERIxIRMiJFFUYXGRk9H/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAAICAgMAAAAAAAAAAAAAAAECESEABRQiQf/aAAwDAQACEQMRAD8Aw6ykIiHhilxPHkOTzQTRN3Fb8W+ezXwnXB9x/WAfz1XN4OwNLgUVqi01SmMKjAbSF5RHsWHxmNE0MqJtETuFljE3VDzP/9k=",
+    "url": "https://external-preview.redd.it/JXEHK44-7iXzHKIzAHuVmxjvH3ylCTeavaVRDxELiw0.jpg?width=640&crop=smart&auto=webp&s=c2ef227462eeae88f3adfe3aab45c4c3f152a2df",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dark Tower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vu8349/dark_tower_oc_battlemap/"
+}

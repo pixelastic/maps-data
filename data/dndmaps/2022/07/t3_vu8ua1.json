@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1657238400,
+    "full": 1657280749,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vu8ua1",
+  "picture": {
+    "filesize": 121166,
+    "fullUrl": "https://preview.redd.it/z6u7h28z0ca91.jpg?auto=webp&s=ce5b07a6400cd0613615a9884ccf1748e40c257f",
+    "hash": "204eb90f6c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAJBAAAgEEAQQCAwAAAAAAAAAAAQIDBAURIQASEzFBBiJCobH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAECACEDERL/2gAMAwEAAhEDEQA/AMzU0NsuFOJqbvmVmKNNFrpA/Eeca/nL6daW3WUxrIXVT0RdxR9xvR9jG/3xNPSRwC30ryUjKcAoikFgcZ163xfIVjqrW4uTSuYUBIjYkGTO/HjWORw65BwYfaMli5//2Q==",
+    "url": "https://preview.redd.it/z6u7h28z0ca91.jpg?width=640&crop=smart&auto=webp&s=e8e8ec65e251dab1e885bd68bb19236903ad77a8",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Castle Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vu8ua1/castle_ruins_25_x_25/"
+}
