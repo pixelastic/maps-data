@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1657324800,
+    "full": 1657378815,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vv3j1v",
+  "picture": {
+    "filesize": 50237,
+    "fullUrl": "https://external-preview.redd.it/Qf25Ino0GKGRu2gU2rKwCeR4Br4_eVrCtHiJScVdoiw.jpg?auto=webp&s=c1a3683d70e073abcb9f35238663b1a972b48618",
+    "hash": "ddbaece644",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAgEDEQAEBRMhcTQ1QXLR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQEBAQEBAAAAAAAAAAAAAAABAhEAA//aAAwDAQACEQMRAD8AyuHdtrfFaLtgmoAQJwioc870S8xbLdiJkrJiUCUNzC+Z+0EOqa9FqiHZXuSqJfvcyzLmuvL6AI9//9k=",
+    "url": "https://external-preview.redd.it/Qf25Ino0GKGRu2gU2rKwCeR4Br4_eVrCtHiJScVdoiw.jpg?width=640&crop=smart&auto=webp&s=7b25bf7c692bbe68ff15b79700edeb9aea1a1ddc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "\"The Obelisk\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vv3j1v/the_obelisk_oc_battlemap/"
+}

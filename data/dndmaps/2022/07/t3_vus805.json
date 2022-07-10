@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1657324800,
+    "full": 1657336442,
+    "month": 1656633600,
+    "week": 1656806400
+  },
+  "id": "t3_vus805",
+  "picture": {
+    "filesize": 69037,
+    "fullUrl": "https://preview.redd.it/y4u2mfrimga91.jpg?auto=webp&s=af11d40246437cb2707f968bf9373c935907ce33",
+    "hash": "5361ca2400",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAII/8QAHhAAAgICAgMAAAAAAAAAAAAAAQMCEQAEITESQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oADAMBAAIRAxEAPwDP8GNbrwawUD3wQKGSqTIMqyYdkg9DFa8i1SjPkGABHo8fMENqVspa4+INUMa4Ea//2Q==",
+    "url": "https://preview.redd.it/y4u2mfrimga91.jpg?width=640&crop=smart&auto=webp&s=f66895d273bebfa531ec0a7a13b5ee617911356a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "A modern city",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vus805/a_modern_city/"
+}
