@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1657411200,
+    "full": 1657466167,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vvtmk0",
+  "picture": {
+    "filesize": 157993,
+    "fullUrl": "https://preview.redd.it/frbd0q4bcra91.jpg?auto=webp&s=d8c38d93da076a414ce0d3a1b24136856ac2a00b",
+    "hash": "b0fbb86ade",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIQUxQWESIiNRof/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGREAAwADAAAAAAAAAAAAAAAAAAEhAjFR/9oADAMBAAIRAxEAPwAdbeC2+Hj7UKhXDEKCzYO99c53rxWCTgTM5eCa5SM9FCFv3NHX/M3LiRrdTCgPpRQCcY2Tnxon712qNyhlZpFuUjLH3DDHY1nWu1S3ldQW4un/2Q==",
+    "url": "https://preview.redd.it/frbd0q4bcra91.jpg?width=640&crop=smart&auto=webp&s=c163cc791a27e96ac283241fb520e915e90f4db4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Riverside Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vvtmk0/riverside_camp/"
+}

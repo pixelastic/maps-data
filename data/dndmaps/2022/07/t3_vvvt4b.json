@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1657411200,
+    "full": 1657472407,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vvvt4b",
+  "picture": {
+    "filesize": 77741,
+    "fullUrl": "https://external-preview.redd.it/OPZedZlyGsEhWzJydRskdh1oc8njlDdPn4F2npIxPAI.jpg?auto=webp&s=16c05460eb1b387ace6168f9555405a462f41193",
+    "hash": "a9cb052f7b",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDEQAhMQQFEhMUYXHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIEMRH/2gAMAwEAAhEDEQA/AMXtKQdnddQlsLZd48zEm+cY+1c0YU44JU20lN5MkGQMUFhhIT2gKuiHBAm9/NNUnhpgUkyqZPqp1hpxiuaKtP/Z",
+    "url": "https://external-preview.redd.it/OPZedZlyGsEhWzJydRskdh1oc8njlDdPn4F2npIxPAI.jpg?width=640&crop=smart&auto=webp&s=d0a5b3e110ae3ee5b58f3627830ae0e329c957bb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Barbican",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vvvt4b/the_barbican_22x17/"
+}

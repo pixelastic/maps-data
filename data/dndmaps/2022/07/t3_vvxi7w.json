@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1657411200,
+    "full": 1657477070,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vvxi7w",
+  "picture": {
+    "filesize": 58672,
+    "fullUrl": "https://preview.redd.it/si0rj02o8sa91.jpg?auto=webp&s=daa1681df7970f20105237981e642e463afcefbb",
+    "hash": "00ff98735d",
+    "height": 762,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMEAAcAAAAAAAAAAAABAgQDBREABhMhFBUxMlGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Aor9uFtsx7fGt9pkCpUqoOYLyqC3bIGY5JbGNOXLeUmFFg1vJZjeJplypIRkYHBUg/X7oLatyvFVhBmwqNVIxXEuq2AwHphce4d96F3pDoG4rVtt4eOHB5FEhnGR8dnGlgR//2Q==",
+    "url": "https://preview.redd.it/si0rj02o8sa91.jpg?width=640&crop=smart&auto=webp&s=d4b9840e047888797c8f05919be3ee812dc24bbf",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Snowy Hills",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vvxi7w/snowy_hills_21x25/"
+}

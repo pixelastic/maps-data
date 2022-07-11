@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d7y0a6b0",
+    "name": "dreadmaps"
+  },
+  "date": {
+    "day": 1657411200,
+    "full": 1657464083,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vvswo2",
+  "picture": {
+    "filesize": 159292,
+    "fullUrl": "https://preview.redd.it/qigndglmnsa91.jpg?auto=webp&s=5efe390fa326a6c53bee84c06cc9715c315f0724",
+    "hash": "63c422ee73",
+    "height": 752,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEAEhMhBUFhFSIxUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMhEv/aAAwDAQACEQMRAD8Ax2IhbTMdCXU6XClKUBVAEUaPHnthn63en61O3tvaCa5sgnBHlsuoiJCBuNEOcrPYD2/Hj9ycyS36eYzDdq39xRBKr4r6FVgQrdbKDMgrw7P/2Q==",
+    "url": "https://preview.redd.it/qigndglmnsa91.jpg?width=640&crop=smart&auto=webp&s=84ca42a52a11fed3db7ee434705256bcd82b3487",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "House of the Undying",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vvswo2/battlemap_40x47_house_of_the_undying/"
+}
