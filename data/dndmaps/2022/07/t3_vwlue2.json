@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1657497600,
+    "full": 1657555216,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vwlue2",
+  "picture": {
+    "filesize": 52378,
+    "fullUrl": "https://external-preview.redd.it/xdCFIxjqcgrvHAH9rwooTSQB2caTxKOMaix5juqs7EQ.jpg?auto=webp&s=f6fb9776b4c147ea5d003bc3dbea7fede9e038d8",
+    "hash": "9853f76774",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACgQAAIAAwMNAAAAAAAAAAAAAAECAAMGBAURBxIhIzM0QWFygYKhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACAxL/2gAMAwEAAhEDEQA/AFFD2qnUWUqnWlCsxmBzi3ADlBrW57ts9PzZ7IwDTCwmHBS40YDDv6jPad3sdYihyl7Q+XyIznzqAxHctly1n//Z",
+    "url": "https://external-preview.redd.it/xdCFIxjqcgrvHAH9rwooTSQB2caTxKOMaix5juqs7EQ.jpg?width=640&crop=smart&auto=webp&s=e334e68c2891721e7abbb64e1c78031301fbd269",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Orc Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vwlue2/orc_camp_oc_battlemap/"
+}

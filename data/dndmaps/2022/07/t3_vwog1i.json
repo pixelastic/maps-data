@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_sndhp",
+    "name": "Xcution00"
+  },
+  "date": {
+    "day": 1657497600,
+    "full": 1657561808,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vwog1i",
+  "picture": {
+    "filesize": 124165,
+    "fullUrl": "https://preview.redd.it/9pltctci7za91.jpg?width=4096&format=pjpg&auto=webp&s=d0b7b208df0436a247747bd597fda80d815c44e8",
+    "hash": "ddf8e4fd19",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQQABRIhMZEGExSBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAQADAQAAAAAAAAAAAAAAAQIAAxEh/9oADAMBAAIRAxEAPwDM7Vt+Vn5KwqXRi3Is45LGAKoV5+tJSemIoZ8eP5csocsGABAUVfSu3XV2HjHahHIkxXHiUySlGPORzVLXbjoJIpcmP3m5SKwLHi9MzX+DxqDPafHHMxqAs65//9k=",
+    "url": "https://preview.redd.it/9pltctci7za91.jpg?width=640&crop=smart&auto=webp&s=c1093d287a4472032651a35a2fdb7a2b0e107d02",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lost Mine of Phandelver - Goblin Ambush & Cragmaw Hideout",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vwog1i/lost_mine_of_phandelver_goblin_ambush_cragmaw/"
+}
