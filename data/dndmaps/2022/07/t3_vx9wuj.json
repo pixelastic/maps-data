@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1657584000,
+    "full": 1657628523,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vx9wuj",
+  "picture": {
+    "filesize": 54237,
+    "fullUrl": "https://preview.redd.it/xosupzi0r4b91.jpg?width=4096&format=pjpg&auto=webp&s=8c70e709556e1aaa7cd29c938f39f58692a59832",
+    "hash": "a172ad4096",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAAFBhESIXETMTRRQbGy/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAcEQABBAMBAAAAAAAAAAAAAAACAAEDEQQVIfH/2gAMAwEAAhEDEQA/AD9zHDcm8Q2VtojMunpuFQGhG+xzz7e8zWzuOLbVPjOQcOvRTNSyoKcdA3JI1FJ7+zt8cUI3Txm+E/VSu+ejlH4oYMSMqduKg2cwWxd8X//Z",
+    "url": "https://preview.redd.it/xosupzi0r4b91.jpg?width=640&crop=smart&auto=webp&s=b5e9d961cfa0fd264cadb207ed80a7aa4addde0d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: lava landscape (46x26)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vx9wuj/battlemap_lava_landscape_46x26/"
+}

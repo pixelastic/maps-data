@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1657584000,
+    "full": 1657628940,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vxa1ex",
+  "picture": {
+    "filesize": 49746,
+    "fullUrl": "https://preview.redd.it/szp4s8c9s4b91.jpg?width=4096&format=pjpg&auto=webp&s=a02b8d511611d42979706d5c15a3ca03b6a19c19",
+    "hash": "ef0dc6169b",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAJBAAAgAEBQUBAAAAAAAAAAAAAQIABBEhAwUSFIExNDVBYbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHBEAAAYDAAAAAAAAAAAAAAAAAAECAwQRIWHB/9oADAMBAAIRAxEAPwDO+Btl0FQQ9iTS5vF/OtM7XKnVJdZfSVwioYgjTavvrXn5BzJd3zCCvjMk5/YNklSkhWBlt0tdH//Z",
+    "url": "https://preview.redd.it/szp4s8c9s4b91.jpg?width=640&crop=smart&auto=webp&s=a24fe8e983e792c74f73d7e6d7d82539c92e1830",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battlemap: lava bridge(46x26)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vxa1ex/battlemap_lava_bridge46x26/"
+}
