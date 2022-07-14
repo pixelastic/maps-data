@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1657670400,
+    "full": 1657707760,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vxzvdn",
+  "picture": {
+    "filesize": 178121,
+    "fullUrl": "https://preview.redd.it/lr6rrrqmabb91.jpg?auto=webp&s=af31c33092aa477864b838153ba751c7446e6991",
+    "hash": "42b24675a4",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDBAAFESESMUJhYoGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgARIQP/2gAMAwEAAhEDEQA/AMysMKVLtjjoUSOPFAKe/X73R6Yw+qSsnO/j6pbbI2IbaQ+EYGEpWNkY2e9VKn2ouzHViQ9gnxGR9VUvTTZgZGoZP//Z",
+    "url": "https://preview.redd.it/lr6rrrqmabb91.jpg?width=640&crop=smart&auto=webp&s=10df0e22a19cd6a020f62dc62184747b3aa44aa3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 489,
+    "value": 489
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Enter the Underdark - Battle Map (30x45)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vxzvdn/enter_the_underdark_battle_map_30x45/"
+}
