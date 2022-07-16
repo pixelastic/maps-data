@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3c9z46g4",
+    "name": "GoAdventureMapsEx"
+  },
+  "date": {
+    "day": 1657843200,
+    "full": 1657869130,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vzief2",
+  "picture": {
+    "filesize": 153664,
+    "fullUrl": "https://preview.redd.it/rk4oed5ylob91.jpg?auto=webp&s=01a241f576506210b9e53dd27970157b22e9d541",
+    "hash": "1f7309e2be",
+    "height": 747,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAKBAAAgEDAgQGAwAAAAAAAAAAAQIDBBEhAAUSIzFBBhQVMkJRYWKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQADAAIDAAAAAAAAAAAAAAABAhEAIQMSof/aAAwDAQACEQMRAD8AzqihgRJgah3ctdlaJrQixwWF7HPT8ap6LzmqaTcuOGT2/FV/Ugnr9YGNE2rxRLt+2VlJ5UTrMZGMzXNyxuHuO9sZxotIZhSgTxct24gHUntjp/dGLYcibh6gurGmDU81n//Z",
+    "url": "https://preview.redd.it/rk4oed5ylob91.jpg?width=640&crop=smart&auto=webp&s=7280fffd2fdf133f8d3adfafed41045a8cc4ebf3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Secret Laboratory",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vzief2/secret_laboratory_30x35/"
+}

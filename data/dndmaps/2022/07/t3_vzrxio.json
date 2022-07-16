@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2tdgwhns",
+    "name": "TheAkosombo"
+  },
+  "date": {
+    "day": 1657843200,
+    "full": 1657900154,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vzrxio",
+  "picture": {
+    "filesize": 73400,
+    "fullUrl": "https://preview.redd.it/ft6ghv2t6rb91.jpg?auto=webp&s=5bc28e218c07f9f9e02e54cc877c155873b0f732",
+    "hash": "e13c3c881c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQMCBBEABRIhMSNBYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDEiET/9oADAMBAAIRAxEAPwDM7PfFFcuFai5nHl66ecogjBAwcjzody2x1VE7baQUiYEYgSOIGXYIPv0D5+dT1rE02lNWBF0MSiwZEh+aGxftXXSlcex57OGSJAP1oY/TZV5JXaagHZ//2Q==",
+    "url": "https://preview.redd.it/ft6ghv2t6rb91.jpg?width=640&crop=smart&auto=webp&s=e07f19a165601d98559935224f3bcf3d90a5cd16",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Map for the campaign i am currently running",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vzrxio/map_for_the_campaign_i_am_currently_running/"
+}

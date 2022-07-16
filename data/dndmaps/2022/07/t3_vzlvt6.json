@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1657843200,
+    "full": 1657882824,
+    "month": 1656633600,
+    "week": 1657411200
+  },
+  "id": "t3_vzlvt6",
+  "picture": {
+    "filesize": 162541,
+    "fullUrl": "https://external-preview.redd.it/CFFTnY7SktB62C_1eo2QCQr6kVkSLz1uV7yG7lZJ_pM.jpg?auto=webp&s=aa79ff59642b4c4505971acd90514dbaba04f0fb",
+    "hash": "6e2a3a4c50",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAQIEBAcAAAAAAAAAAAAAAQIDAAQGEgURIbETFRZSU5GS/8QAFQEBAQAAAAAAAAAAAAAAAAAABAb/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIDE0GB/9oADAMBAAIRAxEAPwCFMUqE04+0/LXOui5KnDlbpplvGH0TM90t7hQqs8On6cJJc4iWkhRbUQoKA20gNzxHlf8AkxP05FUjtbYhUOvJ/9k=",
+    "url": "https://external-preview.redd.it/CFFTnY7SktB62C_1eo2QCQr6kVkSLz1uV7yG7lZJ_pM.jpg?width=640&crop=smart&auto=webp&s=c7a12c4980a1ac507dedf1d644c4406d3d55ce0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "\"Orc Tents\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/vzlvt6/orc_tents_oc_battlemap/"
+}
