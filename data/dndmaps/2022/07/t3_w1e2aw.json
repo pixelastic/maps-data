@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ektg7b5d",
+    "name": "de-Zigner"
+  },
+  "date": {
+    "day": 1658016000,
+    "full": 1658082935,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w1e2aw",
+  "picture": {
+    "filesize": 140637,
+    "fullUrl": "https://preview.redd.it/u65kp8lba6c91.jpg?auto=webp&s=e76e8ed6281b3407fc52ba0e5302009edc68813c",
+    "hash": "8153ddb085",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACUQAAICAQQBAwUAAAAAAAAAAAECAwQRAAUSMSEGIiMyUVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHhEAAAYCAwAAAAAAAAAAAAAAAAECERIxA0EiUcH/2gAMAwEAAhEDEQA/AML6fqU7Udx71cSWJa4ZFCYw2exg/YZ60dxobcakJao8UiV35qGCHnyHE+4+R56x0e9LgtHb5pJ4NwhkZQKyyOcFlC+GA/HsanvXEuYubnMltI/hEcLhXC4/X09fzUaGQ8k343u2puvQ2SSS2x//2Q==",
+    "url": "https://preview.redd.it/u65kp8lba6c91.jpg?width=640&crop=smart&auto=webp&s=75cfd3d9317f7ff28170bf62bb8e7ed2a50ae272",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Battle for the Gate map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w1e2aw/battle_for_the_gate_map_20x20/"
+}

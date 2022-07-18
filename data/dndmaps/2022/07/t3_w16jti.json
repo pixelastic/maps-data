@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4ie2smfu",
+    "name": "EightfoldPaper"
+  },
+  "date": {
+    "day": 1658016000,
+    "full": 1658061647,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w16jti",
+  "picture": {
+    "filesize": 119031,
+    "fullUrl": "https://preview.redd.it/a0xlc26yh4c91.jpg?auto=webp&s=ec217951a46ed7af30ba652f3a4baa81d0d988c9",
+    "hash": "e63ea5b527",
+    "height": 1056,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIRAAMSIQQTQWGi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEUH/2gAMAwEAAhEDEQA/AMbwayrE3AqdcGBGQmd+9CkDhlgG7QJ3GA19Vepb3DCwDbUmMdCQN0ApypOKJj42KGxV4X//2Q==",
+    "url": "https://preview.redd.it/a0xlc26yh4c91.jpg?width=640&crop=smart&auto=webp&s=5215e4e467b4093d707f123207748ef1f55e47ed",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Church’s Hidden Crypt",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w16jti/churchs_hidden_crypt_part_04_33x20/"
+}

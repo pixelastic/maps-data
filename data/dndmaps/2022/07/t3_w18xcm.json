@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21v10kpq",
+    "name": "fantasymaps"
+  },
+  "date": {
+    "day": 1658016000,
+    "full": 1658068896,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w18xcm",
+  "picture": {
+    "filesize": 41238,
+    "fullUrl": "https://preview.redd.it/laxbck2k45c91.jpg?auto=webp&s=1f4757a850a8c11c17422ed39f7357999e4871d2",
+    "hash": "ed4dbe7a1c",
+    "height": 464,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFCP/EAB8QAAIBBAMBAQAAAAAAAAAAAAEDAgAEBRETIVESIv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAQUBAAAAAAAAAAAAAAAAEgABAhEhA//aAAwDAQACEQMRAD8Azlg8Ut6ue5/UD0IijzeJQq2L7YGHwdTEj0fNVIt716IGK56j5TRuHXyTzskREgaBoxkV3ioafMBHV//Z",
+    "url": "https://preview.redd.it/laxbck2k45c91.jpg?width=640&crop=smart&auto=webp&s=9072f1afea2acfec85cdd56953509d42d76bad2d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lava Arena",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w18xcm/lava_arena_51x37/"
+}
