@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1658102400,
+    "full": 1658162135,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w23sm3",
+  "picture": {
+    "filesize": 53885,
+    "fullUrl": "https://preview.redd.it/fiptb0oqtcc91.jpg?width=4096&format=pjpg&auto=webp&s=4431644204f7a33e186411759f55b9cf308672c7",
+    "hash": "f1c403593b",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwEE/8QAJBAAAgEBBgcAAAAAAAAAAAAAAQMCAAQGEiExMwVhcXN1sbL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAECEQD/2gAMAwEAAhEDEQA/AAE2NhYwxhM4QTMwWcIA1OmlRkHNWXBEws5YoQJHPM9Kc7sbnB/Ht+p1mv3vq7J9CiKwXXqwZgJv/9k=",
+    "url": "https://preview.redd.it/fiptb0oqtcc91.jpg?width=640&crop=smart&auto=webp&s=a2bd0cc590eb0cf87c3470288a0c378112dce49f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hellish random encounter: gates of the sanctum -bleeding citadel (46x26)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w23sm3/hellish_random_encounter_gates_of_the_sanctum/"
+}
