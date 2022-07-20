@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658244985,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2vnk7",
+  "picture": {
+    "filesize": 99607,
+    "fullUrl": "https://preview.redd.it/c0ayc0vknjc91.jpg?auto=webp&s=06e7debfe1c350794461fa3213dbc0ca29a484cc",
+    "hash": "b4bb689272",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIRAwQSAAUhExQxQWGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAABMf/aAAwDAQACEQMRAD8Ayfadpa7tanS7eiyUC5CKpWSRBJE+lM+pj7oHd7ZFuhjStsWQMIKgkHmSJ86vtVxRrWSK110wExYGtgpmCYHmZHvjgRovfHuHvi9NazBlByZci30kcfnGnpJr/9k=",
+    "url": "https://preview.redd.it/c0ayc0vknjc91.jpg?width=640&crop=smart&auto=webp&s=69bf4af9746b83c1dc004daf281fbcf4e1791115",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Expedition to the Dwarven Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w2vnk7/expedition_to_the_dwarven_ruins_32x44/"
+}

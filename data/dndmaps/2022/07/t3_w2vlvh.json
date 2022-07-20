@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658244859,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2vlvh",
+  "picture": {
+    "filesize": 440804,
+    "fullUrl": "https://preview.redd.it/hki01y9qnjc91.png?width=1440&format=png&auto=webp&s=a6b37d758c975224348bdcab8838671351251861",
+    "hash": "e131c3b815",
+    "height": 480,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAIAAADkharWAAAACXBIWXMAAAsTAAALEwEAmpwYAAABvklEQVQokU1S2XLaQBDUC5JmVgjrIEHGoAMkdIAW7WqREJcr+CGJAccu5/9/JRG4nFTNQ1dP9Vw9koZIAFEFBCCIGpJrtABbXr3if7xEEHtd3bJswzC6RPtMEADDNL84A4L4fyGJAAbTsBAlZcxx7q8lCQFARRl5flaudKKhohL11h8lDXASJd+P7HHPneFIlWXTtPw4HnveLM2SBfV93w3DoesSaJtIht5NsvTxUG62wvOndwTSmc8Px2bL6zpP83zfZGyzF001HhhqR5bYIqxWeUbZYllkOU0XaVnxot7yuloKkZcrVollvWFVtRSrIGESp+G6oillc1rMaRHPk7JmxXpXVBXlfM4F/xAIKlZByiVdI1ESHw5isy39SaQTiCOP7Y5Vw5o1TRa3kXaiqceOoXQ6EgHwJuGPp+LbgT2M/XZpwwqyzA0mcZrFczqNIn82G/mBBoQgkVRZHrnukrO8KL4OBmpHBhVAUaAjP7huvm6MXg9kBVX48MG27L5tO44zvB/27b5tmn3L7uk6AbwzDGc8up2/NecmuJzPp+fTy+Xy9uv15Xw5/Xz+/f4eTUNVVggiKu1rfGr++vAHO2pFKQO1DNMAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/hki01y9qnjc91.png?width=640&crop=smart&auto=webp&s=761bce5c5c159164c6b42462f1611a3712c0a023",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Crypts | Phased Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w2vlvh/crypts_phased_map/"
+}

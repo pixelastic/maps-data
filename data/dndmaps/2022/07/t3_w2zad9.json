@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658254169,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2zad9",
+  "picture": {
+    "filesize": 247417,
+    "fullUrl": "https://preview.redd.it/4myl8w0gfkc91.jpg?auto=webp&s=595299cb3a515f642db581ce9b79a70256128353",
+    "hash": "52c805ef19",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAG/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDEQQhABIxQVFSYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHhEAAQMFAQEAAAAAAAAAAAAAEQISIQABMUFhMlH/2gAMAwEAAhEDEQA/AM3iwZ875LYqiURAdg7AV/Ad2deOWPOEQo7iJlYgrdG792bvhwz5cSZy44QJqwoIIJ9/N7HjXBhXsnbuFv7KLP7s8NVZUvAgDPTqh3Iv4Lt/OYnFf//Z",
+    "url": "https://preview.redd.it/4myl8w0gfkc91.jpg?width=640&crop=smart&auto=webp&s=28ff286c5c5c03984e187d6b5cf8583daaaa8bba",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Emerald Glen, A Feywild battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w2zad9/24x32_the_emerald_glen_a_feywild_battlemap/"
+}

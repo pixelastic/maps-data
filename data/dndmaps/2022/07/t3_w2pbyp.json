@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1658188800,
+    "full": 1658226163,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w2pbyp",
+  "picture": {
+    "filesize": 39862,
+    "fullUrl": "https://preview.redd.it/q8u997f44ic91.jpg?width=4096&format=pjpg&auto=webp&s=8c71edea03bae3c0cee110f2d7c4e88ef753564c",
+    "hash": "91d945efea",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEI/8QAIRAAAQQCAAcAAAAAAAAAAAAAAQACAxEEEjE0UXJzkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEWH/2gAMAwEAAhEDEQA/AM8sMbr1a4Gqq7PpFDuyIl4JPwdbSYfOjuKsfDJ8YRpQo0//2Q==",
+    "url": "https://preview.redd.it/q8u997f44ic91.jpg?width=640&crop=smart&auto=webp&s=3b82bb8022d7196fc1ab0dea5d478086ec245c44",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hellish random encounter: ancient battlefield of the blood war-1 (46x26)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w2pbyp/hellish_random_encounter_ancient_battlefield_of/"
+}
