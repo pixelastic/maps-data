@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1uk2cp4b",
+    "name": "Nuggalodon"
+  },
+  "date": {
+    "day": 1658275200,
+    "full": 1658322052,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w3lrf8",
+  "picture": {
+    "filesize": 102949,
+    "fullUrl": "https://preview.redd.it/98zb4u6xzpc91.jpg?auto=webp&s=742fb78d0299be7b986ed48d61f073ff4e637bdb",
+    "hash": "0a245d1612",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAB/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAARBRITIVEGIjFBYYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEBAAMBAAAAAAAAAAAAAAABAgARIUH/2gAMAwEAAhEDEQA/AMj4I0mDEDrLbK9TTLvbkKDfcj49H7NXU2FswnwzHcbfAYVIKkoSkosQLKKeRY06QwznweMpptSA0Tdacx8Hnb8oXV0NEaPC0XHE5lEGxA44G/n3VbFNFjw8wRA1ruf/2Q==",
+    "url": "https://preview.redd.it/98zb4u6xzpc91.jpg?width=640&crop=smart&auto=webp&s=8559c043904ec247f5ef8be377569292661b5dae",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "First Foothold in The Frozen Forest. Lil' map I made for my BF's campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w3lrf8/oc_first_foothold_in_the_frozen_forest_lil_map_i/"
+}

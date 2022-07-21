@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1658275200,
+    "full": 1658340990,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w3tdv0",
+  "picture": {
+    "filesize": 124412,
+    "fullUrl": "https://preview.redd.it/57yn5oumlrc91.jpg?auto=webp&s=3f51a55d5116162a576a80cabb276fe1b4e6bc90",
+    "hash": "dfab68a6d4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAIBBAICAwAAAAAAAAAAAAEDAgAEESESEyJBMXGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQJB/9oADAMBAAIRAxEAPwDEzZ27lxY1rDOIGTIEka9E5pa9tFJXI9ZhEfHHYkD73+1QXJLkQ4tjBnGIPnrOKC2Q62Q8TgHAEs5191O1oTWH/9k=",
+    "url": "https://preview.redd.it/57yn5oumlrc91.jpg?width=640&crop=smart&auto=webp&s=c7b3d0265e5d2ee985744e70d22683d611fde5bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hull in the Marsh",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w3tdv0/hull_in_the_marsh/"
+}
