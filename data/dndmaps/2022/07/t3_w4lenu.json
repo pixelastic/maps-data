@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1658361600,
+    "full": 1658421912,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w4lenu",
+  "picture": {
+    "filesize": 98964,
+    "fullUrl": "https://external-preview.redd.it/EpClR0hbbFhVjROFgoxaY_oKQURQT_sOkVgrdrEnbPo.jpg?auto=webp&s=5b743154a1b77d0eef10ffeec27afabcd9a817c9",
+    "hash": "1363d1e505",
+    "height": 983,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEB//EACEQAAIBBAAHAAAAAAAAAAAAAAECAwAEESESFDEyM3HR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAIBBQEAAAAAAAAAAAAAAAERAAIEISOR4f/aAAwDAQACEQMRAD8Ax62Uq1gXjQFwxYKN7qaWwcyvp+49MU0l+kzLJHbO5TOBxYHug19IzE8nMMnPjX5R25sKMmm0OGeez//Z",
+    "url": "https://external-preview.redd.it/EpClR0hbbFhVjROFgoxaY_oKQURQT_sOkVgrdrEnbPo.jpg?width=640&crop=smart&auto=webp&s=e20d4507564623b9bdcda06e3da3aa0c50c8d4ba",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "You don't remember this river being made of lava the last time you passed!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w4lenu/you_dont_remember_this_river_being_made_of_lava/"
+}

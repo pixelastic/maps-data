@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1658361600,
+    "full": 1658404816,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w4ewf3",
+  "picture": {
+    "filesize": 105971,
+    "fullUrl": "https://external-preview.redd.it/VCMkYnEtRZF7f8IM8Tw6x5eQCbHnk-gZI1ON69-9Pzk.jpg?auto=webp&s=7e625532650a852588b37f35f7bbcca91abe9fcc",
+    "hash": "7da49a0bda",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMG/8QAJRAAAQMCBgEFAAAAAAAAAAAAAQIDBAURAAYSEyFBYSMxcYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAWEQADAAAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AMrlWgrqU/elPSNAcs0kN7dik2ue78fHjFM15fcpT0aUy+8WnF+s2UhQGo2unu/Pkc4MtVuRTn5MMNuLSpwll5J3RqPSj7g/hwZgqz9RVFhIZcSlC9by1L2wbG5Sg9kc/QxPrFQ//9k=",
+    "url": "https://external-preview.redd.it/VCMkYnEtRZF7f8IM8Tw6x5eQCbHnk-gZI1ON69-9Pzk.jpg?width=640&crop=smart&auto=webp&s=dcf27b08dec3bcd4b7dcd20268be9cad26d88bda",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 131,
+    "value": 131
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Sewer heart",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w4ewf3/sewer_heart_48x48_140dpi_oc_battlemap/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1658361600,
+    "full": 1658404817,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w4ewff",
+  "picture": {
+    "filesize": 48739,
+    "fullUrl": "https://external-preview.redd.it/C6UjU5xsKmwx0MBlApTcYAO9xPB5VqfBeOqcHVJe2TI.jpg?auto=webp&s=cf8978bcf9a7cac0fc2c7f45b70a219817b817ed",
+    "hash": "876f6fff97",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQFETESISIzNFFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAhESAyEEBdH/2gAMAwEAAhEDEQA/ABeKe0gSCWLIRPE7rIysGHBodiDuaz89fQSSuMc4it0PQi8gPZFHrLxj9q0HbloxvGbaSZS2TsctKt1JnRPq/9k=",
+    "url": "https://external-preview.redd.it/C6UjU5xsKmwx0MBlApTcYAO9xPB5VqfBeOqcHVJe2TI.jpg?width=640&crop=smart&auto=webp&s=4b2fbc511181b1bded3b6157173361186aa78884",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Empty Lava Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w4ewff/empty_lava_map_oc_battlemap/"
+}
