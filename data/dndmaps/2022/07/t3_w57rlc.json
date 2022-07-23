@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1658448000,
+    "full": 1658487670,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w57rlc",
+  "picture": {
+    "filesize": 24506,
+    "fullUrl": "https://external-preview.redd.it/4_QgVCi5gGSwWYgnXaJE9mAN5Oa4pMfht7z1GfZRbZw.jpg?auto=webp&s=6f0f514493ce0c6e6715ca7d993032579395c22a",
+    "hash": "5f14e6cd3b",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAECBAQHAAAAAAAAAAAAAAECBAADBREGBzFyEiE1QVHB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEAAwAAAAAAAAAAAAAAAAABABEi/9oADAMBAAIRAxEAPwDC8saVNqTp4qXKlTESUgrC7aG47wzzBo5pdASkt0gJc8KXCSLL5eIj8O6Odo9wfiHobff9gJq4xzU//9k=",
+    "url": "https://external-preview.redd.it/4_QgVCi5gGSwWYgnXaJE9mAN5Oa4pMfht7z1GfZRbZw.jpg?width=640&crop=smart&auto=webp&s=2e275862d4802ac1b11edef880885599068dfc90",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "\"Western Saloon\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w57rlc/western_saloon_oc_battlemap/"
+}

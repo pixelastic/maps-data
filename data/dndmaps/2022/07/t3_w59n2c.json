@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1658448000,
+    "full": 1658493670,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w59n2c",
+  "picture": {
+    "filesize": 239621,
+    "fullUrl": "https://preview.redd.it/biqy3zoc74d91.jpg?auto=webp&s=9062a93784f5c800605424ea6b02f80752d43e0e",
+    "hash": "61d9b4148d",
+    "height": 1180,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQFERYhlNEGQVRVof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAMSMf/aAAwDAQACEQMRAD8AyT5/ORW6wz5qSYxjQDoraOugHuahy/1D9mO3HmiJrmzt1iW6v4mWeQlVjIdSwBOydbA6ftCcjxfyJO3bzQ7ZDhGl/9k=",
+    "url": "https://preview.redd.it/biqy3zoc74d91.jpg?width=640&crop=smart&auto=webp&s=6936c8037d322c5596ce5ffadec24d48461e9d0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Garden of the Goddess",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w59n2c/garden_of_the_goddess_48x48/"
+}

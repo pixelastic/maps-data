@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1658448000,
+    "full": 1658460147,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w500kh",
+  "picture": {
+    "filesize": 378227,
+    "fullUrl": "https://preview.redd.it/fg73q76xf1d91.png?auto=webp&s=719607b4229529c875911737842c4422edd6f067",
+    "hash": "a5c616568f",
+    "height": 480,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAIAAADkharWAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB+0lEQVQokSWQ22+aYBjGX1BLjcpB8XxAFEEUQfgE/ABFREXruqRdV7Om7bakW9K7Xe1qf/xivX5OvzwAJAcES2Vr2VwdCDZzVUlflYFggWAJkqWylWZDqtZ6ZIoDoIFkAUiOILnJ1DOmfpHvZXP1Ylkh0/x1tiIIQ6mvuwivglCWtEF/mL7iAYCp1OTxBBeYVrkqtwUNubFuLbEfG5oT4uDn0/2f9+cI+wFCnY4MZLokq06RF4kUW2+N8nRLUR1FC+LdZx+vjuvw99v3u8eXJIrNsVGtikCmigPF7ohGo6mW+D4A0x9YkurZ3vbh6/0m3v37++vHy7ckisXuCIABMsUV6NYUhXNvQzNtAIZmO4OhraINckLPj45Jso8iXbVKvHAOuLaZy9XrjaGJloI4ufxjz7C/Omgo0nUsy2atJtFM8/wnyYHnO94c5/P1gWK5OBrIVlfUg2CdHG6n/o3QMymKP7ecYT4Cy8BPNkvb9b6cTlF8GI/snjTtSchCCwsn6mxLcyIAQ1zcJAfOHO23i1XoufM5yzaBYBst1TAXM3u5jvfSyGv2Zhmqcl74oAXDM7fL+fvbw+vrnSLrmUypxPfbgqZpju1GNNsp8lJHtCq1IXVdzVBliEK82+LH0/Hp+ZMX2GJXuRCn06WzDIVmS0X2yl/cGuZCGc7+A280VM38mi9TAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/fg73q76xf1d91.png?width=640&crop=smart&auto=webp&s=bbdd63ab5002984cc8881df3d20b1572aa4fdb88",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Cockatrice Nest",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w500kh/cockatrice_nest/"
+}
