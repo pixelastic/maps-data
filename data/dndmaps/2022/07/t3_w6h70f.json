@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1ug593b3",
+    "name": "DmAl85"
+  },
+  "date": {
+    "day": 1658534400,
+    "full": 1658618687,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w6h70f",
+  "picture": {
+    "filesize": 79414,
+    "fullUrl": "https://preview.redd.it/uoh8p45ejed91.jpg?width=2048&format=pjpg&auto=webp&s=0f97c2ec961dfc0cf0e3eac23fd83b19ee1fe525",
+    "hash": "77e3e52121",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQREgUhEzEiUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIDMf/aAAwDAQACEQMRAD8AzW0ivGSRknVYI2PiJIBkZiRlj+VGBruzuGHL+M2+uBIxyNjjHQ99CgIb2eCERQ6iMNuAy5O33SXDXwkv2fkWExI+BmOQpz3gHr1SOZDcnGgsl2f/2Q==",
+    "url": "https://preview.redd.it/uoh8p45ejed91.jpg?width=640&crop=smart&auto=webp&s=65b84e68fded572c4ca627a1dba117e4ab6c5b3c",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.6,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lighthouse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w6h70f/lighthouse/"
+}

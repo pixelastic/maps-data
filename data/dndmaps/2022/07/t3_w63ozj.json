@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1658534400,
+    "full": 1658581852,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w63ozj",
+  "picture": {
+    "filesize": 93186,
+    "fullUrl": "https://preview.redd.it/5bwghhndhbd91.jpg?width=2100&format=pjpg&auto=webp&s=9233362d87baac5e19d76f16508c31a1b9d04f1f",
+    "hash": "ad065ee292",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACMQAAICAQMDBQAAAAAAAAAAAAECAxEhAAQSEzFRFCIygZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8AwQhZ4NuMmeqd5WsHz3+tRmVFjlRowGo4r4+NPttxGnS6hSgPcCRd0M/mjK6SeoWF2401KhB5Y7YzqJXX/9k=",
+    "url": "https://preview.redd.it/5bwghhndhbd91.jpg?width=640&crop=smart&auto=webp&s=c34baa115ed42a4010f1fc8f4ee10e191ddf031a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dark Root Cavern and Marsh Shipwreck. Maps from our latest Adventure (Free PDF Link in comments)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w63ozj/dark_root_cavern_and_marsh_shipwreck_maps_from/"
+}

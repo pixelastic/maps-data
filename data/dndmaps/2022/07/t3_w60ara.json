@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1658534400,
+    "full": 1658570083,
+    "month": 1656633600,
+    "week": 1658016000
+  },
+  "id": "t3_w60ara",
+  "picture": {
+    "filesize": 116089,
+    "fullUrl": "https://preview.redd.it/vqtu3ajuiad91.jpg?auto=webp&s=05228e2da9a8237dde65b3ae9639f6661059fba0",
+    "hash": "ddab680d09",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDAAQRBRIhcTEGE0FRsf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADITFB/9oADAMBAAIRAxEAPwAywsLeOMPbw+yoHI3ZDHvHfFZr2OBYQZZFaXlEQ4YDIJAb4Hii/TOpTX0SyXAjLKABhfvz+VTWYt0roXfbkkAYGCR1RWUoAV7Bqd2yNT//2Q==",
+    "url": "https://preview.redd.it/vqtu3ajuiad91.jpg?width=640&crop=smart&auto=webp&s=0561cc5c41c5b78636a2422854eaf36b60fa8f16",
+    "width": 640
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 1025,
+    "value": 1025
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The city of Crosa, where the wealthy can go on Vacation or Retire",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w60ara/the_city_of_crosa_where_the_wealthy_can_go_on/"
+}
