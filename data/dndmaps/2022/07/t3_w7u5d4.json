@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1658707200,
+    "full": 1658768427,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w7u5d4",
+  "picture": {
+    "filesize": 77352,
+    "fullUrl": "https://external-preview.redd.it/Dz1T43g7e3mJZFscVwV2_lcEwmKHk783EHzNYBXV5aU.jpg?auto=webp&s=dc27b526b0c3f1d95f87642366297c8d7ce10b6c",
+    "hash": "30f9201b56",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIDAAQRITEFEhRhMkGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIEEiFB/9oADAMBAAIRAxEAPwDKeHCLZI4p+oS4BV1Ea/uuKK0tIOwm2uupRSo+M4XBGNjfv3VMRKJ2Iz8sDfFIsKIZEVR26PH3Up2orWIzcl0//9k=",
+    "url": "https://external-preview.redd.it/Dz1T43g7e3mJZFscVwV2_lcEwmKHk783EHzNYBXV5aU.jpg?width=640&crop=smart&auto=webp&s=d4fe46ba18053da58c837290d27914cb98753cd4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Into the Wilds - Battlements",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w7u5d4/into_the_wilds_battlements_22x17/"
+}
