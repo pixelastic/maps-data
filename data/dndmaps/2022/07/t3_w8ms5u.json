@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_o7lm1w7i",
+    "name": "Maplocks"
+  },
+  "date": {
+    "day": 1658793600,
+    "full": 1658849555,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w8ms5u",
+  "picture": {
+    "filesize": 94040,
+    "fullUrl": "https://preview.redd.it/wtopi0dllxd91.jpg?auto=webp&s=2b06c65048307c66b9fa8394f69ae9f35125332b",
+    "hash": "2b21d7eb07",
+    "height": 596,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAiEAACAgEEAQUAAAAAAAAAAAABAgMRBAAFEiExEzJBUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBv/EABoRAAICAwAAAAAAAAAAAAAAAAABAhESIjH/2gAMAwEAAhEDEQA/ADgwjhnNG5QAmSNpI45Y+SRq3tojz12Bod+2zD3Tb3jx8TKDxKGEoIa6UWDRo1fgfGpgnkaOGYuxCoVMak81voHk31Vj81cXcAdlibhJ60DmXi0xphVEVVWe+9TLUcdei3Fo/9k=",
+    "url": "https://preview.redd.it/wtopi0dllxd91.jpg?width=640&crop=smart&auto=webp&s=2b57263cc58ac0005ebcd79c6f0436d53712dde6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Army Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w8ms5u/the_army_camp/"
+}

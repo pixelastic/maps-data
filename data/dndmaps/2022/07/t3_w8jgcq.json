@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1658793600,
+    "full": 1658841103,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w8jgcq",
+  "picture": {
+    "filesize": 171499,
+    "fullUrl": "https://preview.redd.it/rum0arkhvwd91.jpg?width=2100&format=pjpg&auto=webp&s=4db02df9f252da1ee998e2c6238e06fb134f4f6c",
+    "hash": "ca1ad942d3",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACEQAAICAQQCAwAAAAAAAAAAAAECAxEEAAUSEyExMnGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIhEf/aAAwDAQACEQMRAD8AzfEjbDc8JemKIxyKFNWC1AjVPK2WbdMmXIRZMkBinasXLlXi9LZMJyvnKjQ5EUamVTfNF8WBV+qH2NFNyMNqc8QEksVMhH7Q1Hezwauw8HZ//9k=",
+    "url": "https://preview.redd.it/rum0arkhvwd91.jpg?width=640&crop=smart&auto=webp&s=a62e4d5895df409a150eae80a00f88e1280d9302",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Forgotten Temple + Crypt",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w8jgcq/free_forgotten_temple_crypt_30x40/"
+}
