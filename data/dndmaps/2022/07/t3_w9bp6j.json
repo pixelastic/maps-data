@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1658880000,
+    "full": 1658919644,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w9bp6j",
+  "picture": {
+    "filesize": 50223,
+    "fullUrl": "https://external-preview.redd.it/X4gRy1hke-rMf9OCrXUZPig-H1CooHssgr9TQDQ1b1M.jpg?auto=webp&s=850c11e7d240c88c6340cfec46f405e87b85007e",
+    "hash": "4e7a2d9ee2",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJRAAAQMDAAsAAAAAAAAAAAAAAgEDBAAFESEiIzQ1QWFxcoHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQEBAAMBAAAAAAAAAAAAAAABAgADESH/2gAMAwEAAhEDEQA/AMfaDjsWxWnoW0ENUlRFQumn3RZVsZbhCZKyYlgSw3nC88/aAxvDXitWoHCX+5VHrdUjM+de4uwBHP/Z",
+    "url": "https://external-preview.redd.it/X4gRy1hke-rMf9OCrXUZPig-H1CooHssgr9TQDQ1b1M.jpg?width=640&crop=smart&auto=webp&s=c2db3443853fab19e46aa99802d8845036251dc1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "\"The loner's cabin\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w9bp6j/the_loners_cabin_oc_battlemap/"
+}

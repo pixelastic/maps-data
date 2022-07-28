@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_erb4ug7d",
+    "name": "WF_Tendo"
+  },
+  "date": {
+    "day": 1658880000,
+    "full": 1658893577,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w946cz",
+  "picture": {
+    "filesize": 61358,
+    "fullUrl": "https://preview.redd.it/p0g75l4k81e91.jpg?width=8192&format=pjpg&auto=webp&s=929e8431fa7c12c641bc7a5cddb76d04159a0bab",
+    "hash": "858751df26",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACAQAAICAQQDAQAAAAAAAAAAAAECAxEEABIhUQUxQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQADERIhIv/aAAwDAQACEQMRAD8AxnJwMfxwheLybzNLHuZIlDbWsggg+u+edDNCJdy2ENgqw+HUrFkd0vdVyAUABV9detMYUzy5AhkYsm+rvmv3SNBwEVdh1nrvMyf/2Q==",
+    "url": "https://preview.redd.it/p0g75l4k81e91.jpg?width=640&crop=smart&auto=webp&s=02ae458fb1dada9c8f43730abbb3048206508985",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Updated Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w946cz/updated_map/"
+}

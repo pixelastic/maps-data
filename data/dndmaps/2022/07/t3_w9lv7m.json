@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ctjt46on",
+    "name": "CaseCartography"
+  },
+  "date": {
+    "day": 1658880000,
+    "full": 1658945754,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_w9lv7m",
+  "picture": {
+    "filesize": 81833,
+    "fullUrl": "https://preview.redd.it/u5s9twivj5e91.jpg?auto=webp&s=6e96ca49b39573ef7a3387c6f7f4e6bed9934fa0",
+    "hash": "a962ba0225",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAgEAACAgEEAwEAAAAAAAAAAAABAgMEEQAFEiETMXHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AL1vGRLAHAWMIvAAYz0MnP3S9mqVvDdspMZZpFPNCoAQ4z6/dBs7jJZqPBLHEVjjDK2DkED7olO5JHa5KEy0Lg9e+hoP/9k=",
+    "url": "https://preview.redd.it/u5s9twivj5e91.jpg?width=640&crop=smart&auto=webp&s=f25dbaa85aa56067a1bbd6b76bdafe80049106a9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "How's my first city map?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/w9lv7m/hows_my_first_city_map/"
+}
