@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1659052800,
+    "full": 1659078612,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_way1ni",
+  "picture": {
+    "filesize": 102081,
+    "fullUrl": "https://preview.redd.it/qs8kyvyyige91.jpg?auto=webp&s=2dabab007abaae0cd7c6ca2c56a5f3d5d596aed1",
+    "hash": "3134b4fcc7",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQAEISISEzFBUbHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQADAAAAAAAAAAAAAAAAAAAAETH/2gAMAwEAAhEDEQA/AMDWMog4nuUKLbfeMNOIpJ01E0VMlg1ZJ9V8HJLiPTzVPuwChbsN4wj1O4IPKMVv7I/cKkSdP//Z",
+    "url": "https://preview.redd.it/qs8kyvyyige91.jpg?width=640&crop=smart&auto=webp&s=22973fcc6310c7ff373c078eb9c98723dbd87164",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Jungle Path Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/way1ni/jungle_path_battle_map_30x30/"
+}

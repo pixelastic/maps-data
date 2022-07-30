@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1659052800,
+    "full": 1659126627,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_wbex7n",
+  "picture": {
+    "filesize": 91105,
+    "fullUrl": "https://external-preview.redd.it/AF05nOg_-eiRVQWuYVSXU1ZbZeoRkcVD_13VsYK2r8o.jpg?auto=webp&s=d3e664d696ea71cb77fa814da4e1a027a54eed10",
+    "hash": "42035f1ce0",
+    "height": 791,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAACAgEEAwEAAAAAAAAAAAABAgMEEQAFEkETIaEx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AhEcgm3CpJZsU24wIwlNXChFXGPwd96J3ucrBVi8UWEMhBRCuQW7GmKtiW5VhrUJYmjgq+NuRWMlT7IOcnPL5oLehNIteZlhRZA3FUm549/OtTDX/2Q==",
+    "url": "https://external-preview.redd.it/AF05nOg_-eiRVQWuYVSXU1ZbZeoRkcVD_13VsYK2r8o.jpg?width=640&crop=smart&auto=webp&s=93b5404d56700136cdfd317472e8e2b25542e27f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The MegaDungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wbex7n/the_megadungeon_68x88/"
+}

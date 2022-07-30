@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_wquhc",
+    "name": "thehypocrisyofreddit"
+  },
+  "date": {
+    "day": 1659052800,
+    "full": 1659103418,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_wb5o1o",
+  "picture": {
+    "filesize": 101383,
+    "fullUrl": "https://preview.redd.it/vvytqqnfkie91.jpg?auto=webp&s=147c8db844f5e152db18ce06fedd47cecbf1e6e9",
+    "hash": "5c89b139e5",
+    "height": 431,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDAAQRBQYhEhNBUSIxMv/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAQEAAwAAAAAAAAAAAAAAAQIABBEx/9oADAMBAAIRAxEAPwAjbvaur14rhi3cBKLJxlh490/dWUdpp5meMRzAjpCsxH6wByfXNaMNobfZ8nSbUkfIEr5qyLb+kkKrWEDL94ZcjNTTiV73kFBLKb//2Q==",
+    "url": "https://preview.redd.it/vvytqqnfkie91.jpg?width=640&crop=smart&auto=webp&s=fc40fcb6de3c76655089c1ee83347dc54eed23c5",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A jungle map based on the Big Dipper that I cobbled together for my nieces and nephew",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wb5o1o/a_jungle_map_based_on_the_big_dipper_that_i/"
+}
