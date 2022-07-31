@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1659139200,
+    "full": 1659197783,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_wc13b4",
+  "picture": {
+    "filesize": 82654,
+    "fullUrl": "https://preview.redd.it/269b1d1adqe91.jpg?width=3150&format=pjpg&auto=webp&s=00847fbc51e8a04a068cf15f9cfc9f00a02cebbc",
+    "hash": "ab3a5855b9",
+    "height": 996,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYQAAIBAwIEBwAAAAAAAAAAAAECAwARIQQxBhIiUQUTFCMzQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABIRH/2gAMAwEAAhEDEQA/AMb4e8Qj0PDM8SjUJOodouVgUcuvKS32tgMb/lRUsieY9kG53NPQ6kjTMqy2VsMLZx27X2NC9AX6/d6s/C1JQmWKn//Z",
+    "url": "https://preview.redd.it/269b1d1adqe91.jpg?width=640&crop=smart&auto=webp&s=713db6f7fd9b4c3adbec3100fa43505d20207c43",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Old God Shrine - Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wc13b4/old_god_shrine_phased_battle_map_45x70/"
+}

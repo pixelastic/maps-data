@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_o7lm1w7i",
+    "name": "Maplocks"
+  },
+  "date": {
+    "day": 1659139200,
+    "full": 1659197970,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_wc15rt",
+  "picture": {
+    "filesize": 95797,
+    "fullUrl": "https://preview.redd.it/at0ps1atdqe91.jpg?auto=webp&s=2915a6a162360eb5a2349b13705d11d1e733176b",
+    "hash": "3ada61dc96",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBREhABIiBhMxMkFRYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEQMhIv/aAAwDAQACEQMRAD8AW68/UajInyKpUHUOFUZt62xK8ZAt6QTa2fGdSkhcxlUpVPl92GlZHNIKiLeci+nwuqqpS4Eum1hpctIG5LgSnirN0qJABP5cDTIDKXaUylzluBKg3hBuPb6+NE5OI3exxRTR/9k=",
+    "url": "https://preview.redd.it/at0ps1atdqe91.jpg?width=640&crop=smart&auto=webp&s=b2e47f8c6cdd5da33ef07350c9ecec3f545ccc9a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Ever-flowing Well (Dragon altar at the mountaintop)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wc15rt/the_everflowing_well_dragon_altar_at_the/"
+}

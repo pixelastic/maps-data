@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5ds75hkp",
+    "name": "OperatorJuno"
+  },
+  "date": {
+    "day": 1659139200,
+    "full": 1659203531,
+    "month": 1656633600,
+    "week": 1658620800
+  },
+  "id": "t3_wc38bj",
+  "picture": {
+    "filesize": 115196,
+    "fullUrl": "https://preview.redd.it/v07nllwfuqe91.jpg?auto=webp&s=9efd0382aaffd0649f155a3f2ba1857065c56b2a",
+    "hash": "80b5f3472b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQREgAFMSFBYXEkUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIS/9oADAMBAAIRAxEAPwDQT7fMZcKyYUtMz3YsQuQ8dz60LHt1Pt8cxlIFyiEMRdgeMfq1udUGGCVUVT8inkmYRRlOCG6+fztxpG4baahKeOhBajLnJMeWta7X627ehqdkQp09ONn/2Q==",
+    "url": "https://preview.redd.it/v07nllwfuqe91.jpg?width=640&crop=smart&auto=webp&s=2bdfbd8ff1ad165d2b845f975a1ca7f87c9216b2",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "A Parchment map of Eias after the Third Crusade",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wc38bj/a_parchment_map_of_eias_after_the_third_crusade/"
+}
