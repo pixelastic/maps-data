@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ektg7b5d",
+    "name": "de-Zigner"
+  },
+  "date": {
+    "day": 1659312000,
+    "full": 1659379230,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wdoxr8",
+  "picture": {
+    "filesize": 147576,
+    "fullUrl": "https://preview.redd.it/iuv6168uc5f91.jpg?auto=webp&s=4acfd32f27c91be1ce20873112bc94f8725056ca",
+    "hash": "4cd67a51c0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACEQAAICAQMFAQAAAAAAAAAAAAECAwQRABIhBQYTMTJC/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIRITFh/9oADAMBAAIRAxEAPwDOe3Z4vKDK0iSyRlV8ag72I9cg6m2a7wyQW51KpLIVyFxtK/XOmr9yWxZrDCPHG5ZSVAxkYyePfGj7j6/J141KsilalViEBUDeuBy2P1qcFy4h3vkRrE//2Q==",
+    "url": "https://preview.redd.it/iuv6168uc5f91.jpg?width=640&crop=smart&auto=webp&s=6f945685dd2f119653d28cf0df40682977504477",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Small Junkyard map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wdoxr8/small_junkyard_map_20x20/"
+}
