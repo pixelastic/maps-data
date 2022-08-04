@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1659484800,
+    "full": 1659524565,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wf3na9",
+  "picture": {
+    "filesize": 207764,
+    "fullUrl": "https://preview.redd.it/mjco4cf0dhf91.jpg?width=2100&format=pjpg&auto=webp&s=5189d370bc73efe92bd841a429dd2d60babf917b",
+    "hash": "e686d8bd45",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACUQAAICAAQFBQAAAAAAAAAAAAEDAhEABBIhBRMiMUFRYXGBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHREAAgEEAwAAAAAAAAAAAAAAAQIAERIhIjGh8P/aAAwDAQACEQMRAD8AzrBl0ibNKpLyzIc2MrJIomAAHizXx64E8Q4iw64weIy3ACTX7hxGqTEra6b2yI5yqrpulj3rziSOfeYgheVqttbOr7274nMNVJglIvYcZ93Wf//Z",
+    "url": "https://preview.redd.it/mjco4cf0dhf91.jpg?width=640&crop=smart&auto=webp&s=4b8155cf3e7b034391ba56790cf03592e58c435a",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 676,
+    "value": 676
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A harmless and generic river encounter map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wf3na9/a_harmless_and_generic_river_encounter_map_30x50/"
+}

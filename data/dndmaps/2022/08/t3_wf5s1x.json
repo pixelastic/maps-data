@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1659484800,
+    "full": 1659530994,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wf5s1x",
+  "picture": {
+    "filesize": 88131,
+    "fullUrl": "https://preview.redd.it/5wrhbv4pvhf91.jpg?auto=webp&s=f33ea53669a02e91d3f0e41535c2f4b24ad0ed04",
+    "hash": "6fd2f731f9",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDAAQRBSHwEyIxgRJRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAESEiQf/aAAwDAQACEQMRAD8Ay6+uHCriKRkDdzL44KK1uXT7qSJrELGAvcZNiT65vVlnfdOKQGVflKCrAKfH59b4ojU4Fmueqk8eXGWG+Qc8PuhYs23JIpVxP//Z",
+    "url": "https://preview.redd.it/5wrhbv4pvhf91.jpg?width=640&crop=smart&auto=webp&s=6e565346568c00ff6caca0f4f959c53c466b4ba0",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 98,
+    "value": 98
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Drunheim Castle - D&D night map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wf5s1x/drunheim_castle_dd_night_map/"
+}
