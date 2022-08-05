@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1659571200,
+    "full": 1659614430,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wfzf4a",
+  "picture": {
+    "filesize": 105489,
+    "fullUrl": "https://external-preview.redd.it/C4zq6b7NNwCMj6WzbwqeqbwcP2cTrkB95FGWi9Vqg_I.jpg?auto=webp&s=563105cfada4665d71a910826506a40e2581096f",
+    "hash": "da650189af",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAiEAACAgAGAgMAAAAAAAAAAAABAwIRAAQSEyExUWEicbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhEf/aAAwDAQACEQMRAD8AjUh0WbcYBjQbIrv1+4TlFMUhkUIC5CxKEo6q47+uMJg+KVb6h8iNJB8+R7wbLZljms0zgLF3dc94AcYYmX//2Q==",
+    "url": "https://external-preview.redd.it/C4zq6b7NNwCMj6WzbwqeqbwcP2cTrkB95FGWi9Vqg_I.jpg?width=640&crop=smart&auto=webp&s=7bf96908ea6a1238cc504d0ad3cbe189a3e555e3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Asteroid Jungle Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wfzf4a/asteroid_jungle_battlemap_60x60/"
+}

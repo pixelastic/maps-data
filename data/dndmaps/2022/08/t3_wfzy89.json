@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a8l8hzq",
+    "name": "Splicex42"
+  },
+  "date": {
+    "day": 1659571200,
+    "full": 1659615948,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wfzy89",
+  "picture": {
+    "filesize": 109435,
+    "fullUrl": "https://preview.redd.it/05s5aehfwof91.jpg?auto=webp&s=ee293b65877998a863d967953b4bc6c97fcb7b6e",
+    "hash": "800087c32f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDESExABITIiNB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABcRAAMBAAAAAAAAAAAAAAAAAAECEQD/2gAMAwEAAhEDEQA/ANLwqIvJIwUGRoC7r6hQoomhvG98NGVPGkqO4dVfsVGSY22Ku7o3dY5Z0CSGQAF3+ZJUHDWpqxg1+8R5ZYInVJZB1kWMEN19ejLVChrF74crCXIlTZv/2Q==",
+    "url": "https://preview.redd.it/05s5aehfwof91.jpg?width=640&crop=smart&auto=webp&s=8e8f8cbb9668dcfef3a77dd4419f1ade6f5c2028",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Simple Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wfzy89/simple_dungeon/"
+}
