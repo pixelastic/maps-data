@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1659657600,
+    "full": 1659708341,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wgwd1v",
+  "picture": {
+    "filesize": 54925,
+    "fullUrl": "https://preview.redd.it/e2rt5p76jwf91.jpg?auto=webp&s=6f47bb141eac60e711aba40029ccc0bf82a37689",
+    "hash": "121ba5799b",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQI/8QAJBAAAgIABQMFAAAAAAAAAAAAAQMCBAAFESFBBhIxEyJxgdH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABYRAAMAAAAAAAAAAAAAAAAAAAABMf/aAAwDAQACEQMRAD8Az1RWalavKKkye6ehhYMSDDUaaA/eJM/gV5tYXJimiB7YlQ0iBwB8eMK9MOymtCxZzWwWMgvvQj0ySWg7e7gefzAblPbMsKnkT3iZAyJHG/OBUq4f/9k=",
+    "url": "https://preview.redd.it/e2rt5p76jwf91.jpg?width=640&crop=smart&auto=webp&s=13162fa312c790c46269e470818802bdf11cdfcb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Cultist Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wgwd1v/cultist_dungeon_32x44/"
+}

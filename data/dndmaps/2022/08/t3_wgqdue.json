@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bthb5zx8",
+    "name": "Fresh_Cod_9536"
+  },
+  "date": {
+    "day": 1659657600,
+    "full": 1659689776,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wgqdue",
+  "picture": {
+    "filesize": 80084,
+    "fullUrl": "https://preview.redd.it/iw2bt0z20vf91.jpg?width=800&format=pjpg&auto=webp&s=749363fcf0d0041980a1dc90c4df2c41e4109ff5",
+    "hash": "4fc1a0a761",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBv/EACIQAAIBAwQCAwAAAAAAAAAAAAECAwAFEQQSEyEUMUFRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQJREf/aAAwDAQACEQMRAD8Axa2GKGONJ9DC0nErNulwckUQ2WGZgIrdCxP1Ke6rW7vrvHYSaDkaNF2MoY5x+904bjqY35R4gMR9FVVj3g4+TSTPcCpvT//Z",
+    "url": "https://preview.redd.it/iw2bt0z20vf91.jpg?width=640&crop=smart&auto=webp&s=771782b5ae455f835a682d36ba5865e7fe280a1e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.65,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Drag & Drop Dungeons!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wgqdue/drag_drop_dungeons/"
+}

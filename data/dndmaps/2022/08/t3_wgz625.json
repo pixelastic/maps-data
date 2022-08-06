@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1659657600,
+    "full": 1659715296,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wgz625",
+  "picture": {
+    "filesize": 81766,
+    "fullUrl": "https://preview.redd.it/nobnjbi64xf91.jpg?auto=webp&s=2499bab2368a7e621cd5cfdd2a81e3d76bbeb965",
+    "hash": "fe74d2c784",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACIQAAEEAQQCAwAAAAAAAAAAAAECAwQRIQAFEhMiQVFhkf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAXEQEBAQEAAAAAAAAAAAAAAAACEQAx/9oADAMBAAIRAxEAPwDO2tmRCcjxWHIyg62fKxyBoWT9fGipW0sMuojyUvvdiiVKDQSFEjHKvXvGpbaprsiO8XuKlpbKeRGSMV+aZzdwkRocrqcUOpRq1E2CKo2cjRiLsuQKE5v/2Q==",
+    "url": "https://preview.redd.it/nobnjbi64xf91.jpg?width=640&crop=smart&auto=webp&s=913dbcd18576ec16635b4b8aa7166c89b12586a8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Sanctum",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wgz625/the_sanctum_oc24x18/"
+}

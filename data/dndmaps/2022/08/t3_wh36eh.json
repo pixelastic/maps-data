@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1659657600,
+    "full": 1659725372,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_wh36eh",
+  "picture": {
+    "filesize": 149949,
+    "fullUrl": "https://preview.redd.it/pigwv3l2yxf91.jpg?width=2048&format=pjpg&auto=webp&s=288efc7d96fcbd2f5190836ee207efbb1657ca7c",
+    "hash": "90d2d7b120",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAREiEEBiJxIzFRgfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAESExQf/aAAwDAQACEQMRAD8Ax0TDlujBELKrtKwTC97Wv48UyWAJxZJPRHZjjkSw/a3RHJxViiOcQOrgqAb/ADf7qN1DHJNzIxCcwg2IiffVtijKTzFRDIqitkz/2Q==",
+    "url": "https://preview.redd.it/pigwv3l2yxf91.jpg?width=640&crop=smart&auto=webp&s=b3b0c749a2b4179a1945f802d91588648ca13291",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Uptown Alchemy  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wh36eh/uptown_alchemy_30x30_oneiromancy_maps/"
+}
