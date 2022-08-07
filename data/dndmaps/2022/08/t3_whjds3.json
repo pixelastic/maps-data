@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_q7h2s5qi",
+    "name": "ProtestantDave"
+  },
+  "date": {
+    "day": 1659744000,
+    "full": 1659774615,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_whjds3",
+  "picture": {
+    "filesize": 99928,
+    "fullUrl": "https://external-preview.redd.it/Diax2SO1DkCH88P218_azlMfOvkuVlEUn16ViJRPxhY.jpg?auto=webp&s=31c4b131909ed91dda0a7ccb71672cc89c02fcb5",
+    "hash": "f3bb5407b4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAJBAAAQQCAQIHAAAAAAAAAAAAAQIDBBESIQBBUQUTFDFCcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8A3C5zjIdL0l8utgK8rLMi7AJA6aPCHJM5brbglFZ2VtfDd4lRO0gasD2o134pL8MaQ36hucxMgKbAKEgEGjdACzlvQ++SJFU+2pVIG6zfGyoHoD2odPzgeDKdP//Z",
+    "url": "https://external-preview.redd.it/Diax2SO1DkCH88P218_azlMfOvkuVlEUn16ViJRPxhY.jpg?width=640&crop=smart&auto=webp&s=4907ebba654f66848eb72aa0ca3bc0301b42ef2d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.71,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "AI generated Desert Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/whjds3/ai_generated_desert_maps/"
+}

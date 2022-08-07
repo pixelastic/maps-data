@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1659744000,
+    "full": 1659773872,
+    "month": 1659312000,
+    "week": 1659225600
+  },
+  "id": "t3_whj6zm",
+  "picture": {
+    "filesize": 117343,
+    "fullUrl": "https://preview.redd.it/qn4t4uccy1g91.jpg?auto=webp&s=19bc2b5391027628ad5457c2782398fcd3b71520",
+    "hash": "8d25e19ba4",
+    "height": 768,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAACAQQCAwEAAAAAAAAAAAABAgMABCExERIFBkFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAEFAQAAAAAAAAAAAAAAAAIAARIhMRH/2gAMAwEAAhEDEQA/AI5PczLcTqg7qO2/gJ3SfgGE0ErSOS3IGfyiZ7ec3UskYKKSc8HOdUv65Ay28qyp1YMNjigGwxrUwOzvF//Z",
+    "url": "https://preview.redd.it/qn4t4uccy1g91.jpg?width=640&crop=smart&auto=webp&s=54f1f727a68a229d7c5549412cc43b7ad618f4db",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.96,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lich's Crypt Battle Map 30x36",
+  "url": "https://www.reddit.com/r/dndmaps/comments/whj6zm/lichs_crypt_battle_map_30x36/"
+}
