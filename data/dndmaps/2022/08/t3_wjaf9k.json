@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1659916800,
+    "full": 1659969342,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wjaf9k",
+  "picture": {
+    "filesize": 73257,
+    "fullUrl": "https://external-preview.redd.it/7Y45vZkQ9OHVDhOgDD1C2BRuV3UoceK-qcV_1d8iEWU.jpg?auto=webp&s=102645e6987b8040f732692f88992aa8fd0a6190",
+    "hash": "abbb72d0ca",
+    "height": 1097,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACIQAAIBAwIHAAAAAAAAAAAAAAECBAADEVGSBRMUIVJikf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBESEiMv/aAAwDAQACEQMRAD8AyN1gR+CR2MdVkKMm4gJzoSD8qZ1/s+wUlpTXWY3XNx3GMZJ7aYocu34NtNUGdr1wDVEnqLP/2Q==",
+    "url": "https://external-preview.redd.it/7Y45vZkQ9OHVDhOgDD1C2BRuV3UoceK-qcV_1d8iEWU.jpg?width=640&crop=smart&auto=webp&s=3528ed46c33a1e320d16ef328fa7b94cf97621ff",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The wizard atop this mountain uses lightning to power the instruments used for his twisted experiments.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wjaf9k/the_wizard_atop_this_mountain_uses_lightning_to/"
+}
