@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1660003200,
+    "full": 1660060824,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wk70zs",
+  "picture": {
+    "filesize": 170370,
+    "fullUrl": "https://external-preview.redd.it/83AwJwAbkm34-n4_3GBu9R20QD1oYzHhFzrhoJCYTKo.jpg?auto=webp&s=3cbda861553f7ddadbd143e5bfc57893bb5dd492",
+    "hash": "b0851ccffe",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACsQAAECAgQPAAAAAAAAAAAAAAECAwAEBhEiQQUSExQWITFTVHGBkZPR4f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ABCaPSWjL2EZV4LQ0oNJs2iTrqN3WB+Ra3B8nyEjFJkNUeekWWA4HTjKArrBu5bIOZ2rhHO59QYMrl//2Q==",
+    "url": "https://external-preview.redd.it/83AwJwAbkm34-n4_3GBu9R20QD1oYzHhFzrhoJCYTKo.jpg?width=640&crop=smart&auto=webp&s=fa6e32e39a87ff7bb3cee6e90f183a5f0ff44ad5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "\"City Streets\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wk70zs/city_streets_oc_battlemap/"
+}

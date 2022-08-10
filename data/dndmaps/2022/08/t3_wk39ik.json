@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1660003200,
+    "full": 1660051521,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wk39ik",
+  "picture": {
+    "filesize": 69762,
+    "fullUrl": "https://external-preview.redd.it/CVULCegc_Pe1qItVRAOcD6dy1r01a6cgn0Nt-P2RZ6U.jpg?auto=webp&s=eadcf85b1ca55e7a42a4b6040d8f7b115b2826ce",
+    "hash": "8f437cfa66",
+    "height": 485,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAACAQIGAgMBAAAAAAAAAAABAgMEEQAFBhIhURMxFUFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIhQQMRMf/aAAwDAQACEQMRAD8AiGSTUjzIlRHC8QN5I4Rdtt+yDzwOsPm01l1PpH5OKeORUJZoXVdzKeWBYrcH0OOja2Jis/jo4JvGjGSzMpLAX/hGEWX5i82m6iR4Yd8MwMZG4bbj959ffZxSwtE0JNLXT//Z",
+    "url": "https://external-preview.redd.it/CVULCegc_Pe1qItVRAOcD6dy1r01a6cgn0Nt-P2RZ6U.jpg?width=640&crop=smart&auto=webp&s=2eb516de6bf961673eab7ccac84833b5316481f7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 222,
+    "value": 222
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Here's one of our latest Czepeku maps, the Mushroom Infested Mines! Be careful to which turn you take.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wk39ik/heres_one_of_our_latest_czepeku_maps_the_mushroom/"
+}
