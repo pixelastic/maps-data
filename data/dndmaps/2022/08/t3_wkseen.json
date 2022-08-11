@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mrdgq",
+    "name": "didido_two"
+  },
+  "date": {
+    "day": 1660089600,
+    "full": 1660121553,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wkseen",
+  "picture": {
+    "filesize": 96150,
+    "fullUrl": "https://preview.redd.it/7ydgddp0oug91.jpg?auto=webp&s=c8ba6cb4af62b65e7f8528f056c2dc3649abb87c",
+    "hash": "5bde99c374",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACAQAAMAAQQCAwAAAAAAAAAAAAECAwQABREhMXEiQZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwDEnWGdjigTmzeHPPX560pj7dSmQFrNlUDvg+dXsPOrDbJzosFRUBLGYJHPJ+tBibzHIu0mkFYn4kdhvWorVg6bXYf/2Q==",
+    "url": "https://preview.redd.it/7ydgddp0oug91.jpg?width=640&crop=smart&auto=webp&s=64c60ed365104c6bce47f435ebf333ca1a58dabf",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Generic Forest Bridge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wkseen/generic_forest_bridge/"
+}
