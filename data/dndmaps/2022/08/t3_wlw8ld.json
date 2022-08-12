@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ingon",
+    "name": "JM665"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660236757,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlw8ld",
+  "picture": {
+    "filesize": 137790,
+    "fullUrl": "https://preview.redd.it/epvpjo6m64h91.jpg?auto=webp&s=cb003fd2501f380bc020702ba5fc24ede2c37e8d",
+    "hash": "b2eee385e6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDEQQFABITIQYiMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAhJB/9oADAMBAAIRAxEAPwC7Zm+eCCLU5UasIU8qPgkeMlLA9tZv8uuGPkWwlhhddrtH2ixQNJMcFFZoZL9X6+q/2xzW1/yDXywYeRDPLhPJCTkBZijHqtKprsD9iW7AA0ar9PB+x1mG0eZkpPDG0kMtQ4zeC2JDL3b35RdmmA5WhwiY3//Z",
+    "url": "https://preview.redd.it/epvpjo6m64h91.jpg?width=640&crop=smart&auto=webp&s=35250cbaaad12dc004eadaec02d0fc69a9414875",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 411,
+    "value": 411
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Abandoned Mine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wlw8ld/abandoned_mine/"
+}

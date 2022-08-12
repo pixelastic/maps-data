@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660219234,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlpnsg",
+  "picture": {
+    "filesize": 244072,
+    "fullUrl": "https://external-preview.redd.it/_rqJxGWXWHjuaTIpstgDZANogszRjprzCukcKDvfvds.jpg?auto=webp&s=812a0b79d6cf97e402a46e00169397e78bb93c80",
+    "hash": "2557d1ff8b",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAABBAAEBwAAAAAAAAAAAAABAAIDEgQFETETFFJTgZLh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDMf/aAAwDAQACEQMRAD8AiocCWRyCWpbUVI38/E1wMJ2ipTL8+llZAS1t7AOFdRuAneab1P8ARFKp2UzQtP/Z",
+    "url": "https://external-preview.redd.it/_rqJxGWXWHjuaTIpstgDZANogszRjprzCukcKDvfvds.jpg?width=640&crop=smart&auto=webp&s=13f7f27dffab3349ade173502dfe29d53c816dbd",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "\"The Wheatfield\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wlpnsg/the_wheatfield_oc_battlemap/"
+}

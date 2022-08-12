@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660219227,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlpnoz",
+  "picture": {
+    "filesize": 85929,
+    "fullUrl": "https://external-preview.redd.it/7LNQj3U-T7P0z5BIbU-aqU5dfPa81wuUmV4nFEW3lYU.jpg?auto=webp&s=81355f887bf60f7e695baba6edc9c5ab7434fa0f",
+    "hash": "08e4bcc35c",
+    "height": 782,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAIBAgUDBQAAAAAAAAAAAAECAwQRAAUSMWEGFCETIjJBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACESIx/9oADAMBAAIRAxEAPwDOMqy3LXy+JK6haRA4JXuRbUQLnfbjA+oqKmftLU40COyAgsQviwuN8TlqYo4Y0gqlpMvGoROje9yF+TDk+OMPVXU0mXehEJq7WYI2ZoqllBuo+hbn9xDuJYM9jP/Z",
+    "url": "https://external-preview.redd.it/7LNQj3U-T7P0z5BIbU-aqU5dfPa81wuUmV4nFEW3lYU.jpg?width=640&crop=smart&auto=webp&s=53a76fdae0c2117f955e2458e8d8b40fd1e34a7e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Sewer Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wlpnoz/sewer_dungeon_36x44/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1ug593b3",
+    "name": "DmAl85"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660228381,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlsvdd",
+  "picture": {
+    "filesize": 139777,
+    "fullUrl": "https://preview.redd.it/ern5i2wqh3h91.jpg?width=2048&format=pjpg&auto=webp&s=b7e3f5ee7e84d0efa3406ffa2d6e52de4ec820da",
+    "hash": "03797a9d06",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIG/8QAIBAAAwACAwACAwAAAAAAAAAAAQIDBBIAESExUWGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAESE2H/2gAMAwEAAhEDEQA/AMJiJbJxnV6qkKU3KIvyfoE+8M2YlY2ybXaSIwQL6UYj+98MG1IwvammgcOwRgOgfPB+uXWj54QYmuxp0pJHewHv45JYh1w0/9k=",
+    "url": "https://preview.redd.it/ern5i2wqh3h91.jpg?width=640&crop=smart&auto=webp&s=83e2d30789d6f8fabf7ef2a924532e7c28c76858",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Circle of Druids",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wlsvdd/circle_of_druids/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_o7lm1w7i",
+    "name": "Maplocks"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660227727,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlsma9",
+  "picture": {
+    "filesize": 135392,
+    "fullUrl": "https://preview.redd.it/zdchvz0sf3h91.jpg?auto=webp&s=4750735f5b0ef68b95feecb7a81c24c075751341",
+    "hash": "3e69e430b4",
+    "height": 636,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgIBBAEFAQAAAAAAAAAAAQMCBBEABRIhIhMUMVFhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAwACBBIhcf/aAAwDAQACEQMRAD8AKbLfS/b2qYZ2mrM5SEF8SBGZBzLGc/3GqTatey6LabWweePBXZ8f3vQena3OrujGSVYkPcZkqKiBPs+WQMfAGdaJR3Gu2HrWERRZn5lgjIkzH2MdZOjMpBodh2MocLDyf//Z",
+    "url": "https://preview.redd.it/zdchvz0sf3h91.jpg?width=640&crop=smart&auto=webp&s=6a07bf62e25315b9de53ecefae0991d5c6e0dd73",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Graveyard Shift",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wlsma9/the_graveyard_shift_47x47/"
+}

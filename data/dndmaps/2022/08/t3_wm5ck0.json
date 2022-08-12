@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660259838,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wm5ck0",
+  "picture": {
+    "filesize": 261627,
+    "fullUrl": "https://preview.redd.it/9kla0igc36h91.jpg?auto=webp&s=f72f9c90d4ce14b3b7b38e7bc3906db8abcdcc0c",
+    "hash": "1126757d0b",
+    "height": 1182,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEEAQEJAAAAAAAAAAAAAAECAwQRACEFExRBUVJjkpP/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABcRAAMBAAAAAAAAAAAAAAAAAAACESH/2gAMAwEAAhEDEQA/ANB2sygSmEvTHGYrlpU03ZK7NJrkK0wrgofc59VYjckR354Ed+YpG+SFIWqgAK1Fm60HTKW2PH65KfIOXaf/2Q==",
+    "url": "https://preview.redd.it/9kla0igc36h91.jpg?width=640&crop=smart&auto=webp&s=c052081a31cb7a3e905833a32797f76a012eb495",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Hardbrand Tower",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wm5ck0/hardbrand_tower/"
+}

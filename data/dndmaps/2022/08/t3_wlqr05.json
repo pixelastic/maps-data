@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c0a4rmn5",
+    "name": "oixxo"
+  },
+  "date": {
+    "day": 1660176000,
+    "full": 1660222618,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wlqr05",
+  "picture": {
+    "filesize": 93045,
+    "fullUrl": "https://preview.redd.it/5uyt7meo03h91.jpg?auto=webp&s=801ec8a01647cc29595736a4714059d172958866",
+    "hash": "c3afd546c9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwYH/8QAIRAAAgICAgEFAAAAAAAAAAAAAQMCBBEhAAUxEjNBcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AMoNmUb71RnKIJAG9nQ1yktrqwsMU/C5sGIZOMn4I/OH0vWULSGW7CJtfECQhHI9WPB+uJZoxc49hdg5pj7Swd51rQ2B54XazCe6mkj/2Q==",
+    "url": "https://preview.redd.it/5uyt7meo03h91.jpg?width=640&crop=smart&auto=webp&s=49216d5505a17c26d5a918c4f716057888694b4c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Vampire Crypt (25x25)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wlqr05/vampire_crypt_25x25/"
+}
