@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6g6dgkuq",
+    "name": "tychmaps"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660313504,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmm9tk",
+  "picture": {
+    "filesize": 66590,
+    "fullUrl": "https://preview.redd.it/vio2jz9xiah91.jpg?auto=webp&s=57601642ed112489838d8aab71b390a7a5d80a9c",
+    "hash": "5610a03546",
+    "height": 828,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAH/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIDEQAhEgRBUWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM7MbPI7dOrIE2wJ1frKKbglHdm784Qshk4hJDfYC6+YooSykujg2RtMD//Z",
+    "url": "https://preview.redd.it/vio2jz9xiah91.jpg?width=640&crop=smart&auto=webp&s=88df3fa7e9cea2970b4e5273f87962790eb96e6d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lost Level – Dungeon of the Mad Mage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmm9tk/lost_level_dungeon_of_the_mad_mage_102x132/"
+}

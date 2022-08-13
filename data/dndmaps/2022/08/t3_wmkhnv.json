@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660308611,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmkhnv",
+  "picture": {
+    "filesize": 139451,
+    "fullUrl": "https://preview.redd.it/dj2j3etd4ah91.jpg?auto=webp&s=ece9e1f484653ec4dec15a710ad9f2f7301baf80",
+    "hash": "cc4bc25431",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgIBAgQHAAAAAAAAAAAAAQIDEQQABQYxQVESExQVcdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAcEQAABgMAAAAAAAAAAAAAAAAAAQIDETEEEiH/2gAMAwEAAhEDEQA/ACWP6nBylkjmqWKiGB6/XTWg8N5/ve0+bPGqzK7K4VjSknn8HtoIY5JcoK4DWRdAH9z1Y2zLGzZRyWfwYspCyI1mx3Wu16guJkuWG47mqoOh/9k=",
+    "url": "https://preview.redd.it/dj2j3etd4ah91.jpg?width=640&crop=smart&auto=webp&s=be7f44f99e2af1c125c62a699101467b542a2969",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Orc Territory Environs, Region Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmkhnv/orc_territory_environs_region_battle_map/"
+}

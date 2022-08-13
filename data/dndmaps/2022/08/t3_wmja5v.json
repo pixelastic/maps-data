@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_xvleh8d",
+    "name": "gabrielcan_03"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660304879,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmja5v",
+  "picture": {
+    "filesize": 69035,
+    "fullUrl": "https://preview.redd.it/ue7yl0bat9h91.jpg?width=4096&format=pjpg&auto=webp&s=2fb57bfe73294624ec47c47611e3dc630673d225",
+    "hash": "446db55697",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACEQAAIABQQDAAAAAAAAAAAAAAECAAMREiEEMVFhEyJB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDESEx/9oADAMBAAIRAxEAPwDIHltK1ShCxu9gta576ho1QCt5JaqeCKEjmCmSlmae5q3LUA1zvErgIAozdgk5O5+xNUpkF15B4k//2Q==",
+    "url": "https://preview.redd.it/ue7yl0bat9h91.jpg?width=640&crop=smart&auto=webp&s=03d5269bfa60d6c6c812cdad7c496e738381bd27",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Town House map using Tom Cartos assets. Feel free to use.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmja5v/town_house_map_using_tom_cartos_assets_feel_free/"
+}

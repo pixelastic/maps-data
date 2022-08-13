@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3aq57m2i",
+    "name": "fantasy_atlas"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660333342,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmu1ab",
+  "picture": {
+    "filesize": 229860,
+    "fullUrl": "https://preview.redd.it/1pyioy9x5ch91.jpg?auto=webp&s=20eb6f25ac94e72baffd2b9d6369d5ce8beb1749",
+    "hash": "15f52ed66e",
+    "height": 1131,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAnEAABAgMGBwEAAAAAAAAAAAABAgMABBEFEiExUZETFBUjVIGS0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQADESL/2gAMAwEAAhEDEQA/ADvJtM2dOTbhl21MoR23SkF0lOQ1IpidKYwP6lZ3jHcQpShubs5tL11VcyM+GBQ7nD1EG5L6J+U/kSKkzoiWI5k//9k=",
+    "url": "https://preview.redd.it/1pyioy9x5ch91.jpg?width=640&crop=smart&auto=webp&s=9cb8029bca6cd836d562349f2b03eee4109885a1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Noble Rot",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmu1ab/noble_rot_2100_x_3710/"
+}

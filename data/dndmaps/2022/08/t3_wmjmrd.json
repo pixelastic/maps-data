@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ocqal",
+    "name": "Markonicus"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660305953,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmjmrd",
+  "picture": {
+    "filesize": 509320,
+    "fullUrl": "https://preview.redd.it/rudw9nckv9h91.png?width=1240&format=png&auto=webp&s=2ef0e6e7736dd38d90490da0c6f660666eac12e3",
+    "hash": "e91a80c531",
+    "height": 384,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAIAAAAy3EnLAAAACXBIWXMAAAsTAAALEwEAmpwYAAABwUlEQVQYlRXN626aUAAAYF5h6UUUhXMBXdLsR2esKYXDEcrcXOa8rygqiFxU1OowLN0Wl0z3Zy+97HuBj9EDTDxE5pg4SAtEdQrUKXxciu82Un0rmrGkuFC1AXUh9aAeYkYPxVqIiYeNACljoE1BfSOpU/gwFt42c2qH1fus9oUjduG2mTNCzJixSD3c+Fp8jCXNgfII3I8K6iBj2Gx/wq1XYLMHfiTMV3zTysqta0ZzIXWgHknysEB6170o7615J8xvU/TnXPp7Kv34Lv5MxdOxeD4WvaDAVDtZpceq/Uw7zC8PwNvx7oJ/OaAwFt4PMk+TrD3jntzcOgHxs7DbA8Zyc4v4/5ukKPmGugE3T8EqEaofLt6YlzfkVbmVrbSzt+al/Omq2rhgfp+kfQrPv6T0BSVH1As52rmSu2yly+k+oh6sb4tGhGULaC5Q7AKzXQtRyA9nedNiicVVPrN3XY5MAPVFxRfpDBEXqROB+qiRvK55mNEHuerHTLnN3Q95M5aMBSYuojZQF8XK/kYLcG0MNQ8rU0FxoGzxjDYCxAG1ANc8ZC6R7uOHETCWouJic1eikUh9rPlS67ncXN31D/I/+K2BIZv658kAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/rudw9nckv9h91.png?width=640&crop=smart&auto=webp&s=405573edfb93e0e7bb199d93d3d9a2b2d5798860",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Road Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmjmrd/swamp_road_encounter_battlemap_oc/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d7y0a6b0",
+    "name": "dreadmaps"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660315769,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmn4zl",
+  "picture": {
+    "filesize": 106627,
+    "fullUrl": "https://preview.redd.it/39vn8aqjpah91.jpg?auto=webp&s=7ef8427adc53c85e24ccc236c5e9b8786c1e24d4",
+    "hash": "11cf22b924",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAEDBAICAwAAAAAAAAAAAAECAwQFERIhADEGgUFhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAgMAAAAAAAAAAAAAAAABAhIxAAOx/9oADAMBAAIRAxEAPwDJ4/jrzNCiPyorYeWrFKkqTgRb5PXf5xceOSg5ITKaweb02kIFnCfvr31rkyhVWQmnuxVYuR1oCyhdyMk7BG9HfBvVGTMUpiQvNABsTs77F/fFCdMVaJrmEKN8iCwvtZ//2Q==",
+    "url": "https://preview.redd.it/39vn8aqjpah91.jpg?width=640&crop=smart&auto=webp&s=a7ca77407b40ce534c684fb6b865942e8076593c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Fiery Ruins - Arcane Variant",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmn4zl/fiery_ruins_arcane_variant_battlemap_40x30/"
+}

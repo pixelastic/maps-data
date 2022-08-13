@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_l7qmi",
+    "name": "Terkontar"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660309612,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmkud0",
+  "picture": {
+    "filesize": 72302,
+    "fullUrl": "https://preview.redd.it/9gnnyxc26ah91.jpg?width=4060&format=pjpg&auto=webp&s=4a407fa5ad58f833157a876f79e09f82cb4fc588",
+    "hash": "43618ad245",
+    "height": 662,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIEAxEABRITIVExIkFhcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8Az7JduEseRLib1P1HShGo3B0nno24wZmqKtUFaZW9yxsQL9feFqUq0dEcU3JQObt4468e/wCYk+bToxNuymqSGCmmCTwOSevjAjtQmX//2Q==",
+    "url": "https://preview.redd.it/9gnnyxc26ah91.jpg?width=640&crop=smart&auto=webp&s=1b7935efe6586bc5c40dd5f427b13b75cc5125e1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Barrow",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmkud0/barrow_29x30/"
+}

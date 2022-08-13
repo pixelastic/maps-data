@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6a0wrgtx",
+    "name": "BonusActionRainbow"
+  },
+  "date": {
+    "day": 1660262400,
+    "full": 1660322868,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wmq08m",
+  "picture": {
+    "filesize": 213211,
+    "fullUrl": "https://preview.redd.it/htwnc1wk9bh91.jpg?width=1300&format=pjpg&auto=webp&s=0239ca6b98da3db9acb07df81b03a898650b1190",
+    "hash": "b3419e28a6",
+    "height": 837,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQREhMhBRVhIzFBUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhES/9oADAMBAAIRAxEAPwDFdCu9id0Vhssnq5GSF+Sfup94yNcOY4wyZ4JbH7RbeISBhFJpbySM+AKf2q8dEk7Xe6HUMjBCqsPbIyORweaFMpPSjfTlLD//2Q==",
+    "url": "https://preview.redd.it/htwnc1wk9bh91.jpg?width=640&crop=smart&auto=webp&s=4e0214ed01e380c51a3f6ff729aee689fec45af8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Hidden Repository",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wmq08m/hidden_repository_battlemapfree_maps_and_variants/"
+}
