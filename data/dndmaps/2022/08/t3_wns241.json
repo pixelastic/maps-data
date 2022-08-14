@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1660348800,
+    "full": 1660434474,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wns241",
+  "picture": {
+    "filesize": 192164,
+    "fullUrl": "https://preview.redd.it/0tb3xbemikh91.jpg?auto=webp&s=ec64982788cd8b5536670b34571097efaf265c55",
+    "hash": "0929361104",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBBEABhIhBRMiMUEjcYGh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxFBcf/aAAwDAQACEQMRAD8AK8FRajKHDEjADJTsTY7FixO/v+7YxRxRyxh2j5RN+ki/Y2v9YuRJYnylTJzvVjdiyqbFQT5828/OEVNT00sWphrGpgGDkAgE2tuNsTrmCM2RuJKw1a8E/9k=",
+    "url": "https://preview.redd.it/0tb3xbemikh91.jpg?width=640&crop=smart&auto=webp&s=d9d99509cd09c19c46ae43fd088b93cbcf3c56a3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "West Coast City",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wns241/west_coast_city/"
+}

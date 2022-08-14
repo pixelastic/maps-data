@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1660348800,
+    "full": 1660413826,
+    "month": 1659312000,
+    "week": 1659830400
+  },
+  "id": "t3_wnkonn",
+  "picture": {
+    "filesize": 160766,
+    "fullUrl": "https://preview.redd.it/7s0vx134mhh91.jpg?width=2048&format=pjpg&auto=webp&s=2a325ba54cdf8183ff21d83c0e7b7968784d0431",
+    "hash": "67bdd89005",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACIQAAICAQUAAgMAAAAAAAAAAAECAxEEAAUSITEjQWGBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAExAv/aAAwDAQACEQMRAD8AzKvEBEHdWgEYcBX4wtR+gf7qnu2NFiYzAwpHKYy4MaGweNjwAiutEmAku3ruDZAeOONi5MfG6qjQBr26/Gl7vlwS4zpAYT8RTij+sF6Irv3v996kzBVD/9k=",
+    "url": "https://preview.redd.it/7s0vx134mhh91.jpg?width=640&crop=smart&auto=webp&s=3b10e5493c721caa9b7a4304cc67bee0611b96b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "(Map Pack) University Library! With the obligatory cultist's lair hidden below!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wnkonn/map_pack_university_library_with_the_obligatory/"
+}
