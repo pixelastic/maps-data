@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_rasr4dcu",
+    "name": "SilverCompassMaps"
+  },
+  "date": {
+    "day": 1660435200,
+    "full": 1660508168,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wofluw",
+  "picture": {
+    "filesize": 65119,
+    "fullUrl": "https://preview.redd.it/edbkbp8slqh91.jpg?auto=webp&s=40b36b9c79907f64d96503833135c325f504942b",
+    "hash": "b29bc4dc50",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACAQAAIBBAIDAQAAAAAAAAAAAAEDAgAEESESMQUTYdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMYbdPLGyDBLjLOcjO9aoKcy2iWoYzvoHBP5T/MWy7W64pGASc/att7NPoU+QM5GI1I6qShJ7D//2Q==",
+    "url": "https://preview.redd.it/edbkbp8slqh91.jpg?width=640&crop=smart&auto=webp&s=3f020f179bcaae764dd4a2cf38b059476ad326ba",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wofluw/swamp_encounter/"
+}

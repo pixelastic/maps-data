@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_r9eqw",
+    "name": "Zenanii"
+  },
+  "date": {
+    "day": 1660435200,
+    "full": 1660493201,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wo9voa",
+  "picture": {
+    "filesize": 75664,
+    "fullUrl": "https://preview.redd.it/mkehl4d7dph91.jpg?auto=webp&s=679d85dfe845da180a6131467d2371cf59a89836",
+    "hash": "78c7d8bb4e",
+    "height": 807,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQRBRITUSExQXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABwRAAICAgMAAAAAAAAAAAAAAAECAAQRMQMTIv/aAAwDAQACEQMRAD8A2Kee5j4ViKrvIQSsoCqKv0ZCbVg0nKQ2M58D86H0Do0XqxlvLGPYx2RnKRgEAqT12DSehiSK2kWZXVuQkK/sDAo6HIWf0cmR2lXoBC4OtT//2Q==",
+    "url": "https://preview.redd.it/mkehl4d7dph91.jpg?width=640&crop=smart&auto=webp&s=6d2d8ef4441076fdadf1195ddcae758ab553b6cd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "First attempt at a heightmap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wo9voa/first_attempt_at_a_heightmap/"
+}

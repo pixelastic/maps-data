@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_sndhp",
+    "name": "Xcution00"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660524362,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wolkra",
+  "picture": {
+    "filesize": 117925,
+    "fullUrl": "https://preview.redd.it/5mhryv24xrh91.jpg?width=4096&format=pjpg&auto=webp&s=0858f4d74e488fae756d6b4e92375a7166bdf673",
+    "hash": "0ae1174871",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAfEAACAgIBBQAAAAAAAAAAAAABAgMRAARBEhQhYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAIDAQAAAAAAAAAAAAAAAAARAQISQv/aAAwDAQACEQMRAD8AkjqMsIkdSYyPBNYaL0ooVfX3EGwe3CGQlORWG0gD0WrkULy4SGu+j//Z",
+    "url": "https://preview.redd.it/5mhryv24xrh91.jpg?width=640&crop=smart&auto=webp&s=e2b6536a19c85993ad5f7be03a98e85f44c22c2a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lost Mine of Phandelver - The Redbrand Hideout",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wolkra/lost_mine_of_phandelver_the_redbrand_hideout/"
+}

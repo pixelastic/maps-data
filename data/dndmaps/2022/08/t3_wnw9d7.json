@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7p3k0ocp",
+    "name": "Silvanus_Cartography"
+  },
+  "date": {
+    "day": 1660435200,
+    "full": 1660447457,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wnw9d7",
+  "picture": {
+    "filesize": 91936,
+    "fullUrl": "https://preview.redd.it/fzhzltd8llh91.jpg?auto=webp&s=6dcf527039e690899bfdb63d045a7d3b45ad78e7",
+    "hash": "05eca2765d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDESEABBIFEzEicYGRof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8Ayd1J3O3u0giPFUgEIzzbhQJFfPvqJWSKB4328MEyxsjAyF+bE0SPIFVgHQAu21KqqAZZmAomvAP796fqKbcEtExLlVYNj1Cs3nzd6DI0hndP/9k=",
+    "url": "https://preview.redd.it/fzhzltd8llh91.jpg?width=640&crop=smart&auto=webp&s=11545e32f63f28e2abad1b756de3716f25f6271e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Jail Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wnw9d7/the_jail_map_50x50/"
+}
