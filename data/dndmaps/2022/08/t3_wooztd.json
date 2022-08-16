@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kj1kz",
+    "name": "MadamPrezident"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660534020,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wooztd",
+  "picture": {
+    "filesize": 48662,
+    "fullUrl": "https://preview.redd.it/06ero2ziqsh91.jpg?auto=webp&s=dbd2fa74ba20beb19d83c60f61f4ba89fb235af2",
+    "hash": "b270ae28e4",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQMCAAUhBBFRBjEzNHGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAgMEIUEFEsH/2gAMAwEAAhEDEQA/ADoORqbaoaxKmA43mACI5zvWWdUpt69XMW5xYuXcjIieAeKt29WdBx8J+D8o3HUzCS8POda9TrlgSY6r/9k=",
+    "url": "https://preview.redd.it/06ero2ziqsh91.jpg?width=640&crop=smart&auto=webp&s=a7fae84cf359a706a0f6b5d93810d3cc9eb0b750",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "D&D Spelljammer Animated Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wooztd/dd_spelljammer_animated_map/"
+}

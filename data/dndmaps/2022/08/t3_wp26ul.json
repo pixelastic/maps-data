@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ingon",
+    "name": "JM665"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660576544,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wp26ul",
+  "picture": {
+    "filesize": 83462,
+    "fullUrl": "https://preview.redd.it/r6stylux8wh91.jpg?auto=webp&s=79a97133c9a1a3f7c1fdde30cef2b80ee3d14ad5",
+    "hash": "5f333722ee",
+    "height": 452,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQQAEjEFByEiE2Fx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AEkxVfpmO0jlfjiOxV2ezWdq1Vk151I0MEDEmEPA8RDelWSCDRNcHS8tzdroc2VmbJjyCFcsfFWo8ccEjWcz+o5WTj44nkDiLGeNLRfUX+ffOlGPG/9k=",
+    "url": "https://preview.redd.it/r6stylux8wh91.jpg?width=640&crop=smart&auto=webp&s=c437291102649c6b7e86e4da6870c3ecca5f47ca",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Palace of the Sunken King",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wp26ul/palace_of_the_sunken_king/"
+}

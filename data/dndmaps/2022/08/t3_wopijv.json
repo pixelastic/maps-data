@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_rfgxydcv",
+    "name": "epictopdown"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660535623,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wopijv",
+  "picture": {
+    "filesize": 214590,
+    "fullUrl": "https://preview.redd.it/e0so9mnbvsh91.jpg?auto=webp&s=8404b43cb1e310d88f857c27257f5f3d2ec75e37",
+    "hash": "b8c16c17ae",
+    "height": 1536,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMI/8QAHxABAAEDBAMAAAAAAAAAAAAAAQIAAwQRFSExEpHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAIDAAAAAAAAAAAAAAAAAABBAREh/9oADAMBAAIRAxEAPwDOeRF2q15WoloVig98eqVbMv5G3QtzJGEySESckE01417+0o1jNI//2Q==",
+    "url": "https://preview.redd.it/e0so9mnbvsh91.jpg?width=640&crop=smart&auto=webp&s=ef378696adf3401f885510d2db45053d29201026",
+    "width": 640
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 692,
+    "value": 692
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Reworked the temple dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wopijv/reworked_the_temple_dungeon/"
+}

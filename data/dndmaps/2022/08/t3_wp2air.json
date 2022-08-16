@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660576804,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wp2air",
+  "picture": {
+    "filesize": 56148,
+    "fullUrl": "https://preview.redd.it/vm19mq399wh91.jpg?auto=webp&s=65f521842e1b10d14ff7c8982696d0714bc2ad19",
+    "hash": "46cc10f1ba",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFCP/EACMQAAICAAUEAwAAAAAAAAAAAAECAwQABRESIRMyYaExQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBMVH/2gAMAwEAAhEDEQA/AM/xwQR5JXmnrkM8hjeVuR0z2sNPsEH1+4C9NYyyVakBIjRQQ7Ajq687x4OvHjDmRrSmqOrWoqQTazmZldpToQQiHgcH5xFtrPPLu22JYwNsTSAk7B2+sJFoVaf/2Q==",
+    "url": "https://preview.redd.it/vm19mq399wh91.jpg?width=640&crop=smart&auto=webp&s=788f49f4f420188a41bea4445ff9125385f41d00",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Fetid underground prisons",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wp2air/fetid_underground_prisons_32x44/"
+}

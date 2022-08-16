@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660569914,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wozmqh",
+  "picture": {
+    "filesize": 52823,
+    "fullUrl": "https://external-preview.redd.it/mnOgaWD-GmrEnUu75YQGjNK4mIKv1oF4aQXEenmSkoE.jpg?auto=webp&s=a9d033f10b71406c6ea51093c1eaa45feea9c2cc",
+    "hash": "8e42dbf0fa",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECB//EACQQAAEDAwQBBQAAAAAAAAAAAAIBAwUAESEGEhUxE0FhgZHw/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAEDBQAAAAAAAAAAAAAAAAABERQTI2Jjof/aAAwDAQACEQMRAD8AxPTkGsuTLQMXMx3CWEvm3fxV6nheI3MPMgDoCl1tlPe/rRBzTccgONF4DHKKi9LTnZflwdcJTeMk+1/Zpu1SyA1kSdfXP//Z",
+    "url": "https://external-preview.redd.it/mnOgaWD-GmrEnUu75YQGjNK4mIKv1oF4aQXEenmSkoE.jpg?width=640&crop=smart&auto=webp&s=a60bf6e06ba1256cf22b669d901438cbe9f7ae03",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.78,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Here's one of over 100 floors we made for our Magic Wizards Tower map pack all the way back at the start of 2019!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wozmqh/heres_one_of_over_100_floors_we_made_for_our/"
+}

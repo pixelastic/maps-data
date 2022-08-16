@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a5hxq1c1",
+    "name": "paperboymaps"
+  },
+  "date": {
+    "day": 1660521600,
+    "full": 1660568748,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_woz7hx",
+  "picture": {
+    "filesize": 146270,
+    "fullUrl": "https://preview.redd.it/xp6qwpemlvh91.jpg?auto=webp&s=2f131b1e12602b882ee8c9e73840abcdd32799be",
+    "hash": "c6746f128b",
+    "height": 829,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACMQAAEDAgcAAwAAAAAAAAAAAAECAwQRMQAFEhMhQWEVQnH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMhMUL/2gAMAwEAAhEDEQA/AIYmZRBEZdjuymmEKUQ0pJUH19ApNNXvQFBhfxa5CUKcmOt6UgBL7JCgL/QkU58/MF+UG5sNpDMcSY7OydwnhVSa6a0N7jk26xmTM5W3MeS+6zuAipU3fgeGg8xOQg+RS+xNY2f/2Q==",
+    "url": "https://preview.redd.it/xp6qwpemlvh91.jpg?width=640&crop=smart&auto=webp&s=04ea47f951ff09a08ee243652c41bd4b6f5e4757",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Grotto",
+  "url": "https://www.reddit.com/r/dndmaps/comments/woz7hx/forest_grotto_34x44/"
+}
