@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2rnz4nqg",
+    "name": "BuktaOneEye"
+  },
+  "date": {
+    "day": 1660608000,
+    "full": 1660614443,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wphfav",
+  "picture": {
+    "filesize": 112524,
+    "fullUrl": "https://preview.redd.it/qdm39t9xczh91.jpg?width=2048&format=pjpg&auto=webp&s=50b216943c59e31147669d4d271c03b8f0dc0ebf",
+    "hash": "da72dde6ee",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIBAAAQQCAgMBAAAAAAAAAAAAAQIEESEAEgMTFDFRQf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDE2TPyUmFpC6VBm7ism7a9HIEFQ21mgYv8vE0cqbmU6z6Ow9iZr5jfOy7HGeTq2QnWUJibJv6bwCP/2Q==",
+    "url": "https://preview.redd.it/qdm39t9xczh91.jpg?width=640&crop=smart&auto=webp&s=9274923e1de70366cef8a046967cf2adb379e3ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruins of an ancient ritual location",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wphfav/ruins_of_an_ancient_ritual_location/"
+}

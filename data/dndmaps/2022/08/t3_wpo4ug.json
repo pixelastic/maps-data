@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ldmn9",
+    "name": "Greggoman"
+  },
+  "date": {
+    "day": 1660608000,
+    "full": 1660636011,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wpo4ug",
+  "picture": {
+    "filesize": 93525,
+    "fullUrl": "https://preview.redd.it/z9z4rwwt51i91.jpg?auto=webp&s=380061bf520cce4cfc8a6dbc9c293f2d0f083d9a",
+    "hash": "9d6a913c23",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAhEAACAgEDBQEAAAAAAAAAAAABAgMEEQAFIQYSMUGBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgARA//aAAwDAQACEQMRAD8AH6wrbTVrRVI4LCyPA7wOgLpGFBxH7OB4Hvkfuoattaz0riyQNEhRQTIMEEgkfONIbJZsRbNasR2JllWvIA3ec8ke/upi7uFiCC2qNnuUZZsk+NItqheAY3mTNB1Xf//Z",
+    "url": "https://preview.redd.it/z9z4rwwt51i91.jpg?width=640&crop=smart&auto=webp&s=61f21fc04f191da2bb1a21eda2b8972a4c9ac118",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.59,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Frozen Lighthouse Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wpo4ug/frozen_lighthouse_battlemap/"
+}
