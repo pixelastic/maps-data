@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1660694400,
+    "full": 1660741204,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wqodl7",
+  "picture": {
+    "filesize": 74175,
+    "fullUrl": "https://external-preview.redd.it/TyzmKF9lEOblmTXBWYCK4AZywyrGH2R4htY8Tb0S-W8.png?format=pjpg&auto=webp&s=447bd5403b6e866fd064f737ff497360ccfda5c7",
+    "hash": "63968cf830",
+    "height": 360,
+    "lqip": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgAFAgYDAAAAAAAAAAAAAQIAAwQRMQVBEyI0NnOxYYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIjM//aAAwDAQACEQMRAD8Ax9etIKNEM52kFnKOssXONvi33F1FOWdocynALUqAHjW5yxwANsZv7gyv6J/NM9CE9O7RfyfkRvyFgo6IT//Z",
+    "url": "https://external-preview.redd.it/TyzmKF9lEOblmTXBWYCK4AZywyrGH2R4htY8Tb0S-W8.png?width=640&crop=smart&format=pjpg&auto=webp&s=2bef5c5e16aa4efc788cf39365839fa22571f7d0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.96,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Broken Bridge 48x27",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wqodl7/broken_bridge_48x27/"
+}

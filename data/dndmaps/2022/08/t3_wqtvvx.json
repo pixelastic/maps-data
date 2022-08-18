@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1660694400,
+    "full": 1660754902,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wqtvvx",
+  "picture": {
+    "filesize": 111440,
+    "fullUrl": "https://preview.redd.it/eghcokczxai91.jpg?width=2800&format=pjpg&auto=webp&s=28b9aa220b07741fc3a0b5dc9a32bfa279ea4aef",
+    "hash": "0767233707",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACMQAAIBAwQBBQAAAAAAAAAAAAECAwQRIQAFE0EGEhQxUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8Ax7xWk9crq/Ei8djM6B0AvnHzfrGdL9qExLBAr9iRSW/TjQ2Kvq6KSnelVGkGUV7ZBH0bXzfVO4+T1QrJBPPSrILBhxsLYHV9G69CKQ//2Q==",
+    "url": "https://preview.redd.it/eghcokczxai91.jpg?width=640&crop=smart&auto=webp&s=4e5a6efc9873e74feca2a0d4dc99a67e55ab4a5c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Flood in the Mountains Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wqtvvx/flood_in_the_mountains_phased_battle_map_40x60/"
+}

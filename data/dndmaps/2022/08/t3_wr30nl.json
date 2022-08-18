@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2hxoyjz",
+    "name": "GeppaTriceps"
+  },
+  "date": {
+    "day": 1660694400,
+    "full": 1660777469,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wr30nl",
+  "picture": {
+    "filesize": 189094,
+    "fullUrl": "https://preview.redd.it/hlz0h38huci91.jpg?auto=webp&s=0ac3e9538e1d6fbaa45a8f172252a35e5c631b68",
+    "hash": "6bd5fa0fb9",
+    "height": 805,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAICAQMCBwEAAAAAAAAAAAEDAgQRAAUSITEGEyNBUWFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECEUEx/9oADAMBAAIRAxEAPwDdyvbfuNX03PlOZitrYDHKJzyjLHtL7HfRr25Zc2VMrpKJHFdvBOB0yCfw/wA1Pp+H700vg7zK1lJlCQrADkTg5AHcgaQlX3PeKqJbO2TUoBVIlPGXIY6y6HJPzopPukrEf//Z",
+    "url": "https://preview.redd.it/hlz0h38huci91.jpg?width=640&crop=smart&auto=webp&s=fc4e74ba063b121992a9dd3f793c2dbe45536058",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The entrance to the Dragon's Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wr30nl/the_entrance_to_the_dragons_dungeon_35x40_tiles/"
+}

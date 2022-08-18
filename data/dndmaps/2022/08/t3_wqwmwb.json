@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_o7lm1w7i",
+    "name": "Maplocks"
+  },
+  "date": {
+    "day": 1660694400,
+    "full": 1660761761,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wqwmwb",
+  "picture": {
+    "filesize": 203001,
+    "fullUrl": "https://preview.redd.it/xvgxw7sljbi91.jpg?auto=webp&s=267757627a80e97e2b45f620420b226d34d546bf",
+    "hash": "a190372cc5",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBAAAQQDAAIDAAAAAAAAAAAAAQIEBREAAwYhMRIUQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHREBAAEDBQAAAAAAAAAAAAAAAQACBBESIUFRof/aAAwDAQACEQMRAD8Az+vjY6V6Xp/uuiy2RjdGvUjWoBGxQQBVHzVJ9WT5FXjJetZuoOfmlLS0fM5xsvUFEp2j5kgg+ySUEGjQFfuMdxjXv0SVqpRgOX1n/9k=",
+    "url": "https://preview.redd.it/xvgxw7sljbi91.jpg?width=640&crop=smart&auto=webp&s=39cc017ecde086cb72b59d384097ef4fd018ed74",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rocky Road",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wqwmwb/rocky_road_30x60/"
+}
