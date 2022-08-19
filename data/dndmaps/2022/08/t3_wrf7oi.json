@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_rlfzkift",
+    "name": "SaurischiaMaps"
+  },
+  "date": {
+    "day": 1660780800,
+    "full": 1660815814,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wrf7oi",
+  "picture": {
+    "filesize": 95185,
+    "fullUrl": "https://preview.redd.it/e60dpt5yvfi91.jpg?width=1920&format=pjpg&auto=webp&s=b6fbc8678f0c8a9ce22802b76b68154ab5dca5fa",
+    "hash": "1b7a3f4d54",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAABAwMDBAMAAAAAAAAAAAACAQMRAAQFITNzBhIxUoGRwv/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHREAAgEEAwAAAAAAAAAAAAAAAQMCAAQRIRJB4f/aAAwDAQACEQMRAD8AWdV0bC5VDFm57VmUkRjWPpI0qdx/U+HduREn3jfAFKUaIUT2WE8/NJP7Y81SWO28nyfqoFoYMXPmNjHflBdKKmalX//Z",
+    "url": "https://preview.redd.it/e60dpt5yvfi91.jpg?width=640&crop=smart&auto=webp&s=d2b770ce7f11aee9ecb8cdf5ac73a4567ad6b37c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Schematic Map of Cormyr with paths & bridges",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wrf7oi/repost_oc_schematic_map_of_cormyr_with_paths/"
+}

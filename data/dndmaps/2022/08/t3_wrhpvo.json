@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1660780800,
+    "full": 1660824028,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wrhpvo",
+  "picture": {
+    "filesize": 77663,
+    "fullUrl": "https://external-preview.redd.it/zP1C7yXE0vZ0MZwG7N0ccYW7kVPIUuEio94b8hKKvig.jpg?auto=webp&s=f7f81c5e8e19bf093693617e7073d5ecfe65aa13",
+    "hash": "349c713610",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIhAAAQQABQUAAAAAAAAAAAAAAQACAxEEEiFBgSIxUZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEYH/2gAMAwEAAhEDEQA/AMYcPGWDKbdyC72ofC2PCyEh7SaAzcn4hniY2aQNFCxv5Ry2JB1O1oGyd+6kaV//2Q==",
+    "url": "https://external-preview.redd.it/zP1C7yXE0vZ0MZwG7N0ccYW7kVPIUuEio94b8hKKvig.jpg?width=640&crop=smart&auto=webp&s=76721ee3b2ecc3874971348c876f75cba4e6ddc5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hastrian Vale",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wrhpvo/hastrian_vale_60x40_140dpi_oc_battlemap/"
+}

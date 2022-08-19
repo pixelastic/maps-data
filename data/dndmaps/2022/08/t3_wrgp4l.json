@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1660780800,
+    "full": 1660820821,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wrgp4l",
+  "picture": {
+    "filesize": 118356,
+    "fullUrl": "https://preview.redd.it/j6iyq4igfgi91.jpg?auto=webp&s=ba52f01820c62772a213fdb110b897edc91039eb",
+    "hash": "238cd9ff73",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQMCBgIDAAAAAAAAAAAAAQIDBBESAAUGITFBFCIycaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAAMAAAAAAAAAAAAAAAEDABEhAjFh/9oADAMBAAIRAxEAPwDQaZy3LpMN2RMQ0Hy8tuS66VEJIrTv424lnw9PNN5i/DigJYCQh9JVW48Wiu3HGCdOTHIOYzYs58gn0SlVdlA3KSeriNx9HCmay4L6jFeWfGCrn1IFDdT1CQBuR+b9YFbFBF1skYeZbhzvyf/Z",
+    "url": "https://preview.redd.it/j6iyq4igfgi91.jpg?width=640&crop=smart&auto=webp&s=bf66be4b3b37507fe9159fc112efc6f500562ee3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Heart of Torva River, Risia Manifest Zone",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wrgp4l/heart_of_torva_river_risia_manifest_zone_40x40/"
+}
