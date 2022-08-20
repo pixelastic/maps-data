@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1660955261,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wsth9l",
+  "picture": {
+    "filesize": 86672,
+    "fullUrl": "https://preview.redd.it/1l7tt6k6jri91.jpg?auto=webp&s=372ddd6c2f8614a70a48d666e53eaf066aa4f46a",
+    "hash": "eba7d3c1e4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgEDAgUFAAAAAAAAAAAAAgMBBAURABIGFCFBURMiMWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAgEFAAAAAAAAAAAAAAABAgMRAAQxYYGR/9oADAMBAAIRAxEAPwDJ1LuKnw4KUapSo9SQEd0R0+46404TVnNv5JpI5NxQLl8sMnC85LYXYp89uuqBcY3O0JqUoClasKWTCHKztkpKJxiY/dC768xtdA9eFuqSEmEPf2+PjGpY5JHorQOHqVSJyhthz5v3n//Z",
+    "url": "https://preview.redd.it/1l7tt6k6jri91.jpg?width=640&crop=smart&auto=webp&s=2ae3c126d9575d8ea5e7213c927668c1bb606a69",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Fallen Factions",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wsth9l/fallen_factions/"
+}
