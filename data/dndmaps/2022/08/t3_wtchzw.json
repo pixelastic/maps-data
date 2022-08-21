@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ukcr7",
+    "name": "Urza_Is_Mine"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1661016200,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wtchzw",
+  "picture": {
+    "filesize": 135685,
+    "fullUrl": "https://preview.redd.it/nbqhg3c6kwi91.jpg?width=1875&format=pjpg&auto=webp&s=a066f7cf6ce39530f7d600fe4d74f49521687593",
+    "hash": "ce0a005514",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAQMDBAMAAAAAAAAAAAAAAgEDBAAFEhMhMUERYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EAB0RAQACAgIDAAAAAAAAAAAAAAECEQNBADEhkcH/2gAMAwEAAhEDEQA/ABWKLGlCxOtcaGbgkICyXk8E6VfXVPukKDNdecmYtQgyAXFJNMnC5IU6+LxWVbr+DjTDFujrHUhU3SaHHBN+V+71Oe5bJtukyGleKCw0uqDS+B1l2yX1Qs8eYyk5KaNoL6t6jd3fKGMoMKiCV50dfN8//9k=",
+    "url": "https://preview.redd.it/nbqhg3c6kwi91.jpg?width=640&crop=smart&auto=webp&s=6e87ea8b8d166ccbe4b08087c559420fa5f828a0",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Lava Fields",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wtchzw/lava_fields/"
+}

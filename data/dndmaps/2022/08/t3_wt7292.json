@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1661001915,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wt7292",
+  "picture": {
+    "filesize": 146485,
+    "fullUrl": "https://external-preview.redd.it/tNC4zeTGYMIbgRV27BYanyqfVUwB0SVXNLgKrpe0L04.jpg?auto=webp&s=4bdc3e3dd6fe741455f4927ade69a467645fac04",
+    "hash": "2019dbfbd7",
+    "height": 1231,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAIxAAAgAFAgcAAAAAAAAAAAAAAQIABRESIQMxBAYTIzJBkv/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAABEQACAxIh/9oADAMBAAIRAxEAPwDJRM2PLTSkspZU6p8QLfmu+d9oRKyzVSRGbro9pyOFVrWGALsGlK+qwgWMjusfcNOf/9k=",
+    "url": "https://external-preview.redd.it/tNC4zeTGYMIbgRV27BYanyqfVUwB0SVXNLgKrpe0L04.jpg?width=640&crop=smart&auto=webp&s=c0b7d909215ad24d59887921541f7d17a525c6ac",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 615,
+    "value": 615
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "As you return to the labyrinth, the floor is completely collapsed. You can hear the snort of a huge beast in the cavern below.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wt7292/as_you_return_to_the_labyrinth_the_floor_is/"
+}

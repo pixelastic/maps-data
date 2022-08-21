@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1661014613,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wtbvik",
+  "picture": {
+    "filesize": 172074,
+    "fullUrl": "https://preview.redd.it/hgfszealfwi91.jpg?auto=webp&s=bb77bccd963974f4ebfa31c85e155e12254a75b8",
+    "hash": "b61ae3cbc7",
+    "height": 1034,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAQQCAQEJAAAAAAAAAAAAAQIDBBEABRIxExQhQkNRYYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAERAAIEFCH/2gAMAwEAAhEDEQA/AB2udVM1LDU5uO3IWkOIsgmj0JofeSXqRzVyeZu/G1YelaWTHmuPwXHGUlPZhKUivjr7Zn9y2/qbGaF+YBJoH9xjaQ6IEMcEut1P/9k=",
+    "url": "https://preview.redd.it/hgfszealfwi91.jpg?width=640&crop=smart&auto=webp&s=fa1d2e064f0ffccc92c9c598429ea9b7df486cab",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Crystal Infestation - Galaxy",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wtbvik/oc_crystal_infestation_galaxy_26x42_space_island/"
+}

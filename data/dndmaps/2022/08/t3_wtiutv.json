@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1gtjpdv8",
+    "name": "Detreyl"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1661033267,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wtiutv",
+  "picture": {
+    "filesize": 119344,
+    "fullUrl": "https://preview.redd.it/4u2bec8pyxi91.jpg?width=1536&format=pjpg&auto=webp&s=a5e210158a40cf7e7a0cbbc3717e1caad2e48543",
+    "hash": "af680cc6f5",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAj/xAAcEAACAwEBAQEAAAAAAAAAAAABAgMEESEAQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABEXH/2gAMAwEAAhEDEQA/AJ+r1oIo9KaWXSQPn74tmpEkmBeYDzfNqWYnhXG6oBYc4PEsWkZwVVmGZqjnlpNWn//Z",
+    "url": "https://preview.redd.it/4u2bec8pyxi91.jpg?width=640&crop=smart&auto=webp&s=e0a4543cad51ecc7bb96d0f39aa55d533855c5f5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Sentinel Tomb",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wtiutv/21x28_the_sentinel_tomb/"
+}

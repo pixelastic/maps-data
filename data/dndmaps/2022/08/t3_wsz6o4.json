@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7p3k0ocp",
+    "name": "Silvanus_Cartography"
+  },
+  "date": {
+    "day": 1660953600,
+    "full": 1660973240,
+    "month": 1659312000,
+    "week": 1660435200
+  },
+  "id": "t3_wsz6o4",
+  "picture": {
+    "filesize": 151991,
+    "fullUrl": "https://preview.redd.it/vn8gp5lj0ti91.jpg?width=700&format=pjpg&auto=webp&s=1b1e921c21af8cbac6338ba2b2ff1f0c7e7453fa",
+    "hash": "841cde4b77",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABAURBiExQVEScYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AJjxDGJmbmWK8YwBELgodk617+6JnbNsVdiEorRvIBE5PVkI79PO91TrPjGOtHaS0FxA7AgmOY9v2j3fF8PK4kvjI7uxf5yz6Jb34oS9om9KH//Z",
+    "url": "https://preview.redd.it/vn8gp5lj0ti91.jpg?width=640&crop=smart&auto=webp&s=fcbdb63786e0bbf41b934e0c848e5be0545f4e98",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "First Hideout Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wsz6o4/first_hideout_map_10x10/"
+}
