@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1ff1k66",
+    "name": "Smyttis"
+  },
+  "date": {
+    "day": 1661040000,
+    "full": 1661118106,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wub567",
+  "picture": {
+    "filesize": 59460,
+    "fullUrl": "https://preview.redd.it/22kdo6nez4j91.jpg?width=4096&format=pjpg&auto=webp&s=bf997497393f76e42c948e3fbac3fd42fbc9cd80",
+    "hash": "7ec8dcda46",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFCP/EACEQAAIBBAICAwAAAAAAAAAAAAECAwQFESEAMRJhIkGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AM/TW0T2mNI1UTJGoBYY3ne/fD2+3xw2pUkiR6wFmUhRvKkL8vTfm+SoLvNFEirHCR4ZOQTk5779cdo6p6uGpd1RWWNgCo7BGwc/XJTZL//Z",
+    "url": "https://preview.redd.it/22kdo6nez4j91.jpg?width=640&crop=smart&auto=webp&s=80b4dfbb81dfb4082a0c7f3b01dcb62a5aa906b6",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Under Fortress in 4 Parts",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wub567/under_fortress_in_4_parts/"
+}

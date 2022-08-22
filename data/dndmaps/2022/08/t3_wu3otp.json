@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4qzqmvhw",
+    "name": "salamandra_brisada"
+  },
+  "date": {
+    "day": 1661040000,
+    "full": 1661099316,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wu3otp",
+  "picture": {
+    "filesize": 60686,
+    "fullUrl": "https://preview.redd.it/6lq5xv0kf3j91.jpg?auto=webp&s=620451bd99a6058eb9e74a780b2a5b876d845a99",
+    "hash": "fe182db931",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAAMhEhMxIjJBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDF7SmSCMYzFNtq1ubZUqHKQG6uOY9UNpoMajnIBqyyKx20Et3MR4+UsTv/2Q==",
+    "url": "https://preview.redd.it/6lq5xv0kf3j91.jpg?width=640&crop=smart&auto=webp&s=1c5383dbc58ce3ae4c9f83db26928dc2c4b3af0e",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "A simple camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wu3otp/a_simple_camp/"
+}
