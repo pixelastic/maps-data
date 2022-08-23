@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1661126400,
+    "full": 1661212295,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wv96ze",
+  "picture": {
+    "filesize": 116153,
+    "fullUrl": "https://preview.redd.it/z2o9methrcj91.jpg?auto=webp&s=e201d1c32531289781c599c032b8b46148b2e3a5",
+    "hash": "d526ba0d45",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACMQAAIBAgYCAwAAAAAAAAAAAAECAwQRAAUSEyFBBiIxUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIRAxEAPwDZ+Y0E8ueVVYshgWGSMCWRGKgeoCqRfltRuAOsHLGFe7QQCR6lLhlKFT8kX564xdnySd6iulkio596YtGtSxGkdNx9/pwr43LU5Tmjw19PczvsrtRkqg1EhgQtiCTc837wRByZpnf/2Q==",
+    "url": "https://preview.redd.it/z2o9methrcj91.jpg?width=640&crop=smart&auto=webp&s=66a5b15fdfb90d245ca963c3ee4d111294c583ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Wretched Reliquary - A Five Room Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wv96ze/the_wretched_reliquary_a_five_room_dungeon/"
+}
