@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1661212800,
+    "full": 1661251199,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wvleur",
+  "picture": {
+    "filesize": 203363,
+    "fullUrl": "https://preview.redd.it/htk86r8qyfj91.jpg?auto=webp&s=3601bc2a8a56a26af1bd21c0cd201776176a84e6",
+    "hash": "5686dcf710",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIEAwURIQASE0EUQlH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhIh/9oADAMBAAIRAxEAPwClvtCDBoO5q4YLlGUgFt9sb9a/OByLvA7q8iUWeoofApBumfqS2882W2TbntS1A8ar2AdWrZBLY2oB9dtgjeRwu8mc0pTEoRfGUBPyKfVsnZxo64FDSkuM16k//9k=",
+    "url": "https://preview.redd.it/htk86r8qyfj91.jpg?width=640&crop=smart&auto=webp&s=5ebecacc4ce06cf2817e3a40c1cd709e7cef0ea4",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 762,
+    "value": 762
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Cramped city",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wvleur/cramped_city_32x44/"
+}

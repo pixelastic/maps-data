@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1661212800,
+    "full": 1661261125,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wvos49",
+  "picture": {
+    "filesize": 72860,
+    "fullUrl": "https://external-preview.redd.it/J8sLPm22k-TjXF9RyBlFnt8_NchN_LzM2KPCuS-PY5Y.jpg?auto=webp&s=336f93174f73fabfa59d9e7f88ef5eae0100d2a5",
+    "hash": "f11c215cae",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIH/8QAIxAAAQQBBAEFAAAAAAAAAAAAAQIDBBEhAAUGEhMjQVFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAETI2H/2gAMAwEAAhEDEQA/AMo4htMFxlLkyOJK1IW6pCrR1ABoA/dXp5fscJkPvwkhlIbQttAtV4BVZqv3V8R3+Kyy01NX4ugKHFdja0H2GaGCRjTyneGZUeWiH2kF4JbbUkq9NsZo5omqGfjVGuIFp//Z",
+    "url": "https://external-preview.redd.it/J8sLPm22k-TjXF9RyBlFnt8_NchN_LzM2KPCuS-PY5Y.jpg?width=640&crop=smart&auto=webp&s=a53a18ecfbe50265f917d7cf48731505dd19bbee",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The nobility always rest well in the Underdark Drow Manor. Comfortable, well equipped bedrooms are always kept ready for them.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wvos49/the_nobility_always_rest_well_in_the_underdark/"
+}
