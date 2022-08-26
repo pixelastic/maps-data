@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_rasr4dcu",
+    "name": "SilverCompassMaps"
+  },
+  "date": {
+    "day": 1661385600,
+    "full": 1661451344,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wxlcck",
+  "picture": {
+    "filesize": 68882,
+    "fullUrl": "https://preview.redd.it/z39g2mzbiwj91.jpg?auto=webp&s=1a7fbb95a7b40330f368e6fb0cf32c12c404af3a",
+    "hash": "cc51fef080",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EAB4QAAIBBAMBAAAAAAAAAAAAAAECAwAEESEFEkFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQACAwAAAAAAAAAAAAAAAAAAERIhQf/aAAwDAQACEQMRAD8AwxpjPKS8hQbIzvBobeQo2YlPcnRH3PlMvoEiu2VM9STo1XwlpHLyMKMWCnwGiJ5WtP/Z",
+    "url": "https://preview.redd.it/z39g2mzbiwj91.jpg?width=640&crop=smart&auto=webp&s=59d0eba599d1f02f97f8f039c9d110f48d096896",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hangman’s Tree",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wxlcck/hangmans_tree/"
+}

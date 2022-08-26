@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3rttuyef",
+    "name": "WithThePowerToMelt"
+  },
+  "date": {
+    "day": 1661385600,
+    "full": 1661392356,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wx1d7m",
+  "picture": {
+    "filesize": 45799,
+    "fullUrl": "https://preview.redd.it/67pb416gmrj91.jpg?width=1760&format=pjpg&auto=webp&s=795677d74fa597cb5bd25667c1319f88ab0b2ede",
+    "hash": "bb1eccf41d",
+    "height": 611,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMGB//EACAQAAIBAwQDAAAAAAAAAAAAAAECAwAEEQUTMTIhceH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AwK3SRlwdkIMDLRg0U8LPaNIYItrJAk2gpPoc1LpdXOQEmkyfHanzNqCITJJKF47/AGg//9k=",
+    "url": "https://preview.redd.it/67pb416gmrj91.jpg?width=640&crop=smart&auto=webp&s=e281de1e3ba3abfbfc32629da60306304a47704a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Depths - A collection of 9 layered sewer dungeon maps from Dark Souls",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wx1d7m/the_depths_a_collection_of_9_layered_sewer/"
+}

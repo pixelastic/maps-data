@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1t7s5imz",
+    "name": "dsteinrich"
+  },
+  "date": {
+    "day": 1661385600,
+    "full": 1661436881,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wxfe19",
+  "picture": {
+    "filesize": 115911,
+    "fullUrl": "https://preview.redd.it/44l5kfwxavj91.jpg?width=4096&format=pjpg&auto=webp&s=b8ba919a9d3b1f303df623ebc6b4d22bb3f19d5e",
+    "hash": "0c98ca2fe6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIRAAMhBIESEyIjQVGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwDI1LArgCCYEDEeaXa1MsyuEFsLGBiPW9EuM9xZZpThJA2NR5uo7jW2AHUJGPs0MrNp/9k=",
+    "url": "https://preview.redd.it/44l5kfwxavj91.jpg?width=640&crop=smart&auto=webp&s=d26f7e3c979b7dd7f0cbac2fac87920eb571c146",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A Few More Inkarnate Maps for the Masses",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wxfe19/a_few_more_inkarnate_maps_for_the_masses/"
+}
