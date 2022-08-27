@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_lcb5r",
+    "name": "Jorlen01"
+  },
+  "date": {
+    "day": 1661472000,
+    "full": 1661517209,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wy80vg",
+  "picture": {
+    "filesize": 61538,
+    "fullUrl": "https://preview.redd.it/0oqe79oxx1k91.jpg?auto=webp&s=ae45a7346a77ad9a81af07fd674b11f7d803fad8",
+    "hash": "b05e24fd5e",
+    "height": 340,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAJRAAAgECAgsAAAAAAAAAAAAAAQIEAAMSIQURIzE0NVFxcoGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAdEQABAwUBAAAAAAAAAAAAAAABAAIREhMhQWGR/9oADAMBAAIRAxEAPwAozx2UWr8FCARtUIVidXapoSCG97AyHEzG2TkcPTPfSXuEHr5WRpPnkTyo0BhMTnqjdLtDxf/Z",
+    "url": "https://preview.redd.it/0oqe79oxx1k91.jpg?width=640&crop=smart&auto=webp&s=13c1a152c56aa910c02604b5abbce7aa9756436c",
+    "width": 640
+  },
+  "score": {
+    "comments": 71,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 324,
+    "value": 324
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "The latest iteration of my party's upcoming DnD world, take a gander and ask away!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wy80vg/the_latest_iteration_of_my_partys_upcoming_dnd/"
+}

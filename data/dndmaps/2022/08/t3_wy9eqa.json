@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1661472000,
+    "full": 1661520928,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wy9eqa",
+  "picture": {
+    "filesize": 76058,
+    "fullUrl": "https://preview.redd.it/t48s80b592k91.jpg?width=2800&format=pjpg&auto=webp&s=0e7adc05d84285baff6d0b7efc2362d2722f6b93",
+    "hash": "9266ae634d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBv/EACEQAAICAQUAAwEAAAAAAAAAAAECAwQRAAUGEiETFEIi/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAASIiNhwf/aAAwDAQACEQMRAD8Aymx8Tu8kNeM2q8NqynevCGU9VZSQW7fpgDhRkgf15jRvnFL/ABxponuxWLVaP5JoXlBLKFDMUx+lB9U4JHozpbFybdOPtQdIqss9crELAUdmjyAFbtkDALAOB29wcjV7zyPd+SzXn+vAticmA2AgLqmSCidQASRgFyO3mBgaKtcRgudP/9k=",
+    "url": "https://preview.redd.it/t48s80b592k91.jpg?width=640&crop=smart&auto=webp&s=e2cfae8a27c3084422c4f7c4e1ae786ed66710c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Arcane Library Teleportation Circle Ritual Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wy9eqa/arcane_library_teleportation_circle_ritual_phased/"
+}
