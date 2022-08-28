@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1661558400,
+    "full": 1661585601,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wywn43",
+  "picture": {
+    "filesize": 207427,
+    "fullUrl": "https://preview.redd.it/olso0enbl7k91.jpg?width=2160&format=pjpg&auto=webp&s=28a699ddc783a233eeea53b06434e6b71252d5cc",
+    "hash": "5a7614fa1f",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEABRIhFUFV0VGRk//EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAREiL/2gAMAwEAAhEDEQA/ADUdTS0tKjMhLLcc7uSE2bClVz3NXhbqL/koP2PWbch1el6W8zGKHZDhAebTwEi72oHc0Tyfi8j0LWfFx/xHrI5yarJc3//Z",
+    "url": "https://preview.redd.it/olso0enbl7k91.jpg?width=640&crop=smart&auto=webp&s=1bcf5ecec488279311ad2620a74871de1c9c749c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Map Series: The Watch Tower Part 1",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wywn43/map_series_the_watch_tower_part_1/"
+}

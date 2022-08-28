@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1ug593b3",
+    "name": "DmAl85"
+  },
+  "date": {
+    "day": 1661558400,
+    "full": 1661578208,
+    "month": 1659312000,
+    "week": 1661040000
+  },
+  "id": "t3_wyum24",
+  "picture": {
+    "filesize": 125297,
+    "fullUrl": "https://preview.redd.it/tc8jsh9jz6k91.jpg?auto=webp&s=71c225eb792bee401f24f27fb4223e9bc36e8754",
+    "hash": "107f72f98c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACIQAAICAQMEAwAAAAAAAAAAAAECAwQRABIhBTFxgRNBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAhEBMSEAEmETIkGBwf/aAAwDAQACEQMRAD8Ax9CNLcUk90NY+JzEFkYgct3I86JcowGSrNWjMDSyFcJJgFuxKk+Bqd0WxNDUlswyGNg5XYOVI2/YOfzT1pjZkrrPh1dirLjjG3Pr1od4yECUd08ctu6wq86lkJIuniI+wkqvL9a//9k=",
+    "url": "https://preview.redd.it/tc8jsh9jz6k91.jpg?width=640&crop=smart&auto=webp&s=307be91667c1357f65578efd297078bf78b1798c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fountain of Vitality",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wyum24/fountain_of_vitality/"
+}
