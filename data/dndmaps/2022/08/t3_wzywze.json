@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1661644800,
+    "full": 1661702449,
+    "month": 1659312000,
+    "week": 1661644800
+  },
+  "id": "t3_wzywze",
+  "picture": {
+    "filesize": 89120,
+    "fullUrl": "https://preview.redd.it/061vq7a09hk91.jpg?auto=webp&s=3b3129a1f187dc459a2bef5a6a0557862a2837c4",
+    "hash": "5ba6331b19",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDBAARBRIhMWFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAaEQABBQEAAAAAAAAAAAAAAAAAARESITEC/9oADAMBAAIRAxEAPwDIKdyvJKiIqFuygrrRPz9w/LcbI1tpHcxsDoKfS/Bi6kUaTRuojDrrr2I2MnkL8IsmK13eYeVYDwCfe8kfqVYKRa9P/9k=",
+    "url": "https://preview.redd.it/061vq7a09hk91.jpg?width=640&crop=smart&auto=webp&s=820abffd2806b458f56469ad546212936fd9a95b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Base Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wzywze/base_camp_oc30x30/"
+}

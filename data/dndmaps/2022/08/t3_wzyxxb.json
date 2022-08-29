@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1661644800,
+    "full": 1661702510,
+    "month": 1659312000,
+    "week": 1661644800
+  },
+  "id": "t3_wzyxxb",
+  "picture": {
+    "filesize": 82543,
+    "fullUrl": "https://preview.redd.it/mpknfph49hk91.jpg?width=3150&format=pjpg&auto=webp&s=56c77a55a95c838376ae2ba01e84b2677ffc9128",
+    "hash": "ae5501d5dc",
+    "height": 996,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYQAAIBAwIEBwAAAAAAAAAAAAECAwARIQQxBhIiUQUTFSMzQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AMb4e8Qj0PDM8SjUJOodouVgUcuvKS32tgMb/lRUsieY9kG53NPQ6kjTMqy2VsMLZx27X2NC9PMnX73Vn4WpHKYwv//Z",
+    "url": "https://preview.redd.it/mpknfph49hk91.jpg?width=640&crop=smart&auto=webp&s=29bb0cd33945a99039d246f3e0bd8d085da485a8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Mist. Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/wzyxxb/the_mist_phased_battle_map_45x70/"
+}
