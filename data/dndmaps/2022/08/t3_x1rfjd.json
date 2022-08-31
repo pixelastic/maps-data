@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cuc1h9ol",
+    "name": "SpaceCoastDragon"
+  },
+  "date": {
+    "day": 1661817600,
+    "full": 1661886208,
+    "month": 1659312000,
+    "week": 1661644800
+  },
+  "id": "t3_x1rfjd",
+  "picture": {
+    "filesize": 70247,
+    "fullUrl": "https://preview.redd.it/p3p6jk5iewk91.jpg?auto=webp&s=77d5c9e4d357762c88bb86831827b6ea23153494",
+    "hash": "3ff59c4442",
+    "height": 826,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EAB4QAAICAgIDAAAAAAAAAAAAAAECABESIQMxQVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMYXB+IKMEI2WYmzrxQ6i8iqjUrZLQo18kmY5Uo2Ks3CWNnTd+oH/9k=",
+    "url": "https://preview.redd.it/p3p6jk5iewk91.jpg?width=640&crop=smart&auto=webp&s=9758f80491be75f500d37cd6850375f3358688a6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Rappan Athuk - Level 1 - The Lair of the Dung Monster. All maps were created using assets from Forgotten Adventures (www.forgotten-adventures.net). Continuing my recreation of the Rappan Athuk maps.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x1rfjd/rappan_athuk_level_1_the_lair_of_the_dung_monster/"
+}
