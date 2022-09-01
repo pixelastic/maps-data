@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3c9z46g4",
+    "name": "GoAdventureMapsEx"
+  },
+  "date": {
+    "day": 1661904000,
+    "full": 1661929950,
+    "month": 1659312000,
+    "week": 1661644800
+  },
+  "id": "t3_x26yyo",
+  "picture": {
+    "filesize": 154336,
+    "fullUrl": "https://preview.redd.it/lzvpqfbg00l91.jpg?auto=webp&s=483c9009019d3896efa6f25f26180b9987b72e21",
+    "hash": "d8a68f1891",
+    "height": 873,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgEEAQUBAQAAAAAAAAAAAQIDBAUREwAGEiExcTJR/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EAB4RAAICAAcAAAAAAAAAAAAAAAEDAAQCERJBYbHB/9oADAMBAAIRAxEAPwDLLt0kbVBRwT6ZyZirOikHuwp9/COX1nRVuWdl26yrMpGzPkMRx263nUtDFWwbaQ1GAzHLA9qYx8/nEbjUJLVO0FTJGhd/GSR+29Y9cI4bNg6c+Y3ahIWSANuvZ//Z",
+    "url": "https://preview.redd.it/lzvpqfbg00l91.jpg?width=640&crop=smart&auto=webp&s=78c5365201000562db0c75916c3846482a51400c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 241,
+    "value": 241
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lava Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x26yyo/lava_dungeon_22x30/"
+}
