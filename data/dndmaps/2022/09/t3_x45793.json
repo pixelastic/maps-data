@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3oc7zg0x",
+    "name": "Qualaxy"
+  },
+  "date": {
+    "day": 1662076800,
+    "full": 1662134470,
+    "month": 1661990400,
+    "week": 1661644800
+  },
+  "id": "t3_x45793",
+  "picture": {
+    "filesize": 106493,
+    "fullUrl": "https://preview.redd.it/rjsldk4mxgl91.jpg?auto=webp&s=960257dfd6f6c3d1fd8b4ced3c52839aacf34e87",
+    "hash": "572984b47e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgf/xAAgEAACAgIBBQEAAAAAAAAAAAABAgMRABIhEyIjMUHw/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAAIDAAAAAAAAAAAAAAAAAAABETFB/9oADAMBAAIRAxEAPwCKrIA0bLEFlYsGaj2m8MhljDlZOqA3B9lT9qxjjMm6GOzbHc0BRH4YdQXPk2Bs8er+1h9DQ6Z//9k=",
+    "url": "https://preview.redd.it/rjsldk4mxgl91.jpg?width=640&crop=smart&auto=webp&s=d98ed0860b5a8e88d2bf4babf3bef004afdfdbbd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Swamp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x45793/the_swamp_oc30x30/"
+}
