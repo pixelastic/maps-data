@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1662163200,
+    "full": 1662217226,
+    "month": 1661990400,
+    "week": 1661644800
+  },
+  "id": "t3_x4wgad",
+  "picture": {
+    "filesize": 123819,
+    "fullUrl": "https://external-preview.redd.it/QTJsVNEnTjEMfxjNiF_8JLeNGhPSBPSJwsS7jz2D3Xg.jpg?auto=webp&s=6035ad52ffef9d58615ba8bdebc0a96805de159a",
+    "hash": "b39481181e",
+    "height": 1152,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAoEAABAwIADwAAAAAAAAAAAAABAgMEACEFBhESExQWMUFSU2Fjk6L/xAAVAQEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8ANgQIDmLOqsraSqTcKOaCRvIAPE1J7NRel9GmoUKM5gpgyHXNO0oKbKRdA5e96HyTfL6jUlFGnHg2Heif/9k=",
+    "url": "https://external-preview.redd.it/QTJsVNEnTjEMfxjNiF_8JLeNGhPSBPSJwsS7jz2D3Xg.jpg?width=640&crop=smart&auto=webp&s=f8f9e51c8b9679a6e39fee10cbb9db219b515995",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "This battlefield, once strewn with corpses and blood is now a calm place of beauty. With poppies growing in the place of fallen soldiers.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x4wgad/this_battlefield_once_strewn_with_corpses_and/"
+}

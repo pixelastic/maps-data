@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_dcae5",
+    "name": "Walt_Lives"
+  },
+  "date": {
+    "day": 1662163200,
+    "full": 1662176141,
+    "month": 1661990400,
+    "week": 1661644800
+  },
+  "id": "t3_x4kiq0",
+  "picture": {
+    "filesize": 88226,
+    "fullUrl": "https://preview.redd.it/elzck4xcdkl91.jpg?auto=webp&s=d7b9674f561460c119a070cbaaf5e759cc41d0bb",
+    "hash": "475e7de599",
+    "height": 466,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJBAAAgICAQEJAAAAAAAAAAAAAQIDEQQhABITMUFRYXGRofD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A1GaR40t8NsqDtQshjkCmNDdsw3YHtfdwuPKciUrC0qIWVratr0kkfNb+uW62OXNExuPRo+o2P3lxEWOkNFSx1W/AcD//2Q==",
+    "url": "https://preview.redd.it/elzck4xcdkl91.jpg?width=640&crop=smart&auto=webp&s=73c6e9da4d53fbce1fd72f29a543da5677d4746c",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "The map for my homebrew campaign.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x4kiq0/the_map_for_my_homebrew_campaign/"
+}
