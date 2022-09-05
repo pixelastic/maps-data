@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1662249600,
+    "full": 1662310839,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x5rw62",
+  "picture": {
+    "filesize": 128683,
+    "fullUrl": "https://external-preview.redd.it/JJ4x7ytOHdRgfwpVDu3MCtrCz1_QgUcURa6pzdf3QyQ.jpg?auto=webp&s=500bb11c06fbcffced791b44b03d0330bc27c2b4",
+    "hash": "bd4ba8af1d",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACMQAAEDAwIHAAAAAAAAAAAAAAIBAwQABRESUxQVITFBk6H/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAxIh/9oADAMBAAIRAxEAPwDLbdBZkRVZZ04QMm4PTBL4oLksnbD21R2+I5Ct7iNYNvTqIs9lpbxRbZfaNy2qpzHLZ2D2f//Z",
+    "url": "https://external-preview.redd.it/JJ4x7ytOHdRgfwpVDu3MCtrCz1_QgUcURa6pzdf3QyQ.jpg?width=640&crop=smart&auto=webp&s=ee7fbdde8fe83ff76e6ed4241bb8df20220ebc8d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "\"By the lake - Sunset\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x5rw62/by_the_lake_sunset_oc_battlemap/"
+}

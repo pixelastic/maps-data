@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3xqpsq4q",
+    "name": "pathspeculiar"
+  },
+  "date": {
+    "day": 1662249600,
+    "full": 1662310115,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x5rlrx",
+  "picture": {
+    "filesize": 155118,
+    "fullUrl": "https://preview.redd.it/krj1zu7wfvl91.jpg?auto=webp&s=1923ce206079accb9253e5489a1ca91ca59f489c",
+    "hash": "8dac6acf5e",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIRAAAgIBBAMBAQAAAAAAAAAAAQIDBAUABhESIjGhscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A3DeGQfETVxWuuy9y8kZkJIAI8f35pHadSQRWLSW57VayQ0LSSsxVQT4nk+x90BuTB3sllLVjHwsIiTySpDdhxyRz/NU21cbeoY5Y5p+kYVRHCy9jGAPRPOg//9k=",
+    "url": "https://preview.redd.it/krj1zu7wfvl91.jpg?width=640&crop=smart&auto=webp&s=084b1bf92e4d5406f1601f8cfae7908d0cde2677",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 127,
+    "value": 127
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Bogpike Tower - isometric map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x5rlrx/oc_the_bogpike_tower_isometric_map/"
+}

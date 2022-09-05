@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ccwbwe2n",
+    "name": "Estelena"
+  },
+  "date": {
+    "day": 1662249600,
+    "full": 1662298557,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x5n5oz",
+  "picture": {
+    "filesize": 102961,
+    "fullUrl": "https://preview.redd.it/969u83q4hul91.jpg?auto=webp&s=66e516a3101b0190327d4840381e37ffa2ac0a02",
+    "hash": "60bae4eda1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFBv/EACUQAAICAQIEBwAAAAAAAAAAAAECAxEEACEFBhIxEyIjQVFx4f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEQMhQf/aAAwDAQACEQMRAD8AxUwwEVog7dUll3fzNsPsV+6KtjyLJHFJD6lFVZAho+wPz276fmLh0PDcaEQl38QkEyEGrN7amZMQjy4qJZx0W7bkkkbnUlrdMaObtH//2Q==",
+    "url": "https://preview.redd.it/969u83q4hul91.jpg?width=640&crop=smart&auto=webp&s=97e26cd91c5fee535a80b7feaaa2d49bdebff37e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A simple forest map with a road and resting area great for a random encounter!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x5n5oz/a_simple_forest_map_with_a_road_and_resting_area/"
+}

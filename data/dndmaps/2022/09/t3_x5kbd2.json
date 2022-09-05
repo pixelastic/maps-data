@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1662249600,
+    "full": 1662289461,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x5kbd2",
+  "picture": {
+    "filesize": 109960,
+    "fullUrl": "https://preview.redd.it/giw4ws5hqtl91.jpg?auto=webp&s=f6bd6cabb394818448e318a6278ccaf1a9026be1",
+    "hash": "ea8376b24a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIDEQQAEjEhQWETFCIycZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oADAMBAAIRAxEAPwDEyA2Nil4Z5BHu3hDtUWbAF3xRJI1b5Ekq+ikrRAKoeQOQjNRCs3nm/wC6AzCIRrKUkiYl2robPfwaqx3HOmz5MaWVnw5fbxOrB41B+3T40ORfH6NCH2P/2Q==",
+    "url": "https://preview.redd.it/giw4ws5hqtl91.jpg?width=640&crop=smart&auto=webp&s=fb34d0f1e3da1b07e6b9a025b62e1d9ce11e2478",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A map for fights in the deepest reaches of the forest",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x5kbd2/a_map_for_fights_in_the_deepest_reaches_of_the/"
+}
