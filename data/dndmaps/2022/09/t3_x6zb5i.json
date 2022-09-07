@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5myf4len",
+    "name": "Yeti_Teddy"
+  },
+  "date": {
+    "day": 1662422400,
+    "full": 1662433450,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x6zb5i",
+  "picture": {
+    "filesize": 118830,
+    "fullUrl": "https://preview.redd.it/knjx6jedm5m91.jpg?width=3250&format=pjpg&auto=webp&s=5b9efc773cb0e5c2461489bfc48c934993fcf3fd",
+    "hash": "c6de41837b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQMCAAQFERIhMTKB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AM0x9km7Mg5s1nkIx4x39pcrjlWaITS+TgZmO9daFVjsqq0hOM7cy2R6kDxR5W/XepQpKSoLJI761QlUEWsw/9k=",
+    "url": "https://preview.redd.it/knjx6jedm5m91.jpg?width=640&crop=smart&auto=webp&s=0a03fa39d97f1c1af2b76f0c5379c5a083d72b26",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Simple tavern map, day and night version",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x6zb5i/simple_tavern_map_day_and_night_version/"
+}
