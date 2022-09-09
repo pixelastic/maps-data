@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7672j9jh",
+    "name": "HelpfulMention"
+  },
+  "date": {
+    "day": 1662595200,
+    "full": 1662661182,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x97xaf",
+  "picture": {
+    "filesize": 95423,
+    "fullUrl": "https://preview.redd.it/sqm0fkopfom91.jpg?auto=webp&s=c57ccfc014d41874cbf143da7eb4d75401f77707",
+    "hash": "370c197267",
+    "height": 450,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACMQAAICAQIGAwAAAAAAAAAAAAECAxEEACEFBhITQVExgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAQACAwAAAAAAAAAAAAAAAAEAEQISIf/aAAwDAQACEQMRAD8A1ZGc8JxpoXgxMdIKRpKZyvgixdefvQpDJn43ayY8bI7kTFZOkgqaNAEAEb7/ALqiixYWALIGMkcjsSSSSCAN/QHj40n5TdsngAyZj1TvNIjNVWqigKHrUo1UwqPfJ//Z",
+    "url": "https://preview.redd.it/sqm0fkopfom91.jpg?width=640&crop=smart&auto=webp&s=386fb2fb68df814c92dee4bb7b9ecc6dfc4ad7c3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Handdrawn map of Silverymoon.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x97xaf/handdrawn_map_of_silverymoon/"
+}
