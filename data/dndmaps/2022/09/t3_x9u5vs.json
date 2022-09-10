@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1662681600,
+    "full": 1662726325,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x9u5vs",
+  "picture": {
+    "filesize": 84272,
+    "fullUrl": "https://preview.redd.it/rxiwjw9qstm91.jpg?auto=webp&s=2cc43f4d006306db2da6332ae93e4e370372cbed",
+    "hash": "7fee29293a",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAhEAACAgEEAgMAAAAAAAAAAAABAgMRBAAFITESE0FRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACAxIRITFB/9oADAMBAAIRAxEAPwCbtcUWLs7StGoeSFip9ZZg/BHXA4vvRN1yMefAIh8FmQBnAryX7v50CTImaExNK/riQSIt9NQF/mnbZiwTwZjyxhmEIo3XYOklsgkvb1XCXHeeL//Z",
+    "url": "https://preview.redd.it/rxiwjw9qstm91.jpg?width=640&crop=smart&auto=webp&s=ae83a0b1fc73ca1d1d03c809ad16130eed42b188",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Tavern with Maze",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x9u5vs/tavern_with_maze_32x22/"
+}

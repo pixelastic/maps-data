@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1662681600,
+    "full": 1662728033,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_x9urs9",
+  "picture": {
+    "filesize": 49186,
+    "fullUrl": "https://preview.redd.it/mkztuhh7ytm91.jpg?width=1000&format=pjpg&auto=webp&s=3d86830a6d8c35c89eeebb0ab52ea26084794e04",
+    "hash": "5b3e40d132",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,UklGRtoAAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSEAAAAABF9D/iAiwjWxbycfy79KNvhx5F8tpidoj+h+y/D5zhnUElRQsOZBzD9B5dQpfnvFawskbaMluYSq0wTLQN3YKVlA4IHQAAACQAgCdASoQABAAAUAmJYwCdH8AgmTBX+BfYnPXAAD+/zrSzHPBD1mizJ+E+usapG+UBQjdKKrQRgjmY52ptO0CjjaQvOpmsRZxqnGQt4Pj3q7ahvY2s7UyBE9R/MVyklwDSJEtByroMaKXtOjMzUNbToAAAA==",
+    "url": "https://preview.redd.it/mkztuhh7ytm91.jpg?width=640&crop=smart&auto=webp&s=1221f53a5409692d9552dd0077d5fd4b78bca7bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Giant Water Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/x9urs9/free_giant_water_cave_50x50/"
+}
