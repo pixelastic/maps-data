@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1662768000,
+    "full": 1662796157,
+    "month": 1661990400,
+    "week": 1662249600
+  },
+  "id": "t3_xajcxb",
+  "picture": {
+    "filesize": 82476,
+    "fullUrl": "https://preview.redd.it/pp7pxcd5lzm91.jpg?auto=webp&s=d06401dbd11fe3169c6663af9f3b2cdb43ef4690",
+    "hash": "472e57988e",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDCP/EABwQAAICAwEBAAAAAAAAAAAAAAECAxEAEkExUf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAExQf/aAAwDAQACEQMRAD8Az/AqGGyqedUHmKSFNGakuiefMITSADW2AAJIrLPGWh1BVmbwKwJybTuH/9k=",
+    "url": "https://preview.redd.it/pp7pxcd5lzm91.jpg?width=640&crop=smart&auto=webp&s=b5139185dd756b27350efeb3a98a728b5cb1a93e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.87,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Castle Prison Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xajcxb/castle_prison_battle_map_30x30/"
+}
