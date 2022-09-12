@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1662854400,
+    "full": 1662902889,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xbiktv",
+  "picture": {
+    "filesize": 233319,
+    "fullUrl": "https://preview.redd.it/75sapprvd8n91.jpg?auto=webp&s=b1a816988adae315d9a382cf88c3032aad263c6e",
+    "hash": "668230c053",
+    "height": 1440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAcDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIRAAAQQBAwUAAAAAAAAAAAAAAQIDBBEAITFhBRIiUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAAICAgMAAAAAAAAAAAAAAAECAAMR0QSRof/aAAwDAQACEQMRAD8AziZ0uZIgPJMd9SOxACEsUtVEV5Vfsn5ucZUzHAiOQ04lTpSLbGpAvfka7jnGAS9mGQw93KFnHVDgqexqf//Z",
+    "url": "https://preview.redd.it/75sapprvd8n91.jpg?width=640&crop=smart&auto=webp&s=e888302006367779fcf14b73247000765bd090b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Lava Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xbiktv/lava_dungeon_40_x_90/"
+}
