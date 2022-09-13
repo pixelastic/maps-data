@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1662940800,
+    "full": 1662982724,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xcahjo",
+  "picture": {
+    "filesize": 151455,
+    "fullUrl": "https://preview.redd.it/8u27o2fszen91.jpg?auto=webp&s=9e0e39fb22080907ca65bc08ee42554ad505dd44",
+    "hash": "758628f177",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhQYETMTL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwDJ4YZSm2TXNpgkrQxBVKxqgmwOWCQck+M6l7pHHPfllq7WscLYKor4A6HjTNVtUdrpWOcpS2pCSEkfGQQeu/vGlvXa72WaLkFwo/OckAAn2cn3pTvHtEyqUcR//9k=",
+    "url": "https://preview.redd.it/8u27o2fszen91.jpg?width=640&crop=smart&auto=webp&s=0e378739498877cef028611bba4436e41bdf3f30",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Deep Delve Mine - Battle Map (30x45)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xcahjo/deep_delve_mine_battle_map_30x45/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7akdapgt",
+    "name": "DND-Dr88"
+  },
+  "date": {
+    "day": 1662940800,
+    "full": 1663018395,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xcouyr",
+  "picture": {
+    "filesize": 65139,
+    "fullUrl": "https://preview.redd.it/znh1kztgfjn91.jpg?auto=webp&s=8d522f4f25257002ee0417d5a820d24d365882b6",
+    "hash": "8239d4512d",
+    "height": 482,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQFESEABhQxEiNRYbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAICAwEAAAAAAAAAAAAAAAIDABEBFCEx/9oADAMBAAIRAxEAPwCrTToQnvMP8iDHZWA34keLybZ+SPs470CoUYU9uMHX5Lzj8kM+lAUEBRNibjoDvP7pCveFUmb/AIVOd4/DcCVKbDQOShWbm51o6FXQldgDgWHWhrpbjoyxm1NWXvZ//9k=",
+    "url": "https://preview.redd.it/znh1kztgfjn91.jpg?width=640&crop=smart&auto=webp&s=d5952299b8bd44ab69b85873ef2396a3e91665c8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.44,
+    "ups": 0,
+    "value": 0
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Snow Encounter Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xcouyr/snow_encounter_map/"
+}

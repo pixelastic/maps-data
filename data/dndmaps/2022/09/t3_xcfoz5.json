@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1662940800,
+    "full": 1662996330,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xcfoz5",
+  "picture": {
+    "filesize": 129653,
+    "fullUrl": "https://preview.redd.it/flnkq0ba4gn91.jpg?auto=webp&s=ef1093c08f8741d7347f439187205a53b82ce161",
+    "hash": "f9b48823c4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAwABAwMEAwAAAAAAAAAAAQIDEQAEEiFBUQUUIqEjMZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDKnbxOzNd1Odww/HIEl2YH6wMkk47edTpbb3iRDPQSrykiK2DIhsYI8joceD+9Ok62hGYcC7dFZG44GO/0O+h7eyx9TopSSrIilaI/yZeOW5NnqRj+nUunB1jVcAn/2Q==",
+    "url": "https://preview.redd.it/flnkq0ba4gn91.jpg?width=640&crop=smart&auto=webp&s=d09d79de8d282a2d6ffaf96ae4449e1e20fddd56",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Backwoods Plunge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xcfoz5/backwoods_plunge/"
+}

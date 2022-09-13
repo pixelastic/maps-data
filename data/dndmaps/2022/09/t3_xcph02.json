@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1662940800,
+    "full": 1663019904,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xcph02",
+  "picture": {
+    "filesize": 114770,
+    "fullUrl": "https://preview.redd.it/0bpqszhe2in91.jpg?width=2000&format=pjpg&auto=webp&s=8e81f47a25a2f23778065c9ab2b6c78ea7ad0970",
+    "hash": "a58877111f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACAQAAICAQQDAQAAAAAAAAAAAAECAxEEABIhMUFxgQX/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABoRAAICAwAAAAAAAAAAAAAAAAASAQIRMVH/2gAMAwEAAhEDEQA/AMhBNk408MkqRSRQupLxMd1A2ePV+9Ljkycl2kgWLERmO1nBZl76Hi7r7qn8xxUJ2LQmShz4Y/dB5yImyAkYJkkBQLS8NXvzffepmjgltrJ//9k=",
+    "url": "https://preview.redd.it/0bpqszhe2in91.jpg?width=640&crop=smart&auto=webp&s=2699309e9692b62a1d99ec3b8aad93e6d7e2d35b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Bridge (30x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xcph02/ruined_bridge_30x40/"
+}
