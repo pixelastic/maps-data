@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c5c0a4wk",
+    "name": "auroracrifo"
+  },
+  "date": {
+    "day": 1663027200,
+    "full": 1663066175,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xd4a3z",
+  "picture": {
+    "filesize": 147793,
+    "fullUrl": "https://preview.redd.it/82612c2vvln91.jpg?width=5700&format=pjpg&auto=webp&s=22b1caba8eaebf44bb072971b5fc9b957ed277fd",
+    "hash": "6463609d3f",
+    "height": 808,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACIQAAICAQQBBQAAAAAAAAAAAAECAwQhABESMQUUIkFR8f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACBBEhMf/aAAwDAQACEQMRAD8AyxKllvHepkaRIbrEJxjHuKnYgEj4x196d4KsbNaTlFI5icxbq6jA/dUpYi9avEJGaum5CEnZCc4zjIGglaWYbMsjBeuK9DRUH3UnMqhUQ7P/2Q==",
+    "url": "https://preview.redd.it/82612c2vvln91.jpg?width=640&crop=smart&auto=webp&s=f880a82843113e91528e56be1290edea59c6ba4c",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 89,
+    "value": 89
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Vampire’s Castle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xd4a3z/vampires_castle_38x48/"
+}
