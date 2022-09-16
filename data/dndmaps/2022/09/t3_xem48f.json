@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4xq4t7h",
+    "name": "Lumbearo"
+  },
+  "date": {
+    "day": 1663200000,
+    "full": 1663213165,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xem48f",
+  "picture": {
+    "filesize": 115599,
+    "fullUrl": "https://preview.redd.it/3xn75jnx0yn91.jpg?auto=webp&s=8f46d9493c2faa085bbdcc8088831b9bca1637cd",
+    "hash": "2631831e8c",
+    "height": 527,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDAAURBBIhMVETMmFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AMunTTiGMyRRsNoXdtBySOx8ioXVVe2TmOCIsFYZSJQ2fJ44oey3L07jpQIQfbG5LZLKR+Ed5pm76llikBUFZC8TjzjgH75qVdc0apaeH//Z",
+    "url": "https://preview.redd.it/3xn75jnx0yn91.jpg?width=640&crop=smart&auto=webp&s=597ef286d50b86c244734db18169302cb1b2a70f",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Custom map drawn for my Homebrew campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xem48f/custom_map_drawn_for_my_homebrew_campaign/"
+}

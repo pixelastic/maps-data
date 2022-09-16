@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1663200000,
+    "full": 1663257259,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xf0brx",
+  "picture": {
+    "filesize": 55877,
+    "fullUrl": "https://preview.redd.it/2kskmsc5o1o91.jpg?width=4096&format=pjpg&auto=webp&s=7dd85f5c49025ca118e494a1288a3bba024235bb",
+    "hash": "f657b85f04",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMECP/EACEQAAIABQQDAAAAAAAAAAAAAAECAAMEETESISJhE0Hw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECEv/aAAwDAQACEQMRAD8AzFSoSoW8snAAXkCe4VWy/E4WxuLgki0Uial00BQunK5v396gZ1TwbmGZhltyd4NN0pazzKf/2Q==",
+    "url": "https://preview.redd.it/2kskmsc5o1o91.jpg?width=640&crop=smart&auto=webp&s=e535b5c7ba04baded48b2ee3fc2542bd51644807",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hellish random encounter: flesh dungeon1 (80x80)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xf0brx/hellish_random_encounter_flesh_dungeon1_80x80/"
+}

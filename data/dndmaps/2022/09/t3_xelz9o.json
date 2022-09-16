@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4xq4t7h",
+    "name": "Lumbearo"
+  },
+  "date": {
+    "day": 1663200000,
+    "full": 1663212746,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xelz9o",
+  "picture": {
+    "filesize": 86417,
+    "fullUrl": "https://preview.redd.it/t6of1qqrzxn91.jpg?auto=webp&s=7ab968c9daa484ec7a6c6df61f143d74420d29be",
+    "hash": "bbf8989ad6",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEESEFEhMxcSIyQf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAMAwEAAhEDEQA/AMJLR2d4xRI5FUY++jqnTsL6DuRRDoPxOF2fXqqk4+OK4ij0ydJY5H7RyjvZ8dFFCIwi5xlPGfJFQyvOjVH/2Q==",
+    "url": "https://preview.redd.it/t6of1qqrzxn91.jpg?width=640&crop=smart&auto=webp&s=c9fbf09d6af8d0cb6ac9e787f1d0805b515bfefc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Simple Cow Farm",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xelz9o/simple_cow_farm/"
+}

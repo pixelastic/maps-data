@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8x0u8vm",
+    "name": "Raakdos"
+  },
+  "date": {
+    "day": 1663200000,
+    "full": 1663206098,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xejmym",
+  "picture": {
+    "filesize": 56777,
+    "fullUrl": "https://preview.redd.it/pv2voo5zfxn91.jpg?auto=webp&s=62223001b7373211362a73e090376a1e96c8720e",
+    "hash": "ba97d164e8",
+    "height": 486,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACIQAAICAQQBBQAAAAAAAAAAAAEDAhEEABITITEFQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AxT07FxXKTyrucgQbJ7N9VR1NkqTvyOJIEYRO0XKwQQL86BeY5ISFyrjNwPvE/I+9Ox5SyltLZG5yO4gCzffn91LHR7lI/9k=",
+    "url": "https://preview.redd.it/pv2voo5zfxn91.jpg?width=640&crop=smart&auto=webp&s=d920049c58312ad8bb41a86ce28b403d2923d71f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Falish's lab",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xejmym/ravnica_falishs_lab_2922/"
+}
