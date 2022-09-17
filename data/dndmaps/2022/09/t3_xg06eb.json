@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4tktp9j7",
+    "name": "Calm-Application9036"
+  },
+  "date": {
+    "day": 1663286400,
+    "full": 1663355590,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xg06eb",
+  "picture": {
+    "filesize": 63692,
+    "fullUrl": "https://preview.redd.it/sfvo424ns9o91.jpg?auto=webp&s=294530b8214ed565e30669141cedf03b34f2e02b",
+    "hash": "7678f45842",
+    "height": 447,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIBAAAgICAQUBAAAAAAAAAAAAAQIDEQASBAUhMVFxsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDTG5arSRMRIABtRPa7r72ySaTpIkiKxZfJW/eDcl2j6ckqGpNoxt9YA/uOx8eJnZ2QFkFqfXkYH//Z",
+    "url": "https://preview.redd.it/sfvo424ns9o91.jpg?width=640&crop=smart&auto=webp&s=40d7ec281ed043e2a6b55ff291cef2aff16d8eed",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "My old map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xg06eb/my_old_map/"
+}

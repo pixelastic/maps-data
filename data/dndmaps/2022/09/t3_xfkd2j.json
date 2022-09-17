@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1663286400,
+    "full": 1663312133,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xfkd2j",
+  "picture": {
+    "filesize": 176271,
+    "fullUrl": "https://preview.redd.it/nbr2x8ke76o91.jpg?auto=webp&s=8fb6ae4c556452f4595cef53714897ac4fa4c948",
+    "hash": "f87079780d",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEESESMQUiE2GR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQACAwAAAAAAAAAAAAAAAAABAgARIf/aAAwDAQACEQMRAD8Ax2ztUkwiIiH5MksOJ4nWjReeMjhuXQcGxjakAdVbx96ESB5oo5EVCyq5Hs462N/tKHQ79Vyei3X1U4Vy5vIG3P/Z",
+    "url": "https://preview.redd.it/nbr2x8ke76o91.jpg?width=640&crop=smart&auto=webp&s=9583321e5cf26f895dae798a979feaabf3e6a87f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 191,
+    "value": 191
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Gates Battle Map 22x33",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xfkd2j/forest_gates_battle_map_22x33/"
+}
