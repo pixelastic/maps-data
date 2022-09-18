@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2h8dorif",
+    "name": "hasslyart"
+  },
+  "date": {
+    "day": 1663372800,
+    "full": 1663400830,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xgg8no",
+  "picture": {
+    "filesize": 130148,
+    "fullUrl": "https://preview.redd.it/57vbl3i5jdo91.jpg?auto=webp&s=65bef7264f1851bb33789020be1341de449dd29c",
+    "hash": "39179b1efe",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIDEQQABSFBEhMyUWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAb/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwDA4WSkuFusUjAyOySxQuPcQeTx3XGkR2nw3WJycicqkrCvCFAbr7PH4O9QQZGNte55AyQZg0ZKmSwRXVaTb19aBgJY41nYuRV18Anoc9amlR2caPb/2Q==",
+    "url": "https://preview.redd.it/57vbl3i5jdo91.jpg?width=640&crop=smart&auto=webp&s=df261269bec33c34d6aff085a445493e48b6e478",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.95,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Altar Battle Map 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xgg8no/forest_altar_battle_map_30x30/"
+}

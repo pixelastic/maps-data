@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_rasr4dcu",
+    "name": "SilverCompassMaps"
+  },
+  "date": {
+    "day": 1663372800,
+    "full": 1663433924,
+    "month": 1661990400,
+    "week": 1662854400
+  },
+  "id": "t3_xgrpp0",
+  "picture": {
+    "filesize": 100233,
+    "fullUrl": "https://preview.redd.it/qmcv78f99go91.jpg?width=4096&format=pjpg&auto=webp&s=c7e0bedb0c87f335f8e6e6830b9e3c9602d0f4f6",
+    "hash": "59fd4090e3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACAQAAICAgEFAQAAAAAAAAAAAAECAxEEEgATISIxUQX/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AM/mwpkvqIXCInU6u2oCkeNg/D84qLCYAsvVEShHbIIOoq9vV2TfDkypnwGthqvjrQohV7A8lx5pW/HkyEleJlICpG1KO3uvvJm6qPEaR//Z",
+    "url": "https://preview.redd.it/qmcv78f99go91.jpg?width=640&crop=smart&auto=webp&s=8d98ac830476bd642244636684b37a65be0b7941",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Burning Town Map Pack",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xgrpp0/burning_town_map_pack/"
+}
