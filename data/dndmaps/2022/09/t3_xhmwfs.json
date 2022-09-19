@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3xqpsq4q",
+    "name": "pathspeculiar"
+  },
+  "date": {
+    "day": 1663459200,
+    "full": 1663522649,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xhmwfs",
+  "picture": {
+    "filesize": 168994,
+    "fullUrl": "https://preview.redd.it/o40edozdlno91.jpg?auto=webp&s=e8f649c5657447a91f7c0d9ac18f1aa70b916ba0",
+    "hash": "f6d86b5d69",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQQABgEFAAAAAAAAAAAAAQIDBBEABRIhMUEGExQjcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2Gbnk1GcyokeY+EOPqCHkqC0pI3AA4F2BV9YQeNz3k+4afeVIWkIKkhYVoUQb3Nc1db1iDPyWY29IDDXrIZcK/hbrTewAvk0r6/cKfHMpYgtvnQS66QVa07iuBffeA//2Q==",
+    "url": "https://preview.redd.it/o40edozdlno91.jpg?width=640&crop=smart&auto=webp&s=f68741863ae93aa9c036333068ab57bd68e5934b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Nightmare - isometric dungeon map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xhmwfs/the_nightmare_isometric_dungeon_map/"
+}

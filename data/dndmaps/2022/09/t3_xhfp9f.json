@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_a2jqugqt",
+    "name": "Fatefulforce"
+  },
+  "date": {
+    "day": 1663459200,
+    "full": 1663505052,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xhfp9f",
+  "picture": {
+    "filesize": 91844,
+    "fullUrl": "https://preview.redd.it/91wu0zn05mo91.jpg?width=2580&format=pjpg&auto=webp&s=0fd07dbf2843ae4e1e470e0f1f3f0f2345ebbc3c",
+    "hash": "b573e78c7e",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIH/8QAIRAAAQMEAQUAAAAAAAAAAAAAAQADMQIREiFBEyIyUfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAwDAQACEQMRAD8AxOogNOEhzqduGNrTvLmPSZHG00lQ34gfSqMjhrTf/9k=",
+    "url": "https://preview.redd.it/91wu0zn05mo91.jpg?width=640&crop=smart&auto=webp&s=fe707fc5cab2f6e3e56f3c9ca48b27a087851966",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Agatha’s Lair: Lost Mine of Phandelver Battle Map | 30 x 25",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xhfp9f/agathas_lair_lost_mine_of_phandelver_battle_map/"
+}
