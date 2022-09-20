@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bmboi",
+    "name": "Centumviri"
+  },
+  "date": {
+    "day": 1663545600,
+    "full": 1663624340,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xipy63",
+  "picture": {
+    "filesize": 270835,
+    "fullUrl": "https://preview.redd.it/6byab4zqzvo91.jpg?width=1024&format=pjpg&auto=webp&s=686d221f47d522419db3ab9bb36dc35040a426ef",
+    "hash": "dd884a16fc",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAHxAAAgEDBQEAAAAAAAAAAAAAAQIDAAQhBRESE0Ex/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRMTL/2gAMAwEAAhEDEQA/AM9hsE02wjXlM6EE823LEnPmKVFvfx6tYxTxdyJsQFYnBGMD55Sp8+nYPT//2Q==",
+    "url": "https://preview.redd.it/6byab4zqzvo91.jpg?width=640&crop=smart&auto=webp&s=7c4f5129ed7bd03a92c5100d35bada699a7ec29a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hedge Maze | Three Maps from our Upcoming Halloween Adventure",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xipy63/hedge_maze_three_maps_from_our_upcoming_halloween/"
+}

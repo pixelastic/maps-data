@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1663545600,
+    "full": 1663629800,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xis6uq",
+  "picture": {
+    "filesize": 153098,
+    "fullUrl": "https://preview.redd.it/i8uxl31zfwo91.jpg?auto=webp&s=93a4ab2e5fc3c2d7b06c27aaae0abb330749d8bd",
+    "hash": "86117318ff",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBAURABIhMUFRBhNx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQADAAAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/ANL+axQ0VPT/AEs28qztBGSski48EdYPjo++NFrRelFBPAKV5oIY3kaWViBjcAVQnlyu7s46wNKLlHcsxVKNIbqC0QgkxIhVmwgjIG3gAMdx9+dQI6VIr/bKWtkq3ADtUQzw7AAcseR2pYZwc84/NE1MilnZ/9k=",
+    "url": "https://preview.redd.it/i8uxl31zfwo91.jpg?width=640&crop=smart&auto=webp&s=d803a24c54c028f841f31608f0aac9410a736709",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "The Burbling Subterrane (a 5-room dungeon)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xis6uq/the_burbling_subterrane_a_5room_dungeon/"
+}

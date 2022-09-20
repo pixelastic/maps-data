@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4xq4t7h",
+    "name": "Lumbearo"
+  },
+  "date": {
+    "day": 1663545600,
+    "full": 1663614223,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xilfaq",
+  "picture": {
+    "filesize": 104839,
+    "fullUrl": "https://preview.redd.it/avgwrxrj5vo91.jpg?width=3100&format=pjpg&auto=webp&s=4f74a49080a1bba1fdc561884e84095021f3c615",
+    "hash": "6d59daa5a6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAH/8QAJBAAAQQCAQIHAAAAAAAAAAAAAQIDBAUAERIhUQYTMkFhkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAARQRL/2gAMAwEAAhEDEQA/AMU8O1kSQzBdktlRcf0okkjQPbGWdLFk2L58wIUt1ayrl6Ug/PTAUVrBiRY6XOaXm1FR0CRv2P7vleXEaZFeRHCy64QSSNdN7I+9ZJm0Zw//2Q==",
+    "url": "https://preview.redd.it/avgwrxrj5vo91.jpg?width=640&crop=smart&auto=webp&s=66f5afaed1026b9980cba24ae7fd62ec772a8cbd",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Simple Forest Map before and after Raid",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xilfaq/simple_forest_map_before_and_after_raid/"
+}

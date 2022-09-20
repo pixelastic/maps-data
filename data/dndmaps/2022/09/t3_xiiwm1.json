@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1663545600,
+    "full": 1663608628,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xiiwm1",
+  "picture": {
+    "filesize": 81901,
+    "fullUrl": "https://external-preview.redd.it/ZBepsXssgafaVN7A7qFSA6PF32WvLtEhqGpK_C2EOcI.jpg?auto=webp&s=bcdf42e30d81ef4d6df510961e71d0942224c22d",
+    "hash": "a189ecffb2",
+    "height": 414,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAICAAUCBwAAAAAAAAAAAAECAwQAERIhMQUGEyJBUWFxof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIRMf/aAAwDAQACEQMRAD8AkO46FqPrV2aWJq1dpXZ1DZhNW6A78ED45wHR6fevyxtUhleuHVPFJGkHk5Hg/uNhhZnjIclhIvnBOerf198LbM0scGiOR1RHOlVYgD6wRSFPKP/Z",
+    "url": "https://external-preview.redd.it/ZBepsXssgafaVN7A7qFSA6PF32WvLtEhqGpK_C2EOcI.jpg?width=640&crop=smart&auto=webp&s=874343af902ecd3c39ba8d2f4f73139f5dbecad4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Adelfurth's Arcanary Magic Item Shop",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xiiwm1/adelfurths_arcanary_magic_item_shop_17x11/"
+}
