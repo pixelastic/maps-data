@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g90cu2jc",
+    "name": "RedlegCartography"
+  },
+  "date": {
+    "day": 1663632000,
+    "full": 1663644089,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xixmi3",
+  "picture": {
+    "filesize": 135194,
+    "fullUrl": "https://preview.redd.it/wf2d8l9cmxo91.jpg?auto=webp&s=cd8037612b2ea06891221f357159187a19e41126",
+    "hash": "b0ebc8452b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACQQAAEEAAYBBQAAAAAAAAAAAAECAwQRAAUGITFhExIiI0GB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhESIf/aAAwDAQACEQMRAD8A2utNUp0dGgLjxY8hEpbotwkBFAWAB2a/MM0oZzprLszDXikS0eQoJKgBZFWfod4vuZa18wmssyothbQdQFBJJ3rnbfnnBGzCO2vxJjLaYTsfSPaOhXAroYaWx0gmpY1Sf//Z",
+    "url": "https://preview.redd.it/wf2d8l9cmxo91.jpg?width=640&crop=smart&auto=webp&s=0db00bf23cfb6a2ba4cb91542a443be45836856f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fey Ice Shrine (20x20) Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xixmi3/fey_ice_shrine_20x20_battlemap/"
+}

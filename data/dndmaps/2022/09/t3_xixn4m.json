@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g90cu2jc",
+    "name": "RedlegCartography"
+  },
+  "date": {
+    "day": 1663632000,
+    "full": 1663644136,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xixn4m",
+  "picture": {
+    "filesize": 122122,
+    "fullUrl": "https://preview.redd.it/mlujmpxjmxo91.jpg?auto=webp&s=81f8651650c41180946416ce7a076c2de26159ab",
+    "hash": "b8090e64f1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACIQAAICAQMEAwAAAAAAAAAAAAECAxEABAUSEyExYUFxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAwDAQACEQMRAD8Ax2t3Q8Omsas5XkDQNAfnzXrJUTORKirRcUSxo15J+sZl08u3CeNYyySqAhOHs+njZgGWnN92N8RXmveTzA1FD//Z",
+    "url": "https://preview.redd.it/mlujmpxjmxo91.jpg?width=640&crop=smart&auto=webp&s=d1caa8fe5a5dde458fe09903375cbe2e4aac46c4",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 518,
+    "value": 518
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Abandoned Swamp Village",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xixn4m/abandoned_swamp_village/"
+}

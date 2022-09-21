@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1663632000,
+    "full": 1663701734,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xjhwqo",
+  "picture": {
+    "filesize": 50331,
+    "fullUrl": "https://preview.redd.it/kslrnrdrd2p91.jpg?auto=webp&s=01805482fdeac28bfcdbea0713d2c191c2bd75cd",
+    "hash": "856a329fce",
+    "height": 475,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYHCP/EACQQAAEDAwMEAwAAAAAAAAAAAAECAwQFETEABhIHEyGBFEFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIDIf/aAAwDAQACEQMRAD8AY2Or0WZMfbYjslpIAaQpRSsnicnGbD3oow5FXpk9ypPrJqAJ7CXFFtpBtZIByPGfu51nnasRuTVYr7vIrKkgi/jP5qj7I3TU6huKVAfcR8aOhXBKUWwqwv60VaU0U1lMvh//2Q==",
+    "url": "https://preview.redd.it/kslrnrdrd2p91.jpg?width=640&crop=smart&auto=webp&s=25cd0c978bc910b9090d57ac5a87a0bab280fe28",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Crater",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xjhwqo/desert_crater_31x23/"
+}
