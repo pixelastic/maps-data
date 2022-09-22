@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1663718400,
+    "full": 1663759827,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xk2b91",
+  "picture": {
+    "filesize": 50898,
+    "fullUrl": "https://preview.redd.it/v6ustl5l67p91.jpg?auto=webp&s=a715b962ac92e7eecaade276dca002046fc29d4d",
+    "hash": "dbedbe5a5c",
+    "height": 352,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAgAEBAcAAAAAAAAAAAAAAQIAAwQSBREhcRMjMTI1YfH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAAIDAAAAAAAAAAAAAAAAAAARAgMh/9oADAMBAAIRAxEAPwDIMMphV1RlVD3IFNt4Op+RGqkNOucLwzy9ARMGfvpC2B+UOxgqu7G3aBEY3NYf/9k=",
+    "url": "https://preview.redd.it/v6ustl5l67p91.jpg?width=640&crop=smart&auto=webp&s=43a47df22767541c235f2948fcd7c48eb9d24e46",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 175,
+    "value": 175
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A map from the Witcher 3: The Tempel of Lilvani",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xk2b91/a_map_from_the_witcher_3_the_tempel_of_lilvani/"
+}

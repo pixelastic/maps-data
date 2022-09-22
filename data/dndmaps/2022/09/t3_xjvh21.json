@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1663718400,
+    "full": 1663736600,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xjvh21",
+  "picture": {
+    "filesize": 71792,
+    "fullUrl": "https://preview.redd.it/ua5rauji95p91.jpg?width=4712&format=pjpg&auto=webp&s=891e358fe8d1448bad759da8a1056e16cf79b41b",
+    "hash": "e4029fcea9",
+    "height": 679,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDABESBCExcTJBYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM/iDGAqAuQYopUXYdjr9oaqCVFVMVyHBW5uDvvejo3EkcjqpY3yxEmLcDj7tVaaiV0bNZGUeIZg2x6991R//9k=",
+    "url": "https://preview.redd.it/ua5rauji95p91.jpg?width=640&crop=smart&auto=webp&s=e1eed4ffd751401d310eac05137fb22377691937",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "A beautiful flooded dungeon with lots of depth by GoblinSkiPatrol, map created by the Epic Isometric Patreon Community discord",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xjvh21/a_beautiful_flooded_dungeon_with_lots_of_depth_by/"
+}
