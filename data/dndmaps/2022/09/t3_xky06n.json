@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1663804800,
+    "full": 1663843781,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xky06n",
+  "picture": {
+    "filesize": 116137,
+    "fullUrl": "https://preview.redd.it/15fhtm594ep91.jpg?auto=webp&s=d22cd2b1690a141ba1dc7d9df25f65ec618b6815",
+    "hash": "d758ecec21",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACQQAAIBAwQABwAAAAAAAAAAAAECAwQRQQASEzEFITJCYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAMAwEAAhEDEQA/AMjomjIE3DyVSziUJGoK7V9wFv0fGhVvsrIY1dFUwB42hY8YJbN+r+Y0z4GaZKihJqEVrOrSKLMg2ki+Dnu/3qeBSChkibdIquwjZDYtcek3xnvsagkcI13/2Q==",
+    "url": "https://preview.redd.it/15fhtm594ep91.jpg?width=640&crop=smart&auto=webp&s=427ebbeefe1d855fa27b92e8a24f00a75f64d5cb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A map for battles deep in the forest",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xky06n/a_map_for_battles_deep_in_the_forest_30x30/"
+}
