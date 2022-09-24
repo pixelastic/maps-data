@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_18tefuhn",
+    "name": "Arkenforge"
+  },
+  "date": {
+    "day": 1663891200,
+    "full": 1663912191,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xloy9s",
+  "picture": {
+    "filesize": 109541,
+    "fullUrl": "https://preview.redd.it/08aygbfirjp91.jpg?auto=webp&s=025ef7c3d6d79f46ac71b72a5f50616497397503",
+    "hash": "d0c2a5f955",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAIxAAAAIJBQAAAAAAAAAAAAAAAAECAwQREhMUFSFCUZGh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECMUFx/9oADAMBAAIRAxEAPwDACVMdlywpVEL52njoBZ6FmhrydA6RnfxgIgr6Lw//2Q==",
+    "url": "https://preview.redd.it/08aygbfirjp91.jpg?width=640&crop=smart&auto=webp&s=1321ae070cbedd6d3eccfb9c1fc6d73c5fefded4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dungeon Hallway",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xloy9s/dungeon_hallway_13x26/"
+}

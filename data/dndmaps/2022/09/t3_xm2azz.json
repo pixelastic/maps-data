@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1663891200,
+    "full": 1663950756,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xm2azz",
+  "picture": {
+    "filesize": 64950,
+    "fullUrl": "https://preview.redd.it/55iw4knaymp91.jpg?auto=webp&s=d058507c0d4c8de6e7cc2c1477eeb089c17e0cfb",
+    "hash": "b3c0d91623",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAJhAAAgECBAUFAAAAAAAAAAAAAQMCABEEBRIiBiEyM1Fyc5Ghsf/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAIBEAAgEBCQAAAAAAAAAAAAAAAQMAEgIEERMhMXGBof/aAAwDAQACEQMRAD8AqRnGYKcpsMVISfIm+s7beZRN/mgaGYpz3jXJjSSxRlG8JG+4E8iD9GiR1J9FaPB3fx/ss/aLaWmhmokzLqEWcxBpI7B5GPu8/9k=",
+    "url": "https://preview.redd.it/55iw4knaymp91.jpg?width=640&crop=smart&auto=webp&s=94fe6a85f8715929b2c45d44d9d5811bd3a74290",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Frozen River",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xm2azz/frozen_river_35_x_20/"
+}
