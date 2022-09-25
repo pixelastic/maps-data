@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1663977600,
+    "full": 1664021441,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xmr78d",
+  "picture": {
+    "filesize": 286127,
+    "fullUrl": "https://preview.redd.it/k5uq08nissp91.jpg?auto=webp&s=a27ae58fcc75ace6d1e59fa5efb1c8d917df8d41",
+    "hash": "cab2112318",
+    "height": 1760,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQMRAAIEMRMhEhRB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQITQVGR/9oADAMBAAIRAxEAPwDBVh3O4+OCDZ5EyRB1A6pUsdg+piqyW2PSLJWSY10dDXylR2PYuUVldP/Z",
+    "url": "https://preview.redd.it/k5uq08nissp91.jpg?width=640&crop=smart&auto=webp&s=dbb5d325f3eacc883e55b56e2c1af0d2c13a635e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Mountain Ascent",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xmr78d/mountain_ascent_20_x_55/"
+}

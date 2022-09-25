@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1663977600,
+    "full": 1664029227,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xmu3x3",
+  "picture": {
+    "filesize": 383395,
+    "fullUrl": "https://external-preview.redd.it/6m6WuNo6zerVkHrNoKgJSWlk7hXgqdz7BkDfNV8tcHY.jpg?auto=webp&s=2deb2330d9811eb81bae1c4048b5cc396d2a6d60",
+    "hash": "6ebac1f448",
+    "height": 2071,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAUDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIhAAAgAGAQUBAAAAAAAAAAAAAQIAAwQFEUETBhIiMWGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Azd7aUeoK/vaWvkME1JGfetH5CIL5NcXytZOVssM8dOra2T+wgIof/9k=",
+    "url": "https://external-preview.redd.it/6m6WuNo6zerVkHrNoKgJSWlk7hXgqdz7BkDfNV8tcHY.jpg?width=640&crop=smart&auto=webp&s=9c8bc9288e4d1bca4c1b7251263e653d34f15251",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Townhouse Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xmu3x3/townhouse_ruins_17x55/"
+}

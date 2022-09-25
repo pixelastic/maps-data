@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_srpwz",
+    "name": "czeuch"
+  },
+  "date": {
+    "day": 1663977600,
+    "full": 1664024519,
+    "month": 1661990400,
+    "week": 1663459200
+  },
+  "id": "t3_xmsakv",
+  "picture": {
+    "filesize": 186119,
+    "fullUrl": "https://preview.redd.it/qwsurxzo1tp91.jpg?auto=webp&s=235b2e5ada3530bd781723810b90fa2234e2098f",
+    "hash": "3619d84c25",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABAwQBBAMAAAAAAAAAAAABAgMEAAUREkETISKBMWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARIkFhkf/aAAwDAQACEQMRAD8ACMtvzrZFtZbUl4L2YSpOoCD3PkeARnj5NP7JItpjOJuYUJbbhQ4okDqEAeXuhtolvTbqIQjdZkRnEhJVjROuw7/RB91RsQiqjvqmsB1wunCyvGQABz+GgejaAVv2VhCMmPJ//9k=",
+    "url": "https://preview.redd.it/qwsurxzo1tp91.jpg?width=640&crop=smart&auto=webp&s=8240769a398153589c5ac0aafa1f1f2f79c580e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Carmine Bridge",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xmsakv/30x40_the_carmine_bridge/"
+}
