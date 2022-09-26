@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1664064000,
+    "full": 1664131073,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xnv9t3",
+  "picture": {
+    "filesize": 148165,
+    "fullUrl": "https://preview.redd.it/2ds1s9nhu1q91.jpg?width=2000&format=pjpg&auto=webp&s=f81325f45cf1b26519fd36ff9d01e79b5cf57f76",
+    "hash": "52c6167869",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAJRAAAgEDAgYDAQAAAAAAAAAAAQIDBAURACESExRRYdEiMUGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQESIWH/2gAMAwEAAhEDEQA/AMdYrX1CGnIj6eREqGwnEV3BGDnPfS3G3UkQBpTGiKGYsMqAfX1v70Nqu0VJ0jW9QW5ZMvCMNH8sY87f3UXyrluJqYZY0QJIzI+RzWJGy+R+7dtS7bgzhH//2Q==",
+    "url": "https://preview.redd.it/2ds1s9nhu1q91.jpg?width=640&crop=smart&auto=webp&s=000d8748bb35668567b912c38f03bd4e8e2c75d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 127,
+    "value": 127
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ruined Square",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xnv9t3/ruined_square/"
+}
