@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4qzqmvhw",
+    "name": "salamandra_brisada"
+  },
+  "date": {
+    "day": 1664150400,
+    "full": 1664158236,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xo65ml",
+  "picture": {
+    "filesize": 118473,
+    "fullUrl": "https://preview.redd.it/3qquhvf734q91.jpg?width=2100&format=pjpg&auto=webp&s=f079dbbc5613413cf78a9358e5f9c7d7e6f5c6b5",
+    "hash": "65fed1bb25",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBBEhAAUSMRNBYZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADMSH/2gAMAwEAAhEDEQA/AIbjtu2zVIM0jxSIhdgCOKk4Iva2sM1SsaxU1BIy0yAKWOPIbWDE+8W0tFHTmmRpKgJTyQWLYXN/vu3zo2OOkDu0EzTMtuEYj4l+vzHfrUxWOCClOGw5P//Z",
+    "url": "https://preview.redd.it/3qquhvf734q91.jpg?width=640&crop=smart&auto=webp&s=3d819f1000c5e7b680ac28d3d94b1fa7634a2a98",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "The empty quiver",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xo65ml/the_empty_quiver/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g90cu2jc",
+    "name": "RedlegCartography"
+  },
+  "date": {
+    "day": 1664236800,
+    "full": 1664239955,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xp1l6a",
+  "picture": {
+    "filesize": 120656,
+    "fullUrl": "https://preview.redd.it/nd3sixq7uaq91.jpg?auto=webp&s=503476b5341e145c0477b0f0736cb823fa180353",
+    "hash": "042eeb714b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQREhMhQQUxUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAACERIT/9oADAMBAAIRAxEAPwDCGwFpoj21U6sELzzj8qL/AMTBcSOjQI05bSNA5ant7tJISzEkYDE57+ZpXudg7kUqpN0c569VF0ajZWH/2Q==",
+    "url": "https://preview.redd.it/nd3sixq7uaq91.jpg?width=640&crop=smart&auto=webp&s=767ba5bd132c7306e99906186f5830151f0c9916",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Siege Battlemap (40x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xp1l6a/siege_battlemap_40x40/"
+}

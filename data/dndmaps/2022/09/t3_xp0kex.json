@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_955pvdbu",
+    "name": "InfernalPress"
+  },
+  "date": {
+    "day": 1664236800,
+    "full": 1664237370,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xp0kex",
+  "picture": {
+    "filesize": 97517,
+    "fullUrl": "https://preview.redd.it/9cvrrdtimaq91.jpg?auto=webp&s=8c75b36d7155bc89e542483d89919fef1ee2fdd2",
+    "hash": "7905741d1d",
+    "height": 496,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACEQAAIBBAAHAAAAAAAAAAAAAAECIQADERIEBSIxMmFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8AyKyh1AwgVpORIH2kdUtqSANmHZZBo4Z2fpJjx91NzBjYVdZwxE1EVeoKpOH/2Q==",
+    "url": "https://preview.redd.it/9cvrrdtimaq91.jpg?width=640&crop=smart&auto=webp&s=5d1b99ab5c1c9b3e8962e04788fc776988bbcfec",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Forest Hamlet",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xp0kex/forest_hamlet/"
+}
