@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1664236800,
+    "full": 1664295327,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xpl3x7",
+  "picture": {
+    "filesize": 33626,
+    "fullUrl": "https://external-preview.redd.it/ydfnakWrnzjEq_KS5n8m5jhSzcYlHyyokOUYqq-S8XE.jpg?auto=webp&s=a236b36cb4e31ef2ce70d565e37456e947ac3869",
+    "hash": "46c066e6e0",
+    "height": 475,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMECP/EAB4QAAICAgMBAQAAAAAAAAAAAAIDAQQAEgUhMUFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAaEQACAgMAAAAAAAAAAAAAAAAREgABAhMh/9oADAMBAAIRAxEAPwDPHHVVGtrjgmwodtB+zg5OspYqaoSXDR20L0e8krWXV2QSTIZ86nHCR3XnNhhlMR+41tiZQ+GtR2f/2Q==",
+    "url": "https://external-preview.redd.it/ydfnakWrnzjEq_KS5n8m5jhSzcYlHyyokOUYqq-S8XE.jpg?width=640&crop=smart&auto=webp&s=e414c471c5fbdecf1d265db6d02ed836f77890f7",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.8,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Welcome to the infinite library. Almost any book you could imagine is here. Good luck getting to it though!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xpl3x7/welcome_to_the_infinite_library_almost_any_book/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_sj9rh1vo",
+    "name": "normal-jordan"
+  },
+  "date": {
+    "day": 1664236800,
+    "full": 1664315865,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xpu0gy",
+  "picture": {
+    "filesize": 84353,
+    "fullUrl": "https://preview.redd.it/grzlu7y04hq91.jpg?auto=webp&s=5c1b2c6c1dbb13433ad50ab975e2d694515d05db",
+    "hash": "b99ce8e112",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACIQAAIBAwMFAQAAAAAAAAAAAAECAwQRIQAFEhMiMUFRQ//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAQADAAAAAAAAAAAAAAAAAgAREiH/2gAMAwEAAhEDEQA/ANZmnrIRPOjyLGHJZmYBQt8HN7gfBY6O27c5JaqnVJ55R+igJxuSRjAJ8Xx6I0jqqRKtBVSs/Up4mKAHtJ8gke7aoNr2+npxHVRKRN0+JN/PLJJH3Ug9uTRxf//Z",
+    "url": "https://preview.redd.it/grzlu7y04hq91.jpg?width=640&crop=smart&auto=webp&s=29c5edbcb15ffab888f3e2cf835799e55b5d8df9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Cupid’s Caves - description in comments",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xpu0gy/cupids_caves_description_in_comments/"
+}

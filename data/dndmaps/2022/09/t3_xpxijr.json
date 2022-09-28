@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_apthok04",
+    "name": "Aglobloko"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664324872,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xpxijr",
+  "picture": {
+    "filesize": 72555,
+    "fullUrl": "https://preview.redd.it/6cr05qysuhq91.jpg?auto=webp&s=c7d03b0d603343c20bce39fed7d68a628485c272",
+    "hash": "43f5a0f6e5",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAgAGAAcAAAAAAAAAAAAAAQIAAwQFERITFCEjMVGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAAhEf/aAAwDAQACEQMRAD8AuUuI2ROJqB6OMwlTXATZZYbLg4xGdyZzcyrM2y+R9EOU1b2gQxAPWBhLr//Z",
+    "url": "https://preview.redd.it/6cr05qysuhq91.jpg?width=640&crop=smart&auto=webp&s=eb2d2606974c48a595c6c6e697c80ed2363843f4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "It's incomplete, but this is the first map I've ever made from scratch. Thoughts? Criticisms?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xpxijr/its_incomplete_but_this_is_the_first_map_ive_ever/"
+}

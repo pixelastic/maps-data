@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_h3cie",
+    "name": "SgtSnarf"
+  },
+  "date": {
+    "day": 1664236800,
+    "full": 1664285312,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xpgtay",
+  "picture": {
+    "filesize": 146661,
+    "fullUrl": "https://preview.redd.it/zkit61n5leq91.jpg?auto=webp&s=b03913f23b1da4ef997843b7bfc95f15b1995efe",
+    "hash": "5e08011356",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACMQAAICAQQABwAAAAAAAAAAAAECAxEEAAUSIRMxcYGhweH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQADIf/aAAwDAQACEQMRAD8AxeJlfkJGfhxIBRRYNfmhJFnZnVQPIFVJNH61ex9thmjEvjCZLAPJ+MlnqgCLrsDsemlzgSQblmK2TjoAVUlVNMwFEj4HsdALhwjWlNZ//9k=",
+    "url": "https://preview.redd.it/zkit61n5leq91.jpg?width=640&crop=smart&auto=webp&s=b31fef12bc93d81395c087d227b3ed3201358268",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 103,
+    "value": 103
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Temple of the Arcane Flame",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xpgtay/temple_of_the_arcane_flame_80_x_100/"
+}
