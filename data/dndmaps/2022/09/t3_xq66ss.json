@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664350826,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xq66ss",
+  "picture": {
+    "filesize": 151789,
+    "fullUrl": "https://preview.redd.it/cftwgtejzjq91.jpg?auto=webp&s=6c2379d6c7e0bb69456f856ff97a391d48dc24b3",
+    "hash": "c7f90100a0",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAF/8QAIhAAAgECBgMBAAAAAAAAAAAAAQIDAAQFERITITEGcYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDMQQSIf/aAAwDAQACEQMRAD8AsGtbWzwmeBtTM8Y1MpA7PZz9flBcd8Ynt8QcRBdtxuLmp6NbqQJfRyyCVFmCIjAnUAASeeRlyaQu0O1bxlll2ogmppACeyc/pNNBJrwUp8iIOAItf//Z",
+    "url": "https://preview.redd.it/cftwgtejzjq91.jpg?width=640&crop=smart&auto=webp&s=49c0f0aa3ba961ecff069ac5366e753eed9eccf2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Stronghold Ruins - Steep coast",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xq66ss/stronghold_ruins_steep_coast_32x44/"
+}

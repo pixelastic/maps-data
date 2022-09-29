@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bvyuvmlu",
+    "name": "StrigunArt"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664355576,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xq7hvj",
+  "picture": {
+    "filesize": 149309,
+    "fullUrl": "https://preview.redd.it/eyufhkd2ekq91.jpg?width=7015&format=pjpg&auto=webp&s=8a491e92d7506479f19581162f7f7f2a2af0683a",
+    "hash": "f367a02fa7",
+    "height": 905,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAj/xAAkEAEAAQMDAgcAAAAAAAAAAAABAgADIRESMQQTFSJBUWFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwChzf4nAgnYAElcMvqhz7/dMkzJOjIOcUHqIkr8J2re9Z+ZY8GmmP2l2ohACKfGaD//2Q==",
+    "url": "https://preview.redd.it/eyufhkd2ekq91.jpg?width=640&crop=smart&auto=webp&s=4e7ffcd5a3692734a89063852cba056c3e22d99c",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.77,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "A map of Westeros! :D",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xq7hvj/a_map_of_westeros_d/"
+}

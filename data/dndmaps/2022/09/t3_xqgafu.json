@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664380285,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqgafu",
+  "picture": {
+    "filesize": 122473,
+    "fullUrl": "https://preview.redd.it/xc423wchfmq91.jpg?auto=webp&s=49d531fc5aa8fe7b18aaa588c51cb489980779b2",
+    "hash": "4b60bab25a",
+    "height": 1140,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJhAAAQIDBgcAAAAAAAAAAAAAAQIDAAQRBRIUFSExUlOBkZLR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAEQPR8P/aAAwDAQACEQMRAD8AzSuGKFNpcVLs1vOKvEnU7dYrmczyXe3yDGJt9uxHMKlxyiwkuODcEahIqaCCs0nOBXkr3BglmWWyKFF9qf/Z",
+    "url": "https://preview.redd.it/xc423wchfmq91.jpg?width=640&crop=smart&auto=webp&s=2811c99b8bef43eb4f78a2c4ce2bc96ba597d7e3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.57,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Oriental Inn",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xqgafu/oc_oriental_inn_32x57_inn_cursed/"
+}

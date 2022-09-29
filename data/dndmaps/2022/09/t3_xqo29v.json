@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_g90cu2jc",
+    "name": "RedlegCartography"
+  },
+  "date": {
+    "day": 1664323200,
+    "full": 1664398345,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqo29v",
+  "picture": {
+    "filesize": 147282,
+    "fullUrl": "https://preview.redd.it/w8d96st2xnq91.jpg?auto=webp&s=1847cee9afb2a55c2388573f4763ef4430d150ea",
+    "hash": "2a32003d01",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAgEAACAgICAgMAAAAAAAAAAAACAwEREiEABEFxMWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEBAAMAAAAAAAAAAAAAAAARAAEiYf/aAAwDAQACEQMRAD8AnXgoQFagWsRULPOU6qPjhSsGpcg4HEwI4KLuNbu+Lt9d9hgmSwUATld69e/zjSnsSZSSpFkqJcbko3H345HscnMBf//Z",
+    "url": "https://preview.redd.it/w8d96st2xnq91.jpg?width=640&crop=smart&auto=webp&s=8e807e63376a1d113c5d73c34941eb624fb9feb2",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Fighting Pit",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xqo29v/fighting_pit/"
+}
