@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4qzqmvhw",
+    "name": "salamandra_brisada"
+  },
+  "date": {
+    "day": 1664409600,
+    "full": 1664419013,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqvz74",
+  "picture": {
+    "filesize": 40027,
+    "fullUrl": "https://preview.redd.it/iiaswufnmpq91.jpg?width=2100&format=pjpg&auto=webp&s=06051265f6235c2e1df2d24f1cedcf3522f03ee5",
+    "hash": "ce441e5bfc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGCP/EACQQAAICAQMCBwAAAAAAAAAAAAECAwQRAAVBEjEGEyEjMlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAECEQD/2gAMAwEAAhEDEQA/AM7KbFSSvPHV6ttlI6kYBlfHyBPB0NytGPMkjhdYjlkPcAZ7H90rTuSIyhnyikehzjH1q13DeNlv+G7EMFdUtEezXUHMbct1c5HGiVlMN5Qmpdc7/9k=",
+    "url": "https://preview.redd.it/iiaswufnmpq91.jpg?width=640&crop=smart&auto=webp&s=002bd3b0ba2dfe162c56fbd62ae9530935a8bbd8",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "A blood ritual",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xqvz74/a_blood_ritual/"
+}

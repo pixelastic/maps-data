@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2mkbutay",
+    "name": "Kattasaurus-Rex"
+  },
+  "date": {
+    "day": 1664409600,
+    "full": 1664469165,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xrccp7",
+  "picture": {
+    "filesize": 117990,
+    "fullUrl": "https://preview.redd.it/qpqnrw5vrtq91.jpg?auto=webp&s=2fd70c1438b9931a90672ec79995046ee5d90c59",
+    "hash": "843cdc24ec",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EAB8QAAIBBAIDAAAAAAAAAAAAAAECIQADERIEEyJxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oADAMBAAIRAxEAPwDEJtf2bkNvhiAdjAED7TL1kWR4y2RKNFS8V+0ObRZdIJYZB9Zo3N2uBCy9hMYUzQ8+c0b/2Q==",
+    "url": "https://preview.redd.it/qpqnrw5vrtq91.jpg?width=640&crop=smart&auto=webp&s=1c68d67f72141102c9e2c3dd1c5854b84fcc9c63",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Bloodstone (my first city map)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xrccp7/bloodstone_my_first_city_map/"
+}

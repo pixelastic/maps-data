@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4qzqmvhw",
+    "name": "salamandra_brisada"
+  },
+  "date": {
+    "day": 1664409600,
+    "full": 1664424116,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xqxprn",
+  "picture": {
+    "filesize": 60622,
+    "fullUrl": "https://preview.redd.it/4nvnk4lw1qq91.jpg?auto=webp&s=bd7ac9808fd7fadf721d40342763aec2290e569b",
+    "hash": "b707c079a9",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACIQAAIBBAIBBQAAAAAAAAAAAAECAwQREiEAEzEFQWGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAwDAQACEQMRAD8AwaGnYWM1POyMuSlBbV/PyOBUWjYw9WLKxOZa5IPgG2tcs9T6wsE9PWJIzpi8cYK4Wt7X8HiKxsqekHZGwVCuKm5G77+/zlDspy//2Q==",
+    "url": "https://preview.redd.it/4nvnk4lw1qq91.jpg?width=640&crop=smart&auto=webp&s=5936e5b8b23f9e6f1329822a48472a548afbaca0",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Simple dungeon with a secret room",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xqxprn/simple_dungeon_with_a_secret_room/"
+}

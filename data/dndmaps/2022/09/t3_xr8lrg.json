@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8x0u8vm",
+    "name": "Raakdos"
+  },
+  "date": {
+    "day": 1664409600,
+    "full": 1664459987,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xr8lrg",
+  "picture": {
+    "filesize": 125912,
+    "fullUrl": "https://preview.redd.it/y16bsn8k0tq91.jpg?auto=webp&s=f08308ccd4373bb300686d683c4b8372f9660d18",
+    "hash": "348ae75bfd",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJhAAAgEDAgQHAAAAAAAAAAAAAQIDAAQRBSEGEhMxQVFSVZOi0f/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAgMAAAAAAAAAAAAAAAAAEgECE1GB/9oADAMBAAIRAxEAPwDM4bvTF4bmF5bGTUQyosgkYq3MMgr4co2BzvufKieo3r+h/alezpdy2rCOUW6hFKMuAoAGcDtjOe9M9PTvcF+IUQi9HskW0f/Z",
+    "url": "https://preview.redd.it/y16bsn8k0tq91.jpg?width=640&crop=smart&auto=webp&s=16332fc7bebaf8caa4c010bb7c3d398d5ba1d43d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Boros legion - The Sacred Foundry",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xr8lrg/ravnicaboros_legion_the_sacred_foundry_3256/"
+}
