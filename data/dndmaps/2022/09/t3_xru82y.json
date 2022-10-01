@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ck8teyqc",
+    "name": "TalesOfTad"
+  },
+  "date": {
+    "day": 1664496000,
+    "full": 1664519389,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xru82y",
+  "picture": {
+    "filesize": 640504,
+    "fullUrl": "https://preview.redd.it/9uy1ciwlwxq91.png?auto=webp&s=a0db599606e9fcbe87b69ace5ad50bb7c9f2cfa2",
+    "hash": "d02fbc691e",
+    "height": 454,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAACXBIWXMAAAsTAAALEwEAmpwYAAABu0lEQVQokR3P246iMACAYd7/WeZizDKIpxmgVM5QTq205VhUBDPGeOMmJG7c+/+7+KVxnKqqKShDcZJnmDGOMYkilKYpQjFCMcaEc143tRCirmtJiL5pWiGOCCWe58dxEoaR74clrwpKXde3LDsIwgjFfd8LIaTj8cR5VRwoIQVjrK5rjHEUoizLgyBUFHWz3QEAPS/IclwUTGKsej7/RlHSdYJSliRp27Z5ThzH9f1gtdqYJgQAajrw/MDzQynNyP+Un8/npm6apn08Hqa5XyorE0BdN2RZ2X1rum5Cy267Tuq6nrGSUl4UjFJOSIExsW1X1wAw4G6nqermRzM2ux/H9ed5loZhmKZpHK9tK1wvNHQYRShGCSEHwzAXiy9ZVl0v0HSzKPjr9ZJut5sQfVU14zhxXuo66DoRx9k0XbMMy7KqrnZfy7UJ7WEY3+D5fJ5PQ1W1v7+3YbhwXlJWem54uYyn4+lz8fVHXn58fO4tZ5qubzDP8/1+bxqR50UYJuTAKCvx++RADtQ07e1WX6pbFKd9f3oDznie4ThOfD/UdGDbHoRwbwIILQCgZTnr9VZRVNfzHMcty+ofB621i8NmxY0AAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/9uy1ciwlwxq91.png?width=640&crop=smart&auto=webp&s=c75396f1452e23b18fb74970fb473f24dd69e1fc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dagrún’s Unearthed Mines.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xru82y/dagrúns_unearthed_mines/"
+}

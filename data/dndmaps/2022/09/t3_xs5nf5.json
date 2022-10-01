@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_o7lm1w7i",
+    "name": "Maplocks"
+  },
+  "date": {
+    "day": 1664496000,
+    "full": 1664555059,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xs5nf5",
+  "picture": {
+    "filesize": 220488,
+    "fullUrl": "https://preview.redd.it/9z5tgun7v0r91.jpg?auto=webp&s=dba3fdc9e34ec89d36e914054311da984ecd07a3",
+    "hash": "b2b69c85cb",
+    "height": 1236,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAHhAAAgEFAQEBAAAAAAAAAAAAAQIDAAQFESESMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EAB0RAAECBwAAAAAAAAAAAAAAAAEAAgMREiFRgfD/2gAMAwEAAhEDEQA/AMq6wlrb4Yxx4+Hw7q8jvPoMAOFd/W6eapUmu1mwKwrbu7eGCFZPSINfQO9A/BSo+HWZ3PbSZYcL/9k=",
+    "url": "https://preview.redd.it/9z5tgun7v0r91.jpg?width=640&crop=smart&auto=webp&s=06df095b1fb1d4bb11baa0890b471e160365193e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Pumpkin Valley",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xs5nf5/the_pumpkin_valley_15x29/"
+}

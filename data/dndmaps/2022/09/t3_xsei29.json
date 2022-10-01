@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1664496000,
+    "full": 1664576762,
+    "month": 1661990400,
+    "week": 1664064000
+  },
+  "id": "t3_xsei29",
+  "picture": {
+    "filesize": 74963,
+    "fullUrl": "https://preview.redd.it/vnps9csum2r91.jpg?auto=webp&s=2eccac8e2751d2d23fb8dce9436439019e310336",
+    "hash": "10c8fffca5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAhEAACAgIDAAIDAAAAAAAAAAABAgMEBTEAERIGIUFRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACERIDIVGR/9oADAMBAAIRAxEAPwCFw/y/KPDTx9aBYI08j1ApUKBtj1r+8RlbKRRWb2PFe27MTLPZIk+zs9ts/jrWuSFK1YkkjqGeQQSsquqt16HeieOzt6w8smMD+KVbopGgA++tn974zsYsAFHbaC6ee7X/2Q==",
+    "url": "https://preview.redd.it/vnps9csum2r91.jpg?width=640&crop=smart&auto=webp&s=da31783f9035be720f8cef58f948c47a7ca79740",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Osura",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xsei29/osura/"
+}
