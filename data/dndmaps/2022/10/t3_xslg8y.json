@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664596794,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xslg8y",
+  "picture": {
+    "filesize": 154029,
+    "fullUrl": "https://preview.redd.it/3hrt40ug94r91.jpg?auto=webp&s=6965a674c21d2facb3c0912c0c63a667d2096123",
+    "hash": "396bd004ea",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBv/EACAQAAICAgICAwAAAAAAAAAAAAECAwQRIQASQVEiYdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACEiJR/9oADAMBAAIRAxEAPwA2q0EVKJWKCSwhSPeASDvI9ffJJaVdSqWEzMqhWOfPHMizwwTdI3mjVuiucKqneT72Dr95nr09pLLGYTtI/wAyzOE7Z844qcgNsmf/2Q==",
+    "url": "https://preview.redd.it/3hrt40ug94r91.jpg?width=640&crop=smart&auto=webp&s=b2ab9313c923b6b74dba9a41f2555a723aaac60d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 339,
+    "value": 339
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Stronghold Ruins - Mountain tributary",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xslg8y/stronghold_ruins_mountain_tributary_32x44/"
+}

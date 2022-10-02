@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664622157,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xssig8",
+  "picture": {
+    "filesize": 118889,
+    "fullUrl": "https://preview.redd.it/9t86p1are6r91.jpg?auto=webp&s=1fd695cb8dc0e9a76affc5aff483f669d3be9aef",
+    "hash": "ee1ab852da",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAQMEAAcAAAAAAAAAAAABAwIEBREABhIxFSFBUVNhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAb/xAAeEQABAwQDAAAAAAAAAAAAAAARAAExAgMEEhQhI//aAAwDAQACEQMRAD8Ahp2SxJfT+HU8lIYYhimuJmOs5B6/dBbjsm1qe91akquQhGQwInIHkD3qouu5LReHUT1NqZBcYSqW1CuEsDA4g46+9GXu8bOfdHtWIiMsfIPQex0fxHvMN2qjuZKaZfGqbz1BYRAX/9k=",
+    "url": "https://preview.redd.it/9t86p1are6r91.jpg?width=640&crop=smart&auto=webp&s=ab1677745d18d9ebb6e25d51bdbefce4224dddf5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Morin's Span",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xssig8/morins_span_30x45/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_otwv4",
+    "name": "PDRA"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664666058,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xt93oz",
+  "picture": {
+    "filesize": 96265,
+    "fullUrl": "https://preview.redd.it/rguvppg61ar91.jpg?width=3584&format=pjpg&auto=webp&s=7825e5a3b28a6222802fa31a2f5b9142f10ff4c2",
+    "hash": "9cf5c65a2b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACQQAAEDAgYCAwAAAAAAAAAAAAECAwQFEQASEyExQQZhQlFS/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMWpsKRVfHzGS3pOtKu1mAAULb893w3MhinRFwGyG0rRnVIKvl+Qkd84lRKhUZcwPt2SxqXKSvKn2ADgV2MoT5Vp7SMzhKULO4Tbnbs/XrAH/9k=",
+    "url": "https://preview.redd.it/rguvppg61ar91.jpg?width=640&crop=smart&auto=webp&s=a0b28c8d24625f94803238c7c26d1d9ec9b40514",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gothic Town with Roads of Bones (40x40 both maps with alternative version)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xt93oz/gothic_town_with_roads_of_bones_40x40_both_maps/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664637556,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xsxxid",
+  "picture": {
+    "filesize": 88072,
+    "fullUrl": "https://preview.redd.it/7usf9mdho7r91.jpg?width=4096&format=pjpg&auto=webp&s=a6e936b8c9feb88ccf80b5a22968b3207649b500",
+    "hash": "d61ba1b5b3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAI/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAEEiEFMUFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAAhEf/aAAwDAQACEQMRAD8Azx4/VhkVw5awRQUX1g7GuT1RN+vzFh2VaMIh4/OV/MpZJWhHFXcLdMBeG6Nf/9k=",
+    "url": "https://preview.redd.it/7usf9mdho7r91.jpg?width=640&crop=smart&auto=webp&s=4c85729e07bbe60e35b38aaca3080890f7bec4f3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Witch’s Hut | Mama Loa’s Shack",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xsxxid/witchs_hut_mama_loas_shack/"
+}

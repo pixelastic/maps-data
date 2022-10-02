@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1664582400,
+    "full": 1664640938,
+    "month": 1664582400,
+    "week": 1664064000
+  },
+  "id": "t3_xszcfc",
+  "picture": {
+    "filesize": 65273,
+    "fullUrl": "https://external-preview.redd.it/uZoo-fU3blr5cY6Ot-sVuCoJgTkjDJxKQUYZ7p4ITIQ.jpg?auto=webp&s=08926e3d8423136e63a1129274b2182056f8bee9",
+    "hash": "2e5f685a81",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDAAYRBAUSISMxQRMWsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREiJh/9oADAMBAAIRAxEAPwDK7ItD7CwKO0Ucal5SvgKBnP70q3jbbbKYe4WjkHZlgUj5B5JBp2Pc52KRweU6vmORUfAkXHrFO8rkO/6GIw5WLRqVjgjBPDkck5BPT1Q3fhWoSP/Z",
+    "url": "https://external-preview.redd.it/uZoo-fU3blr5cY6Ot-sVuCoJgTkjDJxKQUYZ7p4ITIQ.jpg?width=640&crop=smart&auto=webp&s=872fd7376e8b243ea090600fa7173fc104c5a61b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.71,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Well. Judging by the symbols on the floor. You've found the lair of the Tiamat. Is that a good thing or an incredibly bad thing?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xszcfc/well_judging_by_the_symbols_on_the_floor_youve/"
+}
