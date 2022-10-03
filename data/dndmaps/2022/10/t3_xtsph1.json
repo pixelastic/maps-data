@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1664668800,
+    "full": 1664727326,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xtsph1",
+  "picture": {
+    "filesize": 126331,
+    "fullUrl": "https://external-preview.redd.it/TpCOGMjgxkZzg7pFeyZdqinjwHWzHFTy585nYM9ennE.jpg?auto=webp&s=ea3647158a5db5172418ecf0e4bc18871911eecb",
+    "hash": "886f8d5848",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIhAAAQQCAgEFAAAAAAAAAAAAAgEDBBEAIQUTEgYyYXGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwb/xAAaEQACAgMAAAAAAAAAAAAAAAABAgADERJR/9oADAMBAAIRAxEAPwDN+TkTGuXktsPoLIuJ4ooppK1+Y3gkT0KO67Hi9htiRUNbVLXV5A5f0rOXlHDi+PVSI2hF7tfXzjCFDJuGwDjJ9gtihUN7re8nbGrKg5jgLovZ/9k=",
+    "url": "https://external-preview.redd.it/TpCOGMjgxkZzg7pFeyZdqinjwHWzHFTy585nYM9ennE.jpg?width=640&crop=smart&auto=webp&s=8e18c0b2d0eb11d64970c9b76e93e0916643261d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Not all towns in the Weird West are barren, arid deserts. Some are perfect for farming!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xtsph1/not_all_towns_in_the_weird_west_are_barren_arid/"
+}

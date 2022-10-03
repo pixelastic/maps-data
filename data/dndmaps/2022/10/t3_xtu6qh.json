@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1664668800,
+    "full": 1664730927,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xtu6qh",
+  "picture": {
+    "filesize": 136462,
+    "fullUrl": "https://external-preview.redd.it/mHIJEyd4m5HDzuILBQEyE5Jfhcjw5EM-PAcUq3jZXOQ.jpg?auto=webp&s=9b353e74af6af193556fd540d432709a000d3759",
+    "hash": "bd703d4fa9",
+    "height": 760,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDBBIhAAURBgcxQVET/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAISEf/aAAwDAQACEQMRAD8ADfu4NaKyUwmiBLlPzaA3Bci7kE+/Bx941DPXdZTSERTSxEgBgskioSPai7S0/TTU+4GR7XSZ1YKMGIXHBJwSRx41odz2bZpqx51pqa18BAOAoHwZ+6n0rFulThP/2Q==",
+    "url": "https://external-preview.redd.it/mHIJEyd4m5HDzuILBQEyE5Jfhcjw5EM-PAcUq3jZXOQ.jpg?width=640&crop=smart&auto=webp&s=da7ca24849d62e78ffd1aa38d81861a4400295ea",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Angler's Wharf Battlemap and Exterior Scene",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xtu6qh/anglers_wharf_battlemap_and_exterior_scene/"
+}

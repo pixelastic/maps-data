@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_69i5qq8w",
+    "name": "ZeroGNexus"
+  },
+  "date": {
+    "day": 1664668800,
+    "full": 1664720483,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xtq13q",
+  "picture": {
+    "filesize": 83826,
+    "fullUrl": "https://preview.redd.it/yi53zo3uier91.jpg?auto=webp&s=696cd16479a1d615a31a6636d453c4f2958decba",
+    "hash": "68688c7d32",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACEQAQACAgICAgMAAAAAAAAAAAECAwQRACExQQVxEiJh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAcEQACAgIDAAAAAAAAAAAAAAABAgARAyExUWH/2gAMAwEAAhEDEQA/AMnXiSlAsspoyJWP67ZI69Aun10+f7x3Fwmqyyd2PucoSsanqMSIoOujv19eeCuqGNnV00mqmMa2C/lFOvT9+eUCEY/N4+IC4zbGLWuxEdjvk7KQi8bqFYMy2Drr2f/Z",
+    "url": "https://preview.redd.it/yi53zo3uier91.jpg?width=640&crop=smart&auto=webp&s=f360c99450b872f402a0987464ead6d98fa90708",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Ambush",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xtq13q/forest_ambush_30_x_20/"
+}
