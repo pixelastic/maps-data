@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1664755200,
+    "full": 1664760924,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xu5vlf",
+  "picture": {
+    "filesize": 100775,
+    "fullUrl": "https://preview.redd.it/d8xt3lbxuhr91.jpg?auto=webp&s=e68ab33075613366d950e8fb227401202099cf0a",
+    "hash": "d83c8e3d5c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAhEAABBAEEAwEAAAAAAAAAAAABAgMEEQUABhMhBxIxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGxEAAgEFAAAAAAAAAAAAAAAAAQIAERITMUH/2gAMAwEAAhEDEQA/AD9reOxKw5m5VltLDkQuN+q0oUpZTdH2BoGr1GN44JOHzEiK2k8Ca412VBQoXSiBfdi9UbG7kcnQoUWVNXTLYLQ5uk9AHr8PWi/ID6JuN40qL7rFrBC/nXZI+HTZQDay77JxDhqif//Z",
+    "url": "https://preview.redd.it/d8xt3lbxuhr91.jpg?width=640&crop=smart&auto=webp&s=cd5214935af0e4f4ffd4f1c451ccbf6712735e33",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Prism Domain",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xu5vlf/prism_domain/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1664755200,
+    "full": 1664813250,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xunl0c",
+  "picture": {
+    "filesize": 78636,
+    "fullUrl": "https://preview.redd.it/buaekylx6mr91.jpg?auto=webp&s=54d2eec76a24e8c7d9cbe4abfd71e8a433ffd8de",
+    "hash": "f064b75381",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQAEITEFIkGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIRAxEAPwDJd1J9R42ikaJGbhwLNV39YR5TWl2URoFLhG9Vru7/AGsrvKIselqlRy6sL6rj4rCZXMWyiIBRQk3yTkJUZW3/2Q==",
+    "url": "https://preview.redd.it/buaekylx6mr91.jpg?width=640&crop=smart&auto=webp&s=2167cba0ce69c0717fb54db0b6ecf2c8609b838b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Haint’s Hovel",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xunl0c/haints_hovel/"
+}

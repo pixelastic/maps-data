@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1664755200,
+    "full": 1664796963,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xugyyc",
+  "picture": {
+    "filesize": 121059,
+    "fullUrl": "https://preview.redd.it/sszuyl48ukr91.jpg?width=2500&format=pjpg&auto=webp&s=8417a3e4bf49f735ffed6d1382e40c7058a58b4c",
+    "hash": "f708e2793e",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIRAwQhAAUSMRMUYXHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMldVKlcoioouGZVkRPIjsk/GP3S2Sta2DrVcM7EKzQCMmMYkdjHR+9Qv7xdtY1EoipIXyBmjk0A8hAxotluR3TcaCV6K+uH5ePl2QDEnRRtWYLZh//Z",
+    "url": "https://preview.redd.it/sszuyl48ukr91.jpg?width=640&crop=smart&auto=webp&s=0bedfb8877cc50d7f513e16693a6614a0c2b3303",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Arena and Temple (Grid 50p)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xugyyc/arena_and_temple_grid_50p/"
+}

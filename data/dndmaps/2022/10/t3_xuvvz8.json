@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4yy8u",
+    "name": "SimpleRy"
+  },
+  "date": {
+    "day": 1664755200,
+    "full": 1664832157,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xuvvz8",
+  "picture": {
+    "filesize": 116009,
+    "fullUrl": "https://preview.redd.it/7t3geg1dpnr91.jpg?auto=webp&s=2d4fadd726a4fac02c13d1ad2377d23537e0b0c8",
+    "hash": "6366f65639",
+    "height": 445,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACIQAAIBBAIBBQAAAAAAAAAAAAECAwQFESEAEjEiMkFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AN+10FvNxeOqLRSLEsZcKAraGCm8BfzXKbjJQ0lBc2pkkmeTSyYGgBsnJHp1r74KBDdgkQ6p0jXqPaBvWPHxxbnFHBeqaGJQIp1laRPIYjQ0eTa2R5gOE//Z",
+    "url": "https://preview.redd.it/7t3geg1dpnr91.jpg?width=640&crop=smart&auto=webp&s=640051bf9694959cc06e88b3fa3b9d2d7d8e7c5a",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Crumbling Shrine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xuvvz8/crumbling_shrine_19x27/"
+}

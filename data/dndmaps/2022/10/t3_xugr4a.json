@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1664755200,
+    "full": 1664796313,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xugr4a",
+  "picture": {
+    "filesize": 156250,
+    "fullUrl": "https://preview.redd.it/o79mr9jhskr91.jpg?width=1750&format=pjpg&auto=webp&s=f0b05c1bee200da3d28ae1841c85d8b53a25b221",
+    "hash": "1a03a8257c",
+    "height": 896,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACMQAAEEAQQCAwEAAAAAAAAAAAECAwQRIQAFEhMxYRQiMlH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAAAEBwAAAAAAAAAAAAAAAAABAvARITFBUZGh/9oADAMBAAIRAxEAPwDJPRZD02JL2+Wltxdl51auHb9a5UCLGKxV6Jna9umtJkPT3n3F/pxsEJVWMAn1pESG8WmAJ8VpZ7HGnpFEpFWB1+UEZr341ONvQtIU98dx0i1LE0N8j/eIGL1LNcb6bwDJrI3wf//Z",
+    "url": "https://preview.redd.it/o79mr9jhskr91.jpg?width=640&crop=smart&auto=webp&s=540c184a782763c4e33435d20e55549d85222371",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 145,
+    "value": 145
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A forest encounter map with a cave underneath",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xugr4a/a_forest_encounter_map_with_a_cave_underneath/"
+}
