@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1664841600,
+    "full": 1664845775,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xv14r3",
+  "picture": {
+    "filesize": 156129,
+    "fullUrl": "https://preview.redd.it/0mu28btmvor91.jpg?auto=webp&s=4744f179bae25c2f985fcac789fe1ffc27da1533",
+    "hash": "922ed04811",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJRAAAgIBBAEDBQAAAAAAAAAAAQIDBBEABRIhMRMUQTJhcaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAXEQADAQAAAAAAAAAAAAAAAAAAESEB/9oADAMBAAIRAxEAPwDWr85rmGtXuhZLH1WJUxGOJVmUEkZJzg/HZ/Ggd13x49ynEliS5YheOOD27KsMivgtyUE9+R84wPGdG7jMbnrPuBryceEawTNwCqCMcM9MCB2fufGpUQ27U1mCsihzGkQjX04k4ntmXOT+/wCanxUUtcP/2Q==",
+    "url": "https://preview.redd.it/0mu28btmvor91.jpg?width=640&crop=smart&auto=webp&s=283f14cbd6edc50eb4487dd342b37c38c717a94c",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 769,
+    "value": 769
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Hunter's Descent - a five-room dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xv14r3/hunters_descent_a_fiveroom_dungeon/"
+}

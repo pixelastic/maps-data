@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3phw1x2s",
+    "name": "Depolys"
+  },
+  "date": {
+    "day": 1664841600,
+    "full": 1664905868,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xvlq12",
+  "picture": {
+    "filesize": 154281,
+    "fullUrl": "https://preview.redd.it/r4qrf5hrqtr91.jpg?width=8000&format=pjpg&auto=webp&s=c53b3563acd3fe33514b397a2a9363ebf9855a3f",
+    "hash": "5e3f7567e6",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACYQAAIBAwIEBwAAAAAAAAAAAAECAwQRIQASBQYTQRUxUWFxgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAyESQVH/2gAMAwEAAhEDEQA/AD/MNbLxeepp41gFIJdySEM2V89ube2jBHhdQZSFLFim3ZYm/e/xpXV8vVrcRkalihihAVlifAAznHr+aGPSmtmSVVZ9hAfpi9vrtqeHF0nQy92f/9k=",
+    "url": "https://preview.redd.it/r4qrf5hrqtr91.jpg?width=640&crop=smart&auto=webp&s=6fab20bea7f72a117a0bc611397e91d31736e287",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 63,
+    "value": 63
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Small Town Pack",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xvlq12/small_town_pack/"
+}

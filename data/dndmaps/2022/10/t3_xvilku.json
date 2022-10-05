@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1664841600,
+    "full": 1664898625,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xvilku",
+  "picture": {
+    "filesize": 104452,
+    "fullUrl": "https://preview.redd.it/7wpvvwgs8tr91.jpg?auto=webp&s=d74ebde721277ac2d41bea225003d86b677e384b",
+    "hash": "79795cea85",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAH/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIDEQASUQQTISKRMUFxgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABURAQEAAAAAAAAAAAAAAAAAAABB/9oADAMBAAIRAxEAPwDFJqgRmKiUMwp78AfuGTRGsLxiTU7lWQClAG3nFHyxN3dS50s2oALv97ZDvmWPhkd4I2ansm79/n0yVKP/2Q==",
+    "url": "https://preview.redd.it/7wpvvwgs8tr91.jpg?width=640&crop=smart&auto=webp&s=d866caebdbcfb07c9a8fe535dc7e2bac51fd151e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Settlement | Last Stand of the Damned",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xvilku/settlement_last_stand_of_the_damned/"
+}
