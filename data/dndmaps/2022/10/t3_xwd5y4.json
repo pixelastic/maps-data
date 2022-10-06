@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1664928000,
+    "full": 1664982584,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xwd5y4",
+  "picture": {
+    "filesize": 68097,
+    "fullUrl": "https://preview.redd.it/snwyubvh60s91.jpg?auto=webp&s=1386f38d6b32ffcfd7fde398ca89869d66384fbf",
+    "hash": "4eb8ce044d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAj/xAAiEAADAAEDAwUAAAAAAAAAAAABAgMABAUhMWFxETJBUVL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFB/9oADAMBAAIRAxEAPwCe46Pba7PITLnWH3z45Px6HxhVjBpVnWTCiqWB6BfOGS0rhWCrKnRvz2OPo9L6Fko8rAIQKTBLdgT9ZKGtErP/2Q==",
+    "url": "https://preview.redd.it/snwyubvh60s91.jpg?width=640&crop=smart&auto=webp&s=dbca364c837775ebc74f9c827a80cace7a5de1bd",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 341,
+    "value": 341
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Overgrown Cavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xwd5y4/oc_overgrown_cavern_3030/"
+}

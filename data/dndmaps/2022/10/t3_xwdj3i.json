@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1664928000,
+    "full": 1664983427,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xwdj3i",
+  "picture": {
+    "filesize": 149371,
+    "fullUrl": "https://preview.redd.it/z5ppdp6z80s91.jpg?width=1250&format=pjpg&auto=webp&s=5d272045e2d204b299c1eb9f5ec5734dc3084ca9",
+    "hash": "f8471dac63",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACMQAAIBAwQBBQAAAAAAAAAAAAECAwQFEQAGEiExExQVIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACElH/2gAMAwEAAhEDEQA/AMv25VWz4VYJbWaiV1VXBTkXPI9qc5GB31qKqKZ0nkX27rhiMEeO9PrXKkyW5KEO14Y59RmI4gH64I8deSdHPtnc8k0jvFKWZixJkzkk/ujxNVexhf/Z",
+    "url": "https://preview.redd.it/z5ppdp6z80s91.jpg?width=640&crop=smart&auto=webp&s=133c3da1d04436ed9cdb95216158d976be0095b0",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Poisoned Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xwdj3i/poisoned_dungeon_25_x40/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1664928000,
+    "full": 1664986511,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xwev8h",
+  "picture": {
+    "filesize": 171823,
+    "fullUrl": "https://external-preview.redd.it/4nXEbMgt86YxFvejx0kxoetJC2yFaUmmDTqlOh5PgKg.jpg?auto=webp&s=80e0ba0daec4e2ea117a96860a313830601242ac",
+    "hash": "b4d0b1c400",
+    "height": 950,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIBAAAgICAgIDAAAAAAAAAAAAAQMCEQQFABIGYSExkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACAxIhIv/aAAwDAQACEQMRAD8AP2DG6fWY07Sw5EAuJZRiJWQT6FULvmeydhkqfNZ1YJgepPS7r445pAcTSux55CXsZUIqYqxAkgmVfvJtt43mz2DZLzMnqaI6pNfQ98mVSqmSNvQaPSf/2Q==",
+    "url": "https://external-preview.redd.it/4nXEbMgt86YxFvejx0kxoetJC2yFaUmmDTqlOh5PgKg.jpg?width=640&crop=smart&auto=webp&s=373506ef8074f77e45176313d408e0be3b949e18",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The windmill farm wasn't equipped to deal with the heavy rain last night. Hopefully these floods don't ruin the crops!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xwev8h/the_windmill_farm_wasnt_equipped_to_deal_with_the/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1664928000,
+    "full": 1664967492,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xw7g67",
+  "picture": {
+    "filesize": 113651,
+    "fullUrl": "https://preview.redd.it/8edp5eemxyr91.jpg?auto=webp&s=8903550c613426281db61711e952cb96149402ee",
+    "hash": "d00f451efe",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAgECBgIDAAAAAAAAAAABAgMEEQAxBRITFCEiBmFRcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIABBETIcHh/9oADAMBAAIRAxEAPwAXgs/cXY5IXkStEnSlPL6s5Iwo+xj+DSk8Ua27to9eurssA5cN1kxud/H7Gpf49Qmp8YalYIaCxmwvK+zL4IP2QcaZ47K/eVoqZEUQVkkdFZhHkeofG+SD4H40beDNYbMMrKmgBDkcd+z/2Q==",
+    "url": "https://preview.redd.it/8edp5eemxyr91.jpg?width=640&crop=smart&auto=webp&s=fdc7749950c242714fbd838349e6f35733f33cf7",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 269,
+    "value": 269
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A road encounter map by a river",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xw7g67/a_road_encounter_map_by_a_river_30x30/"
+}
