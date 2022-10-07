@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1665014400,
+    "full": 1665050515,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xx1fyv",
+  "picture": {
+    "filesize": 94581,
+    "fullUrl": "https://preview.redd.it/40305fvhs5s91.jpg?width=4000&format=pjpg&auto=webp&s=faf74cbe98bd8c188aacf0d04cca82e1336207b1",
+    "hash": "dcf0aaecdc",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIGB//EACIQAAEEAQQCAwAAAAAAAAAAAAECAwQRBQAGIVESMRORof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAfEQABAwMFAAAAAAAAAAAAAAABAARxAiEyEhUxUaH/2gAMAwEAAhEDEQA/AM3wu9ok+DHcfxMd2Y2PF19yr9UaAHPHekze+hjYTq4mOjNyXaS26kCwmqFiuh+6l9qNLx6FqLgLja0rSEix75+tDdTLuQR5pr5FKUugOtGbe21Y2kzx14lC/cGjK8CF/9k=",
+    "url": "https://preview.redd.it/40305fvhs5s91.jpg?width=640&crop=smart&auto=webp&s=5d7b54e251d95048e78eff0f82c4c7bbefbc81d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Arcanepunk Criminal Hideout",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xx1fyv/arcanepunk_criminal_hideout_40x40_2_floors/"
+}
