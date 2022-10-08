@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_15wa3v",
+    "name": "ScalpelArts"
+  },
+  "date": {
+    "day": 1665100800,
+    "full": 1665127655,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xxsobv",
+  "picture": {
+    "filesize": 145712,
+    "fullUrl": "https://preview.redd.it/eqi57cpv5cs91.jpg?auto=webp&s=2839edb5cac218c5a5bcf3f6089232e05f1cba16",
+    "hash": "dae925ce8b",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAHhAAAgMAAwADAAAAAAAAAAAAAQIDBBEAEiEiQpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AMghqdBEkjxCASArHml/OG2YYFncN3BB9DRDeL17a16EcqxxswK/Bjrdh9vzkVy2JbMj4rdjujRvDG2waf/Z",
+    "url": "https://preview.redd.it/eqi57cpv5cs91.jpg?width=640&crop=smart&auto=webp&s=7a128f5c26bf663bd6a84b00120a39268832be9b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 104,
+    "value": 104
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Spider-Infested Forest Battle Map 22x33",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xxsobv/spiderinfested_forest_battle_map_22x33/"
+}

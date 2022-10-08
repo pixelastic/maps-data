@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1665100800,
+    "full": 1665131813,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xxtqdu",
+  "picture": {
+    "filesize": 119090,
+    "fullUrl": "https://preview.redd.it/znrt0eydhcs91.jpg?auto=webp&s=ae789d3e85cad339203603da0f4f4086a30b3c89",
+    "hash": "61b37cb67e",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMEBREABiESExQxI3GR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCf2C12qntcMgjPmCNWd2dekMy5Ax7P5o/veIUt+eJYYCBGh+JSqjIz6OkttraaO0wF6yAlO2WkEiBwCACORngZGj+8pxJdY2psvH2EGekZ4yOSAAfvRWf/2Q==",
+    "url": "https://preview.redd.it/znrt0eydhcs91.jpg?width=640&crop=smart&auto=webp&s=bcef13723f30ae070cb7077ba7bd5ab66a38b038",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 379,
+    "value": 379
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Looted Crypt",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xxtqdu/looted_crypt_32x44/"
+}
