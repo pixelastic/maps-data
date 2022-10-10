@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1665187200,
+    "full": 1665252420,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xyzdr1",
+  "picture": {
+    "filesize": 91127,
+    "fullUrl": "https://preview.redd.it/4wywovsugms91.jpg?width=2450&format=pjpg&auto=webp&s=02ad9ab6174a93bc46740a435470826f1961e678",
+    "hash": "089f3ae0f3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDCP/EACAQAAICAgICAwAAAAAAAAAAAAEEAgMAEQUSMfATISP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EAB0RAAECBwAAAAAAAAAAAAAAAAAB8AIREiEyUYH/2gAMAwEAAhEDEQA/AM/8UtYw3Feivd5j27yB0MPKKyWYK98RFiI3uPj36xeMbuWaDCtojboRlXPwR6Mu4WeQc+XrO9yf5iNQ3s5ExVIq7Yvj2f/Z",
+    "url": "https://preview.redd.it/4wywovsugms91.jpg?width=640&crop=smart&auto=webp&s=20323b3e431245452d68a2b6ce9e0a38587a44e8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Revealing a Secret Constellation - Astronomy Hall Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xyzdr1/revealing_a_secret_constellation_astronomy_hall/"
+}

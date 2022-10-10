@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fau36",
+    "name": "steelerengineer"
+  },
+  "date": {
+    "day": 1665187200,
+    "full": 1665189547,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xyex85",
+  "picture": {
+    "filesize": 157872,
+    "fullUrl": "https://preview.redd.it/kjalrj1o9hs91.jpg?auto=webp&s=76ff5779760617b6695b29bae56f8d0e99c1763a",
+    "hash": "92b30480ee",
+    "height": 768,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACEQAAIDAAEDBQAAAAAAAAAAAAEDAgQRACExURITFHHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAYEQADAQEAAAAAAAAAAAAAAAAAASEREv/aAAwDAQACEQMRAD8AxynVrsgZgEb1BIPjiy85dO1NLEzERhiQc0EfXL5S4QKx8VhKx6mQAG7mAgeO/T84RXFda5B1Ko0mZMfeUJ5Hpmb24lWT9Yqf/9k=",
+    "url": "https://preview.redd.it/kjalrj1o9hs91.jpg?width=640&crop=smart&auto=webp&s=886c3c7291baf0f698a0447d4640b7653ebe7663",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Blight Rock",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xyex85/blight_rock_50x60encounter_map/"
+}

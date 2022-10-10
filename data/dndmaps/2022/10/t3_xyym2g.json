@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_163fsc",
+    "name": "Torgnarly"
+  },
+  "date": {
+    "day": 1665187200,
+    "full": 1665250545,
+    "month": 1664582400,
+    "week": 1664668800
+  },
+  "id": "t3_xyym2g",
+  "picture": {
+    "filesize": 75969,
+    "fullUrl": "https://preview.redd.it/v2jtnmv8bms91.jpg?width=2816&format=pjpg&auto=webp&s=219e99a75322470cd7fe9553fe5c806d11a55d83",
+    "hash": "bf9fd300a2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACIQAAICAgIBBQEAAAAAAAAAAAECAwUEEQAScQYTFCIxof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAABIBEQJhwf/aAAwDAQACEQMRAD8AwOrqxm1s2UqxL8bp2BA22xwWdaMOujyWSMnI760B9dDlfp1sc0VkJZ4FkCKwVpFViBret/vgcTePjGmwPZnRnCOWTuCQD/R45K2T1vgtQp//2Q==",
+    "url": "https://preview.redd.it/v2jtnmv8bms91.jpg?width=640&crop=smart&auto=webp&s=05fee96289f7846c8b60ff98b311760100930623",
+    "width": 640
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 441,
+    "value": 441
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Chamber of the Artificial Lich",
+  "url": "https://www.reddit.com/r/dndmaps/comments/xyym2g/chamber_of_the_artificial_lich/"
+}
