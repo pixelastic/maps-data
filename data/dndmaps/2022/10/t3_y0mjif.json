@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_jozhclqy",
+    "name": "Nex_Skala"
+  },
+  "date": {
+    "day": 1665360000,
+    "full": 1665427438,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y0mjif",
+  "picture": {
+    "filesize": 339599,
+    "fullUrl": "https://preview.redd.it/h1qfbuf5w0t91.png?auto=webp&s=c6dc137a027d85ed6c71b98bbf022b63489d0837",
+    "hash": "9fcf22835b",
+    "height": 448,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB3UlEQVQokR3O2XKaUACAYZ6qvelMH8GOmVgVhALCgbOIskjYEfcYI8HWJYmJS6I1ddK7Pl/HzPy338xPdUfYtAU3VJBGOyFEGh0mOGzXogR5Ce70lbgFk4G22ofrY/T8O6J0nRE5VhLpr18+c5VCPp/jK0VOvFQBX6ZLEBahyKhQfHwN1sf4DOIuxCpbLOWbrur5wPNwHNadQCFIEMUKkBiNSJgIj6/+5u0DBG2kALZQyNkO6YV6ZMPnVZokTYSqpo4loaxUaYK55dZ9OnwseSEkSCFYtAM0iA0CuGnW61xrssRoNYChoAAeAk43gdYQ7nce5UYAQZGvliwH3fYdpy5md510aWmGoBmC4VRrDd5vE6MpE8w+vATUfO3COu/31NG1n44TS2VmWbc7tAKvYRqQq5bLdElvygCUOPZisfWozqgmCHSFLXXbVpb164CZDL3xTdI0CFKZ3A/50zeiYVmROZ4vnkHDEhRJtAxs+2g+G8QOMRA/nsReoLU6dVnhC98vTVuV5DJbuVhsXOpmetV0oBvgydweTizXh60OmG+87P5q+uCmc2t411ju/J9PznhmrvYBtTqE5/bB7tRKF/btL/vlPVkf483bue2f1u6UrI/R7tR+/5ce/l7/B3h++HxPxhihAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/h1qfbuf5w0t91.png?width=640&crop=smart&auto=webp&s=01e567f5833f2f5d6d662766a2da06af263f271e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "First attempt at building my own maps. Made Redbrand Hideout bg image for my VTT. Grid size is 100 and picture is 3000x2100.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y0mjif/first_attempt_at_building_my_own_maps_made/"
+}

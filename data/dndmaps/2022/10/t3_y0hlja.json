@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1z46thk5",
+    "name": "mrulfhamar"
+  },
+  "date": {
+    "day": 1665360000,
+    "full": 1665415633,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y0hlja",
+  "picture": {
+    "filesize": 93692,
+    "fullUrl": "https://preview.redd.it/g83fvbv5yzs91.jpg?auto=webp&s=e3846c09b34022344505afaf3229682d8072c7b1",
+    "hash": "cfae3d1033",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDABESBCFREyIjMUGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDCtPCi6onGQqLEFfQJ3q9QyiV3zkLYr03a/wB2290EhCDxy5OW7lPPxY00zsoUxSoVKjLm/H7RDf/Z",
+    "url": "https://preview.redd.it/g83fvbv5yzs91.jpg?width=640&crop=smart&auto=webp&s=1274936e919608bb7e34a668cd51d3d8e4c48fb2",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Random Encounter 30x30",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y0hlja/swamp_random_encounter_30x30/"
+}

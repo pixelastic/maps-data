@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_37m437ss",
+    "name": "wizard000001"
+  },
+  "date": {
+    "day": 1665360000,
+    "full": 1665394756,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y0aft5",
+  "picture": {
+    "filesize": 86358,
+    "fullUrl": "https://preview.redd.it/li93f1948ys91.jpg?auto=webp&s=b1c4963d258e8a2d7de6c90af76c00ae49d1e295",
+    "hash": "f65d17aa02",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EACEQAAIDAAIBBQEAAAAAAAAAAAECAwQRACEFEhMxUXGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQABBQAAAAAAAAAAAAAAAAAAARESITL/2gAMAwEAAhEDEQA/AMWtI0DwCrCUuEB451UqI8Ud6D8nviyvPZEktuOKSZ/WWsDWLkL3u/3kvGWWksVa7Rx+3JKikgYRpA0H74eTsslu1AEQpFI6KWGnrRv7ycmhlxc//9k=",
+    "url": "https://preview.redd.it/li93f1948ys91.jpg?width=640&crop=smart&auto=webp&s=71ff408d27c8288036107d3af3476a0f6893d29c",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 171,
+    "value": 171
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "The map for my upcoming campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y0aft5/the_map_for_my_upcoming_campaign/"
+}

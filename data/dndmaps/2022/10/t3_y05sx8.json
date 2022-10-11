@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1665360000,
+    "full": 1665377406,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y05sx8",
+  "picture": {
+    "filesize": 215720,
+    "fullUrl": "https://preview.redd.it/8riea7gisws91.jpg?auto=webp&s=a374f566829ad267542e06c389a65323811e1f59",
+    "hash": "b1d296c660",
+    "height": 1024,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEH/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIRAAMEEiFRFGETobH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABoRAQEAAgMAAAAAAAAAAAAAAAECAAMRMVH/2gAMAwEAAhEDEQA/AMzxB8+Q1pLZySrBdE4Nz11yKi2wyg+WyyJgEcUjFxm8c5OKdApO9xXjSO+uD90EawJVifSyP2oZVXzFukJnjvP/2Q==",
+    "url": "https://preview.redd.it/8riea7gisws91.jpg?width=640&crop=smart&auto=webp&s=33e1a2e55122f6ba5d28dc54abb8c02dabbc2347",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Explorer's Tent  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y05sx8/explorers_tent_5x8_oneiromancy_maps/"
+}

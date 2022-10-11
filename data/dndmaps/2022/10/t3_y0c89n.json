@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_fd67t",
+    "name": "Oasification"
+  },
+  "date": {
+    "day": 1665360000,
+    "full": 1665401002,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y0c89n",
+  "picture": {
+    "filesize": 148113,
+    "fullUrl": "https://external-preview.redd.it/Dw0sBj_6fGm3nQIIV-4wlykmihlNVmPeVvzOYwpjNgk.jpg?auto=webp&s=1ad7a746db10ea180b0e31c7bc20b563a68f52c4",
+    "hash": "19f2e4bfaa",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIxAAAgEEAgAHAAAAAAAAAAAAAQIDAAQFERJBFCEjMXGBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAHBEAAQMFAAAAAAAAAAAAAAAAAAECERITISIx/9oADAMBAAIRAxEAPwDOcbbIkTwBUn5+o0pGw2ye6PIWkFojyw2wRwPMp7nXe+vqp7TMwLAYt+HCDhqSJjog9fNBksuJ7RoLOGSdZWAYlCAP3dUliMgpdc14f//Z",
+    "url": "https://external-preview.redd.it/Dw0sBj_6fGm3nQIIV-4wlykmihlNVmPeVvzOYwpjNgk.jpg?width=640&crop=smart&auto=webp&s=28e6fe6e85f0a0535f529fec13f170975a73f39f",
+    "width": 640
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 1010,
+    "value": 1010
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The wizards of Shardport heard \"The sky is the limit\" and took that as a challenge.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y0c89n/the_wizards_of_shardport_heard_the_sky_is_the/"
+}
