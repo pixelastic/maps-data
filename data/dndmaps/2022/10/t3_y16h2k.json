@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_12flox",
+    "name": "DanielHasenbos"
+  },
+  "date": {
+    "day": 1665446400,
+    "full": 1665487241,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y16h2k",
+  "picture": {
+    "filesize": 83713,
+    "fullUrl": "https://preview.redd.it/bcef3b9gu5t91.jpg?width=1600&format=pjpg&auto=webp&s=537460c22cfbb4f4b678a5d868192e76779161c9",
+    "hash": "a65ef6332c",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIRIFIjEyQXGBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwBChFvLMzgxhSYiDsgnyaSFprKZIF4SM4VlAxvG/urdNzLJOJCXyPf8rHd3ksdw6rxwswVe306G/moWwx//2Q==",
+    "url": "https://preview.redd.it/bcef3b9gu5t91.jpg?width=640&crop=smart&auto=webp&s=332eac2e76f7dd8be30de00ef3bc6019620bf269",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Clearing (27x36)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y16h2k/forest_clearing_27x36/"
+}
