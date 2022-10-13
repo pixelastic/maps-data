@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ck8teyqc",
+    "name": "TalesOfTad"
+  },
+  "date": {
+    "day": 1665532800,
+    "full": 1665598647,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y2b7ky",
+  "picture": {
+    "filesize": 83565,
+    "fullUrl": "https://preview.redd.it/hq5j5egt1ft91.jpg?auto=webp&s=c4f0074b73bce2d3731bb2879b4327925ce9cb28",
+    "hash": "d430ab15ef",
+    "height": 465,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDERIABCEFBhNhFDFB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBv270ox/BgRTFC5K2mKi/xTxfPr3ptvtjFDaGJS1irFj61L26q+PbLiuGGeNcWDxrT6xPIUlKMI3zQZqourFjm9FKr/9k=",
+    "url": "https://preview.redd.it/hq5j5egt1ft91.jpg?width=640&crop=smart&auto=webp&s=98d42c982dd0c52aa27d7322c1abc3cc9950415b",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "The Town of Hafrbör.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y2b7ky/the_town_of_hafrbör/"
+}

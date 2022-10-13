@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2razpjnz",
+    "name": "_PogS_"
+  },
+  "date": {
+    "day": 1665532800,
+    "full": 1665567135,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y1zbeg",
+  "picture": {
+    "filesize": 107213,
+    "fullUrl": "https://preview.redd.it/8m7pyzfkgct91.jpg?auto=webp&s=8d803cbaf0947025df9a54b858d35808159ec45d",
+    "hash": "749c0edcf8",
+    "height": 889,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJxAAAQMDAwIHAQAAAAAAAAAAAQIDBAURIQAGMRJBFCIyQlFhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABcRAQEBAQAAAAAAAAAAAAAAAAIBABH/2gAMAwEAAhEDEQA/AFN+bFNbrLkqnyITaXXkqeL4K7rbFu1854PPxjW02xTotFo7UBgOFTJIdMb0ld83t34/mkZDDEdCGxG6kp6nfI3Yc3Ix7j+nVPhY61rcdjsFbh6iS2LnA5+8akJWmHK5v//Z",
+    "url": "https://preview.redd.it/8m7pyzfkgct91.jpg?width=640&crop=smart&auto=webp&s=7543bf6c6011884c9113cfd7a910d34137eebb76",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desert Palace",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y1zbeg/desert_palace/"
+}
