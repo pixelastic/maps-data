@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4qzqmvhw",
+    "name": "salamandra_brisada"
+  },
+  "date": {
+    "day": 1665619200,
+    "full": 1665691419,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y38gz2",
+  "picture": {
+    "filesize": 58003,
+    "fullUrl": "https://preview.redd.it/o0s7dwm7qmt91.jpg?auto=webp&s=a4aab12f75ca6a6031440e764dd4be0618adc7e2",
+    "hash": "46bb51c293",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACAQAAICAQQDAQAAAAAAAAAAAAEDAhEEAAUSUSFBcWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABYRAAMAAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8AxzbNvZuDWwXKMAtZZKUroAfPukzMNmHJYaVmU48qjKyPNeejqeO9uOzmmZjL30fw96OVkNy3lr5cmEVdVq9YRH//2Q==",
+    "url": "https://preview.redd.it/o0s7dwm7qmt91.jpg?width=640&crop=smart&auto=webp&s=7c290ea29c6f75a34a641ab0c153e4db405b85f0",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "A simple secret room for a mansion",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y38gz2/a_simple_secret_room_for_a_mansion/"
+}
