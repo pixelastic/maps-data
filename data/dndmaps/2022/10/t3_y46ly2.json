@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4yy8u",
+    "name": "SimpleRy"
+  },
+  "date": {
+    "day": 1665705600,
+    "full": 1665784969,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y46ly2",
+  "picture": {
+    "filesize": 143076,
+    "fullUrl": "https://preview.redd.it/b2x8zf0nfut91.jpg?auto=webp&s=e4a2b9fa75bcfb85a91fad77f5be28e3ffb6cad7",
+    "hash": "43c9ca47a2",
+    "height": 890,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABRIhEzFBUcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AzGXb1r1hKEiYPF5AI3ywAOOx8HULO30h42EyxckDceQ/dK7eoFCews9UNJDgxsxDR+gSRjr3oPfAZLaLBCJViiVC8YLAtjJ7x9nSatMv/9k=",
+    "url": "https://preview.redd.it/b2x8zf0nfut91.jpg?width=640&crop=smart&auto=webp&s=f6df5b53ed35c6d04ebe32fc7620771b3f52b5d9",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Interrogator's Cells",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y46ly2/interrogators_cells_38x27/"
+}

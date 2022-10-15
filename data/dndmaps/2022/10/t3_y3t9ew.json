@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5asgpv4m",
+    "name": "Rhineglade"
+  },
+  "date": {
+    "day": 1665705600,
+    "full": 1665752232,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y3t9ew",
+  "picture": {
+    "filesize": 99130,
+    "fullUrl": "https://preview.redd.it/zqoatoq0rrt91.jpg?auto=webp&s=73d4187fb02e6a40b4fd39cb13e3a1a9ec010673",
+    "hash": "ac40d06e59",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAiEAABAwQBBQEAAAAAAAAAAAABAgMEABESIRMFBiIxQZL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAMREhQcH/2gAMAwEAAhEDEQA/AJAsrbizWHrKanYL8F7CEgjf6oGoqOqSo8CPxlxllSkcpt4i19/Pgp7C+fopQQLa0N1PQpjzXcAwUBkwtJ17B2aGyHZF35Eo+CF5U//Z",
+    "url": "https://preview.redd.it/zqoatoq0rrt91.jpg?width=640&crop=smart&auto=webp&s=2e82612a7634281d69415ae1c8b00d05b8ab5d52",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.71,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Alley Encounter Map_Waterdeep: Dragon Heist",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y3t9ew/alley_encounter_map_waterdeep_dragon_heist/"
+}

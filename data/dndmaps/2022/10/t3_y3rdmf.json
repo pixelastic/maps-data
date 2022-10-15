@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1665705600,
+    "full": 1665747019,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y3rdmf",
+  "picture": {
+    "filesize": 165007,
+    "fullUrl": "https://preview.redd.it/l02g2i5jbrt91.jpg?auto=webp&s=03f7fcd420a06f09c56db149b96e133e352f0b0c",
+    "hash": "701e92bfad",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACEQAAIBBAEFAQAAAAAAAAAAAAECAwAEESESBRVCcaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAQUAAAAAAAAAAAAAAAAAAQIEBRETQf/aAAwDAQACEQMRAD8AwUCcOmE8AflIa2YRQqIgQFzhhnjndV2xTtDI10kUh8WJ171jFBctuKMuJWSNckEj8pdc3sRGtyxCT6f/2Q==",
+    "url": "https://preview.redd.it/l02g2i5jbrt91.jpg?width=640&crop=smart&auto=webp&s=1701614389c6c044ea0d563c71ab713200074ba2",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 449,
+    "value": 449
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Docks Battle Map - (36x45)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y3rdmf/city_docks_battle_map_36x45/"
+}
