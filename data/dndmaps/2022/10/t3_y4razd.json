@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1665792000,
+    "full": 1665849020,
+    "month": 1664582400,
+    "week": 1665273600
+  },
+  "id": "t3_y4razd",
+  "picture": {
+    "filesize": 46534,
+    "fullUrl": "https://external-preview.redd.it/5w_KJZOdzm6nPeiRhnmjvpzEsas0fHRLfF31GQS9ojQ.jpg?auto=webp&s=9fbd1350f10d968e491caab9b96c3784fe751728",
+    "hash": "fe02d35374",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIRAAAQMEAwADAAAAAAAAAAAAAQIDEQAEBRIhMUFRYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhMf/aAAwDAQACEQMRAD8AwrC4hh23DtzCG9ZK9Z58AHzTzmItmmgu1Uh1ChMpTqQQBII/QaeCyDaLYNPFBQQJSVamR0QfKtnbht8ywDqEmEpVsZPZJA+uKTakwPTt0//Z",
+    "url": "https://external-preview.redd.it/5w_KJZOdzm6nPeiRhnmjvpzEsas0fHRLfF31GQS9ojQ.jpg?width=640&crop=smart&auto=webp&s=ddc8e6d2922143916e7bc2dcf29c98958694d851",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 68,
+    "value": 68
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Well. This looks friendly!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y4razd/well_this_looks_friendly_30x30/"
+}
