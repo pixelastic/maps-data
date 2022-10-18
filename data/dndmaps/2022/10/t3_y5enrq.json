@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_18tefuhn",
+    "name": "Arkenforge"
+  },
+  "date": {
+    "day": 1665878400,
+    "full": 1665920109,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y5enrq",
+  "picture": {
+    "filesize": 124572,
+    "fullUrl": "https://preview.redd.it/hpywufh6m5u91.jpg?auto=webp&s=3be268a3edeeb01e0263ff4d1e03dd615d17172f",
+    "hash": "0bec64511d",
+    "height": 906,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAACAQMEAQUAAAAAAAAAAAABAgQDBREABhJBkRMUIlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhES/9oADAMBAAIRAxEAPwCPbRgbXfbINwkRFnVgwZqxyUOTgAddedDb3Y5NuuleMEDqpDKyHkCrAMMH8I0w25drHW29BhzKlvjVI/IVPdRPV5EnPIFSD9eNFrzXnzbnIkI61Kbt8GQBVKgYXA6GANLVS0tDnemf/9k=",
+    "url": "https://preview.redd.it/hpywufh6m5u91.jpg?width=640&crop=smart&auto=webp&s=5310311b8ea5fba6ce10bc293fe05b6ad7cc64e5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Spider Cave",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y5enrq/12x17120dpi_spider_cave/"
+}

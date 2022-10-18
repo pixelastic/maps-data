@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_awgo5nlc",
+    "name": "Rudocini"
+  },
+  "date": {
+    "day": 1665878400,
+    "full": 1665936078,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y5keqd",
+  "picture": {
+    "filesize": 95249,
+    "fullUrl": "https://preview.redd.it/92w0r5unx6u91.jpg?width=1200&format=pjpg&auto=webp&s=d28277a1dd668b08ff774cd8d35101c210e404dd",
+    "hash": "0098a15c4d",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDBAYRAAUSFCEiQVExYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMEERIh/9oADAMBAAIRAxEAPwDBu13VDO0NPAtLDFI3FJGcs2CcZJGAPOn7YurmZIKbd44VD9qVK9vE3gOPgE+xoG6LPqk3OoShharppSXXGO3rkqf3odRb9sTz1YNe/KU8TKeFiCz+cAevvRI1y2HoEyo6Y7VeHU//2Q==",
+    "url": "https://preview.redd.it/92w0r5unx6u91.jpg?width=640&crop=smart&auto=webp&s=ab36d95d1b4b3c5d87d704ea4235757a8259b267",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Gonk Court",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y5keqd/the_gonk_court/"
+}

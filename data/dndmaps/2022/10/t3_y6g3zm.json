@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_810qa3bq",
+    "name": "le_had_mer"
+  },
+  "date": {
+    "day": 1665964800,
+    "full": 1666025375,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y6g3zm",
+  "picture": {
+    "filesize": 95911,
+    "fullUrl": "https://preview.redd.it/q79c9j8l6eu91.jpg?auto=webp&s=67b7425901e6d8953d7b4a016d90e06003f948bd",
+    "hash": "ffacb208da",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAJRAAAgECAwkBAAAAAAAAAAAAAQIDABEEBSEyNENhcXKBkbLB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQADAAMAAAAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AHwYeNVTbCHQlbAg+a0kwiTO6M9rjQkC4PP1am5txO5fo1ZBv8vU/tTVikPr20//2Q==",
+    "url": "https://preview.redd.it/q79c9j8l6eu91.jpg?width=640&crop=smart&auto=webp&s=b7d7afd278ec91d99a0f74f54b3158f437b53ee1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Mountain Valley",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y6g3zm/mountain_valley/"
+}

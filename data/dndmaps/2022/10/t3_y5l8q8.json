@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6a0wrgtx",
+    "name": "BonusActionRainbow"
+  },
+  "date": {
+    "day": 1665878400,
+    "full": 1665938131,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y5l8q8",
+  "picture": {
+    "filesize": 53134,
+    "fullUrl": "https://preview.redd.it/euopde7u37u91.jpg?width=2500&format=pjpg&auto=webp&s=1644f967033b61bf2658f83845b90ea0741e051c",
+    "hash": "f970da6ef3",
+    "height": 435,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCAAQFERJRBhMhIjFBQmH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMGw1ml96ruuiICUd3jmrl7CCb90Vths9RjwQOKOTOS2AwOh9qX6XtEZDMLTeLDFEHWJJH1J+P2rjorcP//Z",
+    "url": "https://preview.redd.it/euopde7u37u91.jpg?width=640&crop=smart&auto=webp&s=f9218bb0d04a75c8c92cfe365403e261b578ec5b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Necromancer's lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y5l8q8/necromancers_lair_sp00ky_battlemap_variant/"
+}

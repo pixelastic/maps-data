@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4ie2smfu",
+    "name": "EightfoldPaper"
+  },
+  "date": {
+    "day": 1665878400,
+    "full": 1665923619,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y5fq9d",
+  "picture": {
+    "filesize": 114012,
+    "fullUrl": "https://preview.redd.it/a0sgio30w5u91.jpg?auto=webp&s=1cadf81e42c6683d0ec3386ddf06f95a6de65eb4",
+    "hash": "54b6881a55",
+    "height": 1056,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQMCABIxBRETBCEjQVGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhESMUH/2gAMAwEAAhEDEQA/AMPbpKyp/AlfjXeLsyJAwf01Kl0yhIiyOaZPUljmKmgGcRED0RsAd/mKPJkLj3OflHjktiXXD//Z",
+    "url": "https://preview.redd.it/a0sgio30w5u91.jpg?width=640&crop=smart&auto=webp&s=090feeb08871db15e38844622d7d7a8295e96f33",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.9,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Magic at the Museum",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y5fq9d/magic_at_the_museum_part_04_33x20/"
+}
