@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c0a4rmn5",
+    "name": "oixxo"
+  },
+  "date": {
+    "day": 1666051200,
+    "full": 1666086096,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y72dil",
+  "picture": {
+    "filesize": 117891,
+    "fullUrl": "https://preview.redd.it/oq6jjycpbju91.jpg?auto=webp&s=45a5f62c67d5c8e01f7cebee414be76decc1bc52",
+    "hash": "b2f594373c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAoEAACAQEGBAcAAAAAAAAAAAABAwIEAAUREiJBEyExURQjMlJxgsH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECEQP/2gAMAwEAAhEDEQA/AJtdtEo0bJVSNCZjisOGcR9sdu35ZXhkNg7SBxdKJsjjKGEhgeQ+bITSQe7zl5M3rlDnHEbnayb4u8ooGCnLZyaAPp1IHbbrtYjpW5KFolSnR//Z",
+    "url": "https://preview.redd.it/oq6jjycpbju91.jpg?width=640&crop=smart&auto=webp&s=35c85d24b78f09b998fe32ae610309130c73f79a",
+    "width": 640
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 850,
+    "value": 850
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Hagrid's Hut (22x22)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y72dil/hagrids_hut_22x22/"
+}

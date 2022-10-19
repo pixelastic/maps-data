@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1666051200,
+    "full": 1666099221,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y76wqh",
+  "picture": {
+    "filesize": 81657,
+    "fullUrl": "https://external-preview.redd.it/uNwbifPAEQWxRqds5Ul30f-ohyKZ_UGTGMDswZYARL8.jpg?auto=webp&s=21551838901c2e9a4c837a3c2c2f943e9f3e58dc",
+    "hash": "78feae2bae",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACQQAAICAQQBBAMAAAAAAAAAAAEEAgMRAAUSIhMUITFBYXHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIhwf/aAAwDAQACEQMRAD8AyO2IqsbcLg5uLLGO4XZEuORkYBIyP7ouULW0wjUs7T15yunZHyEexyQZZI+fxp+1j1T260sU0TqTnCumJrHUcSf3qepubb63hjYFaqhDpREYlylg55CX1qbRb71j4T//2Q==",
+    "url": "https://external-preview.redd.it/uNwbifPAEQWxRqds5Ul30f-ohyKZ_UGTGMDswZYARL8.jpg?width=640&crop=smart&auto=webp&s=8b163ae91f764e7fce6fb39ca11cdea934737ed8",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Guarded Path",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y76wqh/guarded_path_22x17/"
+}

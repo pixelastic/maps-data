@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1666051200,
+    "full": 1666089832,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y73jp6",
+  "picture": {
+    "filesize": 67866,
+    "fullUrl": "https://preview.redd.it/xx1v91bxmju91.jpg?auto=webp&s=cb9ead0c27254e6a37ffabd60c841e9c1abd9248",
+    "hash": "b5c64a01a1",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACcQAAIABAQFBQAAAAAAAAAAAAECAAMEBQYRITEHEhM0NXFykbHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAWEQEBAQAAAAAAAAAAAAAAAAABADH/2gAMAwEAAhEDEQA/ADcKqW3SsH29lkUzvM5mZpiAnc555/EUMXSbWbVVdWVTByCQVRQV020jJsJePlen7D1+7dPafoxPdlhf/9k=",
+    "url": "https://preview.redd.it/xx1v91bxmju91.jpg?width=640&crop=smart&auto=webp&s=101f5af9b3d4168d6d6876f69235d2c74cb41645",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Broken World of Ajora",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y73jp6/broken_world_of_ajora/"
+}

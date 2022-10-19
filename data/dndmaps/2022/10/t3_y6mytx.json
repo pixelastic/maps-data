@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6lzkwhb1",
+    "name": "ArtifexWorlds"
+  },
+  "date": {
+    "day": 1665964800,
+    "full": 1666041350,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y6mytx",
+  "picture": {
+    "filesize": 160851,
+    "fullUrl": "https://preview.redd.it/5mkt224smfu91.jpg?auto=webp&s=ca181854c701eaa377d4b48f3fc663c2d36ab4e2",
+    "hash": "0574134bb5",
+    "height": 873,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMGB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAwQFEQASISIxQWFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2y4tV1khnWRi0fGFXqqkkDBzyc/p0ae9XGKFVgVqiPHV2G4/WeNIrqOagmkhClo5V2q4QnaFO4ePZJ1SWS3CioFjkIkdmLkkcDPofGpH/9k=",
+    "url": "https://preview.redd.it/5mkt224smfu91.jpg?width=640&crop=smart&auto=webp&s=8ec9f31a55547d86790a9012b5e1b6fa05bf8546",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Map of old temple, partially taken over by an Ankheg",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y6mytx/map_of_old_temple_partially_taken_over_by_an/"
+}
