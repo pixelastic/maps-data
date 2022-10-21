@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1666137600,
+    "full": 1666156151,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y7tk1c",
+  "picture": {
+    "filesize": 81367,
+    "fullUrl": "https://preview.redd.it/el5o8m004pu91.jpg?width=2048&format=pjpg&auto=webp&s=47c7955a50e90499fabd6596e008804dbf6c4722",
+    "hash": "2334afca3e",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRABIhMhMUMWFxgfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDHG2GEkrTBkahfJRIHzt7wc0HrIKSvWLKa47/vGTo02UHq7h0iiKKiRX3jshxSGpCkmlE0Tkkf/9k=",
+    "url": "https://preview.redd.it/el5o8m004pu91.jpg?width=640&crop=smart&auto=webp&s=9d233ea2f062211668c6b2ee9cc7c496cf1847cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Causeway  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y7tk1c/causeway_60x40_oneiromancy_maps/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5n9cgwp5",
+    "name": "roltakane"
+  },
+  "date": {
+    "day": 1666137600,
+    "full": 1666218799,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y8gjfd",
+  "picture": {
+    "filesize": 102158,
+    "fullUrl": "https://preview.redd.it/vgvxmrneauu91.jpg?auto=webp&s=57968bf7a2e04606724c173ee321e5d948274f98",
+    "hash": "e95d0910a1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACMQAAICAQMDBQAAAAAAAAAAAAECAxEFABIhBBMxIkFRYbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAEf/aAAwDAQACEQMRAD8ATZzIdXJNJGZI1Cn0ohIBQtwzH5scj90bgy0oyqRzzPJVqwViVrwPeuDpF1Z70TpJyrDafsaHPjoosltWSXbfgtd6Gl7l6lHf/9k=",
+    "url": "https://preview.redd.it/vgvxmrneauu91.jpg?width=640&crop=smart&auto=webp&s=458f93d1fa441e97f0080c5516da3de92a9ec566",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 297,
+    "value": 297
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Coldwater Hideout",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y8gjfd/coldwater_hideout/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_18tefuhn",
+    "name": "Arkenforge"
+  },
+  "date": {
+    "day": 1666224000,
+    "full": 1666274303,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y8z0fd",
+  "picture": {
+    "filesize": 126444,
+    "fullUrl": "https://preview.redd.it/hhd9m868vyu91.jpg?auto=webp&s=83b684ffb91be04aa86b39028044011beab3f1b3",
+    "hash": "d9bf92dd06",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAEEAAUDBQAAAAAAAAAAAAECAwURAAQGEiETQVEHIjFhof/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAESEwIRUf/aAAwDAQACEQMRAD8AzXQelcvOU/IvKRlSvYa4qhZN1wAP3DHqZFDITbj0Y4lcdtS23tHubbSNqSa7KqwfOIum5iQi3C3lFp6G02ki6Pcg/dC8G1BJ56RIZfW02yB1VIsJsi/J+BfAwleNc2SVPb4f/9k=",
+    "url": "https://preview.redd.it/hhd9m868vyu91.jpg?width=640&crop=smart&auto=webp&s=cb11bdaa831471d9a2d1dcad79298fea137daab9",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Feywild Pond",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y8z0fd/10x10120dpi_feywild_pond/"
+}

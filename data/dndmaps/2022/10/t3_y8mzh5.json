@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9iyd6x3r",
+    "name": "pixelknight-128bit"
+  },
+  "date": {
+    "day": 1666224000,
+    "full": 1666236372,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y8mzh5",
+  "picture": {
+    "filesize": 111961,
+    "fullUrl": "https://preview.redd.it/uho23zreqvu91.jpg?auto=webp&s=ab45537c10010eaa1a221aa7cdea1e1c672ba35f",
+    "hash": "dfa9b65b5c",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDBBEAISIxEnEFQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAYEQADAQEAAAAAAAAAAAAAAAABAgMAEf/aAAwDAQACEQMRAD8AxXxFClYqvDYm8LUbEqFJHAbAb9/e/wDdIgoxcylqJW8GDMCQCW/R1gdaNWjio2bCRxguGMQkPYACnPvlqVaJucYlkxKskTjOxwpOcexqWE2M6MDk7Dqgjf/Z",
+    "url": "https://preview.redd.it/uho23zreqvu91.jpg?width=640&crop=smart&auto=webp&s=a01d4dbd27a9cd5fae6a3ecf6975ba01eaa97f55",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 119,
+    "value": 119
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Advantaged Goblin, Standard Daytime Ambush",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y8mzh5/oc_advantaged_goblin_standard_daytime_ambush/"
+}
