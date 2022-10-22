@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666333927,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y9m05y",
+  "picture": {
+    "filesize": 175059,
+    "fullUrl": "https://preview.redd.it/p7qv8wx2s3v91.jpg?auto=webp&s=4f161b33ea93c373823b6aebabfa261ce5f39699",
+    "hash": "570da0dc1e",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQMCAAQREkEFEyEiMTKBof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAQUAAAAAAAAAAAAAAAABAAIRITFR/9oADAMBAAIRAxEAPwAlW0B020SmSRMkbEwjptwc8eSax30LZbgG3fZYR6hAZBIJBP5RWSNkwZ3VIdgBmAfj7c/YBNV901TnCVmt90kDAboPNGpc7iSydn//2Q==",
+    "url": "https://preview.redd.it/p7qv8wx2s3v91.jpg?width=640&crop=smart&auto=webp&s=56c80b3d170648f02201cc689aa56029cc7ac8ad",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 644,
+    "value": 644
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Mining Town",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y9m05y/mining_town_32x44/"
+}

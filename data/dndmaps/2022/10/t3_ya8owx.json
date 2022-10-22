@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_otwv4",
+    "name": "PDRA"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666396771,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_ya8owx",
+  "picture": {
+    "filesize": 102905,
+    "fullUrl": "https://preview.redd.it/7o2k3ovhz8v91.jpg?width=3072&format=pjpg&auto=webp&s=2ea9289f75457886739c6b86ec05444b9e9c5184",
+    "hash": "5451e87767",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQQAEiETIjFBUXGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDMMYnHwI1UBLohqsP8HVYWkdJY7KHz28n80Pj5K9ZNrhyy7aJoH05HvpOaaHBkcU7ICLttoDVyPrQX/9k=",
+    "url": "https://preview.redd.it/7o2k3ovhz8v91.jpg?width=640&crop=smart&auto=webp&s=8751121934a6103b9e1f66dd551251ceb7ba07d1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Gothic City Graveyard Entrance (40x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ya8owx/gothic_city_graveyard_entrance_40x40/"
+}

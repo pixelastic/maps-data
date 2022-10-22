@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_163fsc",
+    "name": "Torgnarly"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666332256,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y9lirb",
+  "picture": {
+    "filesize": 45392,
+    "fullUrl": "https://preview.redd.it/q5xsjl5cn3v91.jpg?width=3840&format=pjpg&auto=webp&s=71a0428b0cc1f063f4b5f7a2fe05066dc357b067",
+    "hash": "49cccdeaff",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQI/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQAEEhMFIVFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oADAMBAAIRAxEAPwDOOuFMWpyjuQRkoSPQ+8k2IoXVJZj0uy2wVDRN/mO83XoaoXZ6m6yaCXyPxhyzxS+JAkmLThroj3kcVlt//9k=",
+    "url": "https://preview.redd.it/q5xsjl5cn3v91.jpg?width=640&crop=smart&auto=webp&s=a1310b143f8f5497609ba717f01476bfaf1818d6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Sewer map, (30x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y9lirb/sewer_map_30x30/"
+}

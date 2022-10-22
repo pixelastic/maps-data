@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666371047,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y9yk72",
+  "picture": {
+    "filesize": 95032,
+    "fullUrl": "https://external-preview.redd.it/0PT2QJsmMNoHt-8UnlzJiQXrWaRyj3u4XBnNnuGzLAw.jpg?auto=webp&s=7e254a5b6566c9aa37b4ddd36bf844e77089b930",
+    "hash": "18aae4c72a",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAIBAwQBBQAAAAAAAAAAAAECAwQFEQASIVEGExQicZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAAEFAAAAAAAAAAAAAAAAAQACERIhMf/aAAwDAQACEQMRAD8AHeKMSyCNGdY1KkrFgAqCeCMd/WdIW61W2hp6hKdpU9YyByXX47xggY4/dWbxSxNQ1UkwaUQvGURnIUbkIYYBHB1nnldrpYRFLCsiLLR+4aISts3cjvOOO9DN04rFcbk//9k=",
+    "url": "https://external-preview.redd.it/0PT2QJsmMNoHt-8UnlzJiQXrWaRyj3u4XBnNnuGzLAw.jpg?width=640&crop=smart&auto=webp&s=d4b70a54b30f42130911c46a0fef794eeaed7945",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Streets Junction",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y9yk72/city_streets_junction_22x17/"
+}

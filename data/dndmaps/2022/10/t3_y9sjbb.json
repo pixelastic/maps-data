@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666355500,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y9sjbb",
+  "picture": {
+    "filesize": 104561,
+    "fullUrl": "https://preview.redd.it/kjou9ahri5v91.jpg?auto=webp&s=02bee190fffc5166a83ab1eecd5c88ca77216f7d",
+    "hash": "767ee70cf2",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEESESQQUxFGFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQABBQEAAAAAAAAAAAAAAAAAAQIREhMh/9oADAMBAAIRAxEAPwDC3EV5dxrfWJQoSCGkYsSB1jsVO6eWnQY+OYYCWd2Vlyeh9/tLuxBITC8uI1JJQtonWNDWqJJpI8RWV3wjl3Jkcgd4PsaJz7qVkDi3kn//2Q==",
+    "url": "https://preview.redd.it/kjou9ahri5v91.jpg?width=640&crop=smart&auto=webp&s=1fd7b3fc6cb878a5fdb040931363f56e586a17ae",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Tiamat Dragon Statue",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y9sjbb/free_tiamat_dragon_statue_50x50/"
+}

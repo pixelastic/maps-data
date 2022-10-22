@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kpk1mmyb",
+    "name": "Sylveril"
+  },
+  "date": {
+    "day": 1666310400,
+    "full": 1666357246,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_y9t4qm",
+  "picture": {
+    "filesize": 80225,
+    "fullUrl": "https://preview.redd.it/hzgpgz6no5v91.jpg?width=3917&format=pjpg&auto=webp&s=50b4dbca4511f4773906281a93122f64975e9d69",
+    "hash": "00c6d4a39b",
+    "height": 417,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACEQAAICAgEEAwAAAAAAAAAAAAECAwQAESESEzFBBVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8AzaCakkgW7IO4Sydt1JUD0w15Jya/DXq9cditLVmZA8HUrKzL6Ovrg+cV8+xSam6Eq4fhhwRojWETGWhLNKS8xZtyMdsf3I6aUdDqrEf/2Q==",
+    "url": "https://preview.redd.it/hzgpgz6no5v91.jpg?width=640&crop=smart&auto=webp&s=c715aa955f7fd0d30eeb03bf616b0564b40c541e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Helm at Highsun Tavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/y9t4qm/the_helm_at_highsun_tavern_23x15/"
+}
