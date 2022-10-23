@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_df98pohb",
+    "name": "Sazog-Cartography"
+  },
+  "date": {
+    "day": 1666396800,
+    "full": 1666466715,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_yaw9wo",
+  "picture": {
+    "filesize": 102487,
+    "fullUrl": "https://preview.redd.it/7hdqdnf8rev91.jpg?width=4096&format=pjpg&auto=webp&s=54f818de6c757776810db52b45f42a1f172e01eb",
+    "hash": "19bf041e71",
+    "height": 472,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBAUABhESIRNBYRQiMVHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAICAwEAAAAAAAAAAAAAAAEDAAIEESET/9oADAMBAAIRAxEAPwDL5UoKM2aFo4g05B9wJAB8j4J/cEZltfTWL1CA6ptXauwDnv8AZ84Ny5eqyGNYVddiq7DVeQdMSvN0q6wBp5ASqhRooHA57YJrjt9zYHm4i16zjhYHZ//Z",
+    "url": "https://preview.redd.it/7hdqdnf8rev91.jpg?width=640&crop=smart&auto=webp&s=3cfbd5c5ca243a29d82262c71ce38859eccf2e83",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Street house",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yaw9wo/street_house_15x20/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1666396800,
+    "full": 1666433835,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_yajzzw",
+  "picture": {
+    "filesize": 101229,
+    "fullUrl": "https://preview.redd.it/jm77bzwt1cv91.jpg?auto=webp&s=5c156af1456993ec94d6b8be8141b7f73ffa49ed",
+    "hash": "e2d95ab39f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACQQAAIBAwMDBQAAAAAAAAAAAAEDAgAREgQFIRMiMUFRYYHB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAERAAIiIzH/2gAMAwEAAhEDEQA/AMSvSJiYo1cSGK78gMgSD4uDYj8o9xWksk1KJE2MV8GWMh559qkQ3rpDBPorWLTyZwST6Clz3KSiEaQStHmMhG8h8/V6DmbdhdSYCM//2Q==",
+    "url": "https://preview.redd.it/jm77bzwt1cv91.jpg?width=640&crop=smart&auto=webp&s=bb555da6bb51d885f60e76282c49ad071e6799d0",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Tharashk Mining Operation, somewhere in the Shadow Marches",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yajzzw/tharashk_mining_operation_somewhere_in_the_shadow/"
+}

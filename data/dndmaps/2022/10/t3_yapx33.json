@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_18tefuhn",
+    "name": "Arkenforge"
+  },
+  "date": {
+    "day": 1666396800,
+    "full": 1666450670,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_yapx33",
+  "picture": {
+    "filesize": 80627,
+    "fullUrl": "https://preview.redd.it/3jveedvmfdv91.jpg?auto=webp&s=1161864b77963a48f3b925603ad5431a6ac0ed05",
+    "hash": "250aaa9d62",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAHxAAAgICAwADAAAAAAAAAAAAAQIDEQASBCFBFCIx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQX/xAAZEQACAwEAAAAAAAAAAAAAAAAAARESwfD/2gAMAwEAAhEDEQA/AM6flwvNr8VVG3shs16BlpyoY5RFJAGB+thm7BP7XmAeISszs77a72D7ZxPF4sZTc3eyiuqyfd8kFVEaz//Z",
+    "url": "https://preview.redd.it/3jveedvmfdv91.jpg?width=640&crop=smart&auto=webp&s=fe1d69a51e5bd50b3cb2683510a1f45eaa634999",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Guardhouse",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yapx33/32x24120dpi_forest_guardhouse/"
+}

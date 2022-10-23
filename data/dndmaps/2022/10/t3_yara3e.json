@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1666396800,
+    "full": 1666454131,
+    "month": 1664582400,
+    "week": 1665878400
+  },
+  "id": "t3_yara3e",
+  "picture": {
+    "filesize": 91057,
+    "fullUrl": "https://external-preview.redd.it/wIT0Y-S8xuZ3JKRrGHvmOsmBx-isTe0OrHI_OsuEZfE.jpg?auto=webp&s=ad1f8c135d65275fbc042698718c8bf1db03a21d",
+    "hash": "fe78dd1640",
+    "height": 849,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACMQAAICAgEDBQEAAAAAAAAAAAECAwQFETEABiESEyJBgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAiL/2gAMAwEAAhEDEQA/ALLvG7WxFHExVzHStzT+uWREV1hi1w4IO9nRA/froYzMU8lDJLLUgYpI0ayxIEWUDyHC/XP86d92YnB9wJUntW3gRIwvtwgFmAHj5HjW+s9uYRMdakhowxWIDpledGLb0AePHIJ/ekuhpeUv/9k=",
+    "url": "https://external-preview.redd.it/wIT0Y-S8xuZ3JKRrGHvmOsmBx-isTe0OrHI_OsuEZfE.jpg?width=640&crop=smart&auto=webp&s=e58f04c08499bb15d4ca8f236c3009535f33a65b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.9,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rumour has it that the priests of this monastery work in tandem with a pseudodragon living beneath the chapel, creating its very own tunnel network of catacombs.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yara3e/rumour_has_it_that_the_priests_of_this_monastery/"
+}
