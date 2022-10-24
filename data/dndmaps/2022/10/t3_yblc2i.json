@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21v10kpq",
+    "name": "fantasymaps"
+  },
+  "date": {
+    "day": 1666483200,
+    "full": 1666540768,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yblc2i",
+  "picture": {
+    "filesize": 147316,
+    "fullUrl": "https://preview.redd.it/65frts0rvkv91.jpg?auto=webp&s=2a4a16b6c1e466f6b0e6f7b45d0c6a5f7bfc9010",
+    "hash": "b127147b61",
+    "height": 842,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEERIABSEGFGExMlGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oADAMBAAIRAxEAPwBN1xUtD28HYUTyvOpmVbE4FrAt6Ynm9/nTDbV3FaCDJ6RjgPezBh4bg3PnU/m6e3SkrUlhyWdxdCWVxLjzjf8AfrT3bquCOjjG41UYqiAXVpQpXxYnTyOnom//2Q==",
+    "url": "https://preview.redd.it/65frts0rvkv91.jpg?width=640&crop=smart&auto=webp&s=5b18cd5c414746ec365644bc9b9bf1c7054941ef",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sky Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yblc2i/sky_temple_38x50/"
+}

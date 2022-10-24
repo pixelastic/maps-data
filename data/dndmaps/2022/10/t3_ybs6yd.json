@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_163fsc",
+    "name": "Torgnarly"
+  },
+  "date": {
+    "day": 1666483200,
+    "full": 1666557203,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ybs6yd",
+  "picture": {
+    "filesize": 44282,
+    "fullUrl": "https://preview.redd.it/g4gl88x07mv91.jpg?width=5120&format=pjpg&auto=webp&s=592a8b7940cf117db8a0f92c2355a83fa871856e",
+    "hash": "b3e0575d7c",
+    "height": 528,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQI/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDEQAEEiExE0FRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIRMf/aAAwDAQACEQMRAD8AzLCmlKh4vMXUcji+sskBVWLKi0bABJofpwWJtsikeiMfTWNNG+mIIVlNndxf2usLHGnp/9k=",
+    "url": "https://preview.redd.it/g4gl88x07mv91.jpg?width=640&crop=smart&auto=webp&s=ace21dbd0f0ad0594aaf49b39536a4c974a5e9be",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Den of the slashers (40x33)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ybs6yd/den_of_the_slashers_40x33/"
+}
