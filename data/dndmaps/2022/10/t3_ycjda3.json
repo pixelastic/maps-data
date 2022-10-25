@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3omfg",
+    "name": "dysonlogos"
+  },
+  "date": {
+    "day": 1666569600,
+    "full": 1666637644,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ycjda3",
+  "picture": {
+    "filesize": 70722,
+    "fullUrl": "https://preview.redd.it/ddypg5rsvsv91.jpg?auto=webp&s=939e40940a4faa3091cdbb1c7d627afcf59960e2",
+    "hash": "08938d5162",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIRABIxAwQFBhMhImFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A0gBgUKus2gkB5BEdvlQtLZcSHMDWu4UQ/Wv8Tp5AjE5WPQJpSpcOf//Z",
+    "url": "https://preview.redd.it/ddypg5rsvsv91.jpg?width=640&crop=smart&auto=webp&s=901b527cc86d2a1acafed8b246a764bcda21ec42",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Goblin Canals",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ycjda3/the_goblin_canals/"
+}

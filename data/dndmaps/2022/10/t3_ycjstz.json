@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_iqdnb",
+    "name": "Grimlore"
+  },
+  "date": {
+    "day": 1666569600,
+    "full": 1666638667,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ycjstz",
+  "picture": {
+    "filesize": 146203,
+    "fullUrl": "https://preview.redd.it/rijozo7uysv91.jpg?auto=webp&s=2b546d841489ddddbe004c8a5e87f20d86d7bb60",
+    "hash": "441e74aef2",
+    "height": 828,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDAAQRBRIUFSEiMUFRYZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAxQhgf/aAAwDAQACEQMRAD8ALbGG1jsI5LizVgewyxrhSTnIG5CfHkeuaxb/AEbSri5aSKJ1UgdqIQB9KBSAmgTcsjVJlcSgSxgjOOnUH2qNnwdjG0WoNHxO4lxgNt+Pyi2HPaEkbEiWBfhM/9k=",
+    "url": "https://preview.redd.it/rijozo7uysv91.jpg?width=640&crop=smart&auto=webp&s=3592f9c1a107b56163d4809f86e7132d81043815",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "We're giving away 50 Wilderness Encounter Maps for FREE!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ycjstz/were_giving_away_50_wilderness_encounter_maps_for/"
+}

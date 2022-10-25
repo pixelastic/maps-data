@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1666569600,
+    "full": 1666625645,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ycec7a",
+  "picture": {
+    "filesize": 164241,
+    "fullUrl": "https://preview.redd.it/z2901id5wrv91.jpg?width=1500&format=pjpg&auto=webp&s=2bddc7ffc448a4d213c86c3fb58c83d85f8abcac",
+    "hash": "f97e27b817",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACQQAAEEAQMDBQAAAAAAAAAAAAECAwQRBQAUIRJBUTFhcaHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAjH/2gAMAwEAAhEDEQA/ABGBxWPkxX3J8htbgj3aGqKkkenjtyrRjNxIap6tu4EoAApLZT++dJMc/HeiOrSMcU7UgFQVV0LTz4N8fej+dlsxZTKE7V3qZQsltRIF9j7jV50f/9k=",
+    "url": "https://preview.redd.it/z2901id5wrv91.jpg?width=640&crop=smart&auto=webp&s=7b2403267d0af24420c43dfbd23054862424417b",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Sewer",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ycec7a/sewer_30x40/"
+}
