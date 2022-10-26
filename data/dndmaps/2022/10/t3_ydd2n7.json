@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666725269,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ydd2n7",
+  "picture": {
+    "filesize": 92941,
+    "fullUrl": "https://preview.redd.it/o9qp3z2c40w91.jpg?width=3150&format=pjpg&auto=webp&s=438855bb34844ac51c4e327b591fe11e446a6d98",
+    "hash": "2fef356cb3",
+    "height": 924,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQIDBBEFABITMRUhIzJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AMdymIjeNjOY1lUh91ICwTXEoX7BFAg2DXYrQT8ZmK6pl3ZyJ+20WLPvVfiZcKPIjRpCmuF0hR3uEJA29E96DzWOaeykhxpHxqVY4UKKOvzS6aiQWbT/2Q==",
+    "url": "https://preview.redd.it/o9qp3z2c40w91.jpg?width=640&crop=smart&auto=webp&s=9f9f68a7069a928a02c6df00391eacb1dfcf9093",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon Battlefield Phased Battle Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ydd2n7/dragon_battlefield_phased_battle_map/"
+}

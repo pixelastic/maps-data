@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bkj0f7a0",
+    "name": "DDakkaBattleMaps"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666672410,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ycvxln",
+  "picture": {
+    "filesize": 54457,
+    "fullUrl": "https://preview.redd.it/2patu1i2rvv91.jpg?width=1920&format=pjpg&auto=webp&s=14ad921ea5179d88cc49dbcc6fddc072db1cd528",
+    "hash": "fd81a4b4ff",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACQQAAIABAQHAAAAAAAAAAAAAAECAAMEEQUSITUjMVF0gYLC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAZEQACAwEAAAAAAAAAAAAAAAAREgABAyH/2gAMAwEAAhEDEQA/AMyxqvNTPNw6ohAuNAesLLwpozMHD8jbTxFibtp9YGt2Kb3p+Yn1t1REtsTP/9k=",
+    "url": "https://preview.redd.it/2patu1i2rvv91.jpg?width=640&crop=smart&auto=webp&s=cc97564a14205547f49901a2411847e3b77f21cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest River Crossing",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ycvxln/forest_river_crossing_42x38/"
+}

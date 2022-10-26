@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6lzkwhb1",
+    "name": "ArtifexWorlds"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666729332,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ydepnb",
+  "picture": {
+    "filesize": 160851,
+    "fullUrl": "https://preview.redd.it/nyle2821y1w91.jpg?auto=webp&s=78489e821cfa78c904f9e2712348767995f59ce4",
+    "hash": "0574134bb5",
+    "height": 873,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMGB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAwQFEQASISIxQWFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2y4tV1khnWRi0fGFXqqkkDBzyc/p0ae9XGKFVgVqiPHV2G4/WeNIrqOagmkhClo5V2q4QnaFO4ePZJ1SWS3CioFjkIkdmLkkcDPofGpH/9k=",
+    "url": "https://preview.redd.it/nyle2821y1w91.jpg?width=640&crop=smart&auto=webp&s=f4042cdf76ecd967f346892201d8d37f3f601bfb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Two-pathed dungeon I made and ran for a DnD introductory workshop",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ydepnb/oc_twopathed_dungeon_i_made_and_ran_for_a_dnd/"
+}

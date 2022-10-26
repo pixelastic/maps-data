@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1ug593b3",
+    "name": "DmAl85"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666714206,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yd8la1",
+  "picture": {
+    "filesize": 103616,
+    "fullUrl": "https://preview.redd.it/vsdkdkyg7zv91.jpg?width=2048&format=pjpg&auto=webp&s=e8132733b99871585c7da5a073933aee3057f2b1",
+    "hash": "f9ca2d3b25",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACAQAAICAQQDAQAAAAAAAAAAAAERAhIAAyExQSJCkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8AznUn42ZBBSaa/cAnIC1rWWxLTfzKSF9UAkoRtsecUgRkCPY99c5K5B//2Q==",
+    "url": "https://preview.redd.it/vsdkdkyg7zv91.jpg?width=640&crop=smart&auto=webp&s=099c1792676cab526dc27692bc4d78b0bff83ae5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Crypt Day/Night",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yd8la1/oc_crypt_daynight/"
+}

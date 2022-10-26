@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666701335,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yd3rsg",
+  "picture": {
+    "filesize": 162807,
+    "fullUrl": "https://preview.redd.it/6ikx0ku25yv91.jpg?auto=webp&s=830fa35ff14fe7d53febd51cc68535613d554e73",
+    "hash": "e47e95d432",
+    "height": 789,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAICAQMEAwAAAAAAAAAAAAECAwQRABIhBRMxQRQjgf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRQf/aAAwDAQACEQMRAD8AzautBkiUrIJmK72YkIOeRnz40DqkdaLsiqAwIJZlfd+HgYOn6svwzMLqyZDDZ9ZII9k41Rp2qlkFnhdgABuVSMn3kaSvWCnS6f/Z",
+    "url": "https://preview.redd.it/6ikx0ku25yv91.jpg?width=640&crop=smart&auto=webp&s=930555a412ec98e060c75646e73d68c000c422df",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Undertaker's Shop and Mortuary - Battle Map (30x37)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yd3rsg/undertakers_shop_and_mortuary_battle_map_30x37/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7fjuo8q0",
+    "name": "AngelaTheDruid"
+  },
+  "date": {
+    "day": 1666656000,
+    "full": 1666714230,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yd8lo9",
+  "picture": {
+    "filesize": 54488,
+    "fullUrl": "https://external-preview.redd.it/-J2HnVKHl3wlxFQiDKZHkhpDjNZyE1WP41Bmd_lXIXI.jpg?auto=webp&s=878205a4e0fe08e0f31441d5e5d4a169a8d14f2e",
+    "hash": "cd6a83c192",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIRAAAgEEAQUBAAAAAAAAAAAAAQIDAAQFESETIjFBUcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AwTGhXkKueV2BSeRwc1pbwzzNvrKSe4cn1QlozIFIPPmrXnmnuHheVwi7I0foJ/KJ2oB4f//Z",
+    "url": "https://external-preview.redd.it/-J2HnVKHl3wlxFQiDKZHkhpDjNZyE1WP41Bmd_lXIXI.jpg?width=640&crop=smart&auto=webp&s=86e0117ae447b9f15f23cc726d021164ae20a931",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Camp battle map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yd8lo9/camp_battle_map_art_animated/"
+}
