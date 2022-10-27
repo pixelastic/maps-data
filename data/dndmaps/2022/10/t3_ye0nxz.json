@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_o7lm1w7i",
+    "name": "Maplocks"
+  },
+  "date": {
+    "day": 1666742400,
+    "full": 1666797555,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ye0nxz",
+  "picture": {
+    "filesize": 155541,
+    "fullUrl": "https://preview.redd.it/918i6oga36w91.jpg?auto=webp&s=65f5cbe4e6b1c08076d93eb1af0c4a206a913cb4",
+    "hash": "69373d7aa1",
+    "height": 1003,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACIQAAIBAwQCAwAAAAAAAAAAAAECAwQREwAFEiExQoGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQACAwQREiFR/9oADAMBAAIRAxEAPwBXOp3muSu3aVaW8jFTGYwigjy1/jT8E1Ngjx16OnEcWL+Rbo6ByQybzVmoyzQKHvG8ZIvfrr2+tIJDRFF406BbdDER+W0p2gi50ongy6v/2Q==",
+    "url": "https://preview.redd.it/918i6oga36w91.jpg?width=640&crop=smart&auto=webp&s=264ba34e5016e5c3dfd77be624db52d2f245d09c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Alchemist's Shop",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ye0nxz/alchemists_shop_25x64_1_floor_25x16/"
+}
