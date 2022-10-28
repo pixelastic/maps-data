@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1666828800,
+    "full": 1666872345,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yeq7dr",
+  "picture": {
+    "filesize": 134946,
+    "fullUrl": "https://external-preview.redd.it/KBrGGwbiE79xHu5Ev295RbhArGhGoRSMbU2FpyQ8O-g.jpg?auto=webp&s=2d1ea19cd58240dc6260bef4382086a93c76f2ed",
+    "hash": "614d785d92",
+    "height": 1160,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFB//EACcQAAEDAgILAQAAAAAAAAAAAAECAxEABAUTBhIUFSEkQVFUkpTh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwDBHXM282hDPLggmG4Tw6xTe8rfsz8/7RbaSPMYK5hibVGqoETBkVGy3PCV6qq1KWCarWf/2Q==",
+    "url": "https://external-preview.redd.it/KBrGGwbiE79xHu5Ev295RbhArGhGoRSMbU2FpyQ8O-g.jpg?width=640&crop=smart&auto=webp&s=694b3e5264cdf426428cdf3f9a0fe0f5f9b6eafe",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Looks like it's time for a game of wizards chess!!!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yeq7dr/looks_like_its_time_for_a_game_of_wizards_chess/"
+}

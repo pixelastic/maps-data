@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bs2sb0hk",
+    "name": "BluBerreyMaps"
+  },
+  "date": {
+    "day": 1666828800,
+    "full": 1666858482,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yem6th",
+  "picture": {
+    "filesize": 139860,
+    "fullUrl": "https://preview.redd.it/h028gl6g4bw91.jpg?auto=webp&s=a01b47bad7d3b61daf7c68c9913ab6a63b5c7872",
+    "hash": "9d9fbfb228",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEB//EACMQAAIBAgUFAQAAAAAAAAAAAAECAwQRAAUSIVETIzFBgVL/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAAGAwAAAAAAAAAAAAAAAAABAgMEIRIiQf/aAAwDAQACEQMRAD8A0fMDVLKKjMJJoJl1K0kgC8BVAHnY/cFHmVRJUJUzxLMdPQ7i3XTb88jztieB69Y+/wBExmxSWVgTq5sffvnbD1jEyCmVQBZpFka6gm17gDcjb7fFMdLhu7FXQkKThR2P/9k=",
+    "url": "https://preview.redd.it/h028gl6g4bw91.jpg?width=640&crop=smart&auto=webp&s=508ffcc7741cbdfcc6d3139989d100672bb1ce0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 527,
+    "value": 527
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Flying City Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yem6th/oc_flying_city_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_rvflmquf",
+    "name": "TheDungeonArchive"
+  },
+  "date": {
+    "day": 1666828800,
+    "full": 1666867114,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yeok2f",
+  "picture": {
+    "filesize": 111529,
+    "fullUrl": "https://preview.redd.it/bnglojhxtbw91.jpg?auto=webp&s=99ff45463e7eaf528dc9eb689c31672b2f597165",
+    "hash": "d7e6e769d9",
+    "height": 975,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAABBAEEAgMAAAAAAAAAAAABAgMEESEABQYxEiJBUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGxEAAgEFAAAAAAAAAAAAAAAAABEBAiEiMVH/2gAMAwEAAhEDEQA/ADENezvwH25zTa5aG221KKbUPUAY7ogYrU75DtEeDvMqNF3FLjCFDwUuyaIBo19XWm3DpxncddSvcIhcjCI0EvICSPdZAKj3Wc/o1O+QSCveppCUUHSnGesd/PWlTLtwKy2f/9k=",
+    "url": "https://preview.redd.it/bnglojhxtbw91.jpg?width=640&crop=smart&auto=webp&s=8c394367a8abdf967dc70d52a683c5473dd63572",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 87,
+    "value": 87
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Eclipse Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yeok2f/eclipse_dungeon_21x32/"
+}
