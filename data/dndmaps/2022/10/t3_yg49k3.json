@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8odkopew",
+    "name": "porkisis"
+  },
+  "date": {
+    "day": 1666915200,
+    "full": 1667000838,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yg49k3",
+  "picture": {
+    "filesize": 116926,
+    "fullUrl": "https://preview.redd.it/khhqfbvqvmw91.jpg?width=2048&format=pjpg&auto=webp&s=782b5e6778f32ce3ebef5b2e0bb5bd02e32f9bb8",
+    "hash": "fa2ba3b8db",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAHxAAAgMAAgMBAQAAAAAAAAAAAQIDBBEABRIhwTFi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oADAMBAAIRAxEAPwDB2gKxmKVSrLuo6AOGI33vvOXSV2nqpVmo245VjLkvI3hg9lgM+8ep2lS1ViPYRSy2YI/HzhlCan9E6fXFsdk1zrLgiBZJ38URBhXF/XfdYfRx4iuLaf/Z",
+    "url": "https://preview.redd.it/khhqfbvqvmw91.jpg?width=640&crop=smart&auto=webp&s=03602d831e91a83e807ca003549f97b7a751f53f",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.8,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yg49k3/maps/"
+}

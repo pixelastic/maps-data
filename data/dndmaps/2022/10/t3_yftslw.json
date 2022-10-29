@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1666915200,
+    "full": 1666975837,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yftslw",
+  "picture": {
+    "filesize": 83880,
+    "fullUrl": "https://external-preview.redd.it/YPLEjoH_x5HwuavNd2GWIO2GwnYrBFuXaJvD6QCKgPc.jpg?auto=webp&s=6e28e62d5e0cffdb34a02fe66e35fd27a757d573",
+    "hash": "be06d0acb8",
+    "height": 1006,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAG/8QAIhAAAgECBgMBAAAAAAAAAAAAAQIDBBIABREhInEGFTFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAABAEH/2gAMAwEAAhEDEQA/AM9Bl1FllIZIIwZHjF6OOSk/OusTZBBIxf1L8jdsdt8Oyx6ep8chmp45LJza7ORe35yOp0wWSvnSRlQpapIHPTbrEVyIX//Z",
+    "url": "https://external-preview.redd.it/YPLEjoH_x5HwuavNd2GWIO2GwnYrBFuXaJvD6QCKgPc.jpg?width=640&crop=smart&auto=webp&s=412b4b743fa5f3ca1eff829851e729c3245de519",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 123,
+    "value": 123
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Through the fog, you can see a bridge made of mechanical parts. What could this be from?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yftslw/through_the_fog_you_can_see_a_bridge_made_of/"
+}

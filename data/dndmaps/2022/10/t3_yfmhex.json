@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1xt20dc",
+    "name": "BattleMats"
+  },
+  "date": {
+    "day": 1666915200,
+    "full": 1666959038,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yfmhex",
+  "picture": {
+    "filesize": 87418,
+    "fullUrl": "https://external-preview.redd.it/DcZmBvkothLGUpjNMjEsRYkiVqqadp2M9jGCOFfvdng.jpg?auto=webp&s=8a64c3dbf79a7384e1200c55add1da51b42b9ccd",
+    "hash": "ef3c60eaa5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACYQAAEEAQIEBwAAAAAAAAAAAAECAwQRBQAxBhQhgRITQVFhobH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMhMXH/2gAMAwEAAhEDEQA/ANJnZ70Wc7ymSSgJbCvII6n4BIoK76XwvKnvLZXOyLL1t24yKtB7b+mjiHFLdl8264soNWhFDwhIJ6+9kfeqsPjnGXzKpK23UBQTVHbb81ItappzvkYFZDbP/9k=",
+    "url": "https://external-preview.redd.it/DcZmBvkothLGUpjNMjEsRYkiVqqadp2M9jGCOFfvdng.jpg?width=640&crop=smart&auto=webp&s=d031739f9efb9cd1706c735eae6461831528839e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Ull Necropolis",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yfmhex/ull_necropolis_40x40_140dpi_oc_battlemap/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1666915200,
+    "full": 1666990802,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yg0f8r",
+  "picture": {
+    "filesize": 116363,
+    "fullUrl": "https://preview.redd.it/8u43wyo31mw91.jpg?auto=webp&s=3a3f6a5097fdcce0d62dc0d8b00252ab42cf87c0",
+    "hash": "78381b2ace",
+    "height": 453,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIxAAAQQABgIDAAAAAAAAAAAAAQIDBBEABRIhIkEGMVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxETIv/aAAwDAQACEQMRAD8ABdU89LrMpS2+VIBWRpHvkm9j90MFv+ROFt5th6RqFhJKin18790NzeNauHHkT5qnmgskJUb7OKxskyspcBgRjrbBJKATZu6PX5iOtSrdQ2gjAn//2Q==",
+    "url": "https://preview.redd.it/8u43wyo31mw91.jpg?width=640&crop=smart&auto=webp&s=60287fde6a24e374b5613cdfa3d24463f196bd9f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Ville'aime",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yg0f8r/villeaime/"
+}

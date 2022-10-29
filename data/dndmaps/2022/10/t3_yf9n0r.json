@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8d9em",
+    "name": "Touchname"
+  },
+  "date": {
+    "day": 1666915200,
+    "full": 1666920077,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yf9n0r",
+  "picture": {
+    "filesize": 85434,
+    "fullUrl": "https://preview.redd.it/6r0lzwki7gw91.jpg?width=6000&format=pjpg&auto=webp&s=4243f79d720eca20ec6ff9260a7af08ca9250a89",
+    "hash": "eeb84260aa",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEETETQRIhMmHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRAyH/2gAMAwEAAhEDEQA/AM6KISyJbKVkJBj0W7ycd4peYW6uctxl1Yh9grkAMBsAaJ3R7+LgitvJjJ5oZPfXvH5UW/ThhZmZpGfKgsfiM6H1UQa4wudlMsez/9k=",
+    "url": "https://preview.redd.it/6r0lzwki7gw91.jpg?width=640&crop=smart&auto=webp&s=88e2d49575bc8c6eb731a335325554700d2ecd63",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 137,
+    "value": 137
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A continuation of the previous four maps I made!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yf9n0r/a_continuation_of_the_previous_four_maps_i_made/"
+}
