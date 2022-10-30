@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1ug593b3",
+    "name": "DmAl85"
+  },
+  "date": {
+    "day": 1667001600,
+    "full": 1667050308,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ygjr60",
+  "picture": {
+    "filesize": 138813,
+    "fullUrl": "https://preview.redd.it/zc7r9a7wyqw91.jpg?auto=webp&s=21bb81e3d0031c88f8df293e664c2bc189b7d3cf",
+    "hash": "6efeb82277",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAgAEBQUAAAAAAAAAAAABAgMRAAQGEgUTITFBFCQyYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAEDBQAAAAAAAAAAAAAAAAACAzEBERIhwf/aAAwDAQACEQMRAD8AEkkj9OnJMIyYjoKKLM1eR3LXiuil0++jeT7YbcvteMgCUSgdb87t35gzOR8MbTomibLhBDaupAk3gdPvdeJ6ZPgqxwjIiK5HPVmarJJ73eJmVbr0OIxtMn//2Q==",
+    "url": "https://preview.redd.it/zc7r9a7wyqw91.jpg?width=640&crop=smart&auto=webp&s=14cac8eebe4dd59f1cdf90aec9e016ddeeb4f1f7",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Places of power",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ygjr60/oc_places_of_power/"
+}

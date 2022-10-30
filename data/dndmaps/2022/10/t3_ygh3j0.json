@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8x0u8vm",
+    "name": "Raakdos"
+  },
+  "date": {
+    "day": 1667001600,
+    "full": 1667042527,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_ygh3j0",
+  "picture": {
+    "filesize": 151738,
+    "fullUrl": "https://preview.redd.it/z11h65dqbqw91.jpg?auto=webp&s=9452ead5267e0b31c3c3d7cb8c7627fb74f17a2f",
+    "hash": "0f181b021f",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJxAAAQMBBAsAAAAAAAAAAAAAAQIDBAAFEjGSERMUFiJRUlNhsdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxExQf/aAAwDAQACEQMRAD8AzaMGIyosRDTAiJQ20uOUA3wUpvEnyST7obcyB23s9WqLptJgDVJPAAkYEaBjzpTan+hrOPtFq7Dhi9lSYujyf//Z",
+    "url": "https://preview.redd.it/z11h65dqbqw91.jpg?width=640&crop=smart&auto=webp&s=2c61ba3bbc835557ed331cbc1e5d84bfd923a5b5",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 658,
+    "value": 658
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Orzhov Syndicate - the Orzhova Vault",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ygh3j0/ravnica_battlemaporzhov_syndicate_the_orzhova/"
+}

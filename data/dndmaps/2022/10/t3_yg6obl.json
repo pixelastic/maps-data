@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4qzqmvhw",
+    "name": "salamandra_brisada"
+  },
+  "date": {
+    "day": 1667001600,
+    "full": 1667007820,
+    "month": 1664582400,
+    "week": 1666483200
+  },
+  "id": "t3_yg6obl",
+  "picture": {
+    "filesize": 134365,
+    "fullUrl": "https://preview.redd.it/juwvcb1kgnw91.jpg?auto=webp&s=4df320263568a7494d0d4cd4ade2d68729f3f2a4",
+    "hash": "895ecf08b1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwARIQQSEzFBBSNRYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACAxIhIv/aAAwDAQACEQMRAD8Ax0fpkuqnU8ZHuEGTkxswdtvnoH7qidYoZkZY1IYBmWRb2zbA7IomV9LO8CuSrWYxx9Kp87v22KXCiTEq0jhuQhrXyMEAE48WzRHJfLDNLtqmYdk//9k=",
+    "url": "https://preview.redd.it/juwvcb1kgnw91.jpg?width=640&crop=smart&auto=webp&s=062d8f5d35934fac066f4efcada740b2b274a9f6",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "A simple forest temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yg6obl/a_simple_forest_temple/"
+}
