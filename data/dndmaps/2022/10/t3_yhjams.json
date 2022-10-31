@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_je9jx",
+    "name": "foo18"
+  },
+  "date": {
+    "day": 1667088000,
+    "full": 1667148892,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yhjams",
+  "picture": {
+    "filesize": 115451,
+    "fullUrl": "https://preview.redd.it/4gbj1w5j2zw91.jpg?width=4096&format=pjpg&auto=webp&s=8ac65214c87d64ee2c5000287d5c6f088df9b262",
+    "hash": "cdc9c58283",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDABEhBAUSgRMxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEkH/2gAMAwEAAhEDEQA/AMfTUTqziF2VSoD4wevtKeRZ1UAzKpFwzHkvVV2+BXQhmAUm2DkE+waMsw0beIBmCuQONyLWtU+zlC8P/9k=",
+    "url": "https://preview.redd.it/4gbj1w5j2zw91.jpg?width=640&crop=smart&auto=webp&s=4a60a527af402252f771c4952bcc5df6d8d9346e",
+    "width": 640
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 130,
+    "value": 130
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Twenty Free Battle Maps I've Made in 4k",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yhjams/twenty_free_battle_maps_ive_made_in_4k/"
+}
