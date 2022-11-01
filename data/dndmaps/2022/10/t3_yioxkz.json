@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_41t76ako",
+    "name": "miksmaps"
+  },
+  "date": {
+    "day": 1667174400,
+    "full": 1667250348,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yioxkz",
+  "picture": {
+    "filesize": 104423,
+    "fullUrl": "https://preview.redd.it/a0iaoro9h7x91.jpg?auto=webp&s=91fb29cac4e2501e9a00ab9826f33fab6dc6ce07",
+    "hash": "a656bdbded",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMH/8QAIBABAAICAgEFAAAAAAAAAAAAAQIRAyEAEjEEQUNh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AxX1GQzSOqlDp875GaiS6s5Fpsak1uuKU87vLGPbr8Rdb9zhxztsYA14N/vrk1mBtP//Z",
+    "url": "https://preview.redd.it/a0iaoro9h7x91.jpg?width=640&crop=smart&auto=webp&s=4837ca4f8f23f28371ebe26f0d8be82cb7789f5c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "City Slums",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yioxkz/city_slums_30x30/"
+}

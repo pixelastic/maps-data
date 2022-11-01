@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1667174400,
+    "full": 1667244322,
+    "month": 1664582400,
+    "week": 1667088000
+  },
+  "id": "t3_yim2x3",
+  "picture": {
+    "filesize": 178009,
+    "fullUrl": "https://preview.redd.it/uxvmjlpsz6x91.jpg?auto=webp&s=e525a3c3e280b1d5f8b6c15d1452a440902c7de4",
+    "hash": "985cd5cd61",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQQCAQUAAAAAAAAAAAABAgMEERIhAEEFIjFhgfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAhEx/9oADAMBAAIRAxEAPwCXoqCmrKyYzxFosWZSJbNkRr6+OEUqSGSeDNCIHxyVj6j2b97vxWiklSomipiFtsEqNrb3F+hq/J/yISOoedZzCJ3ZjgNXB2NH9fkmIrqPL//Z",
+    "url": "https://preview.redd.it/uxvmjlpsz6x91.jpg?width=640&crop=smart&auto=webp&s=bb0966e1ee2116f68cd65261c5c3888b6d800e1c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 68,
+    "value": 68
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dragon's Temple (50x40)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yim2x3/dragons_temple_50x40/"
+}
