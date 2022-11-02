@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1667260800,
+    "full": 1667301004,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yj5uwu",
+  "picture": {
+    "filesize": 190224,
+    "fullUrl": "https://preview.redd.it/4modbxdzmbx91.jpg?auto=webp&s=cdaa629de58a1afcab0ecbf5b31156f368b820df",
+    "hash": "e7f7b4520e",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMEEQAFEiExUSIyQXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhAv/aAAwDAQACEQMRAD8Avao3rV83EWsZIygZo8cmOB7R8aH3vb5at4pVp3pAw5OYUyvIk9unjGmtqsLcqGR5IZ0EQYYbkquMZH350bvFreVtg0EZo2XLGQ49WT2Az0xj90XK0pduH//Z",
+    "url": "https://preview.redd.it/4modbxdzmbx91.jpg?width=640&crop=smart&auto=webp&s=9542d34e83b1a8d2a803ae5dcedc6c71bd48207d",
+    "width": 640
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 566,
+    "value": 566
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Cyclops in a cage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yj5uwu/cyclops_in_a_cage_32x44/"
+}
