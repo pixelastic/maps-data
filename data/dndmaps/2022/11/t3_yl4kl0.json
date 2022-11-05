@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1667433600,
+    "full": 1667486423,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yl4kl0",
+  "picture": {
+    "filesize": 230940,
+    "fullUrl": "https://preview.redd.it/8vmq7vlmzqx91.jpg?width=1500&format=pjpg&auto=webp&s=546a8435ff14ac5b0ec567e04752fd7c82b0a286",
+    "hash": "5f0812d1cd",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACMQAAICAAYBBQAAAAAAAAAAAAECAwQABRESEyExFWFxkcH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAiEx/9oADAMBAAIRAxEAPwADltbKvRnjnQixxoWOwbiR7H67wVuxRm5OY1YpyNtIjUda4X0IK65dYrSqpWyuikuFIPg+fjBl6xVivDF0dOgD+YrB2x4X/9k=",
+    "url": "https://preview.redd.it/8vmq7vlmzqx91.jpg?width=640&crop=smart&auto=webp&s=4c2b0a68588f5a03010b4e42a5b79e4a92b51ec8",
+    "width": 640
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 500,
+    "value": 500
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Kobold Den",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yl4kl0/kobold_den_30x50/"
+}

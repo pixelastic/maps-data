@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_achtn",
+    "name": "Kruhee"
+  },
+  "date": {
+    "day": 1667520000,
+    "full": 1667526964,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yllp7e",
+  "picture": {
+    "filesize": 439325,
+    "fullUrl": "https://preview.redd.it/udp2rb6obux91.png?auto=webp&s=b2e363873755620dfe0ab85053d4e5b87e298128",
+    "hash": "8f86b10f9c",
+    "height": 383,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAIAAAAy3EnLAAAACXBIWXMAAAsTAAALEwEAmpwYAAABx0lEQVQYlQXBW2+aYAAAUN6WzVV7EwG5KQgqCP2YKILcBAUUMFitLVa7VmfWbm2XvSxZsv++cyBrimgubNvMLpd2G1HpYAJX+SLiplLNV+LjAzCCS3V0Zod4367oPgqp1mU8E9Zzt98lCbSIV4uGw5tqLdBqeSLvlkqaNPVxeRgg+gj2UhwyA2QyagOJJPESWi7QxOnEuYq85t1Uel+Yb7f2n6fwfg3SBTscI3YIQ6MZFnh10MJw5AQpFxiqlIXqPo/zWLkLwGGpPc+141Z/eeltctGNMMiwq1nM+RZrDanK+SesUgAykV+7N1FnFYuJx869xjziN/fg9ae2PwIoTGpZzAdjdrVs0USpfP4RtDFVQkOdyxzBUoiZXk+d+jxpZgvhx/c+lCScO2R+/+oGE+qk9KErElsf8PTFQKZUoVonTnnyzO2TadgYWZQ1ICBdraXTxvEgOUZNaMBCA2aJYpu5eEhUW6EZslhFClcCHHis3IRnIQcJLbTXJSZma6xRscM4PVKTaUNGv626z0+qb/CgQ6LoZ9chfI/ebQXocZO5hnQbm2+Hm/djli86C1/Jxsz+K/j31309BM6g43vNKGK5xsV6xf8HgVZpeLEy1oEAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/udp2rb6obux91.png?width=640&crop=smart&auto=webp&s=76290804667cf12eff45de69b39780753e263d27",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Cottage",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yllp7e/swamp_cottage/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1i4k7lpz",
+    "name": "cassastereo"
+  },
+  "date": {
+    "day": 1667520000,
+    "full": 1667561200,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ylwfce",
+  "picture": {
+    "filesize": 65696,
+    "fullUrl": "https://preview.redd.it/6shcksy16xx91.jpg?auto=webp&s=3f2f8269cc4cf91b8d275f34d512fa8d7d993676",
+    "hash": "4c0f99651a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMAETESIUFRBCIjgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAAv/aAAwDAQACEQMRAD8Aky6WaPVq3bcKLm1+O79UA+0ojViqkt7mxAvSGWaKSMwOsZRgy3yDyQPyjF5vJeSYpK7EkkZzkipi2ZJzKb//2Q==",
+    "url": "https://preview.redd.it/6shcksy16xx91.jpg?width=640&crop=smart&auto=webp&s=7407086def550555107a0555203b8a09f329842b",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 416,
+    "value": 416
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Royal Crypt",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ylwfce/royal_crypt_40x40/"
+}

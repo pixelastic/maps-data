@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1667520000,
+    "full": 1667563989,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ylxecw",
+  "picture": {
+    "filesize": 183708,
+    "fullUrl": "https://preview.redd.it/6yrkjxf8exx91.jpg?auto=webp&s=c1bab0e2244d471e82e3bceaa1bc0788af616131",
+    "hash": "a28f87d232",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQMEAgMAAAAAAAAAAAABAwIABDEFERITMkEhUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgMRMUH/2gAMAwEAAhEDEQA/AIpmjm5Up13OKpGMVxUhXyfon9zRF5orU3M1+XE5HunZX3Nxu7eS5jbxkwbY9ihHas3sPctc2DYGUcGkcNrqljRJzLwaO32f/9k=",
+    "url": "https://preview.redd.it/6yrkjxf8exx91.jpg?width=640&crop=smart&auto=webp&s=f3b94f12b7a5aebad5bff46695553058ea0131a3",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 214,
+    "value": 214
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Lighthouse Isle - Battle Map (30x45)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ylxecw/lighthouse_isle_battle_map_30x45/"
+}

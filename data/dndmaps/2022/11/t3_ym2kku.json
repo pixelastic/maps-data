@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8x0u8vm",
+    "name": "Raakdos"
+  },
+  "date": {
+    "day": 1667520000,
+    "full": 1667577167,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ym2kku",
+  "picture": {
+    "filesize": 171853,
+    "fullUrl": "https://preview.redd.it/dawf2svfhyx91.jpg?width=4800&format=pjpg&auto=webp&s=bb0d821acebcae2ce9084292744a38a70f7ed384",
+    "hash": "cb16955cae",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAjEAABAwMDBQEAAAAAAAAAAAABAgMEAAYRBSFBExRRU5PR/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAwQhAhESE3H/2gAMAwEAAhEDEQA/AJpItNuVbkrWWYzsNMYlLzLqQFNq2wAMZKTweM7+aDdtH9y/macu3y5Ntl7TpqVSDJKkur6ilK3GRjgY8UL6cv2j7j9o6KHgMu2rrxMSS0dcNFf/2Q==",
+    "url": "https://preview.redd.it/dawf2svfhyx91.jpg?width=640&crop=smart&auto=webp&s=44c8e48cf9f362a30031e63a4e4a1ac15d17ee0f",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Rakdos Cult - Descent into the Rix Maadi",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ym2kku/ravnica_battlemaprakdos_cult_descent_into_the_rix/"
+}

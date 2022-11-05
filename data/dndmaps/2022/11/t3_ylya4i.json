@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1667520000,
+    "full": 1667566480,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ylya4i",
+  "picture": {
+    "filesize": 154341,
+    "fullUrl": "https://external-preview.redd.it/3NwbEE6MYoiZUFZJOh2YQWOXBtAxdj-5BLDPBNQtq5I.jpg?auto=webp&s=3ec8eb2b338d0c4adfb2f2d06e299997c44e13c9",
+    "hash": "a5882681f1",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEABSEVIkESEzFhof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDLRcqWE28R7UYyESM9uVlYHkg+fnRG9snVrQjqJCofAQDAGPrTZkjprtCdVadIgHC+32xFmGcgnxn81O77JZublPYrK1qKRvUJo6eVbjnnzzoyP//Z",
+    "url": "https://external-preview.redd.it/3NwbEE6MYoiZUFZJOh2YQWOXBtAxdj-5BLDPBNQtq5I.jpg?width=640&crop=smart&auto=webp&s=3e6a947c87278e57d0878016e12f24a179bf1c30",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "You come across a complex Kobold dungeon underground. Try and uncover their secrets",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ylya4i/you_come_across_a_complex_kobold_dungeon/"
+}

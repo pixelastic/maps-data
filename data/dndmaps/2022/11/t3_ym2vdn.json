@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1667520000,
+    "full": 1667577882,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ym2vdn",
+  "picture": {
+    "filesize": 306007,
+    "fullUrl": "https://external-preview.redd.it/xnX280XJvfSZEKQUCoqMU6gthP-S_9bv4JEJiqFd1LI.jpg?auto=webp&s=07f9948c62c4065dfeb7043cc626eaa7bfdd9a48",
+    "hash": "bc4a29f72f",
+    "height": 1656,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIxAAAgAEBQUAAAAAAAAAAAAAAQIAAxEhBAUTMkESFDEzQv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACIf/aAAwDAQACEQMRAD8Aws8wwOKSYso9Wmi6iXFKbStN3JNr1hF2cyB3SIUf1IxmqKoLWVgASH5Pj6hAcK0+N//Z",
+    "url": "https://external-preview.redd.it/xnX280XJvfSZEKQUCoqMU6gthP-S_9bv4JEJiqFd1LI.jpg?width=640&crop=smart&auto=webp&s=8553cfba25d147a98c337e5e2ea2be3f65ef4200",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Isolated Temple Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ym2vdn/isolated_temple_ruins_34x88/"
+}

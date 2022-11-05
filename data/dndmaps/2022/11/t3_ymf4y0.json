@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1667606400,
+    "full": 1667607970,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ymf4y0",
+  "picture": {
+    "filesize": 129076,
+    "fullUrl": "https://preview.redd.it/xs9643klz0y91.jpg?auto=webp&s=888ec2f4b14fde773da551f1f0d6ba4b54dea975",
+    "hash": "5d16ffcf40",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAJBAAAQMCBgIDAAAAAAAAAAAAAQIDBBEhAAUGEhMxFEEWUWL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBv/EAB4RAAAGAgMAAAAAAAAAAAAAAAABAhESIUHBcZGh/9oADAMBAAIRAxEAPwDN6YzKPJywxo8FHAWEofQ4wA2VdWqDuPutqYk1ozAOn0NxmWRmbJHI3HaqW0C9zSwoRfC5PqiF8aZTIeT5wb49tCSCDRNfodXwfgvR9NypcWTxZqEqceS28lSFHs0r+fQPYwskxXNVMbEW+BPTqBXnbedD/9k=",
+    "url": "https://preview.redd.it/xs9643klz0y91.jpg?width=640&crop=smart&auto=webp&s=b6b706a33b6d2f40fe906119b19ad1692e14e16e",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Agnos",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ymf4y0/agnos/"
+}

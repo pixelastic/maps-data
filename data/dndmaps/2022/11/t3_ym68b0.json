@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5dvsyrc3",
+    "name": "DarkJediSkii"
+  },
+  "date": {
+    "day": 1667520000,
+    "full": 1667585943,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ym68b0",
+  "picture": {
+    "filesize": 68907,
+    "fullUrl": "https://preview.redd.it/5txfg9fn7zx91.jpg?auto=webp&s=f9776da3fb511b0a6fd179a8ff006eafd50dfcd9",
+    "hash": "4ea63322d6",
+    "height": 407,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAAUDBQAAAAAAAAAAAAABAgADBBExISJBBRNCUfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIBAxH/2gAMAwEAAhEDEQA/ALejqkst5zA9y2jZN8WhWTPnS6lJhDbh5A2PGOPtIFpUUKCFUHNwIc6ezbdxz7hVNoWg/9k=",
+    "url": "https://preview.redd.it/5txfg9fn7zx91.jpg?width=640&crop=smart&auto=webp&s=34abac02d96f12ff88b0239034f73f881acacb55",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "My First DnD Map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ym68b0/my_first_dnd_map/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1667433600,
+    "full": 1667496159,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yl8lol",
+  "picture": {
+    "filesize": 117090,
+    "fullUrl": "https://external-preview.redd.it/MXmUDTi66DqT8xHKcEeNI2M_v2sTFBW6gf7482WGglk.jpg?auto=webp&s=47cfb3403cfc49ed1daa0d14b5498643ca9c2d31",
+    "hash": "965f11c078",
+    "height": 899,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAIBAgYBBQAAAAAAAAAAAAECEQMEAAUSEyFBMQYUYYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAeEQABAwQDAAAAAAAAAAAAAAABAgMEABEhQTFhgf/aAAwDAQACEQMRAD8Azy6yfKKllaG3qF3FNdzapElY8r0C3fxh+bX0vWhzlyIdIBBYHwIng9xP3iRsc0W094K4NavB0MAw0sTJKgcCRz+YNs6ytbIRfPRmToRWgGcBSotm0kKNx2d51VK3ILi1AgC/nGK//9k=",
+    "url": "https://external-preview.redd.it/MXmUDTi66DqT8xHKcEeNI2M_v2sTFBW6gf7482WGglk.jpg?width=640&crop=smart&auto=webp&s=fa300bd702857bda796d9e198de798cfe9a0758f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Some say a demon lives here. Others say it's a King Koopa?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yl8lol/some_say_a_demon_lives_here_others_say_its_a_king/"
+}

@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6p5s5muk",
+    "name": "Lyynix_Reddit"
+  },
+  "date": {
+    "day": 1667433600,
+    "full": 1667508599,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ylehti",
+  "picture": {
+    "filesize": 97279,
+    "fullUrl": "https://preview.redd.it/te5s96gaosx91.jpg?auto=webp&s=5be996671e7a26e69e48a284517024856026bd60",
+    "hash": "d32a0f91b4",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAIBAAAgEDBQEBAAAAAAAAAAAAAQMCBAURABIhMWETFf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECERIiUf/aAAwDAQACEQMRAD8AzS00Bmhj4Ugk5UwdmSBPsEj0cae+W1FTSPqVpnGCoiIJmCYk9g57wScn3Sqez8F6cjZtz17qRcblU09koULkPk5e+cZDPJkdR1lKVromq1P/2Q==",
+    "url": "https://preview.redd.it/te5s96gaosx91.jpg?width=640&crop=smart&auto=webp&s=cecf9aa6256d42ff08de04d36762600e12bd8421",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Encounter",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ylehti/forest_encounter/"
+}
