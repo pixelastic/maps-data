@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_vgp99",
+    "name": "TerTerro"
+  },
+  "date": {
+    "day": 1667606400,
+    "full": 1667666221,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ymz16s",
+  "picture": {
+    "filesize": 121978,
+    "fullUrl": "https://preview.redd.it/lrp7p50cu5y91.jpg?auto=webp&s=a885003bb7ad5278bf3b7e8ee03609ea00d9ef03",
+    "hash": "134264444b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDB//EACQQAAICAQMCBwAAAAAAAAAAAAECAxEEABIhMVEFIkFhcYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEREhP/2gAMAwEAAhEDEQA/AM5xWjaQPMyuZJLUBiz7R1se19PXU51XEEcSJGSpYOSxJPm4odqv703hkZjy3InADNVbOf3RliyGzZYgrgBiSQnJvv8AOpWW2Kl15VR//9k=",
+    "url": "https://preview.redd.it/lrp7p50cu5y91.jpg?width=640&crop=smart&auto=webp&s=218a9f5dc2821f740bf0e2ab151623231a109192",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Magic Circle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ymz16s/magic_circle/"
+}

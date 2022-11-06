@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1667606400,
+    "full": 1667668959,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yn0aoe",
+  "picture": {
+    "filesize": 81988,
+    "fullUrl": "https://external-preview.redd.it/BUKL7SyL2DYOVPB6vlQRWtKFrK23NdzVEo3notRCZhY.jpg?auto=webp&s=628b0b3a0b7d2d1091f92098e170c0d83ac10c2e",
+    "hash": "dfdfe82702",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAKRAAAQIDAw0AAAAAAAAAAAAAAQIDABESBCFhBRQxMlJTgZGSodHh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAQEAAwAAAAAAAAAAAAAAAQIAAxFB/9oADAMBAAIRAxEAPwDCmGkIyepJbQSqRrKZkDDC+/hAM2a2XOoeIq1bGgwkDXCaaQJ/aO8DrVu18vUDMJ3qr5CgHzf/2Q==",
+    "url": "https://external-preview.redd.it/BUKL7SyL2DYOVPB6vlQRWtKFrK23NdzVEo3notRCZhY.jpg?width=640&crop=smart&auto=webp&s=511ff511e5586003779052a8021f89e3cdc1f76a",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.81,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "You've managed to find your way through the hive. Unfortunately you were followed!⁠ ⁠ Do you fight your way back, or accept your fate in the lava pit?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yn0aoe/youve_managed_to_find_your_way_through_the_hive/"
+}

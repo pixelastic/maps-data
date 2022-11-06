@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ys2t2ji",
+    "name": "03-3"
+  },
+  "date": {
+    "day": 1667606400,
+    "full": 1667682362,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_yn657l",
+  "picture": {
+    "filesize": 100965,
+    "fullUrl": "https://preview.redd.it/cue0a6ra67y91.jpg?auto=webp&s=f8686520c9c7e438f3c89c7a290f7954d2689c0e",
+    "hash": "6d400f68a2",
+    "height": 761,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDBBEhAAUSBmEHIjEzQVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgERMSL/2gAMAwEAAhEDEQA/AMJWko6alilp+Pm4iSb3CqXywUiwPbsPvR27Oi8WQLLGZHEcjoAXQWsbD0+dJdAzULdRJJuk0EVOsT5qHIQNi18/uNXxLfbm3aBtpnpJYjHa9ObhQMAHvpXzhKFp9P/Z",
+    "url": "https://preview.redd.it/cue0a6ra67y91.jpg?width=640&crop=smart&auto=webp&s=f673d1f29c6b63bf77cd1e5c9e19a9e0c35a18ec",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Submerged Shrine",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yn657l/submerged_shrine/"
+}

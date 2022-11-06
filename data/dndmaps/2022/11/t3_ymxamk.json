@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_2cpzj4en",
+    "name": "JaChuChu"
+  },
+  "date": {
+    "day": 1667606400,
+    "full": 1667662367,
+    "month": 1667260800,
+    "week": 1667088000
+  },
+  "id": "t3_ymxamk",
+  "picture": {
+    "filesize": 128524,
+    "fullUrl": "https://preview.redd.it/c4udf79ri5y91.jpg?auto=webp&s=f14b08c2aaefeb171a809b9e76ce176934728e14",
+    "hash": "3bcee0b415",
+    "height": 831,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQQAEyEFBhIxQWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN47lzc7G23xJgkDIy8nxJb9H16090qSZ+nY7TGXcKAtuEeV181qSCGLIjRJiGU3cZQkHk6UxYmWBAKqhQI5HHrQf//Z",
+    "url": "https://preview.redd.it/c4udf79ri5y91.jpg?width=640&crop=smart&auto=webp&s=85868cc373e306d56fdf01fae27c749548652f49",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.82,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Print smaller grid paper -> draw bigger dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ymxamk/print_smaller_grid_paper_draw_bigger_dungeon/"
+}
