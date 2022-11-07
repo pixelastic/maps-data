@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ekuth",
+    "name": "holding_gold"
+  },
+  "date": {
+    "day": 1667692800,
+    "full": 1667745320,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ynriaq",
+  "picture": {
+    "filesize": 198197,
+    "fullUrl": "https://preview.redd.it/n1vbbofidcy91.jpg?auto=webp&s=be457fc126dbc547e42f6defae2d7ade9477e098",
+    "hash": "9c87c4bd9c",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAiEAACAQQCAQUAAAAAAAAAAAABAgMABBEhEhNBBRUxUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAIDAQAAAAAAAAAAAAAAAAESAAIDMf/aAAwDAQACEQMRAD8AlbxWHtomDIj8V11ktjWxrG6G9TsEkvpXiJRCRhePxqm4Y7RbXlJOsgeJU61YDOsg/QOfP5Q15cNDcvHAsbRrjiW2cY8nNQNFUER+TCx7P//Z",
+    "url": "https://preview.redd.it/n1vbbofidcy91.jpg?width=640&crop=smart&auto=webp&s=280d95bbd16d1bac17bccc4309a0033bcd374365",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 282,
+    "value": 282
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "The Outer Plane of the Gray Wastes of Hades",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ynriaq/the_outer_plane_of_the_gray_wastes_of_hades/"
+}
