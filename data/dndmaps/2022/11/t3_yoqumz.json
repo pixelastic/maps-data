@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1667779200,
+    "full": 1667835990,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yoqumz",
+  "picture": {
+    "filesize": 127033,
+    "fullUrl": "https://preview.redd.it/rqwds9h2vjy91.jpg?width=2000&format=pjpg&auto=webp&s=83f0f5cbd9d60582ba4b74dd898af0940edc03ba",
+    "hash": "cbd520196f",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDABESIQQxQVGhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAMAwEAAhEDEQA/AMzLmNwuTFzYBQL/AJrd9/aByqxuEBz6JJ668H3qqeWmJyliMRLiRcAVx9AH7unGRZZEWKIgYswyYXNiSTfxUxj/2Q==",
+    "url": "https://preview.redd.it/rqwds9h2vjy91.jpg?width=640&crop=smart&auto=webp&s=9f3e4877b3d4743106e0e8bf579be105c40110e5",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hunter’s Retreat",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yoqumz/hunters_retreat/"
+}

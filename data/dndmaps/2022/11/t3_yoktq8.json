@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mrdgq",
+    "name": "didido_two"
+  },
+  "date": {
+    "day": 1667779200,
+    "full": 1667822729,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yoktq8",
+  "picture": {
+    "filesize": 131320,
+    "fullUrl": "https://preview.redd.it/c9kxvh4hriy91.jpg?auto=webp&s=7207317ffd6342dca772c5a639a6f1909b36ecd5",
+    "hash": "bf361f4f6a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACEQAAIBBAICAwAAAAAAAAAAAAECAwARITESQQQiI3Gh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARJR/9oADAMBAAIRAxEAPwDKY5WjVbcSe8A/tMg8tWBBUhFB+OwAzrO6naMqPe6qTa+z1fH1Q85XmkabiSxwQAot1gaqYrGP/9k=",
+    "url": "https://preview.redd.it/c9kxvh4hriy91.jpg?width=640&crop=smart&auto=webp&s=c4a7b32b44377573500ff1708580779803207902",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp with Forgotten Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yoktq8/swamp_with_forgotten_camp/"
+}
