@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_c0a4rmn5",
+    "name": "oixxo"
+  },
+  "date": {
+    "day": 1667865600,
+    "full": 1667899474,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ypgror",
+  "picture": {
+    "filesize": 59598,
+    "fullUrl": "https://preview.redd.it/0w4wc6pv3py91.jpg?auto=webp&s=9abadd4ddf33cca39b2d27072c50591a64bc90ea",
+    "hash": "d47183ca8a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACMQAAICAQMDBQAAAAAAAAAAAAEDAgQRAAUSISJBEzFRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAARAhIhYsH/2gAMAwEAAhEDEQA/AMcobSltVTnepyOOyI6y+P3VLEzqJsvySV9qlnJMDnzodosF22rE3BcgQc56xA+9N3O2ysjiqvYZJ2ZFhHuPJ02WiFRptw//2Q==",
+    "url": "https://preview.redd.it/0w4wc6pv3py91.jpg?width=640&crop=smart&auto=webp&s=7904410961065417fca7dd45febc2d6c757201df",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Campsite (25x25)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ypgror/campsite_25x25/"
+}

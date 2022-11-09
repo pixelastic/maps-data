@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1667865600,
+    "full": 1667916400,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ypn8wl",
+  "picture": {
+    "filesize": 95016,
+    "fullUrl": "https://external-preview.redd.it/LaeJ43FxPGcEBhyR8AYc6djZYoK7hUyKRcDS1b6jhE0.jpg?auto=webp&s=b795f6f6dfd3ddfc0aadf0c8dbe3798da2d52755",
+    "hash": "afd9c594d3",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAjEAABAwQCAgMBAAAAAAAAAAADAQIEERIhMQAFBhNRYXHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAwDAQACEQMRAD8AnmEJ5ZMY3cMe06ub69kSq5aud0XGOA6bqunlFCNJ5SKN1PUzBHqiYo7dN6+vniAdPEmrJKZrr1LeitWlq3Zp+/3lTy3x6BCgxzBaT2vG46vV63XIxKUXdM65NDv/2Q==",
+    "url": "https://external-preview.redd.it/LaeJ43FxPGcEBhyR8AYc6djZYoK7hUyKRcDS1b6jhE0.jpg?width=640&crop=smart&auto=webp&s=c5dbbb42975a854d02a90c468501cbbb27d8ba0d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "City Street Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ypn8wl/city_street_ruins_22x17/"
+}
