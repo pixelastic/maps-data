@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mrdgq",
+    "name": "didido_two"
+  },
+  "date": {
+    "day": 1667952000,
+    "full": 1667986084,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yqdnxm",
+  "picture": {
+    "filesize": 132458,
+    "fullUrl": "https://preview.redd.it/0ntud6hc9wy91.jpg?auto=webp&s=71a70944e124772e5084905d98d708d87da7dcf1",
+    "hash": "5071ff05e0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACQQAAIBAwMDBQAAAAAAAAAAAAEDAgQFEQASIRMxUQYyQWHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDETFB/9oADAMBAAIRAxEAPwDMU13SWqaoMiQoQkTkggH4/dFc7jUUlSkoKyww98wJkgHsMdhzpxdsXZ0rTdntzVs6K4widsc8nJ++NVaj0pTVC1mT3rlEbZDOcgePGpZliabOJYYdHF//2Q==",
+    "url": "https://preview.redd.it/0ntud6hc9wy91.jpg?width=640&crop=smart&auto=webp&s=33ab26c7328fe202418c0350b0f19ae54b6e668c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Scrapwall Entrance",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yqdnxm/scrapwall_entrance/"
+}

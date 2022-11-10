@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1667952000,
+    "full": 1668014467,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yqp9aw",
+  "picture": {
+    "filesize": 142180,
+    "fullUrl": "https://external-preview.redd.it/AZqVvjjiFEqKmNbUTwg4ORkcHnp7yDcGDpmrAb3dUeU.jpg?auto=webp&s=d2ec191aee15c8bdfa5a41bf59a7293c81c7060f",
+    "hash": "ef5e7e1f60",
+    "height": 1120,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAKBAAAQMCAwcFAAAAAAAAAAAAAQIDBAAFETFBEhMUFiFRkSJSVGGU/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMSETFh/9oADAMBAAIRAxEAPwDDc7KplyfsFpTUUJDqgnAuBWRH1pnr0qnKA+RI/GaTXS18bb5cqE6XGHlshyO20fSAAnwM+w7HCke/i+4eRQVzhOunZUG2+r//2Q==",
+    "url": "https://external-preview.redd.it/AZqVvjjiFEqKmNbUTwg4ORkcHnp7yDcGDpmrAb3dUeU.jpg?width=640&crop=smart&auto=webp&s=0366e97cc1183387ef94fc75d66a1150f0ff188c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.89,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Safe to say this archaeological dig team have found a LOT more than they expected during this expedition.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yqp9aw/safe_to_say_this_archaeological_dig_team_have/"
+}
