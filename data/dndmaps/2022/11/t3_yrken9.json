@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1668038400,
+    "full": 1668098238,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yrken9",
+  "picture": {
+    "filesize": 88598,
+    "fullUrl": "https://preview.redd.it/adbxhq6hi5z91.jpg?auto=webp&s=2ee837b0ae3bc3a09d3a1a429274258fecb6bd00",
+    "hash": "096d7dee12",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIxAAAQQBBAIDAQAAAAAAAAAAAgEDBBEFABITITFxB0Fhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQEBAQEBAAAAAAAAAAAAAAACAQADEf/aAAwDAQACEQMRAD8AYuT2o0iaAByOOukSmLgoipd9Iq+UTrVPj9yRjsVMZR2OxHKa64wzycnEC0u206TvctfusnOZqUM1gcPGBiFEFwwIareNbk/l+PvScJeNlgL0lqKj5Cm/eKIt17796QfNEy3GFm3yb//Z",
+    "url": "https://preview.redd.it/adbxhq6hi5z91.jpg?width=640&crop=smart&auto=webp&s=e5596fabe5ec2ff1120465ba7cdce19ee143e3ec",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Frozen Fortress",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yrken9/frozen_fortress_24x33/"
+}

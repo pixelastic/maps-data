@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1668038400,
+    "full": 1668100873,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yrlopt",
+  "picture": {
+    "filesize": 72255,
+    "fullUrl": "https://external-preview.redd.it/X6umv4Yx7ht-tlqiyA8-wo3xhDZBYru8jdxBEHFh-yg.jpg?auto=webp&s=24613ad1a019428aafd3c2f78cc82cf839417e2e",
+    "hash": "832759aa4d",
+    "height": 996,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgIABgIDAQAAAAAAAAAAAQIDBAAFBhESEyJBITFR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oADAMBAAIRAxEAPwAbozLneSxHPNKE6yzjgfE/3xiqSjMXYxBesklfP16w/wBN55parpW/asTRG5YU8QFPY2y7KEH7vjLbmdyPcnZYJSpkYg8T9b4cTY//2Q==",
+    "url": "https://external-preview.redd.it/X6umv4Yx7ht-tlqiyA8-wo3xhDZBYru8jdxBEHFh-yg.jpg?width=640&crop=smart&auto=webp&s=423a6b51dc1477bb1286f9913d5572ba5c9c3d59",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The steam vent here is utilised by the geothermal station to provide power to the entire region!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yrlopt/the_steam_vent_here_is_utilised_by_the_geothermal/"
+}
