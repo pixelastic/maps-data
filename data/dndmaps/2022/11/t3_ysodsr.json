@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d15mb6e8",
+    "name": "Roll4Music"
+  },
+  "date": {
+    "day": 1668124800,
+    "full": 1668203756,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ysodsr",
+  "picture": {
+    "filesize": 132600,
+    "fullUrl": "https://preview.redd.it/7vtlv4x98ez91.jpg?auto=webp&s=779758ca772953832b0957c5173b1de73de8e9d2",
+    "hash": "aa5672ee41",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDBBESAAUhMSJBE5HB/8QAFAEBAAAAAAAAAAAAAAAAAAAABv/EAB0RAAIBBAMAAAAAAAAAAAAAAAECAAMSEyExUZH/2gAMAwEAAhEDEQA/ABcqSRzRmkyWSRgIyxGYcdknr2edWVK1e2JA08tqk5olKrEyKrW5PJA9kDs31pQ00W0bfTV8C/NUVML5GfyCjqwHFuh9aO7onkzlmMhjD5k83xB/dD6b5XtHA9jVtAt3P//Z",
+    "url": "https://preview.redd.it/7vtlv4x98ez91.jpg?width=640&crop=smart&auto=webp&s=6c7e2095bbcb1a8b578be428e127e84f9f5e37eb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Cinderleaf Grove Battlemap (30x23)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ysodsr/cinderleaf_grove_battlemap_30x23/"
+}

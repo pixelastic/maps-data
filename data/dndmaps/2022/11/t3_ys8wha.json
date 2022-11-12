@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_cb8f4c5u",
+    "name": "BirdieMaps"
+  },
+  "date": {
+    "day": 1668124800,
+    "full": 1668169357,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ys8wha",
+  "picture": {
+    "filesize": 31880,
+    "fullUrl": "https://preview.redd.it/lt0wxx5fdbz91.jpg?width=1000&format=pjpg&auto=webp&s=455d519b9f96cc0536e02a9a5b4a68263f530eb9",
+    "hash": "97363de880",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAAUAmJaQC7AEPAWg6SsligAD+/zrWx9+Afs2RVJJWNL6cdBcXXAcWoNxnFXct5zdV6m7maGokLNJ/XHtzuRL22JXD15+Jt0sS1UmHVI8srNS5Ig9eKCgd3qbAlQAAAA==",
+    "url": "https://preview.redd.it/lt0wxx5fdbz91.jpg?width=640&crop=smart&auto=webp&s=1c71ec6e14ed351ee0e937976414777706edbf3b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "HUGE Underdark Dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ys8wha/free_huge_underdark_dungeon90x90/"
+}

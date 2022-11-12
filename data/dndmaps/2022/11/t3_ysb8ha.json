@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_8d9em",
+    "name": "Touchname"
+  },
+  "date": {
+    "day": 1668124800,
+    "full": 1668175042,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ysb8ha",
+  "picture": {
+    "filesize": 82967,
+    "fullUrl": "https://preview.redd.it/bdb04c0bvbz91.jpg?width=7200&format=pjpg&auto=webp&s=28a52d21f27b3b159cb883fd5d4a3323124c945e",
+    "hash": "d42bbc6016",
+    "height": 533,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJhAAAgECBQIHAAAAAAAAAAAAAQIDBBEABRIhIhNBBiMxMmGB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACETH/2gAMAwEAAhEDEQA/AM+ziSrRg1EA9xz1HlcbfSjtiH4ljBp6Lqs0cxs0iluO29iPm/71wBq6pSWUdeXy1fS2rewa1sKzumcIlXJNreVCW429gG23Y3xXJewNX//Z",
+    "url": "https://preview.redd.it/bdb04c0bvbz91.jpg?width=640&crop=smart&auto=webp&s=e5a29d434f81e7879868c84d30f190d2b7a21455",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "\"The Maw\", a quarry with a dark secret at the bottom  Another couple of maps I made for my homebrew campaign",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ysb8ha/the_maw_a_quarry_with_a_dark_secret_at_the_bottom/"
+}

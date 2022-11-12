@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1668124800,
+    "full": 1668198524,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_ysm3bt",
+  "picture": {
+    "filesize": 81700,
+    "fullUrl": "https://preview.redd.it/0yu0zs73tdz91.jpg?width=2048&format=pjpg&auto=webp&s=ef171470765b4d026c80dae1897b675dc916b5ef",
+    "hash": "fb70e28d7e",
+    "height": 384,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAIxAAAgEDBAIDAQAAAAAAAAAAAQIDBAUSABEhUQYUEzFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAgMAEgQFof/aAAwDAQACEQMRAD8ARejRQ08Fu9uIXTEySVCrl7C7g44997HvV6i6eOGvtM01HM8jYoW+VhHvyCMeOgCT+f3WbJNKZZQZHIVjsCx4507x6R2qp0Z2K9E8fWpq9WoF17HnnMIrT//Z",
+    "url": "https://preview.redd.it/0yu0zs73tdz91.jpg?width=640&crop=smart&auto=webp&s=2c654e9f48fea01ca5fdccc0bb396e2db7409017",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Sunset Tide  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ysm3bt/sunset_tide_50x30_oneiromancy_maps/"
+}
