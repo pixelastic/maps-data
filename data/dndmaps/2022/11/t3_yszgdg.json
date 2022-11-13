@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_amveexcg",
+    "name": "KlausFomalhaut"
+  },
+  "date": {
+    "day": 1668211200,
+    "full": 1668237307,
+    "month": 1667260800,
+    "week": 1667692800
+  },
+  "id": "t3_yszgdg",
+  "picture": {
+    "filesize": 144142,
+    "fullUrl": "https://preview.redd.it/mkq0huttzgz91.jpg?auto=webp&s=ab5c542e48798b68e4012d3873228deef7d60f04",
+    "hash": "4b8f6269c3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBBEABhIhMQUiQRMVJFFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAwDAQACEQMRAD8An9ykoYJ4lqPjQpocxEgat7W4vycN07MFV1KrllqKmoneQp66yNpuB2hiQCTZdrD7xpddy1oaalgoHWkL3Lq+qzclubj8wWX8oWNQ88zpC/aJG7C4tfbytifO+2E7Awv/2Q==",
+    "url": "https://preview.redd.it/mkq0huttzgz91.jpg?width=640&crop=smart&auto=webp&s=f3f21bddb83735beb0f219a996abe6bc22321dda",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Temple of Okulla",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yszgdg/the_temple_of_okulla/"
+}
