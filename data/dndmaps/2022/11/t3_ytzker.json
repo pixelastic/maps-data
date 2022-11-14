@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pj0vzr6",
+    "name": "ImpreciseChaos"
+  },
+  "date": {
+    "day": 1668297600,
+    "full": 1668340554,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_ytzker",
+  "picture": {
+    "filesize": 352167,
+    "fullUrl": "https://preview.redd.it/slrceiz4jpz91.png?auto=webp&s=8b09795f45a70f0b811ebdc0840210831a6879be",
+    "hash": "f06c8cef4f",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABdklEQVQYlQXBiZKaMAAAUP6gtkN1OAJJgHAoKkdIopzhWDlWd3vNtP//IX1PuV41dgcFN/vJ5S1ijd1LXBd4WNy7hJSBbQumV8A7J8vMY6orZQUdok4z6SZ8FYCWcPsRzBWpSnirrfNFe7RELl6/kIswux4rOQNppGfMQBc14SY6quOIX0PIE5veAM3NvnO9dB9XejoAXlpK16GS22GsgfCb5uycaP82eVvjj8KVIy5b+HwGtLRQvr9PcF19pS7xuHiVdBxfTQujHd3HB/mzRXXl5g085WbXkHUNeGv//RfPI1FoCh6zxyUWd7SMhNZg3Jzf78fXGj5++nJwg0Sbn34tXdGgS6QpRWaxmyVqFBdmfNWldN5/+R9TOHf+6zNY3jx8/o5i9czAMBJWAKWg1onrOTUP3m4Pv2hwl1CjFU6VoErYTY/YzY6o1naYC6vqkdIMuKpRmhk6+upHB4xVLzqcjgZLrEIAysDprJclHAYvzvQ8B/8BAEFTE3ReVv4AAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/slrceiz4jpz91.png?width=640&crop=smart&auto=webp&s=7d86057d686fb223690912514dd76befad62880e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Road Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ytzker/swamp_road_battlemap/"
+}

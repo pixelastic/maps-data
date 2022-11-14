@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1668297600,
+    "full": 1668364155,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yu9szy",
+  "picture": {
+    "filesize": 138619,
+    "fullUrl": "https://preview.redd.it/io55jxaohrz91.jpg?auto=webp&s=faa24b83f06685590256b5238aef22bd859e7a98",
+    "hash": "d885de031d",
+    "height": 777,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQMCBBEABSFBEhMiMkNh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMxQf/aAAwDAQACEQMRAD8AzugqjTtSg1VeDo5x6p90eB2eNH7xOm50CmsfAD6p8k951Ut2q1R3Nlg0zaS/LCfkY/mDopOyWWMbIUxXhI+UYGYGAetEjb0W08P/2Q==",
+    "url": "https://preview.redd.it/io55jxaohrz91.jpg?width=640&crop=smart&auto=webp&s=046fae8a7bec4ada7dd861a9ba5cba487df67b20",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Deadeye Saloon - Interior Scene and Battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yu9szy/deadeye_saloon_interior_scene_and_battlemap/"
+}

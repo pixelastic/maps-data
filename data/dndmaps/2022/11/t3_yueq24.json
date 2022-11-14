@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_q7helexi",
+    "name": "Etrimont"
+  },
+  "date": {
+    "day": 1668297600,
+    "full": 1668374537,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yueq24",
+  "picture": {
+    "filesize": 82054,
+    "fullUrl": "https://preview.redd.it/glg7rwczbsz91.jpg?width=4096&format=pjpg&auto=webp&s=92d9710eb87b6ddaac26f88e64e34622dac1d3d9",
+    "hash": "3831daa36a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQMF/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQFERIGEyEiMTJB8f/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQESITH/2gAMAwEAAhEDEQA/AMHB38kFwttHZ23zC8GQF2Pj2NHUGRaV5Ipba0VRIytH2wJF+t8gNflRw2RmIhdljZ0HpYrsjxTnchJJEzyRxM/EjkV2aKcW4JrD/9k=",
+    "url": "https://preview.redd.it/glg7rwczbsz91.jpg?width=640&crop=smart&auto=webp&s=69484fca5db85aa782ef7625c10a2d021e4b38c1",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Elfsong Tavern - Baldur's Gate: Descent into Avernus",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yueq24/elfsong_tavern_baldurs_gate_descent_into_avernus/"
+}
