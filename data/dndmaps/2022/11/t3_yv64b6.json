@@ -4,28 +4,28 @@
     "name": "the_mad_cartographer"
   },
   "date": {
-    "day": 1668297600,
-    "full": 1668364641,
+    "day": 1668384000,
+    "full": 1668446504,
     "month": 1667260800,
     "week": 1668297600
   },
-  "id": "t3_yua0h3",
+  "id": "t3_yv64b6",
   "picture": {
     "filesize": 185495,
-    "fullUrl": "https://preview.redd.it/52sf9dn3jrz91.jpg?auto=webp&s=deace4ff8f667495d8b241d203c357823d29f3f4",
+    "fullUrl": "https://preview.redd.it/ol2h5pggayz91.jpg?auto=webp&s=d9064e7fc5ec8a6f96729f1851662fd3726da08b",
     "hash": "c317a2d0b6",
     "height": 992,
     "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIRABAAIBAwQDAAAAAAAAAAAAAQIDBAARMQUSEyEjQXH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMREv/aAAwDAQACEQMRAD8AA4tORk4l1GN81dFZZZ44nbUcM/zdNFpt3c7sV35B96sSlHE8dUmuUhWcJsVi8js+z1xrRXg9XlXFqoypVoMWNMkT6TUiqtxbwUuWlp//2Q==",
-    "url": "https://preview.redd.it/52sf9dn3jrz91.jpg?width=640&crop=smart&auto=webp&s=1f44da5025459879b6b33e6bead7a3ecfe4c3122",
+    "url": "https://preview.redd.it/ol2h5pggayz91.jpg?width=640&crop=smart&auto=webp&s=8f59c13cf0de69cadbd773d1334d672ab04f6796",
     "width": 640
   },
   "score": {
     "comments": 1,
     "downs": 0,
     "isCurated": false,
-    "ratio": 1,
-    "ups": 2,
-    "value": 2
+    "ratio": 0.67,
+    "ups": 1,
+    "value": 1
   },
   "subreddit": {
     "id": "t5_3isai",
@@ -33,5 +33,5 @@
   },
   "tags": ["Encounter"],
   "title": "We are giving away two free Rememberance Sunday themed maps that are part of the Wild Woods theme for November: \"Trench Warfare\" and \"Memorial Field\"",
-  "url": "https://www.reddit.com/r/dndmaps/comments/yua0h3/we_are_giving_away_two_free_rememberance_sunday/"
+  "url": "https://www.reddit.com/r/dndmaps/comments/yv64b6/we_are_giving_away_two_free_rememberance_sunday/"
 }

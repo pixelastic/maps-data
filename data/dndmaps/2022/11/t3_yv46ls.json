@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_awgo5nlc",
+    "name": "Rudocini"
+  },
+  "date": {
+    "day": 1668384000,
+    "full": 1668442714,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yv46ls",
+  "picture": {
+    "filesize": 87018,
+    "fullUrl": "https://preview.redd.it/84pmvlg7zxz91.jpg?width=1000&format=pjpg&auto=webp&s=ac15b3c09ef1b2036931ab6d289c2a98973c9b50",
+    "hash": "b5c97a7e76",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAF/8QAHxAAAgIBBQEBAAAAAAAAAAAAAQIDESEAEiIxURNh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAfEQAABAcBAAAAAAAAAAAAAAAAERIxARMUIiNBgcH/2gAMAwEAAhEDEQA/AMKnJblIR4D+nRY1IpJkF2CCcDrT+gVpDJGbaip5Dbk5x35qfbM0KooVhZLWx3G+89eaGZiSnT8Fd9U8SP0f/9k=",
+    "url": "https://preview.redd.it/84pmvlg7zxz91.jpg?width=640&crop=smart&auto=webp&s=695243a8f10f0c0726f12db792e32af5a9ae1a1d",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.6,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Garden of Temptation",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yv46ls/the_garden_of_temptation/"
+}

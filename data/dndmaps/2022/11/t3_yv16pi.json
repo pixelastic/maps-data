@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1pa83dmr",
+    "name": "AfternoonMaps"
+  },
+  "date": {
+    "day": 1668384000,
+    "full": 1668436499,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yv16pi",
+  "picture": {
+    "filesize": 164601,
+    "fullUrl": "https://preview.redd.it/6welmgbogxz91.jpg?auto=webp&s=9efd90d4283cacbf34dd29cfea6aeff997ac05e0",
+    "hash": "6e98f04d92",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIhAAAwABBAICAwAAAAAAAAAAAQIDIQAEERITMRRBgaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAID/9oADAMBAAIRAxEAPwDC7lDPxookwYhRTtlD2HA+vX6zq+0IbtqUVaLVy3UuOEBGcn1ok7+MdjJDNvMlDQP3Ld84xwAT7HI/mkFes43b5FKSAJEnckAkZ/PGOdFoRp2ROd//2Q==",
+    "url": "https://preview.redd.it/6welmgbogxz91.jpg?width=640&crop=smart&auto=webp&s=c5f650777cb8c4045061b969c1d31b9f89c24884",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Landslide (Ambush Point) - Battle Map (30x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yv16pi/the_landslide_ambush_point_battle_map_30x30/"
+}

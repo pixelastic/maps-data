@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4vt4iwi5",
+    "name": "AnonAccountIhave"
+  },
+  "date": {
+    "day": 1668384000,
+    "full": 1668460924,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yvd1rz",
+  "picture": {
+    "filesize": 43396,
+    "fullUrl": "https://external-preview.redd.it/Pm8nUzse1VeuYWE6FzX0y5I2OWJ262-VKyYu4NxkeZ8.jpg?auto=webp&s=02dcedba668ee43ed1487c45f4115a6acf2f9bc9",
+    "hash": "dc64a3d403",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBv/EACIQAAICAQEJAAAAAAAAAAAAAAECABExAxITITJCUWFzgv/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AzSozKWOnSgZSq4dx5gyNu1fZAXFg5kRyfLR9J9YhpKP/2Q==",
+    "url": "https://external-preview.redd.it/Pm8nUzse1VeuYWE6FzX0y5I2OWJ262-VKyYu4NxkeZ8.jpg?width=640&crop=smart&auto=webp&s=52dc0ac2dc235c6f428b1320f0c63b6deba7a4e5",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "2-level multi-phase Desert dungeon",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yvd1rz/oc_2level_multiphase_desert_dungeon/"
+}
