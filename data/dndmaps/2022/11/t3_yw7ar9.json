@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6lzkwhb1",
+    "name": "ArtifexWorlds"
+  },
+  "date": {
+    "day": 1668470400,
+    "full": 1668541054,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yw7ar9",
+  "picture": {
+    "filesize": 123143,
+    "fullUrl": "https://preview.redd.it/s8k390o7l70a1.jpg?auto=webp&s=e0ab13d5d60c09da256611516d08dacd50497570",
+    "hash": "965bc586e8",
+    "height": 841,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAjEAABBAEDBQEBAAAAAAAAAAABAgMEESEABRIGEyIxkRRh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ALL98ZKojIk4pSJCeyt21k+ANEDlQOaPs6faGuoJ0FDkBx6PxAQ8lx3iVOUCVUf4U/NNK2WSlEyPuLswNhxlLbcdm0uspAIJIGDk3ketV3RsFxjb5KYaOEYyFFvuWSfFNkE5Iu/mg//Z",
+    "url": "https://preview.redd.it/s8k390o7l70a1.jpg?width=640&crop=smart&auto=webp&s=9d93ca06e85ef48711efb3b99eb349847e058e9d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Forgotten Sewer System",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yw7ar9/oc_forgotten_sewer_system/"
+}

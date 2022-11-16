@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_y9gsp",
+    "name": "RedBoxSet"
+  },
+  "date": {
+    "day": 1668470400,
+    "full": 1668475077,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yvip6g",
+  "picture": {
+    "filesize": 80754,
+    "fullUrl": "https://preview.redd.it/vfq5utrgn00a1.jpg?auto=webp&s=0f0a98e6b89e441e97966c5677123b4866265620",
+    "hash": "1b61a390c1",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQFBhEAEhMhInEHMkFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAREkH/2gAMAwEAAhEDEQA/AHF83G9TFCPTi6JEdYLqePKVAgbRuPk/eklpzXKjSed0pKuQpBHTI6aJ33Qo9RFRfQ9KZl9mNpHGVAZHxn8zpN6dwnYFrRmpB5Hj3LJA92BnGPGpL3FTNdn/2Q==",
+    "url": "https://preview.redd.it/vfq5utrgn00a1.jpg?width=640&crop=smart&auto=webp&s=396d0e7c06facb8aa651f3d51b742f08dfdcac39",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.74,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": [],
+  "title": "Watercolor dnd maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yvip6g/watercolor_dnd_maps/"
+}
