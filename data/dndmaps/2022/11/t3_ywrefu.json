@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1668556800,
+    "full": 1668599716,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_ywrefu",
+  "picture": {
+    "filesize": 104140,
+    "fullUrl": "https://preview.redd.it/5e04alarxa0a1.jpg?auto=webp&s=a868e0d914a6fdbc75f2a650dc233e297b4d3d3c",
+    "hash": "a96cbb6a4b",
+    "height": 768,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAiEAACAwACAgEFAAAAAAAAAAABAgMEEQATEjEFIUFRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABShESH/2gAMAwEAAhEDEQA/AItZqcEaw2Xi7WOKkg32R7P2O5xrHxkZbImeI+26nwH+E8W3WeZe2NqQWPOt5WUkMp0jQcP0PGntS0atKOnNWqeUIZuyYeTH8nQc/W8XcHrEbJNE9Cq2T//Z",
+    "url": "https://preview.redd.it/5e04alarxa0a1.jpg?width=640&crop=smart&auto=webp&s=84bbcd7289ac1b2614acc442b0cb924601557743",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 737,
+    "value": 737
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Scaligero Castle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ywrefu/scaligero_castle_50x60/"
+}
