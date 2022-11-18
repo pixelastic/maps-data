@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1668643200,
+    "full": 1668653199,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yxebrm",
+  "picture": {
+    "filesize": 59196,
+    "fullUrl": "https://preview.redd.it/goc3v5i2df0a1.jpg?auto=webp&s=e828588a92cf0fca04739c6ee54a97c9aff1d549",
+    "hash": "2439f66680",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDEQAEEiETUQUxYoGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8Av/NgqsVqQRysKFwmPid/lHtFFtd5aLPMXG9zLbmj9ZU+UpLkFI0mJ7n3Wc3l28LdDYVCWytsd45TBooK+DTeXZ//2Q==",
+    "url": "https://preview.redd.it/goc3v5i2df0a1.jpg?width=640&crop=smart&auto=webp&s=c901bce4f315515beaf79d2ce338a254f42f4000",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 629,
+    "value": 629
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Tolenska Pass - Mountain Bridge (Epic Isometric community map of the week)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yxebrm/ocart_tolenska_pass_mountain_bridge_epic/"
+}
