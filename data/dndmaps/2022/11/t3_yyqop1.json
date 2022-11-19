@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1668729600,
+    "full": 1668795308,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yyqop1",
+  "picture": {
+    "filesize": 179898,
+    "fullUrl": "https://preview.redd.it/y2hbasrz2r0a1.jpg?auto=webp&s=df7d07febea5cc4dc1beb5fa381692eb9593bd18",
+    "hash": "39cb01fec2",
+    "height": 880,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACUQAAIBAwMDBQEAAAAAAAAAAAECAwQRIQAFEhMxYRQiMkJRof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8Ax0m6VUMxjjqpuk9iwayrCc4BOdEc8EUa+prGqpXHMssSvxv9bn80zZ3h6AkqjRsk7N7mvyPYA585xqN13BTxNPFCq/ETKAzDvft5/mjlwqqP/9k=",
+    "url": "https://preview.redd.it/y2hbasrz2r0a1.jpg?width=640&crop=smart&auto=webp&s=0c71b5f4722bc17bd97e6fa25b5b53ac682a8288",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Roofs slippery when wet",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yyqop1/roofs_slippery_when_wet_32x44/"
+}

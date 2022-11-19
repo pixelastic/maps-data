@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1668729600,
+    "full": 1668792131,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yypg98",
+  "picture": {
+    "filesize": 161212,
+    "fullUrl": "https://external-preview.redd.it/SkodJBdY5aDkqYTzsRwLJNx48hY6AjN_e1eRVX4k2l8.jpg?auto=webp&s=34b78d90db61240d30c746c5ec17416fd27b4ef7",
+    "hash": "cf660059cb",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQRIQAFMQYiEhMVNVFhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/AMrathSqheQO0UKkKjNYAkjg3/dPXpOqI9vhkzYuJBk6h23dqeKhmMsrHwIsgh80WZhYDBybfH1o+q1jdzStds9sb2seOBqBGYS//9k=",
+    "url": "https://external-preview.redd.it/SkodJBdY5aDkqYTzsRwLJNx48hY6AjN_e1eRVX4k2l8.jpg?width=640&crop=smart&auto=webp&s=71b2d4a72c4ad47182d5ac31362741f2f0f9ea6c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.88,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "It seems somebody has been using this celestial gate for some demonic ritual. You should probably turn back now.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yypg98/it_seems_somebody_has_been_using_this_celestial/"
+}
