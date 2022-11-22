@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_hwxc5z8",
+    "name": "enrimbeauty"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668967565,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z0atd7",
+  "picture": {
+    "filesize": 125828,
+    "fullUrl": "https://preview.redd.it/ukl14hgvb51a1.jpg?auto=webp&s=be2fbfd79de96bf416fcee06915b20fea09de920",
+    "hash": "cfa310167b",
+    "height": 1006,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEBREAEiFRBjETQUL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAgP/2gAMAwEAAhEDEQA/AJPYLdStZ3mdBMWp9wTO14mJAD4/YJ4x1770CngYzyFYiBuOAB651Q7PfaaXxAW/4oEkhzMzmAM8rcKF35BXGTj650NmSuaZ2jgqXQsSrLE2COxxofJu6ovaUUP/2Q==",
+    "url": "https://preview.redd.it/ukl14hgvb51a1.jpg?width=640&crop=smart&auto=webp&s=db6c258027cf97f1579ab53b3eb3b6def336c404",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 555,
+    "value": 555
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Dead Dragon Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z0atd7/dead_dragon_lair_35x55/"
+}

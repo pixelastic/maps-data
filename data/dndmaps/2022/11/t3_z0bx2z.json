@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5rg2hm",
+    "name": "Sliph-M"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668970216,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z0bx2z",
+  "picture": {
+    "filesize": 52538,
+    "fullUrl": "https://preview.redd.it/ar6vna4qj51a1.jpg?auto=webp&s=8348203dcc0f3b996046ac5556ae5df469ca97a7",
+    "hash": "97b8f70834",
+    "height": 727,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwME/8QAJBAAAgECBgEFAAAAAAAAAAAAAQIDBAUABhETIWESIjEyQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABgRAAMBAQAAAAAAAAAAAAAAAAACEhEx/9oADAMBAAIRAxEAPwAso6WmZIXZwoI48gfbTjEa6lG4NlSrEfED6wk2XJtRZ40musQLuOYT6mTs4zZgyVdJRHU2+n34pSSI04ZOtPzvAlukdLp//9k=",
+    "url": "https://preview.redd.it/ar6vna4qj51a1.jpg?width=640&crop=smart&auto=webp&s=48721467b02d34dd7e94fd2fb92abc672b903ba1",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z0bx2z/forest_ruins_22x25/"
+}

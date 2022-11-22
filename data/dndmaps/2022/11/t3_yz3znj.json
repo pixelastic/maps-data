@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5vbftx73",
+    "name": "FantasticalSpectacle"
+  },
+  "date": {
+    "day": 1668816000,
+    "full": 1668833965,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yz3znj",
+  "picture": {
+    "filesize": 78447,
+    "fullUrl": "https://preview.redd.it/80vxcmh5au0a1.jpg?auto=webp&s=407523ea0bde1d8aa5252809f7d94937654625c8",
+    "hash": "2c34ab35cf",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAI/8QAHxAAAgICAwEBAQAAAAAAAAAAAgMBBBESAAUhURNB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAERMh8CP/2gAMAwEAAhEDEQA/AM79fQTXqKaYw2w3UoE17DrMZ8n7y7CgFis5gJhTExJToGB1j3BY8zx668qxVWsihdleowRHiNYjHkfeHYXwrVnKFn6NbkZ1PI6z/Sj7wLZbzj2Z/9k=",
+    "url": "https://preview.redd.it/80vxcmh5au0a1.jpg?width=640&crop=smart&auto=webp&s=f592ddcdf4d1f7a8e4841423e3d8451750e3148e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Infernal Ritual Chamber (60x60)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yz3znj/infernal_ritual_chamber_60x60/"
+}

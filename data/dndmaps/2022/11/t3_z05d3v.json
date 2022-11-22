@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_awgo5nlc",
+    "name": "Rudocini"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668954220,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z05d3v",
+  "picture": {
+    "filesize": 77425,
+    "fullUrl": "https://preview.redd.it/leabkqqz741a1.jpg?width=3000&format=pjpg&auto=webp&s=892f52cb8e91c0338aefc803c9cb3c70f7f4a04b",
+    "hash": "1e695e5e96",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBv/EACIQAAICAgEDBQAAAAAAAAAAAAECAwQAEQUhUdESMkGBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAgEFAAAAAAAAAAAAAAAAABEBEiJBYYH/2gAMAwEAAhEDEQA/AMNY5eSKxZWbRAcqugF6AH5+spV5RJrUcQBUk6LeoHt5xLXEPPasvMgUM5ZOgOwQf0jClw4itRuqk6O/aB28HDxToq3rL6f/2Q==",
+    "url": "https://preview.redd.it/leabkqqz741a1.jpg?width=640&crop=smart&auto=webp&s=e8da12e79e08395562bac75a0a1cbb62edab5f01",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "The Study in Crimson, The Sorrowful Bath and The Garden of Temptation",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z05d3v/the_study_in_crimson_the_sorrowful_bath_and_the/"
+}

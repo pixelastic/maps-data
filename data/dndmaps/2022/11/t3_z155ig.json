@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1668988800,
+    "full": 1669052954,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z155ig",
+  "picture": {
+    "filesize": 84863,
+    "fullUrl": "https://preview.redd.it/h3qu7jlqbc1a1.jpg?auto=webp&s=196e5fd223873bb82697ba528f504398f119b736",
+    "hash": "37198f463b",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABP/EACQQAAICAQMCBwAAAAAAAAAAAAECAxEEAAUiEkEUISMxMmFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8ABtmPA2PIc7L8KFCqCIgbBJ+Vm+2jZU6rGixSrbLwTrDFCOJs/p8tBj9V4RLyEpZnvuR7aXs8ETTqpRem2Nfd6nTKEqSnM6f/2Q==",
+    "url": "https://preview.redd.it/h3qu7jlqbc1a1.jpg?width=640&crop=smart&auto=webp&s=b206492e1572d932f26be2decf2ba82886b512b3",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 124,
+    "value": 124
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Rich man's house",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z155ig/rich_mans_house_32x22/"
+}

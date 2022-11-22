@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668969731,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z0bq1i",
+  "picture": {
+    "filesize": 174330,
+    "fullUrl": "https://preview.redd.it/zuu87x4di51a1.jpg?auto=webp&s=1d77bac2ce456762ca033d273b10f3f28fcdbdb8",
+    "hash": "517b63e513",
+    "height": 989,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDB//EACIQAAICAgEDBQAAAAAAAAAAAAECESEAA0EEEhMjMaHB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAS/9oADAMBAAIRAxEAPwDKtqsux/TNhjYm+CDxH3jTQWRS3kDESQGask4aB1G0q5hHnWRAqhH7nB+0ux8W4X7Qa+MizKKF/9k=",
+    "url": "https://preview.redd.it/zuu87x4di51a1.jpg?width=640&crop=smart&auto=webp&s=81c8b6ddabce0dc3f5ad0654fcc1bc6864aa2cde",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Green Dragon Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z0bq1i/green_dragon_lair_44x68/"
+}

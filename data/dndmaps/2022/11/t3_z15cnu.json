@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6a0wrgtx",
+    "name": "BonusActionRainbow"
+  },
+  "date": {
+    "day": 1668988800,
+    "full": 1669053436,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z15cnu",
+  "picture": {
+    "filesize": 89261,
+    "fullUrl": "https://preview.redd.it/szklxed5fc1a1.jpg?width=2400&format=pjpg&auto=webp&s=937e0d65ad213ad27d2b40b97961b69fe4ca0ebc",
+    "hash": "85da0887d3",
+    "height": 373,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAQIFBAMAAAAAAAAAAAAAAQIDAAQFERIGNXKBQbLC/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMSEUH/2gAMAwEAAhEDEQA/AMDUOnlS1SqLi6zTsQtxwNoW5e5JIAOFifEGJCbcL7SHGw4lZwxIsCOuoYPbbNcl+xiag7tLcPhUEVvtT2LupSzKn2f/2Q==",
+    "url": "https://preview.redd.it/szklxed5fc1a1.jpg?width=640&crop=smart&auto=webp&s=ee1d74503cb086322f5ab54f3a441ed3e6c3d412",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Broker's Store.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z15cnu/the_brokers_store_battlemapfree_maps_and_variants/"
+}

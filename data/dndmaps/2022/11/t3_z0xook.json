@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1668988800,
+    "full": 1669033384,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z0xook",
+  "picture": {
+    "filesize": 155771,
+    "fullUrl": "https://preview.redd.it/q29lmfckra1a1.jpg?auto=webp&s=73a1822651927fce96f379981c3373e69f4ef53c",
+    "hash": "555bd49ea4",
+    "height": 768,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMG/8QAIxAAAgIBBAICAwAAAAAAAAAAAQIDBBEABRIhEzEUQQYikf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhMf/aAAwDAQACEQMRAD8ApR2SzPuFerIPm1ch3YwKs0z8eTRZPeB1k5A/udNNweWMGiGhiJLeGqhCx94AOB7696bT24azrFanWQN5Vsk+TkGChg/H9hgKMEDPf1rKVdxsfj9i1FZt2ayTyGRPjKHRvpiCQT7Gpx6KrD//2Q==",
+    "url": "https://preview.redd.it/q29lmfckra1a1.jpg?width=640&crop=smart&auto=webp&s=1f1d2cff99d771e34721ec417128cb5886f499ea",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A path through snowy hills",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z0xook/a_path_through_snowy_hills_25x30/"
+}

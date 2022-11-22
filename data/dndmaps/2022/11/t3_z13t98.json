@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7x2b1cx8",
+    "name": "arol131"
+  },
+  "date": {
+    "day": 1668988800,
+    "full": 1669049665,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z13t98",
+  "picture": {
+    "filesize": 77128,
+    "fullUrl": "https://preview.redd.it/p4pl4lnkld1a1.jpg?auto=webp&s=5b4dbf7e15b2d25e7c84415c3a19bbbcdf782981",
+    "hash": "b8975a78de",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIRAAAQMEAgMBAAAAAAAAAAAAAgEDEQAEIUESMRQiJFH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAEFAQEAAAAAAAAAAAAAAAEAAxESQQIh/9oADAMBAAIRAxEAPwDHt2ltTD6hbAoJHG3UGCid7prwHW7KfMcdbQuQ8iSc9rKdzU8A7ZNgbYQq5hIXG6BpoAP1SERCx+43U89l2+TCJqG66fV//9k=",
+    "url": "https://preview.redd.it/p4pl4lnkld1a1.jpg?width=640&crop=smart&auto=webp&s=be9ed95185d9bfc307027040f27191c832dd8fb9",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Map of one of two continents i for my Homebrew world.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z13t98/map_of_one_of_two_continents_i_for_my_homebrew/"
+}

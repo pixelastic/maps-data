@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pv372",
+    "name": "naugrim04"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668982581,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z0h2r8",
+  "picture": {
+    "filesize": 109986,
+    "fullUrl": "https://preview.redd.it/ft9euo81k61a1.jpg?auto=webp&s=e96307f6ae0bfcb02cfe270cb6c93c79e2cc0a64",
+    "hash": "573db855b4",
+    "height": 576,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEB//EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEEBVEAIWEGE0ESIzEysf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEBAAEFAQAAAAAAAAAAAAAAAQADERMhMkH/2gAMAwEAAhEDEQA/AM1s9kVUNMurbBbJhEiAVcnxkxjT3qxpYpg4z2fr6j2zIGAcGPHI0bF1LUWurYSqXW2SPbO6SPmIP7qOvql3Nx0NlSUBO6SYzA241PCtlu8wwvpqf//Z",
+    "url": "https://preview.redd.it/ft9euo81k61a1.jpg?width=640&crop=smart&auto=webp&s=4f417df31552f58bcc36d1f308db1f53fd97b7ab",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Acid Jungle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z0h2r8/acid_jungle_50x45/"
+}

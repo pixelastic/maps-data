@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d15mb6e8",
+    "name": "Roll4Music"
+  },
+  "date": {
+    "day": 1668816000,
+    "full": 1668831522,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yz3bb2",
+  "picture": {
+    "filesize": 94254,
+    "fullUrl": "https://preview.redd.it/34l0j9s02u0a1.jpg?auto=webp&s=d81f667b73ee56673e3a3f5a4128233422c58ffb",
+    "hash": "b718ea086b",
+    "height": 407,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwP/xAAlEAACAQMDAgcAAAAAAAAAAAABAhEAAwQFIVEGEwcSFCJBUnH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EAB0RAAEDBQEAAAAAAAAAAAAAABEAAQMEBRQhQUL/2gAMAwEAAhEDEQA/AI+GWiafq161k5ORdbIRmBsIpIMMYYwfaJiSOKUdUxi1/F7zKbothmNsypPyQfrRB0GxHV95AT5fURE7R3BtSeCQmIAdgiqBwOPyoLQcsniKsPHHr0y//9k=",
+    "url": "https://preview.redd.it/34l0j9s02u0a1.jpg?width=640&crop=smart&auto=webp&s=af563a1d6bd43d02ed19f2bc8935e5d102b93196",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Violet Shore Battlemap (32x20)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yz3bb2/the_violet_shore_battlemap_32x20/"
+}

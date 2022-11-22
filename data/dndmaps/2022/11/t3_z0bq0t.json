@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5du03an2",
+    "name": "the_mad_cartographer"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668969730,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z0bq0t",
+  "picture": {
+    "filesize": 56158,
+    "fullUrl": "https://preview.redd.it/7pqdra5di51a1.jpg?auto=webp&s=de52f6a1e1d6404b017b31602bbb246b479435c4",
+    "hash": "dc82480b48",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACEQAAICAQQCAwAAAAAAAAAAAAECAwQRABIxYQVBISIy/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAQEBAQAAAAAAAAAAAAAAAAERAAL/2gAMAwEAAhEDEQA/AMKC02rLHYkDTuQ3x9RgcZHrU50ZFmlR9p3MC5wVOOMd6HCcvMp/KKAvXOn/AA1KvbueIisRh455o0kGSNwLY9daX0sHD5Izf//Z",
+    "url": "https://preview.redd.it/7pqdra5di51a1.jpg?width=640&crop=smart&auto=webp&s=054f37c437284a7b159bc78476c7fc1c785393a8",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "You need to be careful crossing the root bridges at night in the Faewilds. Who knows what mysterious things await you",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z0bq0t/you_need_to_be_careful_crossing_the_root_bridges/"
+}

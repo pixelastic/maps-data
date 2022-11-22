@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pv372",
+    "name": "naugrim04"
+  },
+  "date": {
+    "day": 1668902400,
+    "full": 1668982050,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z0gupg",
+  "picture": {
+    "filesize": 71026,
+    "fullUrl": "https://preview.redd.it/ow0rvhyrh61a1.jpg?auto=webp&s=4fbc91f5f74b2341b09dd0c25e865f2c7734cdc9",
+    "hash": "99d252f4b5",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwj/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMABBEFBxIGEyExFEGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AJw02we6LyyFzHzKgB8Uq7B2UcHXyxdhZfkQvGokflxOM5A/PdFuj6gtq7xXSS9rkWDIPXmk3ZXV4V3Cs3RbiOIh1EzRZXJBGCfoeaXCCSZ5f//Z",
+    "url": "https://preview.redd.it/ow0rvhyrh61a1.jpg?width=640&crop=smart&auto=webp&s=a3314f581279f5d03f9ff44ec94358a43b2612ae",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dwarven Prison",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z0gupg/dwarven_prison_35x35/"
+}

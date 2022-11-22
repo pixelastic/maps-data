@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5asgpv4m",
+    "name": "Rhineglade"
+  },
+  "date": {
+    "day": 1668816000,
+    "full": 1668883620,
+    "month": 1667260800,
+    "week": 1668297600
+  },
+  "id": "t3_yzizci",
+  "picture": {
+    "filesize": 175434,
+    "fullUrl": "https://preview.redd.it/r7iwasq8ey0a1.jpg?auto=webp&s=6194ec8f8c197d4d30cc23824fcb3ae88f824a5d",
+    "hash": "9a01dff03a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDEQAEEhMxQWEUIbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EABoRAQABBQAAAAAAAAAAAAAAAAEAAgMSIUH/2gAMAwEAAhEDEQA/AM5LPsmeSGSHpgKbcMWFdhR7D9wXa3TO6n4McfBQlKpF15PvHd+S53fkVDOQCgBoebv3kDTyrXQYKp+ypYmjkveSBC2Vcn//2Q==",
+    "url": "https://preview.redd.it/r7iwasq8ey0a1.jpg?width=640&crop=smart&auto=webp&s=b25e1b94c3ce35eccad1ecff61157b45be3c3a0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 447,
+    "value": 447
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Baldur's Gate Overland Player's Map based on the original Bioware computer game of Baldur's Gate.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/yzizci/baldurs_gate_overland_players_map_based_on_the/"
+}
