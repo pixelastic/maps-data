@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7ytkldso",
+    "name": "Blubbedi"
+  },
+  "date": {
+    "day": 1669075200,
+    "full": 1669103644,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z1nug5",
+  "picture": {
+    "filesize": 55425,
+    "fullUrl": "https://preview.redd.it/tghrkdo8jg1a1.jpg?width=5040&format=pjpg&auto=webp&s=dd926cdc2eaa450c51a503943131e707a410f0c8",
+    "hash": "204d806c72",
+    "height": 356,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEB//EACYQAAECBAMJAAAAAAAAAAAAAAEAAgMEERIhMXIFBhMzUWGBscH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwDDpPhwnGI0GoFRXHHonnm2ytHXXZ9/KOyeSdR9FV7w5Q9PwKB6jgHzNP/Z",
+    "url": "https://preview.redd.it/tghrkdo8jg1a1.jpg?width=640&crop=smart&auto=webp&s=077ba9b635762c56eeabdadd36832476a0cffaf8",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "WBtW: Loomlurch",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z1nug5/wbtw_loomlurch/"
+}
