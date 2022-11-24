@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4ie2smfu",
+    "name": "EightfoldPaper"
+  },
+  "date": {
+    "day": 1669161600,
+    "full": 1669212544,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z2q2xa",
+  "picture": {
+    "filesize": 153021,
+    "fullUrl": "https://preview.redd.it/es6oo02zip1a1.jpg?auto=webp&s=b4342aeaf6536f5bf8b206f928c94973b171dc9b",
+    "hash": "72641cd0d3",
+    "height": 1067,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIRAAAwACAgICAwAAAAAAAAAAAQIDBAUAERIxBoEhQcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREBAAIDAAAAAAAAAAAAAAAAAQADAhEx/9oADAMBAAIRAxEAPwDFPlOkjLGTPh4LGlB4p7ZAw8lB+iOKR12olJJ5GJkNdFC0KsOiw9kffBNlukz5vh4ZomNShyTM9EIR30B1+gD1/OWlv5ykk6auFHQBWdgCWI9k/jh2rXGMLSPJ/9k=",
+    "url": "https://preview.redd.it/es6oo02zip1a1.jpg?width=640&crop=smart&auto=webp&s=93997891fa44399167e890d75c8d4757bc765d4e",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.94,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Infernal Prison",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z2q2xa/infernal_prison_part_05_15x25/"
+}

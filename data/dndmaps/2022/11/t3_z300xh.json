@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1669161600,
+    "full": 1669236292,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z300xh",
+  "picture": {
+    "filesize": 258149,
+    "fullUrl": "https://preview.redd.it/lfojwonzir1a1.jpg?auto=webp&s=65fda0483157a01e3143731fc99a3195a3b13eda",
+    "hash": "fb49cb1eef",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIhAAAQMEAAcAAAAAAAAAAAAAAgEDBAAFERMSFTFBUoHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAEAQsEC/9oADAMBAAIRAxEAPwDa3KQzJfjSXWm1ioRibhCKIrZJ870qRUszlqGHzeIobNiBwhjHhjp7pQwbbCJ3XJ//2Q==",
+    "url": "https://preview.redd.it/lfojwonzir1a1.jpg?width=640&crop=smart&auto=webp&s=cc4171542ccb652042cbca793fa7e910176cf7db",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Hey! Here's our latest Czepeku battlemap! The Hanging Gardens! We really hope you all like it!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z300xh/hey_heres_our_latest_czepeku_battlemap_the/"
+}
