@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1669248000,
+    "full": 1669333895,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z3yatx",
+  "picture": {
+    "filesize": 131323,
+    "fullUrl": "https://preview.redd.it/klyqdv64lz1a1.jpg?width=4000&format=pjpg&auto=webp&s=a948f8a57ce38046abb3d4dbcb18244f4061bab0",
+    "hash": "b4ec771db0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAG/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBBEhAAUSEzFBkRQVUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQASMkHw8f/aAAwDAQACEQMRAD8Ayu4dIbY0ktpa6aoCLMWt0hgg2/bC3vQdtZlWseRusYbwISvIcnJzfxgH3p1DFLUQ1MBIj+URHGXJuHABXByFFhqrV+t2mOilaKeobm8nFe7lsDx2v31KECm+8jnGzP/Z",
+    "url": "https://preview.redd.it/klyqdv64lz1a1.jpg?width=640&crop=smart&auto=webp&s=dc0a1c8055e67d56b5880e931ef106a1b3f56c94",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Grand Feast",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z3yatx/grand_feast/"
+}

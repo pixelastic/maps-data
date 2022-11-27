@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1669420800,
+    "full": 1669473092,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z58vny",
+  "picture": {
+    "filesize": 95097,
+    "fullUrl": "https://preview.redd.it/n5bl4hyh2b2a1.jpg?auto=webp&s=a8cfd7c5b4856e467b0a0820954ef383d1554939",
+    "hash": "ded089b61a",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMEBREAEgYTIUEUIiMxYYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAC/9oADAMBAAIRAxEAPwCRw3YaKHxMEMqMqNs5k64UY67mx940vEtvttVWtHTuoQ0pd5YxiPmAHaFB69u+qtURDa3McUPkxjMSnH6NLYyK+gzVRwuZYyX9NRuIYgew+NDL0t1gwOg3/9k=",
+    "url": "https://preview.redd.it/n5bl4hyh2b2a1.jpg?width=640&crop=smart&auto=webp&s=1960074fac02fdb7061c7665019c7178c5ad632c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "City tavern",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z58vny/city_tavern_32x22/"
+}

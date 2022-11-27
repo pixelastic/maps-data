@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1669420800,
+    "full": 1669478436,
+    "month": 1667260800,
+    "week": 1668902400
+  },
+  "id": "t3_z5auld",
+  "picture": {
+    "filesize": 97896,
+    "fullUrl": "https://preview.redd.it/g0eil6jzib2a1.jpg?auto=webp&s=14cc7a7bbf46fc2b7a250805c8ae556256a79527",
+    "hash": "e82ab06248",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAQIGAgMAAAAAAAAAAAABAgMFEQAEEiExYRNxBiRB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAbEQABBAMAAAAAAAAAAAAAAAAAAQIDEhEhQf/aAAwDAQACEQMRAD8ANZKioYsxDRstDLNIRpPkViTtfnhRcbC/7fButQGfJP8AUSBonaNiNtTDa4v2OeMM/j6ItAjkjjVNLalVeFJYg294n1+CF6bKniRQGJuosTsTb113iTG9LV6PrB//2Q==",
+    "url": "https://preview.redd.it/g0eil6jzib2a1.jpg?width=640&crop=smart&auto=webp&s=d847799493b170dfee4006e82563bd97e23eba1e",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Hilltop Watchtower Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z5auld/hilltop_watchtower_ruins_22x17/"
+}
