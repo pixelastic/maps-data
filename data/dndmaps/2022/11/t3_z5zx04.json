@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1669507200,
+    "full": 1669551676,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z5zx04",
+  "picture": {
+    "filesize": 92119,
+    "fullUrl": "https://preview.redd.it/483315likh2a1.jpg?width=2100&format=pjpg&auto=webp&s=ae49f43ebe58b4ac2a630b45d4d7a8fa9b098ee5",
+    "hash": "9fd10143d1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDBAURITEAEiIyQZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQMFAQAAAAAAAAAAAAAAAQASIQIRMVGh0f/aAAwDAQACEQMRAD8Ay7LywU44J3QzXVCyOD8lj2dqirwN65O/HFqZLJUaWUrgwWZFMUMsa6XQP0def7135Jl8dPYujK01lS2FCiJx6BtdFTyN67B578RwsWRSrbpyzA2plUrEsuvYlvY88bJ9SpI6/fEkV3Dd89RJdOF//9k=",
+    "url": "https://preview.redd.it/483315likh2a1.jpg?width=640&crop=smart&auto=webp&s=ef938d4b4742a93915d0cb366bf9ab5babbec40c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "An Advent wreath battlemap",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z5zx04/an_advent_wreath_battlemap_30x30/"
+}

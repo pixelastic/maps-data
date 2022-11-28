@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1669507200,
+    "full": 1669581865,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z6c1wf",
+  "picture": {
+    "filesize": 158526,
+    "fullUrl": "https://preview.redd.it/hjlw31uj2k2a1.jpg?auto=webp&s=1b287de8fa0084de036ee4f163501ee8d2cf8ed6",
+    "hash": "1d8817d445",
+    "height": 1105,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAnEAABAwMCBAcAAAAAAAAAAAABAgMEBREhABIGBxOSFRYxMlNU0f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxEhQf/aAAwDAQACEQMRAD8Al4tGZpXLyPRXo9PccmNWecLYKeqoEpWT7ipG4JBxaxwRkjHlqb8kfvP5pcplRnVDgWDOcBdnR4qnUSTsyGkqTc5vuTZA9CToa8Zqv3JPcdR0KzMt9HJo/9k=",
+    "url": "https://preview.redd.it/hjlw31uj2k2a1.jpg?width=640&crop=smart&auto=webp&s=50ea2f74ad9d47413db9d696d387c0b8dc443abc",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Oh no! The greenhouse is flooded! How can you help?",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z6c1wf/oh_no_the_greenhouse_is_flooded_how_can_you_help/"
+}
