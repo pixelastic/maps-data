@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_3r3mt9sj",
+    "name": "mapguffin"
+  },
+  "date": {
+    "day": 1669593600,
+    "full": 1669637559,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z6uyu5",
+  "picture": {
+    "filesize": 154870,
+    "fullUrl": "https://preview.redd.it/bppr9jl2oo2a1.jpg?auto=webp&s=58e3cf9d1058d58da1f78a1df641c39858323a28",
+    "hash": "288c988669",
+    "height": 1255,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDEQAEEiExExRxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEgMhQf/aAAwDAQACEQMRAD8AyDWLBLG7uJ383KyNV7Rxtvq+PuMpM2iVnPpvGJEsqzOAoPf4ReMWxrTZJWfD/9k=",
+    "url": "https://preview.redd.it/bppr9jl2oo2a1.jpg?width=640&crop=smart&auto=webp&s=04d1255a971b1afb9acf619495ce78e843ed09f6",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 250,
+    "value": 250
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp Shanty 48x36",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z6uyu5/swamp_shanty_48x36/"
+}

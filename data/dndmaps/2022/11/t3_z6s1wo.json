@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_if4bqz4m",
+    "name": "Pencilplugg"
+  },
+  "date": {
+    "day": 1669593600,
+    "full": 1669627582,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z6s1wo",
+  "picture": {
+    "filesize": 259851,
+    "fullUrl": "https://preview.redd.it/rb0oqyfeun2a1.jpg?width=1080&format=pjpg&auto=webp&s=fbbea99f8b2394507e267ae863d4c63be3127625",
+    "hash": "12d20d14b3",
+    "height": 1138,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJxAAAQMCBAUFAAAAAAAAAAAAAQIDBAARBRIhQRMVUVJTcYGU0fD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwDDxFCn46XYK2YkhefRg5iQQAUXtY3Nz6nShfIUeWT+9qazpTThjx4zQbZWtAZSFZFk7lRN0nax6b1Dw8a7lfIa+6izdJcHrD//2Q==",
+    "url": "https://preview.redd.it/rb0oqyfeun2a1.jpg?width=640&crop=smart&auto=webp&s=546a104c4e73c506b12ce3db9c884d7eb8ae2ecb",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Green Fields (Ritual Variant)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z6s1wo/green_fields_ritual_variant_25x45/"
+}

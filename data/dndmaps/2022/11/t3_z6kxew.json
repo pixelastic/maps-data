@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d1526z3j",
+    "name": "PBMaps"
+  },
+  "date": {
+    "day": 1669593600,
+    "full": 1669604452,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z6kxew",
+  "picture": {
+    "filesize": 96785,
+    "fullUrl": "https://preview.redd.it/isggrk58xl2a1.jpg?auto=webp&s=f4d7e8ddc874d56cd59cc0438f6b078818f547dc",
+    "hash": "4828f27bc4",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDB//EACIQAAICAgIABwAAAAAAAAAAAAECAwQAIRESBRMxMlFh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECIRESIv/aAAwDAQACEQMRAD8AxvujV+tWu7KCCzDXGt8nFs3msxqWmlBRFRF+hhSuiCHyzEdvyGIOj+9PjJeIWRLJEYognAPZlHuOR6YlaAcuaZ//2Q==",
+    "url": "https://preview.redd.it/isggrk58xl2a1.jpg?width=640&crop=smart&auto=webp&s=f16500f2046f03144b453ff14d67d79600d36125",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Swamp of Woe (30x30)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z6kxew/swamp_of_woe_30x30/"
+}
