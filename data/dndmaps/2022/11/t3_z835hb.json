@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_6b5fembi",
+    "name": "Khazrym"
+  },
+  "date": {
+    "day": 1669680000,
+    "full": 1669749381,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z835hb",
+  "picture": {
+    "filesize": 92497,
+    "fullUrl": "https://preview.redd.it/xvelr62nwx2a1.jpg?auto=webp&s=ed7020acc30a2a1e9c2b362001a67530f6fe1563",
+    "hash": "7e173e832a",
+    "height": 563,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIDAAQRIRIFFCJRMUFC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAwDAQACEQMRAD8Awrp1t3OYcheYz8ZwRQuoiDclDA+WR+frdWzke3uInQ6OgPWdU6pJeRtO5Bc72dAegKi47GC8J//Z",
+    "url": "https://preview.redd.it/xvelr62nwx2a1.jpg?width=640&crop=smart&auto=webp&s=937cb6db9f52568d6d475f69e80b8dc83376065c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.79,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Tower Ruin",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z835hb/oc_forest_tower_ruin_25x22/"
+}

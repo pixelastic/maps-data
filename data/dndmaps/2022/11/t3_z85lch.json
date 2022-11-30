@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1669680000,
+    "full": 1669754716,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z85lch",
+  "picture": {
+    "filesize": 107353,
+    "fullUrl": "https://preview.redd.it/swpwpq3jcy2a1.jpg?auto=webp&s=ebc83d142f936aba3582193d4caeddb421efc8e5",
+    "hash": "daaa02a1ab",
+    "height": 1256,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACEQMEEiEFBhNBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAgMBAAAAAAAAAAAAAAAAAREAAgNB/9oADAMBAAIRAxEAPwDDK1i0dfZeYs8YeaeUbOpEfUUw5+o/hxZuxIB02J9IgS+S7PEUBd2y5//Z",
+    "url": "https://preview.redd.it/swpwpq3jcy2a1.jpg?width=640&crop=smart&auto=webp&s=53007e4a7c303886de36c085b2d90191208708ad",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Well you don't remember this graveyard of heroes looking quite so spooky in the daytime!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z85lch/well_you_dont_remember_this_graveyard_of_heroes/"
+}

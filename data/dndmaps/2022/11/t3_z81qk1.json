@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7c1vqrrc",
+    "name": "basic_kindness"
+  },
+  "date": {
+    "day": 1669680000,
+    "full": 1669746256,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z81qk1",
+  "picture": {
+    "filesize": 23467,
+    "fullUrl": "https://preview.redd.it/ijifxy4w4z2a1.jpg?auto=webp&s=57a5cb2e728e32df389a26101422d4235b6a623b",
+    "hash": "24f23e6aa1",
+    "height": 492,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIhAAAgECBQUAAAAAAAAAAAAAAQIDAAQFERIxQRMhIlFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAQUAAAAAAAAAAAAAAAAAAQIDEhQxQf/aAAwDAQACEQMRAD8AzYgBUEgAE5AmmlszHG8jRlodWhJVHgT8PNTRNIF0hiBvTviN29glk0xNsj9RUyHZvee/Jqy+r1gY0Vo//9k=",
+    "url": "https://preview.redd.it/ijifxy4w4z2a1.jpg?width=640&crop=smart&auto=webp&s=e6fd8384cead7631ac136998c22b90f4175dafdf",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Region"],
+  "title": "Unfinished map of the Shattered Archipelago",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z81qk1/unfinished_map_of_the_shattered_archipelago/"
+}

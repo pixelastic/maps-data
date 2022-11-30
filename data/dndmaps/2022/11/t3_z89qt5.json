@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_94aaaeuq",
+    "name": "FlorianHerlan"
+  },
+  "date": {
+    "day": 1669680000,
+    "full": 1669764170,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z89qt5",
+  "picture": {
+    "filesize": 84602,
+    "fullUrl": "https://preview.redd.it/dpmjbbql4z2a1.jpg?auto=webp&s=62e9b56e2bb0b8befa18d15cfa692b6739b9e534",
+    "hash": "181974df7d",
+    "height": 366,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACcQAAIBAgQEBwAAAAAAAAAAAAECBAMRAAUGMRITc7IhIzVBQlGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMhEf/aAAwDAQACEQMRAD8AD5XCyVYMd5uVCVWFMEMz8a1CR9KbqBfYn9vhG+dUtPacmCIp8pV5cY+AbiYEC/xttb2tbAXRG69Kr3NhRE9IpdRu3A1qAsFbRF0OdE//2Q==",
+    "url": "https://preview.redd.it/dpmjbbql4z2a1.jpg?width=640&crop=smart&auto=webp&s=0caa824816d5ed145cc355af40fe5c3a12d834bf",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Mornheim 2.0",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z89qt5/mornheim_20/"
+}

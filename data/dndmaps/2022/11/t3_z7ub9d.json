@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_mrdgq",
+    "name": "didido_two"
+  },
+  "date": {
+    "day": 1669680000,
+    "full": 1669729059,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z7ub9d",
+  "picture": {
+    "filesize": 108780,
+    "fullUrl": "https://preview.redd.it/eqcii2tz7w2a1.jpg?auto=webp&s=b5aad0a2c6bd81d49d65c5b2911853d912438bc4",
+    "hash": "b164c58e9b",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACEQAAMAAQMEAwAAAAAAAAAAAAECAxEAEiEEEzFhIlGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECEiL/2gAMAwEAAhEDEQA/AMpVmZarS1Qe6QV37fHjjzo06mXTyXtXqAvDrnJB44HrTOolKO+lI2LL8jufI4+j+6lNapZmmsgj4AGBkt7zqHHq1gJolT//2Q==",
+    "url": "https://preview.redd.it/eqcii2tz7w2a1.jpg?width=640&crop=smart&auto=webp&s=05cf53cc19db60030a5ab1d657a3a20ba81c904c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Chilly Forest Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z7ub9d/chilly_forest_camp/"
+}
