@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_21q3mbrg",
+    "name": "uchideshi34"
+  },
+  "date": {
+    "day": 1669766400,
+    "full": 1669825227,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z8vnkj",
+  "picture": {
+    "filesize": 128793,
+    "fullUrl": "https://preview.redd.it/4rd81t75643a1.jpg?width=5040&format=pjpg&auto=webp&s=ff6f29c541215902b789f143670961b6da86c348",
+    "hash": "84d4df03b0",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAhEAABAwQDAQEBAAAAAAAAAAACAQMEBQYRQQAHIVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEF/8QAGREAAwADAAAAAAAAAAAAAAAAAAEDESFB/9oADAMBAAIRAxEAPwAOtbKisUmHUJ0BHWXMKZqmt+75b2TalLkUN+bAijHZBVT3Y/mvd8gsO8IE2NAZmui0yygiokS4H1NZx94XZF101hiWLDxPg8qAIiWc/wB+ecjtWd+jrB//2Q==",
+    "url": "https://preview.redd.it/4rd81t75643a1.jpg?width=640&crop=smart&auto=webp&s=95fbbe3a21727ad7e0f0ea25a957dd82d6479b28",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Medusa Lair",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z8vnkj/medusa_lair/"
+}

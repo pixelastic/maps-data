@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1669766400,
+    "full": 1669841133,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z92oq6",
+  "picture": {
+    "filesize": 116254,
+    "fullUrl": "https://preview.redd.it/sn6pcmrhh53a1.jpg?auto=webp&s=8ae56e00c795c8088195febde8d613a7908e17aa",
+    "hash": "efc67932c4",
+    "height": 866,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEH/8QAIRAAAwABBQACAwAAAAAAAAAAAQIDEQAEEhMhQVFCYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHBEAAAYDAAAAAAAAAAAAAAAAAAECAxEhEhNB/9oADAMBAAIRAxEAPwDE6Xvud5F5ZqvWE6iM4wPx0juLWj1hoI9mTlUsASGJPn8x5qUodhF0lYszFeXFeJx9Y+vnSEDLYQnJo9rMC5Z1OfScD9eY80jrOYgAvOpxKq4P/9k=",
+    "url": "https://preview.redd.it/sn6pcmrhh53a1.jpg?width=640&crop=smart&auto=webp&s=446baffd96bdf2edea7c3175444153694260e5d3",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.78,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Once every 6 months, the creatures of the sea assemble to create this beautiful bioluminescence in the ocean!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z92oq6/once_every_6_months_the_creatures_of_the_sea/"
+}

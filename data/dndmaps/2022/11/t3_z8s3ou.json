@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_q7helexi",
+    "name": "Etrimont"
+  },
+  "date": {
+    "day": 1669766400,
+    "full": 1669816497,
+    "month": 1667260800,
+    "week": 1669507200
+  },
+  "id": "t3_z8s3ou",
+  "picture": {
+    "filesize": 79672,
+    "fullUrl": "https://preview.redd.it/08ljood3g33a1.jpg?auto=webp&s=62d2db5819693c3ccf9f6e0ceff9e329e1274ad1",
+    "hash": "723da08b74",
+    "height": 384,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAgEAABBAICAwEAAAAAAAAAAAABAgMRIQAEEjETI2Gx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIDERIh8P/aAAwDAQACEQMRAD8AL1zz2X+S1JCTBM0kT13gm6hhtCfEqy2aCpkk9fKnGGlEvbckn1g/mTosGbpWTUotl37uPbKaDiT/2Q==",
+    "url": "https://preview.redd.it/08ljood3g33a1.jpg?width=640&crop=smart&auto=webp&s=5b06e9b72e035604776949785293ff6a5f28151f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "The Low Lantern - Baldur's Gate: Descent into Avernus",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z8s3ou/the_low_lantern_baldurs_gate_descent_into_avernus/"
+}
