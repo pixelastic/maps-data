@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1669852800,
+    "full": 1669877788,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_z9h4jb",
+  "picture": {
+    "filesize": 76742,
+    "fullUrl": "https://preview.redd.it/t5990tlei83a1.jpg?auto=webp&s=d314d4ddce036e87b522c6d521cc3bf98c2941d0",
+    "hash": "d9e91d3500",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFCP/EAB4QAAICAgIDAAAAAAAAAAAAAAECAwQAERMxEhRB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AM5tYiuO8siK8xXRIQqoJGsL1atJFW2omdG2yqxAcEdD7k+nYcHjHiFKnoY2tM0nHAdBWUkkd5Xomsb/2Q==",
+    "url": "https://preview.redd.it/t5990tlei83a1.jpg?width=640&crop=smart&auto=webp&s=80dbaa691f32ff560bd149c5fd6d9e6de81baf36",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "I was going through old dungeon magazines and noticed this old blueprint style of map were quite popular, and after some testing I found the heroes and monsters really pop with it.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z9h4jb/oc_art_i_was_going_through_old_dungeon_magazines/"
+}

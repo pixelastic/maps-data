@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_4k1xcwym",
+    "name": "TacticalMap"
+  },
+  "date": {
+    "day": 1669852800,
+    "full": 1669900312,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_z9nj0a",
+  "picture": {
+    "filesize": 102631,
+    "fullUrl": "https://preview.redd.it/w4ua60r7da3a1.jpg?auto=webp&s=a60b02074d9bf6369e73ff8f29d59fab228426d7",
+    "hash": "b62509100b",
+    "height": 440,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQMEAQQDAAAAAAAAAAAAAQIDBAUREiEABgcTQTFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACEhETMf/aAAwDAQACEQMRAD8AQp9QkBgNKS2h5WSrY2OANrke9b9cD6jpkGqqLUhxlJS4rxyY9yMzbILSfz65lq9NkplOMJfWGitw431fMjlXbxtL0OqeS5Ic0QogjR+CNjhddh2MszVE48n/2Q==",
+    "url": "https://preview.redd.it/w4ua60r7da3a1.jpg?width=640&crop=smart&auto=webp&s=319cb1a8a705afcfafcd0fe3811f93f9d3fcfcdb",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "City Theater",
+  "url": "https://www.reddit.com/r/dndmaps/comments/z9nj0a/city_theater32x22/"
+}
