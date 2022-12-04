@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kq3j66am",
+    "name": "gogotsmap"
+  },
+  "date": {
+    "day": 1670025600,
+    "full": 1670096552,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zbontt",
+  "picture": {
+    "filesize": 96988,
+    "fullUrl": "https://preview.redd.it/7dnec56ukq3a1.jpg?width=2000&format=pjpg&auto=webp&s=20fb013f298b38e5d4a316c3dab862c7a9b479c9",
+    "hash": "b5f7f0a6c1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgECBQUBAAAAAAAAAAAAAQIDERIABBMhMRQiQVGRJP/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACESFB/9oADAMBAAIRAxEAPwDKacObyMkd/wCmNzcoF1td7aeQBvgWWycuhJJOGRbiglVO5fJ54rU4RNNJlCmk1Q0TMQwqDRqD575xN6mWXqIGKiNYdQBVC7kL6+4kqaxFeM//2Q==",
+    "url": "https://preview.redd.it/7dnec56ukq3a1.jpg?width=640&crop=smart&auto=webp&s=e5a7809be8fc7e922e61d0b42c9e3ed95255386f",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Clandestine Refinery",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zbontt/clandestine_refinery/"
+}

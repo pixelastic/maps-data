@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7hasb2iz",
+    "name": "PenaNegra"
+  },
+  "date": {
+    "day": 1670025600,
+    "full": 1670106976,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zbswda",
+  "picture": {
+    "filesize": 94341,
+    "fullUrl": "https://preview.redd.it/ubywts7per3a1.jpg?auto=webp&s=05804397831e26aab3be55fe25c2b8fd919e2210",
+    "hash": "d3c177af7d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAJRAAAQQABQMFAAAAAAAAAAAAAQIDBBEABQYSIRMUUSIkMkGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIDBBES/9oADAMBAAIRAxEAPwCNH0Pp1iM/7NS1qPS3KkKO0n7HivPODgacg5Jl7hjR25r6XLS86gBSiTQH74xoHwI2YxWWvg6hTpvnaoXVYPKXu6zcJkNtrCEdQCq9VjnjEp5ets31ZYlcqD2E/9k=",
+    "url": "https://preview.redd.it/ubywts7per3a1.jpg?width=640&crop=smart&auto=webp&s=84f29225bde0cf06444a084ffa00c7bcf4412778",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Southern city",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zbswda/southern_city/"
+}

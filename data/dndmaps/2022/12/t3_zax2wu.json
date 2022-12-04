@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1669939200,
+    "full": 1670013924,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zax2wu",
+  "picture": {
+    "filesize": 134304,
+    "fullUrl": "https://preview.redd.it/c7nsbeearj3a1.jpg?auto=webp&s=c26a90f29680400ff43d0137009ee4c1e1d48c58",
+    "hash": "13abcb004c",
+    "height": 1000,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAURABIhEzGRBgcVYeH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAAMAAAAAAAAAAAAAAAMEAAECEUFh/9oADAMBAAIRAxEAPwAKxXukg9OwzxNHST7UaHrKWWRlyHU47ZJyPw6jL7hVRlcpZ0K7jgiU8jxpK+Wam+AiajLP04WVUWMOEGMnaR2IPnnWcR2WmaNWa9BCQCV2nj676iXVUcvZOO/YmykFVZn/2Q==",
+    "url": "https://preview.redd.it/c7nsbeearj3a1.jpg?width=640&crop=smart&auto=webp&s=877fbee410c2e8a5ae4e1f567e9b06d73dbeeda0",
+    "width": 640
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.99,
+    "ups": 232,
+    "value": 232
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The leaves are turning brown, the sun is low in the sky. Autumn must be starting!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zax2wu/the_leaves_are_turning_brown_the_sun_is_low_in/"
+}

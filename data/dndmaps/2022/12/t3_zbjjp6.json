@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1670025600,
+    "full": 1670083251,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zbjjp6",
+  "picture": {
+    "filesize": 90245,
+    "fullUrl": "https://preview.redd.it/8ovgt7nfhp3a1.jpg?auto=webp&s=1c35c1e87cb9f7f609d234c67c3a0b4cfa728372",
+    "hash": "b95ad730e0",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAAICAQMDBQAAAAAAAAAAAAEDAgQRAAUSMWFxISJBQoH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AM3YWqe5ON21cWuDcRWJTOTy6ED4x486BvtaaXUJxtPlBlmEZYnM8fd9skgnvqonYKrW2WybZ5sbI5DSOPU4HbOlty2CslCGRdbJkQyYk4kTkPXJH4NRzrhJdv/Z",
+    "url": "https://preview.redd.it/8ovgt7nfhp3a1.jpg?width=640&crop=smart&auto=webp&s=893be196c99a5e2c0af62abfd6902fe6c372ce0b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.9,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Military Camp",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zbjjp6/military_camp_22x17/"
+}

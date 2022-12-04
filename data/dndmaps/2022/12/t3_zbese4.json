@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_7m3c9zkw",
+    "name": "AtaraxianBear"
+  },
+  "date": {
+    "day": 1670025600,
+    "full": 1670069139,
+    "month": 1669852800,
+    "week": 1669507200
+  },
+  "id": "t3_zbese4",
+  "picture": {
+    "filesize": 122463,
+    "fullUrl": "https://preview.redd.it/gk2vun1fbo3a1.jpg?auto=webp&s=a7a35366bcd4d8fbe8542c3a640c1efac825a619",
+    "hash": "7681708aa3",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIhAAAgMAAgIBBQAAAAAAAAAAAQIDBBEhMQATBRIiQmFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhIv/aAAwDAQACEQMRAD8Azr1apDFSdZmno2ZfT7HVfqhOjCzYN3GPPXHg4ErWncmtM8cDiGJ4o2Ck/iSVOE7vQ/vG+VnuwzxrQuFp4HIl9AjDLKzHslT9mc9njB41fmpEtvX9B+NrV0yAIu6MGJmZ+90HvyN1MCuNYf/Z",
+    "url": "https://preview.redd.it/gk2vun1fbo3a1.jpg?width=640&crop=smart&auto=webp&s=5aa0a0df842d4d012b84ff37c45a063881e06577",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "A road encounter map with elevation levels and cover for successful ambushes",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zbese4/a_road_encounter_map_with_elevation_levels_and/"
+}
