@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_y8c57",
+    "name": "zipherus"
+  },
+  "date": {
+    "day": 1670112000,
+    "full": 1670134638,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zc2dz0",
+  "picture": {
+    "filesize": 90451,
+    "fullUrl": "https://preview.redd.it/bvdu8ru3qt3a1.jpg?auto=webp&s=fe466e7d6098c4de59c34d11cf0d6cc28fee06ec",
+    "hash": "a9f482e023",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAgIABAUFAAAAAAAAAAAAAQIDBAAFESEGEjFBURMiMqHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwDU5pLFXR5xLHXKuWdEG0jco0U/WAeGLV6W3M1ycvA2q8jr8nO/t8dNcL5tFas1UOXuVd2JZRtza9yfzEcqrSQesLNRY3TYTudWkY9SPHfE93QlTB//2Q==",
+    "url": "https://preview.redd.it/bvdu8ru3qt3a1.jpg?width=640&crop=smart&auto=webp&s=f0d9050792b809bf2da5806aba92b345cba72642",
+    "width": 640
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["World"],
+  "title": "Continent map for my upcoming game!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zc2dz0/continent_map_for_my_upcoming_game/"
+}

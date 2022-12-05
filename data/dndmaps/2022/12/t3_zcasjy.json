@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_evhr06n7",
+    "name": "Maoul_3dwildobj"
+  },
+  "date": {
+    "day": 1670112000,
+    "full": 1670163408,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zcasjy",
+  "picture": {
+    "filesize": 249575,
+    "fullUrl": "https://preview.redd.it/mkngf8yq3w3a1.png?auto=webp&s=2b088b659180734e2ff07a08ccf4a9785be37e90",
+    "hash": "6df0b97d2c",
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlElEQVQYlWNggAFGRkYGBgZ2URleDVM2EWlGFlYGrIBTUpFLQYtTVk3QwpGZi52Zi1/A3FPIM5nf0p9bRYOVh5NbVpmFi5dbQYtDQh6kgU1InN/UTcg/V8DCk5VPgF1cQdQ7lV1GQ8DBQzIyhFdDSdjaW8AhXMgxglNaBeYYVjYOeS1Bl1gBc29GJkZWERkGRmZGFkZmHjZGBgYWFhYuVUNBSx9Rr2QeRW2YHgYGHlEJDhFJkHZObkYmZg5BMQ5hKQZGJqgKJlZmFQtGAUkGfi62gkiHBd25BxdWuJsoMnAJStv58OvaiNv5cqgaG2nKFkY7lsS5FMc6N6a5hThoMVhqy9zc2nZz7/Qnh6ekBVkyMDAIGtqKuceIOAYzMDAk+Fu9P7fgyo7+Wwdnf765duv0QgZLHbkXx2ac3jrl+/WVRRG2DNrqamklYl5xzJw8DAwMClJCJ1a23j06/8m2vrcHZvVXRjLIiQtOqIic35GxflKum4kyAze3bKg3v7EaJGoYGBistGSivU3CHXXjPEw0FcQAP0RUbnxQm78AAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/mkngf8yq3w3a1.png?width=640&crop=smart&auto=webp&s=cdcecafc561d9416b2bd360be91ec4f46c0699cc",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "3D Geomorphic Tiles - Advent Calendar",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zcasjy/3d_geomorphic_tiles_advent_calendar/"
+}
