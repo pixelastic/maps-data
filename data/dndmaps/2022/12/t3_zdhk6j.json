@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_paui7n6w",
+    "name": "KajusBerghof"
+  },
+  "date": {
+    "day": 1670198400,
+    "full": 1670270082,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zdhk6j",
+  "picture": {
+    "filesize": 74931,
+    "fullUrl": "https://preview.redd.it/bl5w6yetw44a1.jpg?auto=webp&s=9c08960274e77f67c948b243488a33932aefd4d5",
+    "hash": "911c0f0777",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFB//EACQQAAEDBAEEAwEAAAAAAAAAAAECAwQFERIhAAYTMUEiUXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDJYjTTkx+p9QwlyXqipBQrs5bI0nHZBP8AP3kWTFp8ShyoT9NebqaUKcCC0VLAKrpXmNYhOjv0eCd1fUVMwClEdFnMzZB+VvRufG/XEa71NUH6vIeybQS12LIToJ86uT98ILL2OtQwn//Z",
+    "url": "https://preview.redd.it/bl5w6yetw44a1.jpg?width=640&crop=smart&auto=webp&s=af072fac0412f4e92ea72458f1ca2654b9a0b49d",
+    "width": 640
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "The Lighthouse - A Battlemap!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zdhk6j/the_lighthouse_a_battlemap/"
+}

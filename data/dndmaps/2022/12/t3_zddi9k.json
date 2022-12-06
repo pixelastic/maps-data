@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1670198400,
+    "full": 1670261812,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zddi9k",
+  "picture": {
+    "filesize": 85146,
+    "fullUrl": "https://external-preview.redd.it/QkZ4zMaZk2gJ4U6HQ3RYkIbng0f4pA6YyyIKtBuu96c.jpg?auto=webp&s=cf97bc47b41f7d5a234a1ce509fb06cddf5a1832",
+    "hash": "f918aaaa32",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMFBhEABDESIRMVQYGRoeH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMhMVFh/9oADAMBAAIRAxEAPwCPsi2qVu6nJBiaWVUGY3UAgn80pe1nbeCdpFQRqEB6WHc49AB7aAs6tP55BvvHVVi5BU5PPzydUt2Vlt1TTHHIxlIYGRVPB74+xoTJYlhJbY77JlIZmyDP/9k=",
+    "url": "https://external-preview.redd.it/QkZ4zMaZk2gJ4U6HQ3RYkIbng0f4pA6YyyIKtBuu96c.jpg?width=640&crop=smart&auto=webp&s=39ddeba9d7989083583a9d371f7d272a408bd7e4",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "\"The Great Oaktree\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zddi9k/the_great_oaktree_oc_battlemap/"
+}

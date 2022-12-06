@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ze6lj",
+    "name": "OriAi"
+  },
+  "date": {
+    "day": 1670198400,
+    "full": 1670279127,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zdm3o7",
+  "picture": {
+    "filesize": 224629,
+    "fullUrl": "https://preview.redd.it/e9pv82wtn54a1.jpg?auto=webp&s=1a7331a67ed8e0ffa99cb029fd14afce82934c8f",
+    "hash": "7b5d500077",
+    "height": 1280,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQMFAQEAAAAAAAAAAAAAAwECEQAEBRIhQTH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxEhQf/aAAwDAQACEQMRAD8A0g1sJ+Sca3thjG/7u1FROR8XyO0qbOfJuxdvflGVw5jaNCq3Xqt8R3sLSkq0jkIFbG2MT//Z",
+    "url": "https://preview.redd.it/e9pv82wtn54a1.jpg?width=640&crop=smart&auto=webp&s=05c04cf078bcb70bd478574be6d3f9e6f3b7fd27",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Frozen Titania's Rest - Blizard",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zdm3o7/oc_frozen_titanias_rest_blizard_22x44_winter/"
+}
