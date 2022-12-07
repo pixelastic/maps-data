@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_l7qmi",
+    "name": "Terkontar"
+  },
+  "date": {
+    "day": 1670284800,
+    "full": 1670330644,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_ze5sdp",
+  "picture": {
+    "filesize": 92904,
+    "fullUrl": "https://preview.redd.it/71nk7h1qw94a1.jpg?auto=webp&s=455288a905532fdf61d0b566ba838a7587b89da3",
+    "hash": "1930a49f22",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAmEAACAgAEBAcAAAAAAAAAAAABAgMEAAURIRIxQVETFSJhcYHh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABgRAAIDAAAAAAAAAAAAAAAAAAECAAMR/9oADAMBAAIRAxEAPwA4xUKccFuzIZK8PhhfQW36t9++DLUVdma1VlkdJXE6RIQCp33I5gEjt1xGc5/ZyA0q9QVY3EYZ0kPGPg9/zAFjOK3mMtnMIhftMp4njlKKW12YEctBtpgJKCy6Yg1gByf/2Q==",
+    "url": "https://preview.redd.it/71nk7h1qw94a1.jpg?width=640&crop=smart&auto=webp&s=a850c77f3d4e802da8a92530d01e598929b9f338",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Witch's Hut",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ze5sdp/witchs_hut_30x30/"
+}

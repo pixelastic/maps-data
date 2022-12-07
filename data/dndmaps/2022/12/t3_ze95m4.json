@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_5398bqk3",
+    "name": "rustymaps"
+  },
+  "date": {
+    "day": 1670284800,
+    "full": 1670339417,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_ze95m4",
+  "picture": {
+    "filesize": 190627,
+    "fullUrl": "https://preview.redd.it/kw9bjox4na4a1.jpg?auto=webp&s=8da95e921a63337a3376ef19e11b3b0e83d15485",
+    "hash": "2b64bf9c37",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEG/8QAJBAAAgICAQIHAQAAAAAAAAAAAQIDEQQhAAUSExQxQVFhgaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAwADAAAAAAAAAAAAAAAAAAECESIx/9oADAMBAAIRAxEAPwDSKXdYooY4mkcKhKqO9noaGvzhpPNZOVLHBO2MkIUEoi27EWb17a/vLNLCMmMkV3BSkaqWZ6FGqs+uuDn6rL03Ic+EjZEwDyJeogBSp9kAbPyeHek5D21w/9k=",
+    "url": "https://preview.redd.it/kw9bjox4na4a1.jpg?width=640&crop=smart&auto=webp&s=bba3f090a7376ccd40cd3a68903b45879dbc307d",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["City"],
+  "title": "Bevline City - RPG City map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ze95m4/bevline_city_rpg_city_map/"
+}

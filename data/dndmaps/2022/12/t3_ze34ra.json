@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_kpk1mmyb",
+    "name": "Sylveril"
+  },
+  "date": {
+    "day": 1670284800,
+    "full": 1670323383,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_ze34ra",
+  "picture": {
+    "filesize": 134881,
+    "fullUrl": "https://preview.redd.it/ey3sqq8fb94a1.jpg?auto=webp&s=df9f2f1b8a21a9c5778c35c00e4fa62825947721",
+    "hash": "25bf5f6895",
+    "height": 720,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQhBRESMVFxExQiQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAQACAgMAAAAAAAAAAAAAAAEAAwISESKh/9oADAMBAAIRAxEAPwDNrSwnuNIM1zJwUMUVGz9D96Gi6nopilURsd2UOGIwwO+e9OeSX27RRuihm5FgPkOmAe2KrcXElxL6j8FIUIAoOwA8+akN2QdOB8jCs11n/9k=",
+    "url": "https://preview.redd.it/ey3sqq8fb94a1.jpg?width=640&crop=smart&auto=webp&s=3b4e3a97d4e962fda006174df3c49133e3f8cc4b",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Smithy and Metalworker",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ze34ra/smithy_and_metalworker_16x18/"
+}

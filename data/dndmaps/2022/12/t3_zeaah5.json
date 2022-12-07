@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_pjyidb65",
+    "name": "Bearworks"
+  },
+  "date": {
+    "day": 1670284800,
+    "full": 1670342337,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zeaah5",
+  "picture": {
+    "filesize": 79227,
+    "fullUrl": "https://preview.redd.it/2eojlj7pva4a1.jpg?width=4000&format=pjpg&auto=webp&s=6af9af1b14d5818c5bf0f724437794ebb7a2e99b",
+    "hash": "94e703bacb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAjEAABBAICAQUBAAAAAAAAAAABAgMEBREhABIxBhQiQUJh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8Ae9ZXDqo9YuHapgsPyFMuvSWAFs5bQQnGMlPnwT8vvA45XL92+qwiXCX69qImMUrKiSoHPdfbHQjW/wBA/wA4HDmmzoKmXNZYcXPLTL6euEkLV1JG8g4OiDrkGKePRutyGFOyFWcpcSUJJCwtspI1oEHGsjHk8ZMYR0v/2Q==",
+    "url": "https://preview.redd.it/2eojlj7pva4a1.jpg?width=640&crop=smart&auto=webp&s=9ad530f09fcecba11d66dd110767fe04310cee0d",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 146,
+    "value": 146
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Desolation Point + Winter Bundle",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zeaah5/desolation_point_winter_bundle/"
+}
