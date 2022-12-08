@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1670371200,
+    "full": 1670418463,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zf0q1y",
+  "picture": {
+    "filesize": 91609,
+    "fullUrl": "https://preview.redd.it/vqlrrip66h4a1.jpg?auto=webp&s=be70c8678c4c5047eb00994f7cb8ad884e3081a7",
+    "hash": "432f9cdc9e",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAICAQMEAwAAAAAAAAAAAAECAxEEABQhBRIxURMjQf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8Az21hkeacKu1iKogEfLtXJJrzd86HmxMsSxlMiJ1ZvjYR/WzeAGPvyL1ayYGZMkbjIChiFUSGkqiK9aQmx2HSBIMnIBkYd47hTc/vGo6qaWjZ/9k=",
+    "url": "https://preview.redd.it/vqlrrip66h4a1.jpg?width=640&crop=smart&auto=webp&s=972734a21c0d47293b896bf48feeb3b1637a4724",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.93,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Gothic Cathedral Ruins",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zf0q1y/gothic_cathedral_ruins_44x34/"
+}
