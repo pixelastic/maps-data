@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1670457600,
+    "full": 1670504600,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zfyb77",
+  "picture": {
+    "filesize": 137263,
+    "fullUrl": "https://preview.redd.it/dgrsi5mbao4a1.jpg?auto=webp&s=bf689b84ffed87a65ba3fa63af010023a7c54430",
+    "hash": "2476bb0728",
+    "height": 1164,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEC/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQMCAARBERKTBRUjU2P/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFxEAAwEAAAAAAAAAAAAAAAAAABEhAf/aAAwDAQACEQMRAD8AE2IelSpaCcwAQRmj7Z83cRrdh1BDFL3EFohtEjLORrV8vuPMaYmhzUP/2Q==",
+    "url": "https://preview.redd.it/dgrsi5mbao4a1.jpg?width=640&crop=smart&auto=webp&s=509ae46daf43c4347efba140478776a4cccd3242",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.92,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "This ancient moor looks beautiful in the snow, but please watch your step. There's a good chance that ice could break!",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zfyb77/this_ancient_moor_looks_beautiful_in_the_snow_but/"
+}

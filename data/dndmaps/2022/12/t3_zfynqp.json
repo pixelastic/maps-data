@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_zpqns",
+    "name": "MeditatingMunky"
+  },
+  "date": {
+    "day": 1670457600,
+    "full": 1670505441,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zfynqp",
+  "picture": {
+    "filesize": 102527,
+    "fullUrl": "https://preview.redd.it/9vb34mktco4a1.jpg?auto=webp&s=ec52d3c96bf9b88be0dfa9d4e6e51ac065877e4a",
+    "hash": "fefc0278cc",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEABSISITETFEFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AxrZNrp+yLWqU6saXpMWgB5ZJZh38jK/ei9zr26k0cdOGWCMRKGRgo5gYY/oOm61aEVbNQy05Zo60kzyLZxxZU7YJ8jB1BftorRJDFWaNVIVgmerk3cn51Bax2H//2Q==",
+    "url": "https://preview.redd.it/9vb34mktco4a1.jpg?width=640&crop=smart&auto=webp&s=b6207e5f5ded382b70da6c9ead066e3c0f4caf55",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Dragon Egg Temple",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zfynqp/dragon_egg_temple_30x40/"
+}
