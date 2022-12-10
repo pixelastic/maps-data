@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_bedwo",
+    "name": "alexdrummond"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670557914,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zgm0ts",
+  "picture": {
+    "filesize": 89628,
+    "fullUrl": "https://preview.redd.it/uzo4ak3ros4a1.jpg?auto=webp&s=92bb16d85355ba316977387e96c8af6d5c1cf8ce",
+    "hash": "48e37c650e",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAIBABAQABBAEFAAAAAAAAAAAAAQIRAAMTITEEMkGRof/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDa/eLQVM9dmMfmi3qm6mqtYlwM0A9/I/Wr6E5it3dWnOMPg02/JxK94Fw+NMX/2Q==",
+    "url": "https://preview.redd.it/uzo4ak3ros4a1.jpg?width=640&crop=smart&auto=webp&s=fc656286ca8d0f6fb53af128ef95eb6b4ded36fa",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.75,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Bleak Winter map",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zgm0ts/ocart_bleak_winter_map_isometric_68x53/"
+}

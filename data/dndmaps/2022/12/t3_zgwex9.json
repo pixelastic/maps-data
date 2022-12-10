@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_9zmet98v",
+    "name": "MysticMap"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670589921,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zgwex9",
+  "picture": {
+    "filesize": 33604,
+    "fullUrl": "https://external-preview.redd.it/XMEgtmnaFumw4ajTFncBC5XkWdSL-CDMxEHenALvZrg.jpg?auto=webp&s=7b2207f16a400483cb62f68aad8a3e05440c9345",
+    "hash": "eb94f758c8",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFCP/EACMQAAEDBAIBBQAAAAAAAAAAAAECAwQAERIhBRNxIiMxUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAABB/9oADAMBAAIRAxEAPwDNsHj2w60JCCvsbKxY6+fqp8/rMx4x8S1l6cRq1PweUHe2ZAQhLbakAi+/P5QESitLmMRAB17aTY+aKqP/2Q==",
+    "url": "https://external-preview.redd.it/XMEgtmnaFumw4ajTFncBC5XkWdSL-CDMxEHenALvZrg.jpg?width=640&crop=smart&auto=webp&s=862e9e25fd114bb4a61c2eca290a2fff5284e820",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "\"Prison Riot\"",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zgwex9/prison_riot_oc_battlemap/"
+}

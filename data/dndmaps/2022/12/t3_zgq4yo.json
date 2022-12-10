@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ys2t2ji",
+    "name": "03-3"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670570681,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zgq4yo",
+  "picture": {
+    "filesize": 106702,
+    "fullUrl": "https://preview.redd.it/2pcunzahqt4a1.jpg?width=5734&format=pjpg&auto=webp&s=96d91d5a3ae4c0947e3f82d19f8da623af3cad39",
+    "hash": "0ef3214c3f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIDABESIQQTIjFRgZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAcEQABAwUAAAAAAAAAAAAAAAACAAMREiFBwfD/2gAMAwEAAhEDEQA/AMWjZZJMlMjBd+GsT9b+aS4+K8ZwFYyG1wTpdfnqoyMuP3FmAJFiT7vSvWcQSoGtHlfG2iR4qYUSiLlQbz1l/9k=",
+    "url": "https://preview.redd.it/2pcunzahqt4a1.jpg?width=640&crop=smart&auto=webp&s=daa0654f02db345325f60f8ee577f010ba8de093",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "Forest Bend Encounter - w/ and w/o Grid",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zgq4yo/forest_bend_encounter_w_and_wo_grid/"
+}

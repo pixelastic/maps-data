@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_d7y0a6b0",
+    "name": "dreadmaps"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670619211,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zh8ewr",
+  "picture": {
+    "filesize": 91260,
+    "fullUrl": "https://preview.redd.it/d0x6slf3rx4a1.jpg?auto=webp&s=92b6d0d00c22e153e50b7a728d3375abf8d0209b",
+    "hash": "fd0447eee1",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQI/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQAhBBIFIjFBUdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQADAQAAAAAAAAAAAAAAAAEAERIx/9oADAMBAAIRAxEAPwDPsjkgkotjX584t4+OGZ542cSPJFSm6F0Dsk7oisHFPH65Otkeykj7ynjTDjMpZ2fqCKC1rWSRTsZkbqf/2Q==",
+    "url": "https://preview.redd.it/d0x6slf3rx4a1.jpg?width=640&crop=smart&auto=webp&s=66ac0290f23b940d7f089795fa338a13747de883",
+    "width": 640
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Hollow Pointe Terminal",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zh8ewr/hollow_pointe_terminal_65x65_70ppi_battlemap/"
+}

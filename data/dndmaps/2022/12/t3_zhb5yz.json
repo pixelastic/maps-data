@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_58vdg5p6",
+    "name": "Xaioc"
+  },
+  "date": {
+    "day": 1670544000,
+    "full": 1670625799,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zhb5yz",
+  "picture": {
+    "filesize": 75010,
+    "fullUrl": "https://preview.redd.it/ssb85jhnay4a1.jpg?width=2048&format=pjpg&auto=webp&s=3abce50bb89045514270d95877fea1c17ecc4da6",
+    "hash": "54edcbd3ca",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMECP/EACIQAQABBAEDBQAAAAAAAAAAAAECAAMEERIiMWETIUFRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AM62box36bAO3zt8lFfjd6prx5HSMQ9vFTYuTGEDSjFEkftOzc0R7O/qqo//2Q==",
+    "url": "https://preview.redd.it/ssb85jhnay4a1.jpg?width=640&crop=smart&auto=webp&s=a7b926a6aec3d6dde91ef1946fb56a8b6dac3d0c",
+    "width": 640
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Cave"],
+  "title": "Underdark Campsite  - Oneiromancy Maps",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zhb5yz/underdark_campsite_30x30_oneiromancy_maps/"
+}
