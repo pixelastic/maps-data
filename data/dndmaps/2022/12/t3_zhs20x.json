@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_1fumq1yk",
+    "name": "Czepeku"
+  },
+  "date": {
+    "day": 1670630400,
+    "full": 1670677400,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zhs20x",
+  "picture": {
+    "filesize": 180204,
+    "fullUrl": "https://preview.redd.it/rrzix795k25a1.jpg?auto=webp&s=8ced634b8f0485bd0533f665564c2e5fb41d8a44",
+    "hash": "7870172841",
+    "height": 1631,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAYDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQIDBBEABQYhIqH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGREAAgMBAAAAAAAAAAAAAAAAAQMAAhFB/9oADAMBAAIRAxEAPwCQ9kzuNrK1y4zSo0IUEqjHyegDd0bFnGYvE+Ttl2Q7s1IYbfab9AGitAKfoN94w8xVwcGxWi6xTk//2Q==",
+    "url": "https://preview.redd.it/rrzix795k25a1.jpg?width=640&crop=smart&auto=webp&s=2714319122cdb9d112e852c7a9a7b9e4bbf8b4b2",
+    "width": 640
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 0.98,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "And as you cross over the dunes, you see a monstrous looking lighthouse lighting up the sky on the horizon.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zhs20x/and_as_you_cross_over_the_dunes_you_see_a/"
+}

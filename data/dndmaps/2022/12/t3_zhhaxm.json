@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "t2_ys2t2ji",
+    "name": "03-3"
+  },
+  "date": {
+    "day": 1670630400,
+    "full": 1670641941,
+    "month": 1669852800,
+    "week": 1670112000
+  },
+  "id": "t3_zhhaxm",
+  "picture": {
+    "filesize": 101863,
+    "fullUrl": "https://preview.redd.it/w5l8svxhmz4a1.jpg?width=5836&format=pjpg&auto=webp&s=90fe5bb58094eefc7483247ff76ef43dd9895b9c",
+    "hash": "9267b758e1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgICAAQHAAAAAAAAAAAAAQIDEQAEEyEiMRJBQlFhcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAQACAgMAAAAAAAAAAAAAAAEAAhEhIjFh/9oADAMBAAIRAxEAPwDGtaZZ5BGqyPIxpFAN2fO/3GRxyRcTjkwOvS6F7blyAHsbyodpvCWdI5LJXrHa/V9/OBbZk19ZHUgszPZYd6vIVoHE37Bw4G3U/9k=",
+    "url": "https://preview.redd.it/w5l8svxhmz4a1.jpg?width=640&crop=smart&auto=webp&s=5336b3e2d734c33c3aa1d1722b85e9d28b152665",
+    "width": 640
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Encounter"],
+  "title": "River Confluence: an encounter where the waters join (w/ and w/o Grid)",
+  "url": "https://www.reddit.com/r/dndmaps/comments/zhhaxm/river_confluence_an_encounter_where_the_waters/"
+}
